@@ -2327,7 +2327,7 @@ void EmuFolders::LoadConfig(SettingsInterface& si)
 	Savestates = LoadPathFromSettings(si, DataRoot, "Savestates", "sstates");
 	MemoryCards = LoadPathFromSettings(si, DataRoot, "MemoryCards", "memcards");
 	Logs = LoadPathFromSettings(si, DataRoot, "Logs", "logs");
-	Cheats = LoadPathFromSettings(si, DataRoot, "Cheats", "cheats");
+		Cheats = Path::Combine(Resources, "cheats");
 	Patches = LoadPathFromSettings(si, DataRoot, "Patches", "patches");
 	Covers = LoadPathFromSettings(si, DataRoot, "Covers", "covers");
 	GameSettings = LoadPathFromSettings(si, DataRoot, "GameSettings", "gamesettings");

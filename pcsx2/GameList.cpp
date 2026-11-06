@@ -1458,6 +1458,19 @@ bool GameList::DownloadCovers(const std::vector<std::string>& url_templates, boo
 		downloader->WaitForAllRequests();
 		progress->IncrementProgressValue();
 	}
+	// Use the xlenore cover link when no URL is entered
+	std::vector<std::string> default_urls;
+	bool url_given = false;
+	for (const std::string& u : url_templates)
+	{
+		if (!u.empty())
+			url_given = true;
+	}
+	if (!url_given)
+	{
+		default_urls.push_back("https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg");
+		return DownloadCovers(default_urls, use_serial, progress, save_callback);
+	}
 
 	return true;
 }
