@@ -105,7 +105,7 @@ jobs:
   build_uwp_avx2:
     needs: lint_vs_proj_files
     name: "UWP AVX2"
-    pieceofadream1116-hub'
+    if: true
     uses: ./.github/workflows/windows_build_uwp.yml
     with:
       jobName: "UWP AVX2"
