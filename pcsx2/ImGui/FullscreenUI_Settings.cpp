@@ -5290,185 +5290,82 @@ void FullscreenUI::DrawControllerSettingsPage()
 			if (bi.name) [[likely]]
 				DrawInputBindingButton(bsi, bi.bind_type, section, bi.name, Host::TranslateToCString("Pad", bi.display_name), bi.icon_name, true);
 
+		// Turbo buttons: a simple on/off switch per button, built on top of the macro system.
+		// Turning turbo on moves the button's normal binding onto a macro slot that rapid-fires that button,
+		// so holding the button auto-fires instead of being held down. Turning it off puts the binding back.
 		if (mtap_enabled[mtap_port])
 		{
 			MenuHeading(SmallString::from_format(
-				fmt::runtime(FSUI_ICONSTR(ICON_PF_EMPTY_KEYCAP, "Controller Port {}{} Macros")), mtap_port + 1, mtap_slot_names[mtap_slot]));
+				fmt::runtime(FSUI_ICONSTR(ICON_PF_EMPTY_KEYCAP, "Controller Port {}{} Turbo")), mtap_port + 1, mtap_slot_names[mtap_slot]));
 		}
 		else
 		{
-			MenuHeading(SmallString::from_format(fmt::runtime(FSUI_ICONSTR(ICON_PF_EMPTY_KEYCAP, "Controller Port {} Macros")), mtap_port + 1));
+			MenuHeading(SmallString::from_format(fmt::runtime(FSUI_ICONSTR(ICON_PF_EMPTY_KEYCAP, "Controller Port {} Turbo")), mtap_port + 1));
 		}
 
-		static bool macro_button_expanded[Pad::NUM_CONTROLLER_PORTS][Pad::NUM_MACRO_BUTTONS_PER_CONTROLLER] = {};
+		static constexpr const char* turbo_buttons[] = {"Cross", "Circle", "Square", "Triangle", "L1", "R1", "L2", "R2"};
+		static constexpr s32 TURBO_FREQUENCY = 3; // toggle every 3 frames, about 10 presses a second
 
-		for (u32 macro_index = 0; macro_index < Pad::NUM_MACRO_BUTTONS_PER_CONTROLLER; macro_index++)
+		for (u32 turbo_index = 0; turbo_index < std::size(turbo_buttons) && turbo_index < Pad::NUM_MACRO_BUTTONS_PER_CONTROLLER; turbo_index++)
 		{
-			bool& expanded = macro_button_expanded[global_slot][macro_index];
-			expanded ^=
-				MenuHeadingButton(SmallString::from_format(fmt::runtime(FSUI_ICONSTR(ICON_PF_EMPTY_KEYCAP, "Macro Button {}")), macro_index + 1),
-					macro_button_expanded[global_slot][macro_index] ? ICON_FA_CHEVRON_UP : ICON_FA_CHEVRON_DOWN);
-			if (!expanded)
+			const char* button_name = turbo_buttons[turbo_index];
+			const InputBindingInfo* button_info = nullptr;
+			for (const InputBindingInfo& bi : ci->bindings)
+			{
+				if (bi.name && std::strcmp(bi.name, button_name) == 0)
+				{
+					button_info = &bi;
+					break;
+				}
+			}
+			if (!button_info)
 				continue;
 
-			ImGui::PushID(&expanded);
+			const u32 macro_num = turbo_index + 1;
+			const std::string turbo_key = fmt::format("Turbo{}", button_name);
+			const std::string macro_key = fmt::format("Macro{}", macro_num);
+			const std::string binds_key = fmt::format("Macro{}Binds", macro_num);
+			const std::string freq_key = fmt::format("Macro{}Frequency", macro_num);
+			const std::string toggle_key = fmt::format("Macro{}Toggle", macro_num);
 
-			DrawInputBindingButton(
-				bsi, InputBindingInfo::Type::Macro, section, TinyString::from_format("Macro{}", macro_index + 1), FSUI_CSTR("Trigger"), nullptr);
+			bool turbo_on = bsi->GetBoolValue(section, turbo_key.c_str(), false);
+			const SmallString title = SmallString::from_format("{} Turbo {}##turbo_{}",
+				button_info->icon_name ? button_info->icon_name : ICON_FA_GAMEPAD,
+				Host::TranslateToCString("Pad", button_info->display_name), button_name);
 
-			SmallString binds_string = bsi->GetSmallStringValue(section, fmt::format("Macro{}Binds", macro_index + 1).c_str());
-			TinyString pretty_binds_string;
-			if (!binds_string.empty())
+			if (ToggleButton(title.c_str(), FSUI_CSTR("Hold the button to rapid fire."), &turbo_on))
 			{
-				for (const std::string_view& bind : StringUtil::SplitString(binds_string, '&', true))
+				if (turbo_on)
 				{
-					const char* dispname = nullptr;
-					for (const InputBindingInfo& bi : ci->bindings)
+					const std::string binding = bsi->GetStringValue(section, button_name);
+					if (binding.empty())
 					{
-						if (bind == bi.name)
-						{
-							dispname = bi.icon_name ? bi.icon_name : Host::TranslateToCString("Pad", bi.display_name);
-							break;
-						}
+						ShowToast(ICON_FA_TRIANGLE_EXCLAMATION, FSUI_STR("Bind this button first, then turn on turbo."));
 					}
-					pretty_binds_string.append_format("{}{}", pretty_binds_string.empty() ? "" : " ", dispname);
-				}
-			}
-			if (MenuButtonWithValue(FSUI_ICONSTR(ICON_FA_KEYBOARD, "Buttons"), nullptr, pretty_binds_string.empty() ? FSUI_CSTR("-") : pretty_binds_string.c_str(), true,
-					LAYOUT_MENU_BUTTON_HEIGHT_NO_SUMMARY))
-			{
-				std::vector<std::string_view> buttons_split(StringUtil::SplitString(binds_string, '&', true));
-				ImGuiFullscreen::ChoiceDialogOptions options;
-				for (const InputBindingInfo& bi : ci->bindings)
-				{
-					if (bi.bind_type != InputBindingInfo::Type::Button && bi.bind_type != InputBindingInfo::Type::Axis &&
-						bi.bind_type != InputBindingInfo::Type::HalfAxis)
-					{
-						continue;
-					}
-					options.emplace_back(Host::TranslateToCString("Pad", bi.display_name),
-						std::any_of(
-							buttons_split.begin(), buttons_split.end(), [bi](const std::string_view& it) { return (it == bi.name); }));
-				}
-
-				OpenChoiceDialog(fmt::format(FSUI_FSTR("Select Macro {} Binds"), macro_index + 1).c_str(), true, std::move(options),
-					[section, macro_index, ci](s32 index, const std::string& title, bool checked) {
-						// convert display name back to bind name
-						std::string_view to_modify;
-						for (const InputBindingInfo& bi : ci->bindings)
-						{
-							if (bi.display_name == title)
-							{
-								to_modify = bi.name;
-								break;
-							}
-						}
-						if (to_modify.empty())
-						{
-							// wtf?
-							return;
-						}
-
-						auto lock = Host::GetSettingsLock();
-						SettingsInterface* bsi = GetEditingSettingsInterface();
-						const std::string key(fmt::format("Macro{}Binds", macro_index + 1));
-
-						std::string binds_string(bsi->GetStringValue(section, key.c_str()));
-						std::vector<std::string_view> buttons_split(StringUtil::SplitString(binds_string, '&', true));
-						auto it = std::find(buttons_split.begin(), buttons_split.end(), to_modify);
-						if (checked)
-						{
-							if (it == buttons_split.end())
-								buttons_split.push_back(to_modify);
-						}
-						else
-						{
-							if (it != buttons_split.end())
-								buttons_split.erase(it);
-						}
-
-						binds_string = StringUtil::JoinString(buttons_split.begin(), buttons_split.end(), " & ");
-						if (binds_string.empty())
-							bsi->DeleteValue(section, key.c_str());
-						else
-							bsi->SetStringValue(section, key.c_str(), binds_string.c_str());
-
-						SetSettingsChanged(bsi);
-					});
-			}
-
-			DrawToggleSetting(bsi, FSUI_ICONSTR(ICON_FA_GAMEPAD, "Press To Toggle"),
-				FSUI_CSTR("Toggles the macro when the button is pressed, instead of held."), section,
-				TinyString::from_format("Macro{}Toggle", macro_index + 1), false, true, false);
-
-			const TinyString freq_key = TinyString::from_format("Macro{}Frequency", macro_index + 1);
-			const TinyString freq_label = TinyString::from_format(ICON_FA_CLOCK " {}##macro_{}_frequency", FSUI_VSTR("Frequency"), macro_index + 1);
-			s32 frequency = bsi->GetIntValue(section, freq_key.c_str(), 0);
-			const SmallString freq_summary =
-				((frequency == 0) ? TinyString(FSUI_VSTR("Disabled")) :
-									TinyString::from_format(FSUI_FSTR("{} Frames"), frequency));
-			if (MenuButtonWithValue(freq_label, FSUI_CSTR("Determines the frequency at which the macro will toggle the buttons on and off (aka auto fire)."), freq_summary, true))
-				ImGui::OpenPopup(freq_label.c_str());
-
-			const std::string pressure_key(fmt::format("Macro{}Pressure", macro_index + 1));
-			DrawFloatSpinBoxSetting(bsi, FSUI_ICONSTR(ICON_FA_ARROW_DOWN, "Pressure"),
-				FSUI_CSTR("Determines how much pressure is simulated when macro is active."), section, pressure_key.c_str(), 1.0f, 0.01f,
-				1.0f, 0.01f, 100.0f, "%.0f%%");
-
-			const std::string deadzone_key(fmt::format("Macro{}Deadzone", macro_index + 1));
-			DrawFloatSpinBoxSetting(bsi, FSUI_ICONSTR(ICON_FA_SKULL, "Deadzone"),
-				FSUI_CSTR("Determines the pressure required to activate the macro."), section, deadzone_key.c_str(), 0.0f, 0.00f, 1.0f,
-				0.01f, 100.0f, "%.0f%%");
-
-			ImGui::SetNextWindowSize(LayoutScale(500.0f, 180.0f));
-			ImGui::SetNextWindowPos(ImGui::GetIO().DisplaySize * 0.5f, ImGuiCond_Always, ImVec2(0.5f, 0.5f));
-
-			ImGui::PushFont(g_large_font.first, g_large_font.second);
-			ImGui::PushStyleVar(ImGuiStyleVar_WindowRounding, LayoutScale(ImGuiFullscreen::LAYOUT_WINDOW_ROUNDING));
-			ImGui::PushStyleVar(ImGuiStyleVar_WindowPadding, LayoutScale(20.0f, 20.0f));
-			ImGui::PushStyleVar(ImGuiStyleVar_FrameBorderSize, 0.0f);
-			ImGui::PushStyleVar(ImGuiStyleVar_FramePadding,
-				LayoutScale(ImGuiFullscreen::LAYOUT_MENU_BUTTON_X_PADDING, ImGuiFullscreen::LAYOUT_MENU_BUTTON_Y_PADDING));
-
-			if (ImGui::BeginPopupModal(
-					freq_label.c_str(), nullptr, ImGuiWindowFlags_NoCollapse | ImGuiWindowFlags_NoResize | ImGuiWindowFlags_NoMove))
-			{
-				ImGui::SetNextItemWidth(LayoutScale(450.0f));
-				ImGui::PushStyleVar(ImGuiStyleVar_FrameRounding, LayoutScale(ImGuiFullscreen::LAYOUT_FRAME_ROUNDING));
-				ImGui::PushStyleVar(ImGuiStyleVar_FrameBorderSize, LayoutScale(1.0f));
-				ImGui::PushStyleVar(ImGuiStyleVar_GrabRounding, LayoutScale(8.0f));
-				ImGui::PushStyleColor(ImGuiCol_FrameBg, ImVec4(0.2f, 0.2f, 0.2f, 1.0f));
-				ImGui::PushStyleColor(ImGuiCol_FrameBgHovered, ImVec4(0.25f, 0.25f, 0.25f, 1.0f));
-				ImGui::PushStyleColor(ImGuiCol_FrameBgActive, ImVec4(0.3f, 0.3f, 0.3f, 1.0f));
-				ImGui::PushStyleColor(ImGuiCol_Border, ImVec4(0.4f, 0.4f, 0.4f, 1.0f));
-				ImGui::PushStyleColor(ImGuiCol_SliderGrab, ImVec4(0.45f, 0.65f, 0.95f, 1.0f));
-				ImGui::PushStyleColor(ImGuiCol_SliderGrabActive, ImVec4(0.55f, 0.75f, 1.0f, 1.0f));
-				ImGui::PushStyleColor(ImGuiCol_Text, ImVec4(1.0f, 1.0f, 1.0f, 1.0f));
-				if (ImGui::SliderInt("##value", &frequency, 0, 60, FSUI_CSTR("Toggle every %d frames"), ImGuiSliderFlags_NoInput))
-				{
-					if (frequency == 0)
-						bsi->DeleteValue(section, freq_key.c_str());
 					else
-						bsi->SetIntValue(section, freq_key.c_str(), frequency);
-
+					{
+						bsi->SetStringValue(section, macro_key.c_str(), binding.c_str());
+						bsi->SetStringValue(section, binds_key.c_str(), button_name);
+						bsi->SetIntValue(section, freq_key.c_str(), TURBO_FREQUENCY);
+						bsi->DeleteValue(section, toggle_key.c_str());
+						bsi->DeleteValue(section, button_name);
+						bsi->SetBoolValue(section, turbo_key.c_str(), true);
+						SetSettingsChanged(bsi);
+					}
+				}
+				else
+				{
+					const std::string binding = bsi->GetStringValue(section, macro_key.c_str());
+					if (!binding.empty())
+						bsi->SetStringValue(section, button_name, binding.c_str());
+					bsi->DeleteValue(section, macro_key.c_str());
+					bsi->DeleteValue(section, binds_key.c_str());
+					bsi->DeleteValue(section, freq_key.c_str());
+					bsi->DeleteValue(section, toggle_key.c_str());
+					bsi->DeleteValue(section, turbo_key.c_str());
 					SetSettingsChanged(bsi);
 				}
-
-				ImGui::PopStyleColor(7);
-				ImGui::PopStyleVar(3);
-
-				BeginMenuButtons();
-				if (MenuButton("OK", nullptr, true, LAYOUT_MENU_BUTTON_HEIGHT_NO_SUMMARY))
-					ImGui::CloseCurrentPopup();
-				EndMenuButtons();
-
-				ImGui::EndPopup();
 			}
-
-			ImGui::PopStyleVar(4);
-			ImGui::PopFont();
-
-			ImGui::PopID();
 		}
 
 		if (!ci->settings.empty())
