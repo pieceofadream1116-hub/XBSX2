@@ -105,7 +105,7 @@ jobs:
   build_uwp_avx2:
     needs: lint_vs_proj_files
     name: "UWP AVX2"
-    if: github.repository == 'XboxEmulationHub/XBSX2' || github.event_name == 'pull_request'
+    pieceofadream1116-hub'
     uses: ./.github/workflows/windows_build_uwp.yml
     with:
       jobName: "UWP AVX2"
