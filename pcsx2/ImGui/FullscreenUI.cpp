@@ -3610,7 +3610,9 @@ void FullscreenUI::OpenCoverDownloaderWindow()
 {
 	s_cover_downloader_open = true;
 	s_cover_downloader_urls_buffer.fill('\0');
-	{
+
+
+{	StringUtil::Strlcpy(s_cover_downloader_urls_buffer.data(), "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg", s_cover_downloader_urls_buffer.size());
 		std::lock_guard<std::mutex> lock(s_cover_downloader_mutex);
 		s_cover_downloader_use_title_filenames = false;
 		s_cover_downloader_downloading = false;
