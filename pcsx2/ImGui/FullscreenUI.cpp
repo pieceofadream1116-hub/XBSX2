@@ -44,6 +44,9 @@
 
 #include "fmt/chrono.h"
 
+#include <cfloat>
+#include <ctime>
+
 //////////////////////////////////////////////////////////////////////////
 // Utility
 //////////////////////////////////////////////////////////////////////////
@@ -325,7 +328,7 @@ bool FullscreenUI::Initialize()
 	if (s_tried_to_initialize)
 		return false;
 
-	ImGuiFullscreen::SetTheme(Host::GetBaseStringSettingValue("UI", "FullscreenUITheme", "Dark"));
+	ImGuiFullscreen::SetTheme(Host::GetBaseStringSettingValue("UI", "FullscreenUITheme", "Lavender"));
 	ImGuiFullscreen::UpdateLayoutScale();
 	ImGuiFullscreen::UpdateFontScale();
 	ApplyLayoutSettings();
@@ -405,7 +408,7 @@ void FullscreenUI::CheckForConfigChanges(const Pcsx2Config& old_config)
 	if (!IsInitialized())
 		return;
 
-	ImGuiFullscreen::SetTheme(Host::GetBaseStringSettingValue("UI", "FullscreenUITheme", "Dark"));
+	ImGuiFullscreen::SetTheme(Host::GetBaseStringSettingValue("UI", "FullscreenUITheme", "Lavender"));
 
 	MTGS::RunOnGSThread([]() {
 		LoadCustomBackground();
@@ -648,6 +651,19 @@ void FullscreenUI::Render()
 		DrawCustomBackground();
 	}
 
+	// Lavender theme: a soft gradient behind the menus (like the Dolphin/MAME home screens)
+	const bool draw_lavender = !should_draw_background && !VMManager::HasValidVM() &&
+		(s_current_main_window == MainWindowType::Landing || s_current_main_window == MainWindowType::StartGame ||
+			s_current_main_window == MainWindowType::Exit || s_current_main_window == MainWindowType::GameList ||
+			s_current_main_window == MainWindowType::GameListSettings || s_current_main_window == MainWindowType::Settings) &&
+		Host::GetBaseStringSettingValue("UI", "FullscreenUITheme", "Lavender") == "Lavender";
+	if (draw_lavender)
+	{
+		original_background_color = ImGuiFullscreen::UIBackgroundColor;
+		DrawLavenderBackground();
+		ImGuiFullscreen::UIBackgroundColor = ImVec4(original_background_color.x, original_background_color.y, original_background_color.z, 0.0f);
+	}
+
 	// Primed achievements must come first, because we don't want the pause screen to be behind them.
 	if (s_current_main_window == MainWindowType::None && (EmuConfig.Achievements.Overlays || EmuConfig.Achievements.LBOverlays))
 		Achievements::DrawGameOverlays();
@@ -778,7 +794,7 @@ void FullscreenUI::Render()
 		s_game_settings_changed.store(false, std::memory_order_release);
 	}
 
-	if (should_draw_background)
+	if (should_draw_background || draw_lavender)
 		ImGuiFullscreen::UIBackgroundColor = original_background_color;
 
 	ImGuiFullscreen::ResetCloseMenuIfNeeded();
@@ -1130,7 +1146,7 @@ void FullscreenUI::ConfirmShutdownIfMemcardBusy(std::function<void(bool)> callba
 
 bool FullscreenUI::ShouldDefaultToGameList()
 {
-	return Host::GetBaseBoolSettingValue("UI", "FullscreenUIDefaultToGameList", false);
+	return Host::GetBaseBoolSettingValue("UI", "FullscreenUIDefaultToGameList", true);
 }
 
 //////////////////////////////////////////////////////////////////////////
@@ -1197,6 +1213,164 @@ void FullscreenUI::LoadCustomBackground()
 		s_custom_background_path.clear();
 		s_custom_background_enabled = false;
 	}
+}
+
+void FullscreenUI::DrawLavenderBackground()
+{
+	ImDrawList* dl = ImGui::GetBackgroundDrawList();
+	const ImVec2 size = ImGui::GetIO().DisplaySize;
+	const float s = size.y / 1080.0f;
+	dl->AddRectFilledMultiColor(ImVec2(0, 0), size, IM_COL32(176, 166, 246, 255), IM_COL32(150, 154, 240, 255),
+		IM_COL32(104, 110, 216, 255), IM_COL32(132, 122, 230, 255));
+
+	// a few faint rings drifting slowly
+	const float time = static_cast<float>(ImGui::GetTime());
+	static constexpr float rings[][3] = {
+		{0.08f, 0.78f, 110}, {0.22f, 0.30f, 50}, {0.38f, 0.88f, 90}, {0.55f, 0.16f, 70},
+		{0.70f, 0.70f, 60}, {0.86f, 0.40f, 100}, {0.93f, 0.85f, 70}, {0.30f, 0.60f, 45}};
+	for (const auto& r : rings)
+	{
+		const float bob = std::sin(time * 0.3f + r[0] * 10.0f) * 10.0f * s;
+		dl->AddCircle(ImVec2(r[0] * size.x, r[1] * size.y + bob), r[2] * 0.5f * s, IM_COL32(255, 255, 255, 45), 48, 4.0f * s);
+	}
+}
+
+// Top bar extras on the game grid: clock and date, and how many controllers are connected.
+void FullscreenUI::DrawGameGridStatus(const ImVec2& heading_size)
+{
+	ImDrawList* dl = ImGui::GetForegroundDrawList();
+	const ImVec2 size = ImGui::GetIO().DisplaySize;
+	const float s = size.y / 1080.0f;
+
+	std::time_t now = std::time(nullptr);
+	std::tm local{};
+#ifdef _WIN32
+	localtime_s(&local, &now);
+#else
+	localtime_r(&now, &local);
+#endif
+	char time_text[16], date_text[32];
+	std::strftime(time_text, sizeof(time_text), "%H:%M", &local);
+	std::strftime(date_text, sizeof(date_text), "%d/%m/%Y", &local);
+
+	// connected controllers (checked every couple of seconds)
+	static int pads = 0;
+	static double last_check = -10.0;
+	if (ImGui::GetTime() - last_check > 2.0)
+	{
+		last_check = ImGui::GetTime();
+		pads = 0;
+		for (const auto& [identifier, name] : InputManager::EnumerateDevices())
+		{
+			if (!identifier.starts_with("Keyboard") && !identifier.starts_with("Pointer") && !identifier.starts_with("Mouse"))
+				pads++;
+		}
+	}
+	const std::string pad_text = fmt::format(ICON_FA_GAMEPAD " {}", pads);
+	const std::string clock_text = fmt::format(ICON_FA_CLOCK " {}   {}", time_text, date_text);
+
+	ImFont* font = g_medium_font.first;
+	const float fs = g_medium_font.second;
+	const ImVec2 clock_size = font->CalcTextSizeA(fs, FLT_MAX, 0.0f, clock_text.c_str());
+	const ImVec2 pad_size = font->CalcTextSizeA(fs, FLT_MAX, 0.0f, pad_text.c_str());
+	const float pad_x = 22.0f * s, pill_h = std::min(heading_size.y - 12.0f * s, fs + 22.0f * s);
+	const float y0 = (heading_size.y - pill_h) * 0.5f;
+	const float clock_w = clock_size.x + pad_x * 2.0f, pads_w = pad_size.x + pad_x * 2.0f;
+	const float total = clock_w + 16.0f * s + pads_w;
+	const float x0 = (size.x - total) * 0.5f;
+
+	auto pill = [&](float x, float w, const std::string& text, const ImVec2& ts) {
+		dl->AddRectFilled(ImVec2(x, y0), ImVec2(x + w, y0 + pill_h), IM_COL32(255, 255, 255, 60), pill_h * 0.5f);
+		dl->AddText(font, fs, ImVec2(x + (w - ts.x) * 0.5f, y0 + (pill_h - ts.y) * 0.5f), IM_COL32(255, 255, 255, 255), text.c_str());
+	};
+	pill(x0, clock_w, clock_text, clock_size);
+	pill(x0 + clock_w + 16.0f * s, pads_w, pad_text, pad_size);
+}
+
+// Round buttons down each side of the game grid. Move to them with the D-pad (past the first or
+// last game in a row) and press A; the shortcut buttons still work too.
+void FullscreenUI::DrawGameGridSideButtons()
+{
+	struct SideButton
+	{
+		const char* icon;
+		const char* label;
+		int action;
+	};
+	static constexpr SideButton left[] = {
+		{ICON_FA_HOUSE, FSUI_NSTR("Home"), 0},
+		{ICON_FA_SLIDERS, FSUI_NSTR("Settings (Start)"), 1},
+		{ICON_FA_IMAGE, FSUI_NSTR("Covers (Back)"), 2},
+	};
+	static constexpr SideButton right[] = {
+		{ICON_FA_LIST, FSUI_NSTR("List view (Y)"), 3},
+		{ICON_FA_ARROWS_ROTATE, FSUI_NSTR("Refresh (L2)"), 4},
+		{ICON_FA_POWER_OFF, FSUI_NSTR("Quit"), 5},
+	};
+
+	ImGuiWindow* window = ImGui::GetCurrentWindow();
+	const ImVec2 win_pos = window->Pos;
+	const ImVec2 win_size = window->Size;
+	const float s = ImGui::GetIO().DisplaySize.y / 1080.0f;
+	const float r = 46.0f * s;
+	const float step = 160.0f * s;
+	const float top = win_pos.y + win_size.y * 0.22f;
+	const ImVec2 saved_cursor = ImGui::GetCursorScreenPos();
+	const ImVec2 saved_max = window->DC.CursorMaxPos;
+
+	ImDrawList* dl = ImGui::GetWindowDrawList();
+	ImFont* font = g_medium_font.first;
+	const float fs = g_medium_font.second * 0.8f;
+
+	auto draw = [&](const SideButton& b, float cx, float cy) {
+		ImGui::SetCursorScreenPos(ImVec2(cx - r, cy - r));
+		ImGui::PushID(b.action);
+		const bool pressed = ImGui::InvisibleButton("##side", ImVec2(r * 2.0f, r * 2.0f));
+		const bool focused = ImGui::IsItemFocused() || ImGui::IsItemHovered();
+		ImGui::PopID();
+
+		const float rr = focused ? r * 1.15f : r;
+		dl->AddCircleFilled(ImVec2(cx, cy + 3.0f * s), rr, IM_COL32(40, 30, 110, focused ? 80 : 45), 48);
+		dl->AddCircleFilled(ImVec2(cx, cy), rr, focused ? IM_COL32(255, 255, 255, 255) : IM_COL32(255, 255, 255, 215), 48);
+		if (focused)
+			dl->AddCircle(ImVec2(cx, cy), rr, IM_COL32(236, 72, 104, 255), 48, 5.0f * s);
+		const ImU32 ink = focused ? IM_COL32(236, 72, 104, 255) : IM_COL32(52, 52, 110, 255);
+		const float ifs = g_large_font.second;
+		const ImVec2 its = g_large_font.first->CalcTextSizeA(ifs, FLT_MAX, 0.0f, b.icon);
+		dl->AddText(g_large_font.first, ifs, ImVec2(cx - its.x * 0.5f, cy - its.y * 0.5f), ink, b.icon);
+		const char* label = Host::TranslateToCString(TR_CONTEXT, b.label);
+		const ImVec2 lts = font->CalcTextSizeA(fs, FLT_MAX, 0.0f, label);
+		dl->AddText(font, fs, ImVec2(cx - lts.x * 0.5f, cy + rr + 8.0f * s), IM_COL32(255, 255, 255, 255), label);
+
+		if (!pressed)
+			return;
+		switch (b.action)
+		{
+			case 0: SwitchToLanding(); break;
+			case 1: SwitchToSettings(); break;
+			case 2: OpenCoverDownloaderWindow(); break;
+			case 3: s_game_list_view = GameListView::List; break;
+			case 4:
+				ShowToast(std::string(), FSUI_STR("Scanning for new games..."), 4.0f);
+				Host::RefreshGameListAsync(false);
+				break;
+			default:
+				s_current_main_window = MainWindowType::Exit;
+				QueueResetFocus(FocusResetType::WindowChanged);
+				break;
+		}
+	};
+
+	const float left_x = win_pos.x + 80.0f * s;
+	const float right_x = win_pos.x + win_size.x - 80.0f * s;
+	for (u32 i = 0; i < std::size(left); i++)
+		draw(left[i], left_x, top + step * i);
+	for (u32 i = 0; i < std::size(right); i++)
+		draw(right[i], right_x, top + step * i);
+
+	// don't let the buttons change how far the grid scrolls
+	ImGui::SetCursorScreenPos(saved_cursor);
+	window->DC.CursorMaxPos = saved_max;
 }
 
 void FullscreenUI::DrawCustomBackground()
@@ -1850,6 +2024,19 @@ void FullscreenUI::DrawPauseMenu(MainWindowType type)
 				if (ActiveButton(FSUI_ICONSTR(ICON_FA_WRENCH, "Game Properties"), false, can_save_state))
 				{
 					SwitchToGameSettings();
+				}
+
+				// RetroArch-style: this game's cheats, by name, each with an on/off switch
+				if (ActiveButton(FSUI_ICONSTR(ICON_FA_WAND_MAGIC_SPARKLES, "Cheats"), false, can_save_state && !Achievements::IsHardcoreModeActive()))
+				{
+					SwitchToGameSettings();
+					if (s_current_main_window != MainWindowType::Settings && !s_current_disc_serial.empty())
+						SwitchToGameSettings(s_current_disc_serial, s_current_disc_crc);
+					if (s_current_main_window == MainWindowType::Settings)
+					{
+						s_settings_page = SettingsPage::Cheats;
+						QueueResetFocus(FocusResetType::WindowChanged);
+					}
 				}
 
 				if (ActiveButton(FSUI_ICONSTR(ICON_FA_TROPHY, "Achievements"), false, Achievements::HasAchievementsOrLeaderboards()))
@@ -3019,7 +3206,8 @@ void FullscreenUI::DrawGameGrid(const ImVec2& heading_size)
 
 	const float title_spacing = LayoutScale(10.0f);
 	const float item_spacing = LayoutScale(20.0f);
-	const float item_width_with_spacing = std::floor(LayoutScale(LAYOUT_SCREEN_WIDTH / 5.0f));
+	// five covers a row, with room either side for the round side buttons
+	const float item_width_with_spacing = std::floor(LayoutScale((LAYOUT_SCREEN_WIDTH - 340.0f) / 5.0f));
 	const float item_width = item_width_with_spacing - item_spacing;
 	const float image_width = item_width - (style.FramePadding.x * 2.0f);
 	const float image_height = image_width * 1.33f;
@@ -3105,8 +3293,12 @@ void FullscreenUI::DrawGameGrid(const ImVec2& heading_size)
 		grid_x++;
 	}
 
+	DrawGameGridSideButtons();
+
 	EndMenuButtons();
 	EndFullscreenWindow();
+
+	DrawGameGridStatus(heading_size);
 }
 
 void FullscreenUI::HandleGameListActivate(const GameList::Entry* entry)

@@ -3404,6 +3404,26 @@ void ImGuiFullscreen::SetTheme(std::string_view theme)
 		UISecondaryWeakColor = HEX_TO_IMVEC4(0xc0cfff, 0xff);
 		UISecondaryTextColor = HEX_TO_IMVEC4(0x000000, 0xff);
 	}
+	else if (theme == "Lavender")
+	{
+		// matches the Dolphin and MAME Xbox home screens: lavender, white writing, pink highlight
+		UIBackgroundColor = HEX_TO_IMVEC4(0x8f86e8, 0xff);
+		UIBackgroundTextColor = HEX_TO_IMVEC4(0xffffff, 0xff);
+		UIBackgroundLineColor = HEX_TO_IMVEC4(0xf4f0ff, 0xff);
+		UIBackgroundHighlightColor = HEX_TO_IMVEC4(0xec4868, 0xff);
+		UIPopupBackgroundColor = HEX_TO_IMVEC4(0x342c62, 0xf4);
+		UIPrimaryColor = HEX_TO_IMVEC4(0x3b3270, 0xff);
+		UIPrimaryLightColor = HEX_TO_IMVEC4(0x6a5fc4, 0xff);
+		UIPrimaryDarkColor = HEX_TO_IMVEC4(0x241d4a, 0xff);
+		UIPrimaryTextColor = HEX_TO_IMVEC4(0xffffff, 0xff);
+		UIDisabledColor = HEX_TO_IMVEC4(0xcfc8f0, 0xff);
+		UITextHighlightColor = HEX_TO_IMVEC4(0xffc2d1, 0xff);
+		UIPrimaryLineColor = HEX_TO_IMVEC4(0xffffff, 0xff);
+		UISecondaryColor = HEX_TO_IMVEC4(0xec4868, 0xff);
+		UISecondaryStrongColor = HEX_TO_IMVEC4(0xff7a98, 0xff);
+		UISecondaryWeakColor = HEX_TO_IMVEC4(0xa8344f, 0xff);
+		UISecondaryTextColor = HEX_TO_IMVEC4(0xffffff, 0xff);
+	}
 	else if (theme == "AMOLED")
 	{
 		UIBackgroundColor = HEX_TO_IMVEC4(0x0A0A0A, 0xff);

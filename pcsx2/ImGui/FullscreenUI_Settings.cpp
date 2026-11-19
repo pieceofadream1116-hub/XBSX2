@@ -2251,6 +2251,7 @@ void FullscreenUI::DrawInterfaceSettingsPage()
 		FSUI_NSTR("Violet Angel"),
 		FSUI_NSTR("Cobalt Sky"),
 		FSUI_NSTR("AMOLED"),
+		FSUI_NSTR("Lavender"),
 	};
 
 	static constexpr const char* s_theme_value[] = {
@@ -2265,6 +2266,7 @@ void FullscreenUI::DrawInterfaceSettingsPage()
 		"VioletAngel",
 		"CobaltSky",
 		"AMOLED",
+		"Lavender",
 	};
 
 	SettingsInterface* bsi = GetEditingSettingsInterface();
@@ -2274,9 +2276,9 @@ void FullscreenUI::DrawInterfaceSettingsPage()
 	MenuHeading(FSUI_CSTR("Appearance"));
 	DrawStringListSetting(bsi, FSUI_ICONSTR(ICON_FA_PAINTBRUSH, "Theme"),
 		FSUI_CSTR("Selects the color style to be used for Big Picture Mode."),
-		"UI", "FullscreenUITheme", "Dark", s_theme_name, s_theme_value, std::size(s_theme_name), true);
+		"UI", "FullscreenUITheme", "Lavender", s_theme_name, s_theme_value, std::size(s_theme_name), true);
 	DrawToggleSetting(
-		bsi, FSUI_ICONSTR(ICON_FA_LIST, "Default To Game List"), FSUI_CSTR("When Big Picture mode is started, the game list will be displayed instead of the main menu."), "UI", "FullscreenUIDefaultToGameList", false);
+		bsi, FSUI_ICONSTR(ICON_FA_LIST, "Default To Game List"), FSUI_CSTR("When Big Picture mode is started, the game list will be displayed instead of the main menu."), "UI", "FullscreenUIDefaultToGameList", true);
 	DrawToggleSetting(bsi, FSUI_ICONSTR(ICON_FA_GLOBE, "Prefer English Game Titles"),
 		FSUI_CSTR("For games with both a title in the game's native language and one in English, prefer the English title. Affects how game titles are displayed on the game list, window title and Discord Presence"), "UI",
 		"PreferEnglishGameList", false);
@@ -5753,10 +5755,14 @@ void FullscreenUI::DrawPatchesOrCheatsSettingsPage(bool cheats)
 		const auto enable_it = std::find(enable_list.begin(), enable_list.end(), pi.name);
 
 		bool state = (enable_it != enable_list.end());
-		if (ToggleButton(pi.name.c_str(), pi.description.c_str(), &state, master_enable))
+		// Cheats work like RetroArch: just switch the ones you want on. Switching one on also
+		// turns on "Enable Cheats", so there's no second switch to find.
+		if (ToggleButton(pi.name.c_str(), pi.description.c_str(), &state, cheats ? true : master_enable))
 		{
 			if (state)
 			{
+				if (cheats && !master_enable)
+					bsi->SetBoolValue("EmuCore", "EnableCheats", true);
 				bsi->AddToStringList(section, Patch::PATCH_ENABLE_CONFIG_KEY, pi.name.c_str());
 				enable_list.push_back(pi.name);
 			}

@@ -421,6 +421,9 @@ namespace FullscreenUI
 	void DrawHotkeySettingsPage();
 	void DrawAdvancedSettingsPage();
 	void DrawPatchesOrCheatsSettingsPage(bool cheats);
+	void DrawLavenderBackground();
+	void DrawGameGridStatus(const ImVec2& heading_size);
+	void DrawGameGridSideButtons();
 	void DrawGameFixesSettingsPage();
 
 	bool IsEditingGameSettings(SettingsInterface* bsi);
