@@ -2251,7 +2251,7 @@ void FullscreenUI::DrawInterfaceSettingsPage()
 		FSUI_NSTR("Violet Angel"),
 		FSUI_NSTR("Cobalt Sky"),
 		FSUI_NSTR("AMOLED"),
-		FSUI_NSTR("Lavender"),
+		FSUI_NSTR("Burgundy"),
 	};
 
 	static constexpr const char* s_theme_value[] = {
@@ -2266,7 +2266,7 @@ void FullscreenUI::DrawInterfaceSettingsPage()
 		"VioletAngel",
 		"CobaltSky",
 		"AMOLED",
-		"Lavender",
+		"Burgundy",
 	};
 
 	SettingsInterface* bsi = GetEditingSettingsInterface();
@@ -2276,7 +2276,7 @@ void FullscreenUI::DrawInterfaceSettingsPage()
 	MenuHeading(FSUI_CSTR("Appearance"));
 	DrawStringListSetting(bsi, FSUI_ICONSTR(ICON_FA_PAINTBRUSH, "Theme"),
 		FSUI_CSTR("Selects the color style to be used for Big Picture Mode."),
-		"UI", "FullscreenUITheme", "Lavender", s_theme_name, s_theme_value, std::size(s_theme_name), true);
+		"UI", "FullscreenUITheme", "Burgundy", s_theme_name, s_theme_value, std::size(s_theme_name), true);
 	DrawToggleSetting(
 		bsi, FSUI_ICONSTR(ICON_FA_LIST, "Default To Game List"), FSUI_CSTR("When Big Picture mode is started, the game list will be displayed instead of the main menu."), "UI", "FullscreenUIDefaultToGameList", true);
 	DrawToggleSetting(bsi, FSUI_ICONSTR(ICON_FA_GLOBE, "Prefer English Game Titles"),

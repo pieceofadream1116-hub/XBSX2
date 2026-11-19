@@ -328,7 +328,7 @@ bool FullscreenUI::Initialize()
 	if (s_tried_to_initialize)
 		return false;
 
-	ImGuiFullscreen::SetTheme(Host::GetBaseStringSettingValue("UI", "FullscreenUITheme", "Lavender"));
+	ImGuiFullscreen::SetTheme(Host::GetBaseStringSettingValue("UI", "FullscreenUITheme", "Burgundy"));
 	ImGuiFullscreen::UpdateLayoutScale();
 	ImGuiFullscreen::UpdateFontScale();
 	ApplyLayoutSettings();
@@ -408,7 +408,7 @@ void FullscreenUI::CheckForConfigChanges(const Pcsx2Config& old_config)
 	if (!IsInitialized())
 		return;
 
-	ImGuiFullscreen::SetTheme(Host::GetBaseStringSettingValue("UI", "FullscreenUITheme", "Lavender"));
+	ImGuiFullscreen::SetTheme(Host::GetBaseStringSettingValue("UI", "FullscreenUITheme", "Burgundy"));
 
 	MTGS::RunOnGSThread([]() {
 		LoadCustomBackground();
@@ -656,7 +656,8 @@ void FullscreenUI::Render()
 		(s_current_main_window == MainWindowType::Landing || s_current_main_window == MainWindowType::StartGame ||
 			s_current_main_window == MainWindowType::Exit || s_current_main_window == MainWindowType::GameList ||
 			s_current_main_window == MainWindowType::GameListSettings || s_current_main_window == MainWindowType::Settings) &&
-		Host::GetBaseStringSettingValue("UI", "FullscreenUITheme", "Lavender") == "Lavender";
+		(Host::GetBaseStringSettingValue("UI", "FullscreenUITheme", "Burgundy") == "Burgundy" ||
+			Host::GetBaseStringSettingValue("UI", "FullscreenUITheme", "Burgundy") == "Lavender");
 	if (draw_lavender)
 	{
 		original_background_color = ImGuiFullscreen::UIBackgroundColor;
@@ -1220,8 +1221,8 @@ void FullscreenUI::DrawLavenderBackground()
 	ImDrawList* dl = ImGui::GetBackgroundDrawList();
 	const ImVec2 size = ImGui::GetIO().DisplaySize;
 	const float s = size.y / 1080.0f;
-	dl->AddRectFilledMultiColor(ImVec2(0, 0), size, IM_COL32(176, 166, 246, 255), IM_COL32(150, 154, 240, 255),
-		IM_COL32(104, 110, 216, 255), IM_COL32(132, 122, 230, 255));
+	dl->AddRectFilledMultiColor(ImVec2(0, 0), size, IM_COL32(120, 20, 46, 255), IM_COL32(104, 16, 40, 255),
+		IM_COL32(56, 6, 20, 255), IM_COL32(80, 10, 30, 255));
 
 	// a few faint rings drifting slowly
 	const float time = static_cast<float>(ImGui::GetTime());
@@ -1231,7 +1232,7 @@ void FullscreenUI::DrawLavenderBackground()
 	for (const auto& r : rings)
 	{
 		const float bob = std::sin(time * 0.3f + r[0] * 10.0f) * 10.0f * s;
-		dl->AddCircle(ImVec2(r[0] * size.x, r[1] * size.y + bob), r[2] * 0.5f * s, IM_COL32(255, 255, 255, 45), 48, 4.0f * s);
+		dl->AddCircle(ImVec2(r[0] * size.x, r[1] * size.y + bob), r[2] * 0.5f * s, IM_COL32(255, 255, 255, 28), 48, 4.0f * s);
 	}
 }
 
@@ -1280,7 +1281,7 @@ void FullscreenUI::DrawGameGridStatus(const ImVec2& heading_size)
 	const float x0 = (size.x - total) * 0.5f;
 
 	auto pill = [&](float x, float w, const std::string& text, const ImVec2& ts) {
-		dl->AddRectFilled(ImVec2(x, y0), ImVec2(x + w, y0 + pill_h), IM_COL32(255, 255, 255, 60), pill_h * 0.5f);
+		dl->AddRectFilled(ImVec2(x, y0), ImVec2(x + w, y0 + pill_h), IM_COL32(40, 4, 14, 210), pill_h * 0.5f);
 		dl->AddText(font, fs, ImVec2(x + (w - ts.x) * 0.5f, y0 + (pill_h - ts.y) * 0.5f), IM_COL32(255, 255, 255, 255), text.c_str());
 	};
 	pill(x0, clock_w, clock_text, clock_size);
@@ -1330,11 +1331,11 @@ void FullscreenUI::DrawGameGridSideButtons()
 		ImGui::PopID();
 
 		const float rr = focused ? r * 1.15f : r;
-		dl->AddCircleFilled(ImVec2(cx, cy + 3.0f * s), rr, IM_COL32(40, 30, 110, focused ? 80 : 45), 48);
-		dl->AddCircleFilled(ImVec2(cx, cy), rr, focused ? IM_COL32(255, 255, 255, 255) : IM_COL32(255, 255, 255, 215), 48);
+		dl->AddCircleFilled(ImVec2(cx, cy + 3.0f * s), rr, IM_COL32(0, 0, 0, focused ? 90 : 55), 48);
+		dl->AddCircleFilled(ImVec2(cx, cy), rr, focused ? IM_COL32(62, 8, 26, 255) : IM_COL32(62, 8, 26, 225), 48);
 		if (focused)
-			dl->AddCircle(ImVec2(cx, cy), rr, IM_COL32(236, 72, 104, 255), 48, 5.0f * s);
-		const ImU32 ink = focused ? IM_COL32(236, 72, 104, 255) : IM_COL32(52, 52, 110, 255);
+			dl->AddCircle(ImVec2(cx, cy), rr, IM_COL32(255, 198, 64, 255), 48, 5.0f * s);
+		const ImU32 ink = focused ? IM_COL32(255, 198, 64, 255) : IM_COL32(255, 255, 255, 255);
 		const float ifs = g_large_font.second;
 		const ImVec2 its = g_large_font.first->CalcTextSizeA(ifs, FLT_MAX, 0.0f, b.icon);
 		dl->AddText(g_large_font.first, ifs, ImVec2(cx - its.x * 0.5f, cy - its.y * 0.5f), ink, b.icon);

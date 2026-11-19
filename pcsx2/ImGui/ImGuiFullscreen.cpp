@@ -3404,24 +3404,24 @@ void ImGuiFullscreen::SetTheme(std::string_view theme)
 		UISecondaryWeakColor = HEX_TO_IMVEC4(0xc0cfff, 0xff);
 		UISecondaryTextColor = HEX_TO_IMVEC4(0x000000, 0xff);
 	}
-	else if (theme == "Lavender")
+	else if (theme == "Burgundy" || theme == "Lavender")
 	{
-		// matches the Dolphin and MAME Xbox home screens: lavender, white writing, pink highlight
-		UIBackgroundColor = HEX_TO_IMVEC4(0x8f86e8, 0xff);
+		// matches the Dolphin Xbox home screen: dark burgundy, big bold white writing, gold highlight
+		UIBackgroundColor = HEX_TO_IMVEC4(0x5a0f22, 0xff);
 		UIBackgroundTextColor = HEX_TO_IMVEC4(0xffffff, 0xff);
-		UIBackgroundLineColor = HEX_TO_IMVEC4(0xf4f0ff, 0xff);
-		UIBackgroundHighlightColor = HEX_TO_IMVEC4(0xec4868, 0xff);
-		UIPopupBackgroundColor = HEX_TO_IMVEC4(0x342c62, 0xf4);
-		UIPrimaryColor = HEX_TO_IMVEC4(0x3b3270, 0xff);
-		UIPrimaryLightColor = HEX_TO_IMVEC4(0x6a5fc4, 0xff);
-		UIPrimaryDarkColor = HEX_TO_IMVEC4(0x241d4a, 0xff);
+		UIBackgroundLineColor = HEX_TO_IMVEC4(0xffffff, 0xff);
+		UIBackgroundHighlightColor = HEX_TO_IMVEC4(0xffc640, 0xff);
+		UIPopupBackgroundColor = HEX_TO_IMVEC4(0x3a0614, 0xf6);
+		UIPrimaryColor = HEX_TO_IMVEC4(0x4a0a1c, 0xff);
+		UIPrimaryLightColor = HEX_TO_IMVEC4(0x8c1e3c, 0xff);
+		UIPrimaryDarkColor = HEX_TO_IMVEC4(0x2c0410, 0xff);
 		UIPrimaryTextColor = HEX_TO_IMVEC4(0xffffff, 0xff);
-		UIDisabledColor = HEX_TO_IMVEC4(0xcfc8f0, 0xff);
-		UITextHighlightColor = HEX_TO_IMVEC4(0xffc2d1, 0xff);
+		UIDisabledColor = HEX_TO_IMVEC4(0xe6cfd5, 0xff);
+		UITextHighlightColor = HEX_TO_IMVEC4(0xffd77a, 0xff);
 		UIPrimaryLineColor = HEX_TO_IMVEC4(0xffffff, 0xff);
-		UISecondaryColor = HEX_TO_IMVEC4(0xec4868, 0xff);
-		UISecondaryStrongColor = HEX_TO_IMVEC4(0xff7a98, 0xff);
-		UISecondaryWeakColor = HEX_TO_IMVEC4(0xa8344f, 0xff);
+		UISecondaryColor = HEX_TO_IMVEC4(0xa3173a, 0xff);
+		UISecondaryStrongColor = HEX_TO_IMVEC4(0xd02a52, 0xff);
+		UISecondaryWeakColor = HEX_TO_IMVEC4(0x6e1028, 0xff);
 		UISecondaryTextColor = HEX_TO_IMVEC4(0xffffff, 0xff);
 	}
 	else if (theme == "AMOLED")

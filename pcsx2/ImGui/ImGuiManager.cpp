@@ -622,6 +622,7 @@ ImFont* ImGuiManager::AddTextFont()
 		}
 		cfg.FontNo = GetFontIndex(info);
 		cfg.SizePixels = FONT_BASE_SIZE;
+		cfg.FontLoaderFlags |= ImGuiFreeTypeLoaderFlags_Bold; // thick, bold writing that's easy to read on a TV
 		ImFont* font = ImGui::GetIO().Fonts->AddFontFromMemoryTTF(const_cast<u8*>(info.data.data()), static_cast<int>(info.data.size()), 0, &cfg, nullptr);
 		if (!cfg.MergeMode)
 		{
@@ -674,6 +675,7 @@ bool ImGuiManager::AddIconFonts()
 		cfg.GlyphMaxAdvanceX = FONT_ICON_SIZE;
 		cfg.GlyphExcludeRanges = range_exclude_emojis;
 		cfg.FontDataOwnedByAtlas = false;
+		cfg.FontLoaderFlags |= ImGuiFreeTypeLoaderFlags_Bold; // thicker button symbols
 
 		if (!ImGui::GetIO().Fonts->AddFontFromMemoryTTF(
 				s_icon_pf_font_data.data(), static_cast<int>(s_icon_pf_font_data.size()), FONT_BASE_SIZE * 1.2f, &cfg, nullptr))
@@ -693,6 +695,7 @@ bool ImGuiManager::AddIconFonts()
 		cfg.GlyphMaxAdvanceX = FONT_ICON_SIZE;
 		cfg.GlyphExcludeRanges = range_exclude_non_bmp;
 		cfg.FontDataOwnedByAtlas = false;
+		cfg.FontLoaderFlags |= ImGuiFreeTypeLoaderFlags_Bold;
 
 		if (!ImGui::GetIO().Fonts->AddFontFromMemoryTTF(
 				s_icon_fa_font_data.data(), static_cast<int>(s_icon_fa_font_data.size()), FONT_BASE_SIZE * 0.9f, &cfg, nullptr))
