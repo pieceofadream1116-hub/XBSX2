@@ -2273,6 +2273,18 @@ void FullscreenUI::DrawInterfaceSettingsPage()
 
 	BeginMenuButtons();
 
+	// where your PS2 games are: also reachable from here, not only from the home screen
+	if (!IsEditingGameSettings(bsi))
+	{
+		MenuHeading(FSUI_CSTR("Games"));
+		if (MenuButton(FSUI_ICONSTR(ICON_FA_FOLDER_OPEN, "Game Folders"),
+				FSUI_CSTR("Add or remove the folders your PS2 games are in, and scan for games.")))
+		{
+			s_current_main_window = MainWindowType::GameListSettings;
+			QueueResetFocus(FocusResetType::WindowChanged);
+		}
+	}
+
 	MenuHeading(FSUI_CSTR("Appearance"));
 	DrawStringListSetting(bsi, FSUI_ICONSTR(ICON_FA_PAINTBRUSH, "Theme"),
 		FSUI_CSTR("Selects the color style to be used for Big Picture Mode."),

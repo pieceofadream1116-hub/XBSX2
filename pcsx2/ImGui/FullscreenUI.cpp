@@ -615,6 +615,8 @@ void FullscreenUI::Shutdown(bool clear_state)
 	s_tried_to_initialize = false;
 }
 
+static void ReleaseSideButtonKeys();
+
 void FullscreenUI::Render()
 {
 	if (!s_initialized)
@@ -668,6 +670,13 @@ void FullscreenUI::Render()
 	// Primed achievements must come first, because we don't want the pause screen to be behind them.
 	if (s_current_main_window == MainWindowType::None && (EmuConfig.Achievements.Overlays || EmuConfig.Achievements.LBOverlays))
 		Achievements::DrawGameOverlays();
+
+	// the side buttons only hold the controller while the game grid is on screen
+	if (s_current_main_window != MainWindowType::GameList || s_game_list_view != GameListView::Grid ||
+		AreAnyDialogsOpen())
+	{
+		ReleaseSideButtonKeys();
+	}
 
 	switch (s_current_main_window)
 	{
@@ -1288,10 +1297,38 @@ void FullscreenUI::DrawGameGridStatus(const ImVec2& heading_size)
 	pill(x0 + clock_w + 16.0f * s, pads_w, pad_text, pad_size);
 }
 
-// Round buttons down each side of the game grid. Move to them with the D-pad (past the first or
-// last game in a row) and press A; the shortcut buttons still work too.
-static int s_side_focus_request = -1;  // 0 = left buttons, 1 = right buttons
+// Round buttons down each side of the game grid. The D-pad reaches them from the first/last cover
+// in a row (or straight away when there are no games yet); Up/Down move between them, A presses.
+// While a side button has the controller, Dolphin-style: we take the D-pad and A away from ImGui's
+// own navigation, so the covers can't move or start a game underneath.
+static int s_side_focus_request = -1;  // set by the grid: 0 = left buttons, 1 = right buttons
 static float s_side_focus_y = 0.0f;
+static int s_side_col = -1;  // which column has the controller (-1 = the covers do)
+static int s_side_row = 0;
+static bool s_side_keys_owned = false;
+
+static constexpr ImGuiKey s_side_keys[] = {ImGuiKey_GamepadDpadLeft, ImGuiKey_GamepadDpadRight,
+	ImGuiKey_GamepadDpadUp, ImGuiKey_GamepadDpadDown, ImGuiKey_GamepadFaceDown, ImGuiKey_GamepadFaceRight,
+	ImGuiKey_LeftArrow, ImGuiKey_RightArrow, ImGuiKey_UpArrow, ImGuiKey_DownArrow, ImGuiKey_Enter, ImGuiKey_Space};
+
+static void OwnSideButtonKeys(ImGuiID owner)
+{
+	for (const ImGuiKey key : s_side_keys)
+		ImGui::SetKeyOwner(key, owner);
+	s_side_keys_owned = true;
+}
+
+// Give the D-pad and A back to the normal menus (leaving the side buttons, or another screen opening).
+static void ReleaseSideButtonKeys()
+{
+	s_side_col = -1;
+	if (!s_side_keys_owned)
+		return;
+	for (const ImGuiKey key : s_side_keys)
+		ImGui::SetKeyOwner(key, ImGuiKeyOwner_NoOwner);
+	s_side_keys_owned = false;
+	ImGui::SetNavCursorVisible(true);
+}
 
 void FullscreenUI::DrawGameGridSideButtons()
 {
@@ -1312,6 +1349,7 @@ void FullscreenUI::DrawGameGridSideButtons()
 		{ICON_FA_ARROWS_ROTATE, FSUI_NSTR("Refresh (L2)"), 4},
 		{ICON_FA_POWER_OFF, FSUI_NSTR("Quit"), 5},
 	};
+	static constexpr int counts[2] = {static_cast<int>(std::size(left)), static_cast<int>(std::size(right))};
 
 	ImGuiWindow* window = ImGui::GetCurrentWindow();
 	const ImVec2 win_pos = window->Pos;
@@ -1322,44 +1360,84 @@ void FullscreenUI::DrawGameGridSideButtons()
 	const float top = win_pos.y + win_size.y * 0.22f;
 	const ImVec2 saved_cursor = ImGui::GetCursorScreenPos();
 	const ImVec2 saved_max = window->DC.CursorMaxPos;
+	const ImGuiID owner = window->GetID("##side_buttons");
+	const bool has_games = !s_game_list_sorted_entries.empty();
+	const bool dialog_open = AreAnyDialogsOpen();
+	if (dialog_open)
+		ReleaseSideButtonKeys();
 
-	ImDrawList* dl = ImGui::GetWindowDrawList();
-	ImFont* font = g_medium_font.first;
-	const float fs = g_medium_font.second * 0.8f;
-
-	// which button the D-pad lands on when coming from the covers: the one nearest that row
-	int focus_action = -1;
+	// who has the controller
 	if (s_side_focus_request >= 0)
 	{
-		const SideButton* list = (s_side_focus_request == 0) ? left : right;
-		const u32 count = (s_side_focus_request == 0) ? static_cast<u32>(std::size(left)) : static_cast<u32>(std::size(right));
+		s_side_col = s_side_focus_request;
 		float best = FLT_MAX;
-		for (u32 i = 0; i < count; i++)
+		for (int i = 0; i < counts[s_side_col]; i++)
 		{
 			const float d = std::abs((top + step * i) - s_side_focus_y);
 			if (d < best)
 			{
 				best = d;
-				focus_action = list[i].action;
+				s_side_row = i;
 			}
 		}
 		s_side_focus_request = -1;
 	}
+	else if (!has_games && s_side_col < 0 && !dialog_open)
+	{
+		// no games yet: start on Game Folders so you can add your PS2 folder
+		s_side_col = 0;
+		s_side_row = 2;
+	}
 
-	auto draw = [&](const SideButton& b, float cx, float cy) {
+	int pressed_action = -1;
+	if (s_side_col >= 0 && !dialog_open)
+	{
+		OwnSideButtonKeys(owner);
+		ImGui::SetNavCursorVisible(false);
+
+		auto pressed = [](ImGuiKey pad, ImGuiKey key, bool repeat) {
+			return ImGui::IsKeyPressed(pad, repeat) || ImGui::IsKeyPressed(key, repeat);
+		};
+		if (pressed(ImGuiKey_GamepadDpadUp, ImGuiKey_UpArrow, true))
+			s_side_row = std::max(0, s_side_row - 1);
+		else if (pressed(ImGuiKey_GamepadDpadDown, ImGuiKey_DownArrow, true))
+			s_side_row = std::min(counts[s_side_col] - 1, s_side_row + 1);
+		else if (pressed(ImGuiKey_GamepadDpadRight, ImGuiKey_RightArrow, false))
+		{
+			if (s_side_col == 0 && has_games)
+				ReleaseSideButtonKeys();  // back to the covers
+			else
+				s_side_col = 1;
+		}
+		else if (pressed(ImGuiKey_GamepadDpadLeft, ImGuiKey_LeftArrow, false))
+		{
+			if (s_side_col == 1 && has_games)
+				ReleaseSideButtonKeys();
+			else
+				s_side_col = 0;
+		}
+		else if (pressed(ImGuiKey_GamepadFaceDown, ImGuiKey_Enter, false) || ImGui::IsKeyPressed(ImGuiKey_Space, false))
+		{
+			if (s_side_col >= 0)
+				pressed_action = (s_side_col == 0 ? left : right)[std::min(s_side_row, counts[s_side_col] - 1)].action;
+		}
+		if (s_side_col >= 0)
+			s_side_row = std::min(s_side_row, counts[s_side_col] - 1);
+	}
+
+	ImDrawList* dl = ImGui::GetWindowDrawList();
+	ImFont* font = g_medium_font.first;
+	const float fs = g_medium_font.second * 0.8f;
+
+	auto draw = [&](const SideButton& b, int col, int row, float cx, float cy) {
 		ImGui::SetCursorScreenPos(ImVec2(cx - r, cy - r));
 		ImGui::PushID(b.action);
-		bool pressed = ImGui::InvisibleButton("##side", ImVec2(r * 2.0f, r * 2.0f));
-		if (b.action == focus_action)
-		{
-			ImGui::SetFocusID(ImGui::GetItemID(), window);
-			ImGui::NavMoveRequestCancel();
-			ImGui::SetNavCursorVisible(true);
-		}
-		const bool focused = ImGui::IsItemFocused() || ImGui::IsItemHovered();
-		// A on a highlighted side button presses it
-		if (ImGui::IsItemFocused() && ImGui::IsKeyPressed(ImGuiKey_GamepadFaceDown, false))
-			pressed = true;
+		// mouse/touch still works; the controller is handled above
+		ImGui::PushItemFlag(ImGuiItemFlags_NoNav, true);
+		if (ImGui::InvisibleButton("##side", ImVec2(r * 2.0f, r * 2.0f)))
+			pressed_action = b.action;
+		ImGui::PopItemFlag();
+		const bool focused = (s_side_col == col && s_side_row == row) || ImGui::IsItemHovered();
 		ImGui::PopID();
 
 		const float rr = focused ? r * 1.15f : r;
@@ -1374,43 +1452,47 @@ void FullscreenUI::DrawGameGridSideButtons()
 		const char* label = Host::TranslateToCString(TR_CONTEXT, b.label);
 		const ImVec2 lts = font->CalcTextSizeA(fs, FLT_MAX, 0.0f, label);
 		dl->AddText(font, fs, ImVec2(cx - lts.x * 0.5f, cy + rr + 8.0f * s), IM_COL32(255, 255, 255, 255), label);
-
-		if (!pressed)
-			return;
-		switch (b.action)
-		{
-			case 0: SwitchToLanding(); break;
-			case 1:
-				SwitchToSettings();
-				QueueResetFocus(FocusResetType::WindowChanged);
-				break;
-			case 6:
-				s_current_main_window = MainWindowType::GameListSettings;
-				QueueResetFocus(FocusResetType::WindowChanged);
-				break;
-			case 2: OpenCoverDownloaderWindow(); break;
-			case 3: s_game_list_view = GameListView::List; break;
-			case 4:
-				ShowToast(std::string(), FSUI_STR("Scanning for new games..."), 4.0f);
-				Host::RefreshGameListAsync(false);
-				break;
-			default:
-				s_current_main_window = MainWindowType::Exit;
-				QueueResetFocus(FocusResetType::WindowChanged);
-				break;
-		}
 	};
 
 	const float left_x = win_pos.x + 80.0f * s;
 	const float right_x = win_pos.x + win_size.x - 80.0f * s;
-	for (u32 i = 0; i < std::size(left); i++)
-		draw(left[i], left_x, top + step * i);
-	for (u32 i = 0; i < std::size(right); i++)
-		draw(right[i], right_x, top + step * i);
+	for (int i = 0; i < counts[0]; i++)
+		draw(left[i], 0, i, left_x, top + step * i);
+	for (int i = 0; i < counts[1]; i++)
+		draw(right[i], 1, i, right_x, top + step * i);
 
 	// don't let the buttons change how far the grid scrolls
 	ImGui::SetCursorScreenPos(saved_cursor);
 	window->DC.CursorMaxPos = saved_max;
+
+	if (pressed_action < 0)
+		return;
+
+	// leaving this screen (or the button list): hand the controller back first
+	if (pressed_action != 4)
+		ReleaseSideButtonKeys();
+	switch (pressed_action)
+	{
+		case 0: SwitchToLanding(); break;
+		case 1:
+			SwitchToSettings();
+			QueueResetFocus(FocusResetType::WindowChanged);
+			break;
+		case 2: OpenCoverDownloaderWindow(); break;
+		case 3: s_game_list_view = GameListView::List; break;
+		case 4:
+			ShowToast(std::string(), FSUI_STR("Scanning for new games..."), 4.0f);
+			Host::RefreshGameListAsync(false);
+			break;
+		case 6:
+			s_current_main_window = MainWindowType::GameListSettings;
+			QueueResetFocus(FocusResetType::WindowChanged);
+			break;
+		default:
+			s_current_main_window = MainWindowType::Exit;
+			QueueResetFocus(FocusResetType::WindowChanged);
+			break;
+	}
 }
 
 void FullscreenUI::DrawCustomBackground()
