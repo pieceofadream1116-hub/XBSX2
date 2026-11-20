@@ -1290,6 +1290,9 @@ void FullscreenUI::DrawGameGridStatus(const ImVec2& heading_size)
 
 // Round buttons down each side of the game grid. Move to them with the D-pad (past the first or
 // last game in a row) and press A; the shortcut buttons still work too.
+static int s_side_focus_request = -1;  // 0 = left buttons, 1 = right buttons
+static float s_side_focus_y = 0.0f;
+
 void FullscreenUI::DrawGameGridSideButtons()
 {
 	struct SideButton
@@ -1301,6 +1304,7 @@ void FullscreenUI::DrawGameGridSideButtons()
 	static constexpr SideButton left[] = {
 		{ICON_FA_HOUSE, FSUI_NSTR("Home"), 0},
 		{ICON_FA_SLIDERS, FSUI_NSTR("Settings (Start)"), 1},
+		{ICON_FA_FOLDER_OPEN, FSUI_NSTR("Game Folders"), 6},
 		{ICON_FA_IMAGE, FSUI_NSTR("Covers (Back)"), 2},
 	};
 	static constexpr SideButton right[] = {
@@ -1314,7 +1318,7 @@ void FullscreenUI::DrawGameGridSideButtons()
 	const ImVec2 win_size = window->Size;
 	const float s = ImGui::GetIO().DisplaySize.y / 1080.0f;
 	const float r = 46.0f * s;
-	const float step = 160.0f * s;
+	const float step = 150.0f * s;
 	const float top = win_pos.y + win_size.y * 0.22f;
 	const ImVec2 saved_cursor = ImGui::GetCursorScreenPos();
 	const ImVec2 saved_max = window->DC.CursorMaxPos;
@@ -1323,11 +1327,39 @@ void FullscreenUI::DrawGameGridSideButtons()
 	ImFont* font = g_medium_font.first;
 	const float fs = g_medium_font.second * 0.8f;
 
+	// which button the D-pad lands on when coming from the covers: the one nearest that row
+	int focus_action = -1;
+	if (s_side_focus_request >= 0)
+	{
+		const SideButton* list = (s_side_focus_request == 0) ? left : right;
+		const u32 count = (s_side_focus_request == 0) ? static_cast<u32>(std::size(left)) : static_cast<u32>(std::size(right));
+		float best = FLT_MAX;
+		for (u32 i = 0; i < count; i++)
+		{
+			const float d = std::abs((top + step * i) - s_side_focus_y);
+			if (d < best)
+			{
+				best = d;
+				focus_action = list[i].action;
+			}
+		}
+		s_side_focus_request = -1;
+	}
+
 	auto draw = [&](const SideButton& b, float cx, float cy) {
 		ImGui::SetCursorScreenPos(ImVec2(cx - r, cy - r));
 		ImGui::PushID(b.action);
-		const bool pressed = ImGui::InvisibleButton("##side", ImVec2(r * 2.0f, r * 2.0f));
+		bool pressed = ImGui::InvisibleButton("##side", ImVec2(r * 2.0f, r * 2.0f));
+		if (b.action == focus_action)
+		{
+			ImGui::SetFocusID(ImGui::GetItemID(), window);
+			ImGui::NavMoveRequestCancel();
+			ImGui::SetNavCursorVisible(true);
+		}
 		const bool focused = ImGui::IsItemFocused() || ImGui::IsItemHovered();
+		// A on a highlighted side button presses it
+		if (ImGui::IsItemFocused() && ImGui::IsKeyPressed(ImGuiKey_GamepadFaceDown, false))
+			pressed = true;
 		ImGui::PopID();
 
 		const float rr = focused ? r * 1.15f : r;
@@ -1348,7 +1380,14 @@ void FullscreenUI::DrawGameGridSideButtons()
 		switch (b.action)
 		{
 			case 0: SwitchToLanding(); break;
-			case 1: SwitchToSettings(); break;
+			case 1:
+				SwitchToSettings();
+				QueueResetFocus(FocusResetType::WindowChanged);
+				break;
+			case 6:
+				s_current_main_window = MainWindowType::GameListSettings;
+				QueueResetFocus(FocusResetType::WindowChanged);
+				break;
 			case 2: OpenCoverDownloaderWindow(); break;
 			case 3: s_game_list_view = GameListView::List; break;
 			case 4:
@@ -2895,7 +2934,8 @@ void FullscreenUI::DrawGameListWindow()
 	}
 	else if (ImGui::IsKeyPressed(ImGuiKey_GamepadStart, false) || ImGui::IsKeyPressed(ImGuiKey_F2))
 	{
-		s_current_main_window = MainWindowType::GameListSettings;
+		// Start: the full Settings (Graphics, aspect ratio...). Game folders have their own side button.
+		SwitchToSettings();
 		QueueResetFocus(FocusResetType::WindowChanged);
 	}
 	else if (ImGui::IsKeyPressed(ImGuiKey_GamepadBack, false) || ImGui::IsKeyPressed(ImGuiKey_F4, false))
@@ -3215,9 +3255,14 @@ void FullscreenUI::DrawGameGrid(const ImVec2& heading_size)
 	const ImVec2 image_size(image_width, image_height);
 	const float item_height = (style.FramePadding.y * 2.0f) + image_height + title_spacing + g_medium_font.second;
 	const ImVec2 item_size(item_width, item_height);
-	const u32 grid_count_x = std::floor(ImGui::GetWindowWidth() / item_width_with_spacing);
-	const float start_x =
-		(static_cast<float>(ImGui::GetWindowWidth()) - (item_width_with_spacing * static_cast<float>(grid_count_x))) * 0.5f;
+	// the covers stay between the two columns of round side buttons (they used to run under them,
+	// so the D-pad could never reach the buttons)
+	const float side_space = LayoutScale(170.0f);
+	const float grid_width = static_cast<float>(ImGui::GetWindowWidth()) - side_space * 2.0f;
+	const u32 grid_count_x = std::max<u32>(1, static_cast<u32>(std::floor(grid_width / item_width_with_spacing)));
+	const float start_x = side_space + (grid_width - (item_width_with_spacing * static_cast<float>(grid_count_x))) * 0.5f;
+	const u32 entry_count = static_cast<u32>(s_game_list_sorted_entries.size());
+	u32 entry_index = 0;
 
 	SmallString draw_title;
 
@@ -3243,8 +3288,29 @@ void FullscreenUI::DrawGameGrid(const ImVec2& heading_size)
 		const ImVec2 pos(window->DC.CursorPos);
 		ImRect bb(pos, pos + item_size);
 		ImGui::ItemSize(item_size);
+		const u32 this_index = entry_index++;
 		if (ImGui::ItemAdd(bb, id))
 		{
+			// D-pad left from the first cover in a row, or right from the last: onto the side buttons
+			if (ImGui::GetFocusID() == id)
+			{
+				if (grid_x == 0 && (ImGui::IsKeyPressed(ImGuiKey_GamepadDpadLeft, false) ||
+										ImGui::IsKeyPressed(ImGuiKey_GamepadLStickLeft, false) ||
+										ImGui::IsKeyPressed(ImGuiKey_LeftArrow, false)))
+				{
+					s_side_focus_request = 0;
+					s_side_focus_y = bb.GetCenter().y;
+				}
+				else if ((grid_x + 1 == grid_count_x || this_index + 1 == entry_count) &&
+						 (ImGui::IsKeyPressed(ImGuiKey_GamepadDpadRight, false) ||
+							 ImGui::IsKeyPressed(ImGuiKey_GamepadLStickRight, false) ||
+							 ImGui::IsKeyPressed(ImGuiKey_RightArrow, false)))
+				{
+					s_side_focus_request = 1;
+					s_side_focus_y = bb.GetCenter().y;
+				}
+			}
+
 			bool held;
 			bool hovered;
 			bool pressed = ImGui::ButtonBehavior(bb, id, &hovered, &held, 0);
