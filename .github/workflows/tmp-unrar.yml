@@ -2,18 +2,22 @@ name: tmp unpack cheat collection (one-time)
 on:
   push:
     branches: [tmp-unrar-cheats]
+permissions:
+  contents: write
 jobs:
   unpack:
+    if: "!contains(github.event.head_commit.message, '[unpacked]')"
     runs-on: ubuntu-latest
     steps:
-      - name: Download and unpack
+      - uses: actions/checkout@v4
+      - name: Unpack and save to this branch
         run: |
-          git clone --depth 1 https://github.com/xGamingDragon93x/PCSX2-Ultimative-Cheats-Collection-PNACH src
-          mkdir out
-          7z x -oout "src/PCSX2 Cheats Ultimative Cheats Collection.rar" > /dev/null
-          find out -type f | head -20
-          find out -type f | wc -l
-      - uses: actions/upload-artifact@v4
-        with:
-          name: ultimative-cheats
-          path: out
+          git clone --depth 1 https://github.com/xGamingDragon93x/PCSX2-Ultimative-Cheats-Collection-PNACH /tmp/src
+          mkdir -p unpacked
+          7z x -ounpacked "/tmp/src/PCSX2 Cheats Ultimative Cheats Collection.rar" > /dev/null
+          find unpacked -type f | wc -l
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add unpacked
+          git commit -qm "Unpacked cheat collection [unpacked]"
+          git push
