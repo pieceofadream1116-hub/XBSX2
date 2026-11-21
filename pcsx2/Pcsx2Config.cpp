@@ -2344,7 +2344,9 @@ void EmuFolders::LoadConfig(SettingsInterface& si)
 	// folder on a USB or other drive when there is one, e.g. E:\XBSX2\textures\SLUS-21050\replacements
 	if (si.GetStringValue("Folders", "Textures", "textures") == "textures")
 	{
-		static constexpr const char* candidates[] = {"XBSX2\\textures", "PCSX2\\textures", "ES-DE\\textures\\ps2", "textures"};
+		static constexpr const char* candidates[] = {
+			"SONY PLAYSTATION 2\\texture packets", "SONY PLAYSTATION 2\\texture packs", "SONY PLAYSTATION 2\\textures",
+			"XBSX2\\textures", "PCSX2\\textures", "ES-DE\\textures\\ps2", "textures"};
 		bool found = false;
 		for (char drive = 'D'; drive <= 'Z' && !found; drive++)
 		{
