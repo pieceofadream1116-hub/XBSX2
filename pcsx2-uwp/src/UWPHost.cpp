@@ -802,6 +802,15 @@ bool UWPHost::InitializeConfig()
 		}
 	}
 
+	// One-time Xbox change: turn on HD texture packs (Load Textures) for existing settings too.
+	// After this the player's own choice in Settings > Graphics is kept.
+	if (!s_base_settings_interface->GetBoolValue("Xbox", "TexturePacksOn", false))
+	{
+		s_base_settings_interface->SetBoolValue("EmuCore/GS", "LoadTextureReplacements", true);
+		s_base_settings_interface->SetBoolValue("Xbox", "TexturePacksOn", true);
+		s_base_settings_interface->Save(&error);
+	}
+
 	// Layer secrets ini on top
 	const std::string secrets_path(Path::Combine(EmuFolders::Settings, "secrets.ini"));
 	const bool secrets_settings_exists = FileSystem::FileExists(secrets_path.c_str());

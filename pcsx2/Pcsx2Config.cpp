@@ -789,7 +789,12 @@ Pcsx2Config::GSOptions::GSOptions()
 	DumpTexturesWithFMVActive = false;
 	DumpDirectTextures = true;
 	DumpPaletteTextures = true;
+#if defined(WINRT_XBOX)
+	// Xbox: use HD texture packs whenever one is there for the game (see EmuFolders::LoadConfig)
+	LoadTextureReplacements = true;
+#else
 	LoadTextureReplacements = false;
+#endif
 	LoadTextureReplacementsAsync = true;
 	PrecacheTextureReplacements = false;
 
@@ -2334,6 +2339,28 @@ void EmuFolders::LoadConfig(SettingsInterface& si)
 	UserResources = LoadPathFromSettings(si, DataRoot, "UserResources", "resources");
 	Cache = LoadPathFromSettings(si, DataRoot, "Cache", "cache");
 	Textures = LoadPathFromSettings(si, DataRoot, "Textures", "textures");
+#if defined(WINRT_XBOX)
+	// Xbox: if the texture folder is still the default one inside the app, use a texture-pack
+	// folder on a USB or other drive when there is one, e.g. E:\XBSX2\textures\SLUS-21050\replacements
+	if (si.GetStringValue("Folders", "Textures", "textures") == "textures")
+	{
+		static constexpr const char* candidates[] = {"XBSX2\\textures", "PCSX2\\textures", "ES-DE\\textures\\ps2", "textures"};
+		bool found = false;
+		for (char drive = 'D'; drive <= 'Z' && !found; drive++)
+		{
+			for (const char* sub : candidates)
+			{
+				const std::string path = fmt::format("{}:\\{}", drive, sub);
+				if (FileSystem::DirectoryExists(path.c_str()))
+				{
+					Textures = path;
+					found = true;
+					break;
+				}
+			}
+		}
+	}
+#endif
 	InputProfiles = LoadPathFromSettings(si, DataRoot, "InputProfiles", "inputprofiles");
 	Videos = LoadPathFromSettings(si, DataRoot, "Videos", "videos");
 	DebuggerLayouts = LoadPathFromSettings(si, Settings, "DebuggerLayouts", "debuggerlayouts");
