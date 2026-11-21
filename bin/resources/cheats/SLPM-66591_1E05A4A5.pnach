@@ -1,0 +1,9 @@
+gametitle=FLATOUT 2 GTR　-がんばれ！とびだせ！レーシング！！- [SLPM-66591] [1E05A4A5]
+
+[Cheats\Max Cash]
+patch=1,EE,00993B61,extended,000000FF
+patch=1,EE,00993B62,extended,000000FF
+
+[Cheats\Unlock All events and races]
+patch=1,EE,40997730,extended,000F0001
+patch=1,EE,01010101,extended,00000000

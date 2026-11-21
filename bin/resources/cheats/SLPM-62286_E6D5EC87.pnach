@@ -1,0 +1,4 @@
+gametitle=モンスターバス [SLPM-62286] [E6D5EC87]
+
+[Cheats\Max Bag]
+patch=1,EE,21CFE73C,extended,0098967F

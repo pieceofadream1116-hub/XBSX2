@@ -12,7 +12,7 @@ description=Unlock Everything
 // Unlock Everything
 patch=1,EE,2033BA10,extended,FFFFFFFF
 
-[Unlock Everything]
+[Unlock Everything (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Everything
 // Unlock Everything
@@ -30,7 +30,7 @@ description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,20340D98,extended,00003C00
 
-[Infinite Health P1]
+[Infinite Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1
 // Infinite Health P1
@@ -40,15 +40,9 @@ patch=1,EE,20340D94,extended,3C003C00
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P1
 // 75% Health P1
-patch=1,EE,20340D98,extended,00003C00
-
-[75% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=75% Health P1
-// 75% Health P1
 patch=1,EE,D0320D94,extended,00302D00
 
-[75% Health P1]
+[75% Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P1
 // 75% Health P1
@@ -58,15 +52,9 @@ patch=1,EE,20340D94,extended,2D002D00
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P1
 // 50% Health P1
-patch=1,EE,20340D98,extended,00003C00
-
-[50% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=50% Health P1
-// 50% Health P1
 patch=1,EE,D0320D94,extended,00301E00
 
-[50% Health P1]
+[50% Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P1
 // 50% Health P1
@@ -76,15 +64,9 @@ patch=1,EE,20340D94,extended,1E001E00
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P1
 // 25% Health P1
-patch=1,EE,20340D98,extended,00003C00
-
-[25% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=25% Health P1
-// 25% Health P1
 patch=1,EE,D0320D94,extended,00300F00
 
-[25% Health P1]
+[25% Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P1
 // 25% Health P1
@@ -94,25 +76,13 @@ patch=1,EE,20340D94,extended,0F000F00
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death P1
 // 1-Hit Death P1
-patch=1,EE,20340D98,extended,00003C00
-
-[1-Hit Death P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=1-Hit Death P1
-// 1-Hit Death P1
 patch=1,EE,D0320D94,extended,00300001
 
-[1-Hit Death P1]
+[1-Hit Death P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death P1
 // 1-Hit Death P1
 patch=1,EE,20340D94,extended,00010001
-
-[No Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P1
-// No Health P1
-patch=1,EE,20340D98,extended,00003C00
 
 [No Health P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -156,7 +126,7 @@ description=P1 Needs 1 Win To Win
 // P1 Needs 1 Win To Win
 patch=1,EE,D0341726,extended,00010000
 
-[P1 Needs 1 Win To Win]
+[P1 Needs 1 Win To Win (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Needs 1 Win To Win
 // P1 Needs 1 Win To Win
@@ -168,97 +138,67 @@ description=P1 Never Wins
 // P1 Never Wins
 patch=1,EE,00341726,extended,00000000
 
-[Infinite Health P1]
+[Infinite Health P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,20341358,extended,00003C00
 
-[Infinite Health P1]
+[Infinite Health P1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,20341354,extended,3C003C00
 
-[75% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=75% Health P1
-// 75% Health P1
-patch=1,EE,20341358,extended,00003C00
-
-[75% Health P1]
+[75% Health P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P1
 // 75% Health P1
 patch=1,EE,D0341354,extended,00302D00
 
-[75% Health P1]
+[75% Health P1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P1
 // 75% Health P1
 patch=1,EE,20341354,extended,2D002D00
 
-[50% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=50% Health P1
-// 50% Health P1
-patch=1,EE,20341358,extended,00003C00
-
-[50% Health P1]
+[50% Health P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P1
 // 50% Health P1
 patch=1,EE,D0341354,extended,00301E00
 
-[50% Health P1]
+[50% Health P1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P1
 // 50% Health P1
 patch=1,EE,20341354,extended,1E001E00
 
-[25% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=25% Health P1
-// 25% Health P1
-patch=1,EE,20341358,extended,00003C00
-
-[25% Health P1]
+[25% Health P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P1
 // 25% Health P1
 patch=1,EE,D0341354,extended,00300F00
 
-[25% Health P1]
+[25% Health P1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P1
 // 25% Health P1
 patch=1,EE,20341354,extended,0F000F00
 
-[1-Hit Death P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=1-Hit Death P1
-// 1-Hit Death P1
-patch=1,EE,20341358,extended,00003C00
-
-[1-Hit Death P1]
+[1-Hit Death P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death P1
 // 1-Hit Death P1
 patch=1,EE,D0341354,extended,00300001
 
-[1-Hit Death P1]
+[1-Hit Death P1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death P1
 // 1-Hit Death P1
 patch=1,EE,20341354,extended,00010001
 
-[No Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P1
-// No Health P1
-patch=1,EE,20341358,extended,00003C00
-
-[No Health P1]
+[No Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Health P1
 // No Health P1
@@ -300,7 +240,7 @@ description=P2 Needs 1 Win To Win
 // P2 Needs 1 Win To Win
 patch=1,EE,D0341164,extended,00010000
 
-[P2 Needs 1 Win To Win]
+[P2 Needs 1 Win To Win (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Needs 1 Win To Win
 // P2 Needs 1 Win To Win
@@ -311,3 +251,27 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Never Wins
 // P2 Never Wins
 patch=1,EE,00341164,extended,00000000
+
+[Cheats\Infinite Bealth]
+patch=1,EE,20340D94,extended,38403840
+
+[Cheats\Infinite Health P1]
+patch=1,EE,20340D98,extended,00003C00
+patch=1,EE,20340D94,extended,3C003C00
+
+[Cheats\P1 Needs 1 Win To Win]
+patch=1,EE,D0341726,extended,00010000
+patch=1,EE,00341726,extended,00000001
+
+[Cheats\1 Hit Death P2]
+patch=1,EE,20341358,extended,00003C00
+patch=1,EE,D0341354,extended,00300001
+patch=1,EE,20341354,extended,00010001
+
+[Cheats\No Bealth P2]
+patch=1,EE,20341358,extended,00003C00
+patch=1,EE,20341354,extended,00010001
+
+[Cheats\Unlock Everything]
+patch=1,EE,2033BA10,extended,FFFFFFFF
+patch=1,EE,2033BA14,extended,FFFFFFFF

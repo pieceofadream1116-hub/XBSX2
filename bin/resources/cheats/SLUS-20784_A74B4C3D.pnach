@@ -24,43 +24,43 @@ description=Max Score
 // Max Score
 patch=1,EE,200C0220,extended,3421967F
 
-[Max Score]
+[Max Score (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,200C0224,extended,AE010068
 
-[Max Score]
+[Max Score (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,200C0228,extended,AE01006C
 
-[Max Score]
+[Max Score (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,200C022C,extended,C6000068
 
-[Max Score]
+[Max Score (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,200C0230,extended,03E00008
 
-[Max Score]
+[Max Score (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,200C0234,extended,C602006C
 
-[Max Score]
+[Max Score (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,20137958,extended,0C030088
 
-[Max Score]
+[Max Score (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
@@ -84,7 +84,7 @@ description=Unlock All Story Mode Levels
 // Unlock All Story Mode Levels
 patch=1,EE,402DC700,extended,000F0003
 
-[Unlock All Story Mode Levels]
+[Unlock All Story Mode Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Story Mode Levels
 // Unlock All Story Mode Levels
@@ -96,7 +96,7 @@ description=Have Best Time Trial Laps-All Tracks
 // Have Best Time Trial Laps-All Tracks
 patch=1,EE,402DC7BC,extended,000A0002
 
-[Have Best Time Trial Laps-All Tracks]
+[Have Best Time Trial Laps-All Tracks (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Best Time Trial Laps-All Tracks
 // Have Best Time Trial Laps-All Tracks
@@ -108,19 +108,13 @@ description=Unlock All Stunt Driving Courses
 // Unlock All Stunt Driving Courses
 patch=1,EE,402DC808,extended,00040004
 
-[Unlock All Stunt Driving Courses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Stunt Driving Courses
-// Unlock All Stunt Driving Courses
-patch=1,EE,00000001,extended,00000000
-
 [Stunt Driving Course Grade A-All Courses]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stunt Driving Course Grade A-All Courses
 // Stunt Driving Course Grade A-All Courses
 patch=1,EE,402DC80C,extended,00040004
 
-[Stunt Driving Course Grade A-All Courses]
+[Stunt Driving Course Grade A-All Courses (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stunt Driving Course Grade A-All Courses
 // Stunt Driving Course Grade A-All Courses
@@ -132,7 +126,7 @@ description=Stunt Driving Course Max Score-All Courses
 // Stunt Driving Course Max Score-All Courses
 patch=1,EE,402DC810,extended,00040004
 
-[Stunt Driving Course Max Score-All Courses]
+[Stunt Driving Course Max Score-All Courses (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stunt Driving Course Max Score-All Courses
 // Stunt Driving Course Max Score-All Courses
@@ -144,23 +138,11 @@ description=Unlock MINI Cooper Vehicles-All Colors
 // Unlock MINI Cooper Vehicles-All Colors
 patch=1,EE,402DC878,extended,00040001
 
-[Unlock MINI Cooper Vehicles-All Colors]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock MINI Cooper Vehicles-All Colors
-// Unlock MINI Cooper Vehicles-All Colors
-patch=1,EE,00000001,extended,00000000
-
 [Unlock MINI Cooper S Vehicles-All Colors]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock MINI Cooper S Vehicles-All Colors
 // Unlock MINI Cooper S Vehicles-All Colors
 patch=1,EE,402DC888,extended,00030001
-
-[Unlock MINI Cooper S Vehicles-All Colors]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock MINI Cooper S Vehicles-All Colors
-// Unlock MINI Cooper S Vehicles-All Colors
-patch=1,EE,00000001,extended,00000000
 
 [Unlock Original MINI Cooper Vehicle-All Colors]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -168,20 +150,42 @@ description=Unlock Original MINI Cooper Vehicle-All Colors
 // Unlock Original MINI Cooper Vehicle-All Colors
 patch=1,EE,402DC894,extended,00040001
 
-[Unlock Original MINI Cooper Vehicle-All Colors]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock Original MINI Cooper Vehicle-All Colors
-// Unlock Original MINI Cooper Vehicle-All Colors
-patch=1,EE,00000001,extended,00000000
-
 [Unlock All Cars]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Cars
 // Unlock All Cars
 patch=1,EE,402DC8A4,extended,000A0001
 
-[Unlock All Cars]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Cars
-// Unlock All Cars
+[Cheats\Max Score]
+patch=1,EE,200C0220,extended,3421967F
+patch=1,EE,200C0224,extended,AE010068
+patch=1,EE,200C0228,extended,AE01006C
+patch=1,EE,200C022C,extended,C6000068
+patch=1,EE,200C0230,extended,03E00008
+patch=1,EE,200C0234,extended,C602006C
+patch=1,EE,20137958,extended,0C030088
+patch=1,EE,2013795C,extended,3C014B18
+
+[Cheats\Unlock All Story Mode Levels]
+patch=1,EE,402DC700,extended,000F0003
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Have Best Time Trial Laps All Tracks]
+patch=1,EE,402DC7BC,extended,000A0002
+patch=1,EE,00000031,extended,00000000
+
+[Cheats\Unlock All Stunt Driving Courses]
+patch=1,EE,402DC808,extended,00040004
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock MINI Cooper Vehicle All Colors]
+patch=1,EE,402DC878,extended,00040001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock Original MINI Cooper Vehicle All Colors]
+patch=1,EE,402DC894,extended,00040001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock All Cars]
+patch=1,EE,402DC8A4,extended,000A0001
 patch=1,EE,00000001,extended,00000000

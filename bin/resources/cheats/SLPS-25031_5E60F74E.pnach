@@ -1,0 +1,7 @@
+gametitle=マイト アンド マジック ～デイ・オブ・ザ・デストロイヤー～ [SLPS-25031] [5E60F74E]
+
+[Cheats\Max Money]
+patch=1,EE,203B06F8,extended,05F5E0FF
+
+[Cheats\Max Food]
+patch=1,EE,203B06EC,extended,0001869F

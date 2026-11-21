@@ -6,7 +6,7 @@ description=Timers Never Increase
 // Timers Never Increase
 patch=1,EE,901156A4,extended,0C046B58
 
-[Timers Never Increase]
+[Timers Never Increase (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Timers Never Increase
 // Timers Never Increase
@@ -30,7 +30,7 @@ description=Super Max BOR
 // Super Max BOR
 patch=1,EE,20286940,extended,4E729FFF
 
-[Super Max BOR]
+[Super Max BOR (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Max BOR
 // Super Max BOR
@@ -82,12 +82,6 @@ patch=1,EE,10286960,extended,0000FFFF
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Quick Exp Gain
 // Super Quick Exp Gain
-patch=1,EE,10286960,extended,0000FFFF
-
-[Super Quick Exp Gain]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Super Quick Exp Gain
-// Super Quick Exp Gain
 patch=1,EE,00286962,extended,000000FF
 
 [Infinite HP]
@@ -108,7 +102,7 @@ description=Max ATK
 // Max ATK
 patch=1,EE,202869EC,extended,0000270F
 
-[Max ATK]
+[Max ATK (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
@@ -120,7 +114,7 @@ description=Max DEF
 // Max DEF
 patch=1,EE,202869F0,extended,0000270F
 
-[Max DEF]
+[Max DEF (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
@@ -132,7 +126,7 @@ description=Max INT
 // Max INT
 patch=1,EE,202869F4,extended,0000270F
 
-[Max INT]
+[Max INT (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max INT
 // Max INT
@@ -144,7 +138,7 @@ description=Max RES
 // Max RES
 patch=1,EE,202869F8,extended,0000270F
 
-[Max RES]
+[Max RES (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max RES
 // Max RES
@@ -156,7 +150,7 @@ description=Max SPD
 // Max SPD
 patch=1,EE,202869FC,extended,0000270F
 
-[Max SPD]
+[Max SPD (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max SPD
 // Max SPD
@@ -174,7 +168,7 @@ description=Max Equip HP+
 // Max Equip HP+
 patch=1,EE,20286A50,extended,00002710
 
-[Max Equip HP+]
+[Max Equip HP+ (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Equip HP+
 // Max Equip HP+
@@ -186,7 +180,7 @@ description=Max Equip ATK+
 // Max Equip ATK+
 patch=1,EE,10286A54,extended,00002710
 
-[Max Equip ATK+]
+[Max Equip ATK+ (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Equip ATK+
 // Max Equip ATK+
@@ -198,7 +192,7 @@ description=Max Equip DEF+
 // Max Equip DEF+
 patch=1,EE,10286A56,extended,00002710
 
-[Max Equip DEF+]
+[Max Equip DEF+ (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Equip DEF+
 // Max Equip DEF+
@@ -210,7 +204,7 @@ description=Max Equip INT+
 // Max Equip INT+
 patch=1,EE,10286A58,extended,00002710
 
-[Max Equip INT+]
+[Max Equip INT+ (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Equip INT+
 // Max Equip INT+
@@ -222,7 +216,7 @@ description=Max Equip RES+
 // Max Equip RES+
 patch=1,EE,10286A5A,extended,00002710
 
-[Max Equip RES+]
+[Max Equip RES+ (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Equip RES+
 // Max Equip RES+
@@ -234,7 +228,7 @@ description=Max Equip SPD+
 // Max Equip SPD+
 patch=1,EE,10286A5C,extended,00002710
 
-[Max Equip SPD+]
+[Max Equip SPD+ (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Equip SPD+
 // Max Equip SPD+
@@ -672,194 +666,222 @@ description=Slot 32
 // Slot 32
 patch=1,EE,10286B8A,extended,00000063
 
-[Slot 1]
+[Slot 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 1
 // Slot 1
 patch=1,EE,20286A94,extended,000128C0
 
-[Slot 2]
+[Slot 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 2
 // Slot 2
 patch=1,EE,20286A9C,extended,000128C0
 
-[Slot 3]
+[Slot 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 3
 // Slot 3
 patch=1,EE,20286AA4,extended,000128C0
 
-[Slot 4]
+[Slot 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 4
 // Slot 4
 patch=1,EE,20286AAC,extended,000128C0
 
-[Slot 5]
+[Slot 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 5
 // Slot 5
 patch=1,EE,20286AB4,extended,000128C0
 
-[Slot 6]
+[Slot 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 6
 // Slot 6
 patch=1,EE,20286ABC,extended,000128C0
 
-[Slot 7]
+[Slot 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 7
 // Slot 7
 patch=1,EE,20286AC4,extended,000128C0
 
-[Slot 8]
+[Slot 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 8
 // Slot 8
 patch=1,EE,20286ACC,extended,000128C0
 
-[Slot 9]
+[Slot 9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 9
 // Slot 9
 patch=1,EE,20286AD4,extended,000128C0
 
-[Slot 10]
+[Slot 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 10
 // Slot 10
 patch=1,EE,20286ADC,extended,000128C0
 
-[Slot 11]
+[Slot 11 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 11
 // Slot 11
 patch=1,EE,20286AE4,extended,000128C0
 
-[Slot 12]
+[Slot 12 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 12
 // Slot 12
 patch=1,EE,20286AEC,extended,000128C0
 
-[Slot 13]
+[Slot 13 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 13
 // Slot 13
 patch=1,EE,20286AF4,extended,000128C0
 
-[Slot 14]
+[Slot 14 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 14
 // Slot 14
 patch=1,EE,20286AFC,extended,000128C0
 
-[Slot 15]
+[Slot 15 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 15
 // Slot 15
 patch=1,EE,20286B04,extended,000128C0
 
-[Slot 16]
+[Slot 16 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 16
 // Slot 16
 patch=1,EE,20286B0C,extended,000128C0
 
-[Slot 17]
+[Slot 17 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 17
 // Slot 17
 patch=1,EE,20286B14,extended,000128C0
 
-[Slot 18]
+[Slot 18 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 18
 // Slot 18
 patch=1,EE,20286B1C,extended,000128C0
 
-[Slot 19]
+[Slot 19 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 19
 // Slot 19
 patch=1,EE,20286B24,extended,000128C0
 
-[Slot 20]
+[Slot 20 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 20
 // Slot 20
 patch=1,EE,20286B2C,extended,000128C0
 
-[Slot 21]
+[Slot 21 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 21
 // Slot 21
 patch=1,EE,20286B34,extended,000128C0
 
-[Slot 22]
+[Slot 22 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 22
 // Slot 22
 patch=1,EE,20286B3C,extended,000128C0
 
-[Slot 23]
+[Slot 23 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 23
 // Slot 23
 patch=1,EE,20286B44,extended,000128C0
 
-[Slot 24]
+[Slot 24 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 24
 // Slot 24
 patch=1,EE,20286B4C,extended,000128C0
 
-[Slot 25]
+[Slot 25 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 25
 // Slot 25
 patch=1,EE,20286B54,extended,000128C0
 
-[Slot 26]
+[Slot 26 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 26
 // Slot 26
 patch=1,EE,20286B5C,extended,000128C0
 
-[Slot 27]
+[Slot 27 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 27
 // Slot 27
 patch=1,EE,20286B64,extended,000128C0
 
-[Slot 28]
+[Slot 28 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 28
 // Slot 28
 patch=1,EE,20286B6C,extended,000128C0
 
-[Slot 29]
+[Slot 29 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 29
 // Slot 29
 patch=1,EE,20286B74,extended,000128C0
 
-[Slot 30]
+[Slot 30 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 30
 // Slot 30
 patch=1,EE,20286B7C,extended,000128C0
 
-[Slot 31]
+[Slot 31 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 31
 // Slot 31
 patch=1,EE,20286B84,extended,000128C0
 
-[Slot 32]
+[Slot 32 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 32
 // Slot 32
 patch=1,EE,20286B8C,extended,000128C0
+
+[Cheats\Infinitr HP Character 1]
+patch=1,EE,202869DC,extended,0098967F
+patch=1,EE,202869E4,extended,0098967F
+
+[Cheats\Infinitr HP Character 2]
+patch=1,EE,20286CE4,extended,0098967F
+patch=1,EE,20286CEC,extended,0098967F
+
+[Cheats\Infinitr HP Character 3]
+patch=1,EE,20286FEC,extended,0098967F
+patch=1,EE,20286FF4,extended,0098967F
+
+[Cheats\Infinitr HP Character 4]
+patch=1,EE,202872F4,extended,0098967F
+patch=1,EE,202872FC,extended,0098967F
+
+[Cheats\Enable Debug Mode]
+patch=1,EE,201004B8,extended,8F848814
+patch=1,EE,201004BC,extended,34840002
+patch=1,EE,201004C0,extended,1000000B
+patch=1,EE,201004C4,extended,AF848814
+patch=1,EE,D0260442,extended,0000FEFF
+patch=1,EE,20248744,extended,000004B0
+patch=1,EE,D0260442,extended,0000FDFF
+patch=1,EE,20248744,extended,0000000A
+patch=1,EE,D0260442,extended,0000FFFB
+patch=1,EE,20248744,extended,00000014

@@ -1,0 +1,11 @@
+gametitle=雨格子の館 一柳和、最初の受難 The Best Price [SLPS-25847] [693FC982]
+
+[Cheats\Unlock All Omake Room]
+patch=1,EE,0038D3E4,extended,00000003
+
+[Cheats\Unlock All Bonus Survey Diary]
+patch=1,EE,4038D8CC,extended,00130001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats\Enable Debug ModeSelect toggles debug menu on - off. Select+Triangle toggles a debug meter.Select+Up Down toggles debug menu page.L3 pauses unpauses the game]
+patch=1,EE,0037DC30,extended,00000001

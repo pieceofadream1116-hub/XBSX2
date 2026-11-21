@@ -1,0 +1,4 @@
+gametitle=家族計画～心の絆～ [SLPM-65889] [6CF94A43]
+
+[Cheats\Enable Debug Display]
+patch=1,EE,201566A4,extended,24050001

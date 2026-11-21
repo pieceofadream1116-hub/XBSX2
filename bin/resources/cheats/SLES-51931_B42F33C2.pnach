@@ -66,19 +66,19 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,240200C8
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,AC82002C
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -246,7 +246,7 @@ description=Unlock All Database-All Characters
 // Unlock All Database-All Characters
 patch=1,EE,40D59CB8,extended,00040005
 
-[Unlock All Database-All Characters]
+[Unlock All Database-All Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Database-All Characters
 // Unlock All Database-All Characters

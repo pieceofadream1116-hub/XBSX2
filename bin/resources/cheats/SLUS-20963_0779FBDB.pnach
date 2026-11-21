@@ -1,4 +1,28 @@
-gametitle=Final Fantasy XII [SLUS-20963] [0779FBDB]
+gametitle=Final Fantasy XII [UNKNOWN] [0779FBDB]
+
+[L1+L2 For Max Gil]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=L1+L2 For Max Gil
+// L1+L2 For Max Gil
+patch=1,EE,D056BB5C,extended,0000FAFF
+
+[L1+L2 For Max Gil (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=L1+L2 For Max Gil
+// L1+L2 For Max Gil
+patch=1,EE,20547F08,extended,05F5E0FF
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,202EC6E4,extended,24032710
+
+[Quick License Points]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick License Points
+// Quick License Points
+patch=1,EE,202EC72C,extended,24022710
 
 [Max Exp/Lv. 99]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -6,13 +30,13 @@ description=Max Exp/Lv. 99
 // Max Exp/Lv. 99
 patch=1,EE,9045C190,extended,0C117A69
 
-[Max Exp/Lv. 99]
+[Max Exp/Lv. 99 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp/Lv. 99
 // Max Exp/Lv. 99
 patch=1,EE,21780C20,extended,03E00008
 
-[Max Exp/Lv. 99]
+[Max Exp/Lv. 99 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp/Lv. 99
 // Max Exp/Lv. 99
@@ -23,12 +47,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Gil
 // Infinite Gil
 patch=1,EE,10547F08,extended,0000FFFF
-
-[Max Gil]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Gil
-// Max Gil
-patch=1,EE,20547F08,extended,05F5E0FF
 
 [Always Low Game Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -48,7 +66,7 @@ description=Have All Spells
 // Have All Spells
 patch=1,EE,4054EF70,extended,00040001
 
-[Have All Spells]
+[Have All Spells (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Spells
 // Have All Spells
@@ -60,7 +78,7 @@ description=Infinity HP
 // Infinity HP
 patch=1,EE,2030C108,extended,00000000
 
-[Infinity HP]
+[Infinity HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity HP
 // Infinity HP
@@ -72,17 +90,11 @@ description=Max Infinite HP
 // Max Infinite HP
 patch=1,EE,2030C108,extended,2402270F
 
-[Max Infinite HP]
+[Max Infinite HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite HP
 // Max Infinite HP
 patch=1,EE,2030C10C,extended,AE620024
-
-[Max Infinite HP]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Infinite HP
-// Max Infinite HP
-patch=1,EE,2030C110,extended,AE620048
 
 [Infinity MP]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -90,19 +102,19 @@ description=Infinity MP
 // Infinity MP
 patch=1,EE,2030C154,extended,00000000
 
-[Infinity MP]
+[Infinity MP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity MP
 // Infinity MP
 patch=1,EE,2030C170,extended,86620028
 
-[Infinity MP]
+[Infinity MP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity MP
 // Infinity MP
 patch=1,EE,2030C174,extended,A662004C
 
-[Infinity MP]
+[Infinity MP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity MP
 // Infinity MP
@@ -114,7 +126,7 @@ description=Always Full Action Gauge
 // Always Full Action Gauge
 patch=1,EE,2030C6C4,extended,AEB5070C
 
-[Always Full Action Gauge]
+[Always Full Action Gauge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Full Action Gauge
 // Always Full Action Gauge
@@ -138,19 +150,19 @@ description=Enemies Drop More Items
 // Enemies Drop More Items
 patch=1,EE,202EC810,extended,00000000
 
-[Enemies Drop More Items]
+[Enemies Drop More Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemies Drop More Items
 // Enemies Drop More Items
 patch=1,EE,203162A8,extended,00000000
 
-[Enemies Drop More Items]
+[Enemies Drop More Items (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemies Drop More Items
 // Enemies Drop More Items
 patch=1,EE,203162F0,extended,109E0004
 
-[Enemies Drop More Items]
+[Enemies Drop More Items (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemies Drop More Items
 // Enemies Drop More Items
@@ -186,7 +198,7 @@ description=Quick Max Gil
 // Quick Max Gil
 patch=1,EE,20323D18,extended,03E00008
 
-[Quick Max Gil]
+[Quick Max Gil (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Max Gil
 // Quick Max Gil
@@ -198,31 +210,31 @@ description=Max Enemy Damage
 // Max Enemy Damage
 patch=1,EE,203C6510,extended,80990005
 
-[Max Enemy Damage]
+[Max Enemy Damage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Enemy Damage
 // Max Enemy Damage
 patch=1,EE,203C6514,extended,13200004
 
-[Max Enemy Damage]
+[Max Enemy Damage (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Enemy Damage
 // Max Enemy Damage
 patch=1,EE,203C65DC,extended,17200003
 
-[Max Enemy Damage]
+[Max Enemy Damage (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Enemy Damage
 // Max Enemy Damage
 patch=1,EE,203C7300,extended,80990005
 
-[Max Enemy Damage]
+[Max Enemy Damage (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Enemy Damage
 // Max Enemy Damage
 patch=1,EE,203C7304,extended,13200004
 
-[Max Enemy Damage]
+[Max Enemy Damage (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Enemy Damage
 // Max Enemy Damage
@@ -234,49 +246,49 @@ description=P1 Press {L3} To Have All Summons
 // P1 Press {L3} To Have All Summons
 patch=1,EE,E008FFFD,extended,0056BADC
 
-[P1 Press {L3} To Have All Summons]
+[P1 Press {L3} To Have All Summons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3} To Have All Summons
 // P1 Press {L3} To Have All Summons
 patch=1,EE,1054EFE2,extended,00007FFC
 
-[P1 Press {L3} To Have All Summons]
+[P1 Press {L3} To Have All Summons (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3} To Have All Summons
 // P1 Press {L3} To Have All Summons
 patch=1,EE,1054A29E,extended,00007FFC
 
-[P1 Press {L3} To Have All Summons]
+[P1 Press {L3} To Have All Summons (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3} To Have All Summons
 // P1 Press {L3} To Have All Summons
 patch=1,EE,1054A462,extended,00007FFC
 
-[P1 Press {L3} To Have All Summons]
+[P1 Press {L3} To Have All Summons (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3} To Have All Summons
 // P1 Press {L3} To Have All Summons
 patch=1,EE,1054A626,extended,00007FFC
 
-[P1 Press {L3} To Have All Summons]
+[P1 Press {L3} To Have All Summons (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3} To Have All Summons
 // P1 Press {L3} To Have All Summons
 patch=1,EE,1054A7EA,extended,00007FFC
 
-[P1 Press {L3} To Have All Summons]
+[P1 Press {L3} To Have All Summons (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3} To Have All Summons
 // P1 Press {L3} To Have All Summons
 patch=1,EE,1054A9AE,extended,00007FFC
 
-[P1 Press {L3} To Have All Summons]
+[P1 Press {L3} To Have All Summons (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3} To Have All Summons
 // P1 Press {L3} To Have All Summons
 patch=1,EE,1054AB72,extended,00007FFC
 
-[P1 Press {L3} To Have All Summons]
+[P1 Press {L3} To Have All Summons (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3} To Have All Summons
 // P1 Press {L3} To Have All Summons
@@ -288,7 +300,7 @@ description=P1 Press {R3} For Normal Speed
 // P1 Press {R3} For Normal Speed
 patch=1,EE,D056BADC,extended,0000FFFB
 
-[P1 Press {R3} For Normal Speed]
+[P1 Press {R3} For Normal Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R3} For Normal Speed
 // P1 Press {R3} For Normal Speed
@@ -300,7 +312,7 @@ description=P1 Press {R3}+{R1} For Fast Speed
 // P1 Press {R3}+{R1} For Fast Speed
 patch=1,EE,D056BADC,extended,0000F7FB
 
-[P1 Press {R3}+{R1} For Fast Speed]
+[P1 Press {R3}+{R1} For Fast Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R3}+{R1} For Fast Speed
 // P1 Press {R3}+{R1} For Fast Speed
@@ -312,7 +324,7 @@ description=P1 Press {R3}+{L1} For Super Fast Speed
 // P1 Press {R3}+{L1} For Super Fast Speed
 patch=1,EE,D056BADC,extended,0000FBFB
 
-[P1 Press {R3}+{L1} For Super Fast Speed]
+[P1 Press {R3}+{L1} For Super Fast Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R3}+{L1} For Super Fast Speed
 // P1 Press {R3}+{L1} For Super Fast Speed
@@ -389,12 +401,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Licenses
 // Have All Licenses
 patch=1,EE,4054A29C,extended,000A0001
-
-[Have All Licenses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Licenses
-// Have All Licenses
-patch=1,EE,FFFFFFFF,extended,00000000
 
 [Level 99]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -606,2306 +612,2779 @@ description=Always Best Status
 // Always Best Status
 patch=1,EE,2054A144,extended,7FFE0000
 
-[Max Strength]
+[Max Strength (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,2054A2DC,extended,42C80000
 
-[Max Magick Power]
+[Max Magick Power (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magick Power
 // Max Magick Power
 patch=1,EE,2054A2E0,extended,42C80000
 
-[Max Vitality]
+[Max Vitality (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Vitality
 // Max Vitality
 patch=1,EE,2054A2E4,extended,42C80000
 
-[Max Speed]
+[Max Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2054A2E8,extended,42C80000
 
-[Max HP]
+[Max HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2054A2F0,extended,0000270F
 
-[Max MP]
+[Max MP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,1054A2F4,extended,000003E7
 
-[Infinite HP]
+[Infinite HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2054A314,extended,0000270F
 
-[Infinite MP]
+[Infinite MP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,1054A318,extended,000003E7
 
-[Quick Exp Gain]
+[Quick Exp Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,1054A458,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,2054A458,extended,05F5E0FF
 
-[Max LP]
+[Max LP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max LP
 // Max LP
 patch=1,EE,2054A45C,extended,0001869F
 
-[Have All Licenses]
+[Have All Licenses (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Licenses
 // Have All Licenses
 patch=1,EE,4054A460,extended,000A0001
 
-[Have All Licenses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Licenses
-// Have All Licenses
-patch=1,EE,FFFFFFFF,extended,00000000
-
-[Level 99]
+[Level 99 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0054A48D,extended,00000063
 
-[Never KO]
+[Never KO (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never KO
 // Never KO
 patch=1,EE,7054A308,extended,002000FE
 
-[Never Stone]
+[Never Stone (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stone
 // Never Stone
 patch=1,EE,7054A308,extended,002000FD
 
-[Never Petrify]
+[Never Petrify (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Petrify
 // Never Petrify
 patch=1,EE,7054A308,extended,002000FB
 
-[Never Stop]
+[Never Stop (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stop
 // Never Stop
 patch=1,EE,7054A308,extended,002000F7
 
-[Never Sleep]
+[Never Sleep (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Sleep
 // Never Sleep
 patch=1,EE,7054A308,extended,002000EF
 
-[Never Confuse]
+[Never Confuse (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Confuse
 // Never Confuse
 patch=1,EE,7054A308,extended,002000DF
 
-[Never Doom]
+[Never Doom (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Doom
 // Never Doom
 patch=1,EE,7054A308,extended,002000BF
 
-[Never Blind]
+[Never Blind (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Blind
 // Never Blind
 patch=1,EE,7054A308,extended,0020007F
 
-[Never Poison]
+[Never Poison (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Poison
 // Never Poison
 patch=1,EE,7054A309,extended,002000FE
 
-[Never Silence]
+[Never Silence (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Silence
 // Never Silence
 patch=1,EE,7054A309,extended,002000FD
 
-[Never HP Sap]
+[Never HP Sap (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Sap
 // Never HP Sap
 patch=1,EE,7054A309,extended,002000FB
 
-[Never Oil]
+[Never Oil (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Oil
 // Never Oil
 patch=1,EE,7054A309,extended,002000F7
 
-[Never Reverse]
+[Never Reverse (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reverse
 // Never Reverse
 patch=1,EE,7054A309,extended,002000EF
 
-[Never Disable]
+[Never Disable (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disable
 // Never Disable
 patch=1,EE,7054A309,extended,002000DF
 
-[Never Immobilize]
+[Never Immobilize (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Immobilize
 // Never Immobilize
 patch=1,EE,7054A309,extended,002000BF
 
-[Never Slow]
+[Never Slow (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Slow
 // Never Slow
 patch=1,EE,7054A309,extended,0020007F
 
-[Never Disease]
+[Never Disease (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disease
 // Never Disease
 patch=1,EE,7054A30A,extended,002000FE
 
-[Always Lure]
+[Always Lure (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Lure
 // Always Lure
 patch=1,EE,7054A30A,extended,00000002
 
-[Always Protect]
+[Always Protect (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Protect
 // Always Protect
 patch=1,EE,7054A30A,extended,00000004
 
-[Always Shell]
+[Always Shell (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Shell
 // Always Shell
 patch=1,EE,7054A30A,extended,00000008
 
-[Always Haste]
+[Always Haste (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Haste
 // Always Haste
 patch=1,EE,7054A30A,extended,00000010
 
-[Always Bravery]
+[Always Bravery (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Bravery
 // Always Bravery
 patch=1,EE,7054A30A,extended,00000020
 
-[Always Faith]
+[Always Faith (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Faith
 // Always Faith
 patch=1,EE,7054A30A,extended,00000040
 
-[Always Reflect]
+[Always Reflect (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Reflect
 // Always Reflect
 patch=1,EE,7054A30A,extended,00000080
 
-[Always Invisible]
+[Always Invisible (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Invisible
 // Always Invisible
 patch=1,EE,7054A30B,extended,00000001
 
-[Always HP Regen]
+[Always HP Regen (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HP Regen
 // Always HP Regen
 patch=1,EE,7054A30B,extended,00000002
 
-[Always Float]
+[Always Float (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Float
 // Always Float
 patch=1,EE,7054A30B,extended,00000004
 
-[Always Berserk]
+[Always Berserk (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Berserk
 // Always Berserk
 patch=1,EE,7054A30B,extended,00000008
 
-[Always HPx2 Bubble]
+[Always HPx2 Bubble (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HPx2 Bubble
 // Always HPx2 Bubble
 patch=1,EE,7054A30B,extended,00000010
 
-[Never HP Critical]
+[Never HP Critical (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Critical
 // Never HP Critical
 patch=1,EE,7054A30B,extended,002000DF
 
-[Always Libra]
+[Always Libra (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Libra
 // Always Libra
 patch=1,EE,7054A30B,extended,00000040
 
-[Never X-Zone]
+[Never X-Zone (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never X-Zone
 // Never X-Zone
 patch=1,EE,7054A30B,extended,0020007F
 
-[Always Normal Status]
+[Always Normal Status (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Normal Status
 // Always Normal Status
 patch=1,EE,2054A308,extended,00000000
 
-[Always Best Status]
+[Always Best Status (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Best Status
 // Always Best Status
 patch=1,EE,2054A308,extended,7FFE0000
 
-[Max Strength]
+[Max Strength (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,2054A4A0,extended,42C80000
 
-[Max Magick Power]
+[Max Magick Power (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magick Power
 // Max Magick Power
 patch=1,EE,2054A4A4,extended,42C80000
 
-[Max Vitality]
+[Max Vitality (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Vitality
 // Max Vitality
 patch=1,EE,2054A4A8,extended,42C80000
 
-[Max Speed]
+[Max Speed (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2054A4AC,extended,42C80000
 
-[Max HP]
+[Max HP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2054A4B4,extended,0000270F
 
-[Max MP]
+[Max MP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,1054A4B8,extended,000003E7
 
-[Infinite HP]
+[Infinite HP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2054A4D8,extended,0000270F
 
-[Infinite MP]
+[Infinite MP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,1054A4DC,extended,000003E7
 
-[Quick Exp Gain]
+[Quick Exp Gain (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,1054A61C,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,2054A61C,extended,05F5E0FF
 
-[Max LP]
+[Max LP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max LP
 // Max LP
 patch=1,EE,2054A620,extended,0001869F
 
-[Have All Licenses]
+[Have All Licenses (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Licenses
 // Have All Licenses
 patch=1,EE,4054A624,extended,000A0001
 
-[Have All Licenses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Licenses
-// Have All Licenses
-patch=1,EE,FFFFFFFF,extended,00000000
-
-[Level 99]
+[Level 99 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0054A651,extended,00000063
 
-[Never KO]
+[Never KO (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never KO
 // Never KO
 patch=1,EE,7054A4CC,extended,002000FE
 
-[Never Stone]
+[Never Stone (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stone
 // Never Stone
 patch=1,EE,7054A4CC,extended,002000FD
 
-[Never Petrify]
+[Never Petrify (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Petrify
 // Never Petrify
 patch=1,EE,7054A4CC,extended,002000FB
 
-[Never Stop]
+[Never Stop (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stop
 // Never Stop
 patch=1,EE,7054A4CC,extended,002000F7
 
-[Never Sleep]
+[Never Sleep (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Sleep
 // Never Sleep
 patch=1,EE,7054A4CC,extended,002000EF
 
-[Never Confuse]
+[Never Confuse (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Confuse
 // Never Confuse
 patch=1,EE,7054A4CC,extended,002000DF
 
-[Never Doom]
+[Never Doom (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Doom
 // Never Doom
 patch=1,EE,7054A4CC,extended,002000BF
 
-[Never Blind]
+[Never Blind (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Blind
 // Never Blind
 patch=1,EE,7054A4CC,extended,0020007F
 
-[Never Poison]
+[Never Poison (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Poison
 // Never Poison
 patch=1,EE,7054A4CD,extended,002000FE
 
-[Never Silence]
+[Never Silence (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Silence
 // Never Silence
 patch=1,EE,7054A4CD,extended,002000FD
 
-[Never HP Sap]
+[Never HP Sap (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Sap
 // Never HP Sap
 patch=1,EE,7054A4CD,extended,002000FB
 
-[Never Oil]
+[Never Oil (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Oil
 // Never Oil
 patch=1,EE,7054A4CD,extended,002000F7
 
-[Never Reverse]
+[Never Reverse (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reverse
 // Never Reverse
 patch=1,EE,7054A4CD,extended,002000EF
 
-[Never Disable]
+[Never Disable (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disable
 // Never Disable
 patch=1,EE,7054A4CD,extended,002000DF
 
-[Never Immobilize]
+[Never Immobilize (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Immobilize
 // Never Immobilize
 patch=1,EE,7054A4CD,extended,002000BF
 
-[Never Slow]
+[Never Slow (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Slow
 // Never Slow
 patch=1,EE,7054A4CD,extended,0020007F
 
-[Never Disease]
+[Never Disease (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disease
 // Never Disease
 patch=1,EE,7054A4CE,extended,002000FE
 
-[Always Lure]
+[Always Lure (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Lure
 // Always Lure
 patch=1,EE,7054A4CE,extended,00000002
 
-[Always Protect]
+[Always Protect (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Protect
 // Always Protect
 patch=1,EE,7054A4CE,extended,00000004
 
-[Always Shell]
+[Always Shell (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Shell
 // Always Shell
 patch=1,EE,7054A4CE,extended,00000008
 
-[Always Haste]
+[Always Haste (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Haste
 // Always Haste
 patch=1,EE,7054A4CE,extended,00000010
 
-[Always Bravery]
+[Always Bravery (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Bravery
 // Always Bravery
 patch=1,EE,7054A4CE,extended,00000020
 
-[Always Faith]
+[Always Faith (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Faith
 // Always Faith
 patch=1,EE,7054A4CE,extended,00000040
 
-[Always Reflect]
+[Always Reflect (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Reflect
 // Always Reflect
 patch=1,EE,7054A4CE,extended,00000080
 
-[Always Invisible]
+[Always Invisible (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Invisible
 // Always Invisible
 patch=1,EE,7054A4CF,extended,00000001
 
-[Always HP Regen]
+[Always HP Regen (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HP Regen
 // Always HP Regen
 patch=1,EE,7054A4CF,extended,00000002
 
-[Always Float]
+[Always Float (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Float
 // Always Float
 patch=1,EE,7054A4CF,extended,00000004
 
-[Always Berserk]
+[Always Berserk (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Berserk
 // Always Berserk
 patch=1,EE,7054A4CF,extended,00000008
 
-[Always HPx2 Bubble]
+[Always HPx2 Bubble (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HPx2 Bubble
 // Always HPx2 Bubble
 patch=1,EE,7054A4CF,extended,00000010
 
-[Never HP Critical]
+[Never HP Critical (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Critical
 // Never HP Critical
 patch=1,EE,7054A4CF,extended,002000DF
 
-[Always Libra]
+[Always Libra (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Libra
 // Always Libra
 patch=1,EE,7054A4CF,extended,00000040
 
-[Never X-Zone]
+[Never X-Zone (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never X-Zone
 // Never X-Zone
 patch=1,EE,7054A4CF,extended,0020007F
 
-[Always Normal Status]
+[Always Normal Status (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Normal Status
 // Always Normal Status
 patch=1,EE,2054A4CC,extended,00000000
 
-[Always Best Status]
+[Always Best Status (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Best Status
 // Always Best Status
 patch=1,EE,2054A4CC,extended,7FFE0000
 
-[Max Strength]
+[Max Strength (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,2054A664,extended,42C80000
 
-[Max Magick Power]
+[Max Magick Power (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magick Power
 // Max Magick Power
 patch=1,EE,2054A668,extended,42C80000
 
-[Max Vitality]
+[Max Vitality (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Vitality
 // Max Vitality
 patch=1,EE,2054A66C,extended,42C80000
 
-[Max Speed]
+[Max Speed (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2054A670,extended,42C80000
 
-[Max HP]
+[Max HP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2054A678,extended,0000270F
 
-[Max MP]
+[Max MP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,1054A67C,extended,000003E7
 
-[Infinite HP]
+[Infinite HP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2054A69C,extended,0000270F
 
-[Infinite MP]
+[Infinite MP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,1054A6A0,extended,000003E7
 
-[Quick Exp Gain]
+[Quick Exp Gain (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,1054A7E0,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,2054A7E0,extended,05F5E0FF
 
-[Max LP]
+[Max LP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max LP
 // Max LP
 patch=1,EE,2054A7E4,extended,0001869F
 
-[Have All Licenses]
+[Have All Licenses (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Licenses
 // Have All Licenses
 patch=1,EE,4054A7E8,extended,000A0001
 
-[Have All Licenses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Licenses
-// Have All Licenses
-patch=1,EE,FFFFFFFF,extended,00000000
-
-[Level 99]
+[Level 99 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0054A815,extended,00000063
 
-[Never KO]
+[Never KO (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never KO
 // Never KO
 patch=1,EE,7054A690,extended,002000FE
 
-[Never Stone]
+[Never Stone (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stone
 // Never Stone
 patch=1,EE,7054A690,extended,002000FD
 
-[Never Petrify]
+[Never Petrify (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Petrify
 // Never Petrify
 patch=1,EE,7054A690,extended,002000FB
 
-[Never Stop]
+[Never Stop (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stop
 // Never Stop
 patch=1,EE,7054A690,extended,002000F7
 
-[Never Sleep]
+[Never Sleep (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Sleep
 // Never Sleep
 patch=1,EE,7054A690,extended,002000EF
 
-[Never Confuse]
+[Never Confuse (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Confuse
 // Never Confuse
 patch=1,EE,7054A690,extended,002000DF
 
-[Never Doom]
+[Never Doom (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Doom
 // Never Doom
 patch=1,EE,7054A690,extended,002000BF
 
-[Never Blind]
+[Never Blind (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Blind
 // Never Blind
 patch=1,EE,7054A690,extended,0020007F
 
-[Never Poison]
+[Never Poison (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Poison
 // Never Poison
 patch=1,EE,7054A691,extended,002000FE
 
-[Never Silence]
+[Never Silence (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Silence
 // Never Silence
 patch=1,EE,7054A691,extended,002000FD
 
-[Never HP Sap]
+[Never HP Sap (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Sap
 // Never HP Sap
 patch=1,EE,7054A691,extended,002000FB
 
-[Never Oil]
+[Never Oil (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Oil
 // Never Oil
 patch=1,EE,7054A691,extended,002000F7
 
-[Never Reverse]
+[Never Reverse (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reverse
 // Never Reverse
 patch=1,EE,7054A691,extended,002000EF
 
-[Never Disable]
+[Never Disable (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disable
 // Never Disable
 patch=1,EE,7054A691,extended,002000DF
 
-[Never Immobilize]
+[Never Immobilize (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Immobilize
 // Never Immobilize
 patch=1,EE,7054A691,extended,002000BF
 
-[Never Slow]
+[Never Slow (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Slow
 // Never Slow
 patch=1,EE,7054A691,extended,0020007F
 
-[Never Disease]
+[Never Disease (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disease
 // Never Disease
 patch=1,EE,7054A692,extended,002000FE
 
-[Always Lure]
+[Always Lure (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Lure
 // Always Lure
 patch=1,EE,7054A692,extended,00000002
 
-[Always Protect]
+[Always Protect (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Protect
 // Always Protect
 patch=1,EE,7054A692,extended,00000004
 
-[Always Shell]
+[Always Shell (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Shell
 // Always Shell
 patch=1,EE,7054A692,extended,00000008
 
-[Always Haste]
+[Always Haste (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Haste
 // Always Haste
 patch=1,EE,7054A692,extended,00000010
 
-[Always Bravery]
+[Always Bravery (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Bravery
 // Always Bravery
 patch=1,EE,7054A692,extended,00000020
 
-[Always Faith]
+[Always Faith (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Faith
 // Always Faith
 patch=1,EE,7054A692,extended,00000040
 
-[Always Reflect]
+[Always Reflect (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Reflect
 // Always Reflect
 patch=1,EE,7054A692,extended,00000080
 
-[Always Invisible]
+[Always Invisible (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Invisible
 // Always Invisible
 patch=1,EE,7054A693,extended,00000001
 
-[Always HP Regen]
+[Always HP Regen (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HP Regen
 // Always HP Regen
 patch=1,EE,7054A693,extended,00000002
 
-[Always Float]
+[Always Float (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Float
 // Always Float
 patch=1,EE,7054A693,extended,00000004
 
-[Always Berserk]
+[Always Berserk (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Berserk
 // Always Berserk
 patch=1,EE,7054A693,extended,00000008
 
-[Always HPx2 Bubble]
+[Always HPx2 Bubble (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HPx2 Bubble
 // Always HPx2 Bubble
 patch=1,EE,7054A693,extended,00000010
 
-[Never HP Critical]
+[Never HP Critical (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Critical
 // Never HP Critical
 patch=1,EE,7054A693,extended,002000DF
 
-[Always Libra]
+[Always Libra (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Libra
 // Always Libra
 patch=1,EE,7054A693,extended,00000040
 
-[Never X-Zone]
+[Never X-Zone (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never X-Zone
 // Never X-Zone
 patch=1,EE,7054A693,extended,0020007F
 
-[Always Normal Status]
+[Always Normal Status (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Normal Status
 // Always Normal Status
 patch=1,EE,2054A690,extended,00000000
 
-[Always Best Status]
+[Always Best Status (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Best Status
 // Always Best Status
 patch=1,EE,2054A690,extended,7FFE0000
 
-[Max Strength]
+[Max Strength (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,2054A828,extended,42C80000
 
-[Max Magick Power]
+[Max Magick Power (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magick Power
 // Max Magick Power
 patch=1,EE,2054A82C,extended,42C80000
 
-[Max Vitality]
+[Max Vitality (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Vitality
 // Max Vitality
 patch=1,EE,2054A830,extended,42C80000
 
-[Max Speed]
+[Max Speed (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2054A834,extended,42C80000
 
-[Max HP]
+[Max HP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2054A83C,extended,0000270F
 
-[Max MP]
+[Max MP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,1054A840,extended,000003E7
 
-[Infinite HP]
+[Infinite HP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2054A860,extended,0000270F
 
-[Infinite MP]
+[Infinite MP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,1054A864,extended,000003E7
 
-[Quick Exp Gain]
+[Quick Exp Gain (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,1054A9A4,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,2054A9A4,extended,05F5E0FF
 
-[Max LP]
+[Max LP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max LP
 // Max LP
 patch=1,EE,2054A9A8,extended,0001869F
 
-[Have All Licenses]
+[Have All Licenses (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Licenses
 // Have All Licenses
 patch=1,EE,4054A9AC,extended,000A0001
 
-[Have All Licenses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Licenses
-// Have All Licenses
-patch=1,EE,FFFFFFFF,extended,00000000
-
-[Level 99]
+[Level 99 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0054A9D9,extended,00000063
 
-[Never KO]
+[Never KO (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never KO
 // Never KO
 patch=1,EE,7054A854,extended,002000FE
 
-[Never Stone]
+[Never Stone (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stone
 // Never Stone
 patch=1,EE,7054A854,extended,002000FD
 
-[Never Petrify]
+[Never Petrify (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Petrify
 // Never Petrify
 patch=1,EE,7054A854,extended,002000FB
 
-[Never Stop]
+[Never Stop (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stop
 // Never Stop
 patch=1,EE,7054A854,extended,002000F7
 
-[Never Sleep]
+[Never Sleep (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Sleep
 // Never Sleep
 patch=1,EE,7054A854,extended,002000EF
 
-[Never Confuse]
+[Never Confuse (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Confuse
 // Never Confuse
 patch=1,EE,7054A854,extended,002000DF
 
-[Never Doom]
+[Never Doom (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Doom
 // Never Doom
 patch=1,EE,7054A854,extended,002000BF
 
-[Never Blind]
+[Never Blind (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Blind
 // Never Blind
 patch=1,EE,7054A854,extended,0020007F
 
-[Never Poison]
+[Never Poison (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Poison
 // Never Poison
 patch=1,EE,7054A855,extended,002000FE
 
-[Never Silence]
+[Never Silence (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Silence
 // Never Silence
 patch=1,EE,7054A855,extended,002000FD
 
-[Never HP Sap]
+[Never HP Sap (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Sap
 // Never HP Sap
 patch=1,EE,7054A855,extended,002000FB
 
-[Never Oil]
+[Never Oil (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Oil
 // Never Oil
 patch=1,EE,7054A855,extended,002000F7
 
-[Never Reverse]
+[Never Reverse (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reverse
 // Never Reverse
 patch=1,EE,7054A855,extended,002000EF
 
-[Never Disable]
+[Never Disable (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disable
 // Never Disable
 patch=1,EE,7054A855,extended,002000DF
 
-[Never Immobilize]
+[Never Immobilize (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Immobilize
 // Never Immobilize
 patch=1,EE,7054A855,extended,002000BF
 
-[Never Slow]
+[Never Slow (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Slow
 // Never Slow
 patch=1,EE,7054A855,extended,0020007F
 
-[Never Disease]
+[Never Disease (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disease
 // Never Disease
 patch=1,EE,7054A856,extended,002000FE
 
-[Always Lure]
+[Always Lure (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Lure
 // Always Lure
 patch=1,EE,7054A856,extended,00000002
 
-[Always Protect]
+[Always Protect (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Protect
 // Always Protect
 patch=1,EE,7054A856,extended,00000004
 
-[Always Shell]
+[Always Shell (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Shell
 // Always Shell
 patch=1,EE,7054A856,extended,00000008
 
-[Always Haste]
+[Always Haste (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Haste
 // Always Haste
 patch=1,EE,7054A856,extended,00000010
 
-[Always Bravery]
+[Always Bravery (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Bravery
 // Always Bravery
 patch=1,EE,7054A856,extended,00000020
 
-[Always Faith]
+[Always Faith (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Faith
 // Always Faith
 patch=1,EE,7054A856,extended,00000040
 
-[Always Reflect]
+[Always Reflect (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Reflect
 // Always Reflect
 patch=1,EE,7054A856,extended,00000080
 
-[Always Invisible]
+[Always Invisible (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Invisible
 // Always Invisible
 patch=1,EE,7054A857,extended,00000001
 
-[Always HP Regen]
+[Always HP Regen (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HP Regen
 // Always HP Regen
 patch=1,EE,7054A857,extended,00000002
 
-[Always Float]
+[Always Float (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Float
 // Always Float
 patch=1,EE,7054A857,extended,00000004
 
-[Always Berserk]
+[Always Berserk (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Berserk
 // Always Berserk
 patch=1,EE,7054A857,extended,00000008
 
-[Always HPx2 Bubble]
+[Always HPx2 Bubble (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HPx2 Bubble
 // Always HPx2 Bubble
 patch=1,EE,7054A857,extended,00000010
 
-[Never HP Critical]
+[Never HP Critical (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Critical
 // Never HP Critical
 patch=1,EE,7054A857,extended,002000DF
 
-[Always Libra]
+[Always Libra (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Libra
 // Always Libra
 patch=1,EE,7054A857,extended,00000040
 
-[Never X-Zone]
+[Never X-Zone (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never X-Zone
 // Never X-Zone
 patch=1,EE,7054A857,extended,0020007F
 
-[Always Normal Status]
+[Always Normal Status (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Normal Status
 // Always Normal Status
 patch=1,EE,2054A854,extended,00000000
 
-[Always Best Status]
+[Always Best Status (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Best Status
 // Always Best Status
 patch=1,EE,2054A854,extended,7FFE0000
 
-[Max Strength]
+[Max Strength (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,2054A9EC,extended,42C80000
 
-[Max Magick Power]
+[Max Magick Power (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magick Power
 // Max Magick Power
 patch=1,EE,2054A9F0,extended,42C80000
 
-[Max Vitality]
+[Max Vitality (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Vitality
 // Max Vitality
 patch=1,EE,2054A9F4,extended,42C80000
 
-[Max Speed]
+[Max Speed (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2054A9F8,extended,42C80000
 
-[Max HP]
+[Max HP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2054AA00,extended,0000270F
 
-[Max MP]
+[Max MP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,1054AA04,extended,000003E7
 
-[Infinite HP]
+[Infinite HP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2054AA24,extended,0000270F
 
-[Infinite MP]
+[Infinite MP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,1054AA28,extended,000003E7
 
-[Quick Exp Gain]
+[Quick Exp Gain (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,1054AB68,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,2054AB68,extended,05F5E0FF
 
-[Max LP]
+[Max LP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max LP
 // Max LP
 patch=1,EE,2054AB6C,extended,0001869F
 
-[Have All Licenses]
+[Have All Licenses (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Licenses
 // Have All Licenses
 patch=1,EE,4054AB70,extended,000A0001
 
-[Have All Licenses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Licenses
-// Have All Licenses
-patch=1,EE,FFFFFFFF,extended,00000000
-
-[Level 99]
+[Level 99 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0054AB9D,extended,00000063
 
-[Never KO]
+[Never KO (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never KO
 // Never KO
 patch=1,EE,7054AA18,extended,002000FE
 
-[Never Stone]
+[Never Stone (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stone
 // Never Stone
 patch=1,EE,7054AA18,extended,002000FD
 
-[Never Petrify]
+[Never Petrify (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Petrify
 // Never Petrify
 patch=1,EE,7054AA18,extended,002000FB
 
-[Never Stop]
+[Never Stop (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stop
 // Never Stop
 patch=1,EE,7054AA18,extended,002000F7
 
-[Never Sleep]
+[Never Sleep (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Sleep
 // Never Sleep
 patch=1,EE,7054AA18,extended,002000EF
 
-[Never Confuse]
+[Never Confuse (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Confuse
 // Never Confuse
 patch=1,EE,7054AA18,extended,002000DF
 
-[Never Doom]
+[Never Doom (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Doom
 // Never Doom
 patch=1,EE,7054AA18,extended,002000BF
 
-[Never Blind]
+[Never Blind (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Blind
 // Never Blind
 patch=1,EE,7054AA18,extended,0020007F
 
-[Never Poison]
+[Never Poison (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Poison
 // Never Poison
 patch=1,EE,7054AA19,extended,002000FE
 
-[Never Silence]
+[Never Silence (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Silence
 // Never Silence
 patch=1,EE,7054AA19,extended,002000FD
 
-[Never HP Sap]
+[Never HP Sap (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Sap
 // Never HP Sap
 patch=1,EE,7054AA19,extended,002000FB
 
-[Never Oil]
+[Never Oil (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Oil
 // Never Oil
 patch=1,EE,7054AA19,extended,002000F7
 
-[Never Reverse]
+[Never Reverse (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reverse
 // Never Reverse
 patch=1,EE,7054AA19,extended,002000EF
 
-[Never Disable]
+[Never Disable (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disable
 // Never Disable
 patch=1,EE,7054AA19,extended,002000DF
 
-[Never Immobilize]
+[Never Immobilize (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Immobilize
 // Never Immobilize
 patch=1,EE,7054AA19,extended,002000BF
 
-[Never Slow]
+[Never Slow (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Slow
 // Never Slow
 patch=1,EE,7054AA19,extended,0020007F
 
-[Never Disease]
+[Never Disease (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disease
 // Never Disease
 patch=1,EE,7054AA1A,extended,002000FE
 
-[Always Lure]
+[Always Lure (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Lure
 // Always Lure
 patch=1,EE,7054AA1A,extended,00000002
 
-[Always Protect]
+[Always Protect (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Protect
 // Always Protect
 patch=1,EE,7054AA1A,extended,00000004
 
-[Always Shell]
+[Always Shell (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Shell
 // Always Shell
 patch=1,EE,7054AA1A,extended,00000008
 
-[Always Haste]
+[Always Haste (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Haste
 // Always Haste
 patch=1,EE,7054AA1A,extended,00000010
 
-[Always Bravery]
+[Always Bravery (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Bravery
 // Always Bravery
 patch=1,EE,7054AA1A,extended,00000020
 
-[Always Faith]
+[Always Faith (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Faith
 // Always Faith
 patch=1,EE,7054AA1A,extended,00000040
 
-[Always Reflect]
+[Always Reflect (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Reflect
 // Always Reflect
 patch=1,EE,7054AA1A,extended,00000080
 
-[Always Invisible]
+[Always Invisible (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Invisible
 // Always Invisible
 patch=1,EE,7054AA1B,extended,00000001
 
-[Always HP Regen]
+[Always HP Regen (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HP Regen
 // Always HP Regen
 patch=1,EE,7054AA1B,extended,00000002
 
-[Always Float]
+[Always Float (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Float
 // Always Float
 patch=1,EE,7054AA1B,extended,00000004
 
-[Always Berserk]
+[Always Berserk (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Berserk
 // Always Berserk
 patch=1,EE,7054AA1B,extended,00000008
 
-[Always HPx2 Bubble]
+[Always HPx2 Bubble (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HPx2 Bubble
 // Always HPx2 Bubble
 patch=1,EE,7054AA1B,extended,00000010
 
-[Never HP Critical]
+[Never HP Critical (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Critical
 // Never HP Critical
 patch=1,EE,7054AA1B,extended,002000DF
 
-[Always Libra]
+[Always Libra (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Libra
 // Always Libra
 patch=1,EE,7054AA1B,extended,00000040
 
-[Never X-Zone]
+[Never X-Zone (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never X-Zone
 // Never X-Zone
 patch=1,EE,7054AA1B,extended,0020007F
 
-[Always Normal Status]
+[Always Normal Status (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Normal Status
 // Always Normal Status
 patch=1,EE,2054AA18,extended,00000000
 
-[Always Best Status]
+[Always Best Status (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Best Status
 // Always Best Status
 patch=1,EE,2054AA18,extended,7FFE0000
 
-[Max Strength]
+[Max Strength (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,2054ABB0,extended,42C80000
 
-[Max Magick Power]
+[Max Magick Power (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magick Power
 // Max Magick Power
 patch=1,EE,2054ABB4,extended,42C80000
 
-[Max Vitality]
+[Max Vitality (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Vitality
 // Max Vitality
 patch=1,EE,2054ABB8,extended,42C80000
 
-[Max Speed]
+[Max Speed (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2054ABBC,extended,42C80000
 
-[Max HP]
+[Max HP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2054ABC4,extended,0000270F
 
-[Max MP]
+[Max MP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,1054ABC8,extended,000003E7
 
-[Infinite HP]
+[Infinite HP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2054ABE8,extended,0000270F
 
-[Infinite MP]
+[Infinite MP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,1054ABEC,extended,000003E7
 
-[Quick Exp Gain]
+[Quick Exp Gain (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,1054AD2C,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,2054AD2C,extended,05F5E0FF
 
-[Max LP]
+[Max LP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max LP
 // Max LP
 patch=1,EE,2054AD30,extended,0001869F
 
-[Have All Licenses]
+[Have All Licenses (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Licenses
 // Have All Licenses
 patch=1,EE,4054AD34,extended,000A0001
 
-[Have All Licenses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Licenses
-// Have All Licenses
-patch=1,EE,FFFFFFFF,extended,00000000
-
-[Level 99]
+[Level 99 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0054AD61,extended,00000063
 
-[Never KO]
+[Never KO (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never KO
 // Never KO
 patch=1,EE,7054ABDC,extended,002000FE
 
-[Never Stone]
+[Never Stone (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stone
 // Never Stone
 patch=1,EE,7054ABDC,extended,002000FD
 
-[Never Petrify]
+[Never Petrify (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Petrify
 // Never Petrify
 patch=1,EE,7054ABDC,extended,002000FB
 
-[Never Stop]
+[Never Stop (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stop
 // Never Stop
 patch=1,EE,7054ABDC,extended,002000F7
 
-[Never Sleep]
+[Never Sleep (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Sleep
 // Never Sleep
 patch=1,EE,7054ABDC,extended,002000EF
 
-[Never Confuse]
+[Never Confuse (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Confuse
 // Never Confuse
 patch=1,EE,7054ABDC,extended,002000DF
 
-[Never Doom]
+[Never Doom (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Doom
 // Never Doom
 patch=1,EE,7054ABDC,extended,002000BF
 
-[Never Blind]
+[Never Blind (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Blind
 // Never Blind
 patch=1,EE,7054ABDC,extended,0020007F
 
-[Never Poison]
+[Never Poison (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Poison
 // Never Poison
 patch=1,EE,7054ABDD,extended,002000FE
 
-[Never Silence]
+[Never Silence (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Silence
 // Never Silence
 patch=1,EE,7054ABDD,extended,002000FD
 
-[Never HP Sap]
+[Never HP Sap (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Sap
 // Never HP Sap
 patch=1,EE,7054ABDD,extended,002000FB
 
-[Never Oil]
+[Never Oil (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Oil
 // Never Oil
 patch=1,EE,7054ABDD,extended,002000F7
 
-[Never Reverse]
+[Never Reverse (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reverse
 // Never Reverse
 patch=1,EE,7054ABDD,extended,002000EF
 
-[Never Disable]
+[Never Disable (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disable
 // Never Disable
 patch=1,EE,7054ABDD,extended,002000DF
 
-[Never Immobilize]
+[Never Immobilize (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Immobilize
 // Never Immobilize
 patch=1,EE,7054ABDD,extended,002000BF
 
-[Never Slow]
+[Never Slow (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Slow
 // Never Slow
 patch=1,EE,7054ABDD,extended,0020007F
 
-[Never Disease]
+[Never Disease (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disease
 // Never Disease
 patch=1,EE,7054ABDE,extended,002000FE
 
-[Always Lure]
+[Always Lure (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Lure
 // Always Lure
 patch=1,EE,7054ABDE,extended,00000002
 
-[Always Protect]
+[Always Protect (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Protect
 // Always Protect
 patch=1,EE,7054ABDE,extended,00000004
 
-[Always Shell]
+[Always Shell (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Shell
 // Always Shell
 patch=1,EE,7054ABDE,extended,00000008
 
-[Always Haste]
+[Always Haste (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Haste
 // Always Haste
 patch=1,EE,7054ABDE,extended,00000010
 
-[Always Bravery]
+[Always Bravery (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Bravery
 // Always Bravery
 patch=1,EE,7054ABDE,extended,00000020
 
-[Always Faith]
+[Always Faith (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Faith
 // Always Faith
 patch=1,EE,7054ABDE,extended,00000040
 
-[Always Reflect]
+[Always Reflect (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Reflect
 // Always Reflect
 patch=1,EE,7054ABDE,extended,00000080
 
-[Always Invisible]
+[Always Invisible (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Invisible
 // Always Invisible
 patch=1,EE,7054ABDF,extended,00000001
 
-[Always HP Regen]
+[Always HP Regen (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HP Regen
 // Always HP Regen
 patch=1,EE,7054ABDF,extended,00000002
 
-[Always Float]
+[Always Float (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Float
 // Always Float
 patch=1,EE,7054ABDF,extended,00000004
 
-[Always Berserk]
+[Always Berserk (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Berserk
 // Always Berserk
 patch=1,EE,7054ABDF,extended,00000008
 
-[Always HPx2 Bubble]
+[Always HPx2 Bubble (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HPx2 Bubble
 // Always HPx2 Bubble
 patch=1,EE,7054ABDF,extended,00000010
 
-[Never HP Critical]
+[Never HP Critical (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Critical
 // Never HP Critical
 patch=1,EE,7054ABDF,extended,002000DF
 
-[Always Libra]
+[Always Libra (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Libra
 // Always Libra
 patch=1,EE,7054ABDF,extended,00000040
 
-[Never X-Zone]
+[Never X-Zone (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never X-Zone
 // Never X-Zone
 patch=1,EE,7054ABDF,extended,0020007F
 
-[Always Normal Status]
+[Always Normal Status (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Normal Status
 // Always Normal Status
 patch=1,EE,2054ABDC,extended,00000000
 
-[Always Best Status]
+[Always Best Status (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Best Status
 // Always Best Status
 patch=1,EE,2054ABDC,extended,7FFE0000
 
-[Max Strength]
+[Max Strength (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,2054AD74,extended,42C80000
 
-[Max Magick Power]
+[Max Magick Power (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magick Power
 // Max Magick Power
 patch=1,EE,2054AD78,extended,42C80000
 
-[Max Vitality]
+[Max Vitality (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Vitality
 // Max Vitality
 patch=1,EE,2054AD7C,extended,42C80000
 
-[Max Speed]
+[Max Speed (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2054AD80,extended,42C80000
 
-[Max HP]
+[Max HP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2054AD88,extended,0000270F
 
-[Max MP]
+[Max MP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,1054AD8C,extended,000003E7
 
-[Infinite HP]
+[Infinite HP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2054ADAC,extended,0000270F
 
-[Infinite MP]
+[Infinite MP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,1054ADB0,extended,000003E7
 
-[Quick Exp Gain]
+[Quick Exp Gain (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,1054AEF0,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,2054AEF0,extended,05F5E0FF
 
-[Max LP]
+[Max LP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max LP
 // Max LP
 patch=1,EE,2054AEF4,extended,0001869F
 
-[Have All Licenses]
+[Have All Licenses (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Licenses
 // Have All Licenses
 patch=1,EE,4054AEF8,extended,000A0001
 
-[Have All Licenses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Licenses
-// Have All Licenses
-patch=1,EE,FFFFFFFF,extended,00000000
-
-[Level 99]
+[Level 99 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0054AF25,extended,00000063
 
-[Never KO]
+[Never KO (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never KO
 // Never KO
 patch=1,EE,7054ADA0,extended,002000FE
 
-[Never Stone]
+[Never Stone (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stone
 // Never Stone
 patch=1,EE,7054ADA0,extended,002000FD
 
-[Never Petrify]
+[Never Petrify (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Petrify
 // Never Petrify
 patch=1,EE,7054ADA0,extended,002000FB
 
-[Never Stop]
+[Never Stop (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stop
 // Never Stop
 patch=1,EE,7054ADA0,extended,002000F7
 
-[Never Sleep]
+[Never Sleep (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Sleep
 // Never Sleep
 patch=1,EE,7054ADA0,extended,002000EF
 
-[Never Confuse]
+[Never Confuse (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Confuse
 // Never Confuse
 patch=1,EE,7054ADA0,extended,002000DF
 
-[Never Doom]
+[Never Doom (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Doom
 // Never Doom
 patch=1,EE,7054ADA0,extended,002000BF
 
-[Never Blind]
+[Never Blind (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Blind
 // Never Blind
 patch=1,EE,7054ADA0,extended,0020007F
 
-[Never Poison]
+[Never Poison (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Poison
 // Never Poison
 patch=1,EE,7054ADA1,extended,002000FE
 
-[Never Silence]
+[Never Silence (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Silence
 // Never Silence
 patch=1,EE,7054ADA1,extended,002000FD
 
-[Never HP Sap]
+[Never HP Sap (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Sap
 // Never HP Sap
 patch=1,EE,7054ADA1,extended,002000FB
 
-[Never Oil]
+[Never Oil (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Oil
 // Never Oil
 patch=1,EE,7054ADA1,extended,002000F7
 
-[Never Reverse]
+[Never Reverse (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reverse
 // Never Reverse
 patch=1,EE,7054ADA1,extended,002000EF
 
-[Never Disable]
+[Never Disable (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disable
 // Never Disable
 patch=1,EE,7054ADA1,extended,002000DF
 
-[Never Immobilize]
+[Never Immobilize (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Immobilize
 // Never Immobilize
 patch=1,EE,7054ADA1,extended,002000BF
 
-[Never Slow]
+[Never Slow (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Slow
 // Never Slow
 patch=1,EE,7054ADA1,extended,0020007F
 
-[Never Disease]
+[Never Disease (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disease
 // Never Disease
 patch=1,EE,7054ADA2,extended,002000FE
 
-[Always Lure]
+[Always Lure (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Lure
 // Always Lure
 patch=1,EE,7054ADA2,extended,00000002
 
-[Always Protect]
+[Always Protect (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Protect
 // Always Protect
 patch=1,EE,7054ADA2,extended,00000004
 
-[Always Shell]
+[Always Shell (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Shell
 // Always Shell
 patch=1,EE,7054ADA2,extended,00000008
 
-[Always Haste]
+[Always Haste (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Haste
 // Always Haste
 patch=1,EE,7054ADA2,extended,00000010
 
-[Always Bravery]
+[Always Bravery (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Bravery
 // Always Bravery
 patch=1,EE,7054ADA2,extended,00000020
 
-[Always Faith]
+[Always Faith (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Faith
 // Always Faith
 patch=1,EE,7054ADA2,extended,00000040
 
-[Always Reflect]
+[Always Reflect (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Reflect
 // Always Reflect
 patch=1,EE,7054ADA2,extended,00000080
 
-[Always Invisible]
+[Always Invisible (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Invisible
 // Always Invisible
 patch=1,EE,7054ADA3,extended,00000001
 
-[Always HP Regen]
+[Always HP Regen (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HP Regen
 // Always HP Regen
 patch=1,EE,7054ADA3,extended,00000002
 
-[Always Float]
+[Always Float (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Float
 // Always Float
 patch=1,EE,7054ADA3,extended,00000004
 
-[Always Berserk]
+[Always Berserk (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Berserk
 // Always Berserk
 patch=1,EE,7054ADA3,extended,00000008
 
-[Always HPx2 Bubble]
+[Always HPx2 Bubble (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HPx2 Bubble
 // Always HPx2 Bubble
 patch=1,EE,7054ADA3,extended,00000010
 
-[Never HP Critical]
+[Never HP Critical (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Critical
 // Never HP Critical
 patch=1,EE,7054ADA3,extended,002000DF
 
-[Always Libra]
+[Always Libra (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Libra
 // Always Libra
 patch=1,EE,7054ADA3,extended,00000040
 
-[Never X-Zone]
+[Never X-Zone (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never X-Zone
 // Never X-Zone
 patch=1,EE,7054ADA3,extended,0020007F
 
-[Always Normal Status]
+[Always Normal Status (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Normal Status
 // Always Normal Status
 patch=1,EE,2054ADA0,extended,00000000
 
-[Always Best Status]
+[Always Best Status (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Best Status
 // Always Best Status
 patch=1,EE,2054ADA0,extended,7FFE0000
 
-[Max Strength]
+[Max Strength (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,2054AF38,extended,42C80000
 
-[Max Magick Power]
+[Max Magick Power (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magick Power
 // Max Magick Power
 patch=1,EE,2054AF3C,extended,42C80000
 
-[Max Vitality]
+[Max Vitality (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Vitality
 // Max Vitality
 patch=1,EE,2054AF40,extended,42C80000
 
-[Max Speed]
+[Max Speed (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2054AF44,extended,42C80000
 
-[Max HP]
+[Max HP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2054AF4C,extended,0000270F
 
-[Max MP]
+[Max MP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,1054AF50,extended,000003E7
 
-[Infinite HP]
+[Infinite HP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2054AF70,extended,0000270F
 
-[Infinite MP]
+[Infinite MP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,1054AF74,extended,000003E7
 
-[Quick Exp Gain]
+[Quick Exp Gain (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,1054B0B4,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,2054B0B4,extended,05F5E0FF
 
-[Max LP]
+[Max LP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max LP
 // Max LP
 patch=1,EE,2054B0B8,extended,0001869F
 
-[Have All Licenses]
+[Have All Licenses (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Licenses
 // Have All Licenses
 patch=1,EE,4054B0BC,extended,000A0001
 
-[Have All Licenses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Licenses
-// Have All Licenses
-patch=1,EE,FFFFFFFF,extended,00000000
-
-[Level 99]
+[Level 99 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0054B0E9,extended,00000063
 
-[Never KO]
+[Never KO (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never KO
 // Never KO
 patch=1,EE,7054AF64,extended,002000FE
 
-[Never Stone]
+[Never Stone (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stone
 // Never Stone
 patch=1,EE,7054AF64,extended,002000FD
 
-[Never Petrify]
+[Never Petrify (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Petrify
 // Never Petrify
 patch=1,EE,7054AF64,extended,002000FB
 
-[Never Stop]
+[Never Stop (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Stop
 // Never Stop
 patch=1,EE,7054AF64,extended,002000F7
 
-[Never Sleep]
+[Never Sleep (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Sleep
 // Never Sleep
 patch=1,EE,7054AF64,extended,002000EF
 
-[Never Confuse]
+[Never Confuse (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Confuse
 // Never Confuse
 patch=1,EE,7054AF64,extended,002000DF
 
-[Never Doom]
+[Never Doom (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Doom
 // Never Doom
 patch=1,EE,7054AF64,extended,002000BF
 
-[Never Blind]
+[Never Blind (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Blind
 // Never Blind
 patch=1,EE,7054AF64,extended,0020007F
 
-[Never Poison]
+[Never Poison (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Poison
 // Never Poison
 patch=1,EE,7054AF65,extended,002000FE
 
-[Never Silence]
+[Never Silence (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Silence
 // Never Silence
 patch=1,EE,7054AF65,extended,002000FD
 
-[Never HP Sap]
+[Never HP Sap (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Sap
 // Never HP Sap
 patch=1,EE,7054AF65,extended,002000FB
 
-[Never Oil]
+[Never Oil (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Oil
 // Never Oil
 patch=1,EE,7054AF65,extended,002000F7
 
-[Never Reverse]
+[Never Reverse (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reverse
 // Never Reverse
 patch=1,EE,7054AF65,extended,002000EF
 
-[Never Disable]
+[Never Disable (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disable
 // Never Disable
 patch=1,EE,7054AF65,extended,002000DF
 
-[Never Immobilize]
+[Never Immobilize (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Immobilize
 // Never Immobilize
 patch=1,EE,7054AF65,extended,002000BF
 
-[Never Slow]
+[Never Slow (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Slow
 // Never Slow
 patch=1,EE,7054AF65,extended,0020007F
 
-[Never Disease]
+[Never Disease (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Disease
 // Never Disease
 patch=1,EE,7054AF66,extended,002000FE
 
-[Always Lure]
+[Always Lure (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Lure
 // Always Lure
 patch=1,EE,7054AF66,extended,00000002
 
-[Always Protect]
+[Always Protect (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Protect
 // Always Protect
 patch=1,EE,7054AF66,extended,00000004
 
-[Always Shell]
+[Always Shell (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Shell
 // Always Shell
 patch=1,EE,7054AF66,extended,00000008
 
-[Always Haste]
+[Always Haste (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Haste
 // Always Haste
 patch=1,EE,7054AF66,extended,00000010
 
-[Always Bravery]
+[Always Bravery (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Bravery
 // Always Bravery
 patch=1,EE,7054AF66,extended,00000020
 
-[Always Faith]
+[Always Faith (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Faith
 // Always Faith
 patch=1,EE,7054AF66,extended,00000040
 
-[Always Reflect]
+[Always Reflect (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Reflect
 // Always Reflect
 patch=1,EE,7054AF66,extended,00000080
 
-[Always Invisible]
+[Always Invisible (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Invisible
 // Always Invisible
 patch=1,EE,7054AF67,extended,00000001
 
-[Always HP Regen]
+[Always HP Regen (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HP Regen
 // Always HP Regen
 patch=1,EE,7054AF67,extended,00000002
 
-[Always Float]
+[Always Float (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Float
 // Always Float
 patch=1,EE,7054AF67,extended,00000004
 
-[Always Berserk]
+[Always Berserk (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Berserk
 // Always Berserk
 patch=1,EE,7054AF67,extended,00000008
 
-[Always HPx2 Bubble]
+[Always HPx2 Bubble (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always HPx2 Bubble
 // Always HPx2 Bubble
 patch=1,EE,7054AF67,extended,00000010
 
-[Never HP Critical]
+[Never HP Critical (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never HP Critical
 // Never HP Critical
 patch=1,EE,7054AF67,extended,002000DF
 
-[Always Libra]
+[Always Libra (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Libra
 // Always Libra
 patch=1,EE,7054AF67,extended,00000040
 
-[Never X-Zone]
+[Never X-Zone (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never X-Zone
 // Never X-Zone
 patch=1,EE,7054AF67,extended,0020007F
 
-[Always Normal Status]
+[Always Normal Status (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Normal Status
 // Always Normal Status
 patch=1,EE,2054AF64,extended,00000000
 
-[Always Best Status]
+[Always Best Status (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Best Status
 // Always Best Status
 patch=1,EE,2054AF64,extended,7FFE0000
+
+[Cheats\HP 9999-9999 & MP 999-999 from new game or after save data]
+patch=1,EE,202f4188,extended,10000008
+patch=1,EE,202f41d8,extended,00000000
+
+[Cheats\Infinite HP]
+patch=1,EE,2030c108,extended,00000000
+patch=1,EE,2030c110,extended,AE620048
+
+[Cheats\Infinite HP ALT]
+patch=1,EE,2030D230,extended,0803FFCE
+patch=1,EE,200FFF40,extended,8C820024
+patch=1,EE,200FFF44,extended,AC820048
+patch=1,EE,200FFF50,extended,080C3262
+patch=1,EE,200FFF38,extended,10040005
+
+[Cheats\Infinite MP]
+patch=1,EE,2030c154,extended,00000000
+patch=1,EE,2030c170,extended,86620028
+patch=1,EE,2030c174,extended,A662004C
+patch=1,EE,2030c180,extended,AE020028
+
+[Cheats\Infinite MP aLT]
+patch=1,EE,2030D230,extended,0803FFCE
+patch=1,EE,200FFF48,extended,8C820028
+patch=1,EE,200FFF4C,extended,AC82004C
+patch=1,EE,200FFF50,extended,080C3262
+patch=1,EE,200FFF38,extended,10040005
+
+[Cheats\Max Lizense Points After Fight and After the Fighting License Points 9999]
+patch=1,EE,202ec734,extended,00000000
+
+[Cheats\After a hit Level 99, Exp 999999]
+patch=1,EE,202ec6e8,extended,00000000
+
+[Cheats\Infinite Chocobo Turbo Energy]
+patch=1,EE,203019b0,extended,26040000
+
+[Cheats\Infinite Chocobo Time 999]
+patch=1,EE,203018e0,extended,3C01461C
+
+[Cheats\Vaan All Good Status]
+patch=1,EE,2054A144,extended,567c0000
+
+[Cheats\Ashe All Good Status]
+patch=1,EE,2054A308,extended,567c0000
+
+[Cheats\Fran All Good Status]
+patch=1,EE,2054A4CC,extended,567c0000
+
+[Cheats\Baltier All Good Status]
+patch=1,EE,2054A690,extended,567c0000
+
+[Cheats\Penelo All Good Status]
+patch=1,EE,2054AA18,extended,567c0000
+
+[Cheats\Bash All Good Status]
+patch=1,EE,2054A854,extended,547c0000
+
+[Cheats\Break Damage Limit for 9999+ Damage]
+patch=1,EE,203C5AB8,extended,10000003
+patch=1,EE,203C6204,extended,10000003
+patch=1,EE,203C6254,extended,10000003
+patch=1,EE,203C65DC,extended,10000003
+patch=1,EE,203C685C,extended,10000003
+patch=1,EE,203C6994,extended,10000003
+patch=1,EE,203C6A08,extended,10000003
+patch=1,EE,203C73CC,extended,10000003
+patch=1,EE,203C7674,extended,50000004
+
+[Cheats\P1 Press L3 To Have All Summons]
+patch=1,EE,E008FFFD,extended,0056BADC
+patch=1,EE,1054EFE2,extended,00007FFC
+patch=1,EE,1054A29E,extended,00007FFC
+patch=1,EE,1054A462,extended,00007FFC
+patch=1,EE,1054A626,extended,00007FFC
+patch=1,EE,1054A7EA,extended,00007FFC
+patch=1,EE,1054A9AE,extended,00007FFC
+patch=1,EE,1054AB72,extended,00007FFC
+patch=1,EE,1054AD36,extended,00007FFC
+
+[Cheats\Have All Treasure Chests]
+patch=1,EE,203B7888,extended,2A020000
+patch=1,EE,203B78A0,extended,2A020000
+patch=1,EE,203B77F8,extended,10000019
+
+[Cheats\Have All Items]
+patch=1,EE,4054E7A8,extended,000B0001
+patch=1,EE,00630063,extended,00000000
+patch=1,EE,1054E7FE,extended,00000063
+patch=1,EE,4054E800,extended,00050001
+patch=1,EE,00630063,extended,00000000
+patch=1,EE,1054E822,extended,00000063
+patch=1,EE,2054E824,extended,00630063
+patch=1,EE,405539CC,extended,000B0001
+patch=1,EE,00010000,extended,00020002
+patch=1,EE,405539F8,extended,00050001
+patch=1,EE,002C002B,extended,00020002
+patch=1,EE,20553A0C,extended,003D0035
+patch=1,EE,20553A10,extended,003F003E
+patch=1,EE,005548B8,extended,00000024
+
+[Cheats\All Spells Don't use in the beginning of the game when they just sell White and Black Magic]
+patch=1,EE,FE129B51,extended,800813BF
+patch=1,EE,4054EF70,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats\All Armor Press Select]
+patch=1,EE,E08FFFFE,extended,0056BADC
+patch=1,EE,10553BDC,extended,000010C8
+patch=1,EE,10553BDE,extended,000010C9
+patch=1,EE,10553BE0,extended,000010CA
+patch=1,EE,10553BE2,extended,000010CB
+patch=1,EE,10553BE4,extended,000010CC
+patch=1,EE,10553BE6,extended,000010CD
+patch=1,EE,10553BE8,extended,000010CE
+patch=1,EE,10553BEA,extended,000010CF
+patch=1,EE,10553BEC,extended,000010D0
+patch=1,EE,10553BEE,extended,000010D1
+patch=1,EE,10553BF0,extended,000010D2
+patch=1,EE,10553BF2,extended,000010D3
+patch=1,EE,10553BF4,extended,000010D4
+patch=1,EE,10553BF6,extended,000010D5
+patch=1,EE,10553BF8,extended,000010D6
+patch=1,EE,10553BFA,extended,000010D7
+patch=1,EE,10553BFC,extended,000010D8
+patch=1,EE,10553BFE,extended,000010D9
+patch=1,EE,10553C00,extended,000010DA
+patch=1,EE,10553C02,extended,000010DB
+patch=1,EE,10553C04,extended,000010DC
+patch=1,EE,10553C06,extended,000010DD
+patch=1,EE,10553C08,extended,000010DE
+patch=1,EE,10553C0A,extended,000010DF
+patch=1,EE,10553C0C,extended,000010E0
+patch=1,EE,10553C0E,extended,000010E1
+patch=1,EE,10553C10,extended,000010E2
+patch=1,EE,10553C12,extended,000010E3
+patch=1,EE,10553C14,extended,000010E4
+patch=1,EE,10553C16,extended,000010E5
+patch=1,EE,10553C18,extended,000010E6
+patch=1,EE,10553C1A,extended,000010E7
+patch=1,EE,10553C1C,extended,000010E8
+patch=1,EE,10553C1E,extended,000010E9
+patch=1,EE,10553C20,extended,000010EA
+patch=1,EE,10553C22,extended,000010EB
+patch=1,EE,10553C24,extended,000010EC
+patch=1,EE,10553C26,extended,000010ED
+patch=1,EE,10553C28,extended,000010EE
+patch=1,EE,10553C2A,extended,000010EF
+patch=1,EE,10553C2C,extended,000010F0
+patch=1,EE,10553C2E,extended,000010F1
+patch=1,EE,10553C30,extended,000010F2
+patch=1,EE,10553C32,extended,000010F3
+patch=1,EE,10553C34,extended,000010F4
+patch=1,EE,10553C36,extended,000010F5
+patch=1,EE,10553C38,extended,000010F6
+patch=1,EE,10553C3A,extended,000010F7
+patch=1,EE,10553C3C,extended,000010F8
+patch=1,EE,10553C3E,extended,000010F9
+patch=1,EE,10553C40,extended,000010FA
+patch=1,EE,10553C42,extended,000010FB
+patch=1,EE,10553C44,extended,000010FC
+patch=1,EE,10553C46,extended,000010FD
+patch=1,EE,10553C48,extended,000010FE
+patch=1,EE,10553C4A,extended,000010FF
+patch=1,EE,10553C4C,extended,00001100
+patch=1,EE,10553C4E,extended,00001101
+patch=1,EE,10553C50,extended,00001102
+patch=1,EE,10553C52,extended,00001103
+patch=1,EE,10553C54,extended,00001104
+patch=1,EE,10553C56,extended,00001105
+patch=1,EE,10553C58,extended,00001106
+patch=1,EE,10553C5A,extended,00001107
+patch=1,EE,10553C5C,extended,00001108
+patch=1,EE,10553C5E,extended,00001109
+patch=1,EE,10553C60,extended,0000110A
+patch=1,EE,10553C62,extended,0000110B
+patch=1,EE,10553C64,extended,0000110C
+patch=1,EE,10553C66,extended,0000110D
+patch=1,EE,10553C68,extended,0000110E
+patch=1,EE,10553C6A,extended,0000110F
+patch=1,EE,10553C6C,extended,00001110
+patch=1,EE,10553C6E,extended,00001111
+patch=1,EE,10553C70,extended,00001112
+patch=1,EE,10553C72,extended,00001113
+patch=1,EE,10553C74,extended,00001114
+patch=1,EE,10553C76,extended,00001115
+patch=1,EE,10553C78,extended,00001116
+patch=1,EE,10553C7A,extended,00001117
+patch=1,EE,10553C7C,extended,00001118
+patch=1,EE,10553C7E,extended,00001119
+patch=1,EE,10553C80,extended,0000111A
+patch=1,EE,10553C82,extended,0000111B
+patch=1,EE,10553C84,extended,0000111C
+patch=1,EE,10553C86,extended,0000111D
+patch=1,EE,10553C88,extended,0000111E
+patch=1,EE,10553C8A,extended,0000111F
+patch=1,EE,10553C8C,extended,00001120
+patch=1,EE,10553C8E,extended,00001121
+patch=1,EE,10553C90,extended,00001122
+patch=1,EE,10553C92,extended,00001123
+patch=1,EE,10553C94,extended,00001124
+patch=1,EE,10553C96,extended,00001125
+patch=1,EE,10553C98,extended,00001126
+patch=1,EE,10553C9A,extended,00001127
+patch=1,EE,10553C9C,extended,00001128
+patch=1,EE,10553C9E,extended,00001129
+patch=1,EE,10553CA0,extended,0000112A
+patch=1,EE,10553CA2,extended,0000112B
+patch=1,EE,10553CA4,extended,0000112C
+patch=1,EE,10553CA6,extended,0000112D
+patch=1,EE,10553CA8,extended,0000112E
+patch=1,EE,10553CAA,extended,0000112F
+patch=1,EE,10553CAC,extended,00001130
+patch=1,EE,10553CAE,extended,00001131
+patch=1,EE,10553CB0,extended,00001132
+patch=1,EE,10553CB2,extended,00001133
+patch=1,EE,10553CB4,extended,00001134
+patch=1,EE,10553CB6,extended,00001135
+patch=1,EE,10553CB8,extended,00001136
+patch=1,EE,10553CBA,extended,00001137
+patch=1,EE,10553CBC,extended,00001138
+patch=1,EE,10553CBE,extended,00001139
+patch=1,EE,10553CC0,extended,0000113A
+patch=1,EE,10553CC2,extended,0000113B
+patch=1,EE,10553CC4,extended,0000113C
+patch=1,EE,10553CC6,extended,0000113D
+patch=1,EE,10553CC8,extended,0000113E
+patch=1,EE,10553CCA,extended,0000113F
+patch=1,EE,10553CCC,extended,00001140
+patch=1,EE,10553CCE,extended,00001141
+patch=1,EE,10553CD0,extended,00001142
+patch=1,EE,10553CD2,extended,00001143
+patch=1,EE,10553CD4,extended,00001144
+patch=1,EE,10553CD6,extended,00001145
+patch=1,EE,10553CD8,extended,00001146
+patch=1,EE,10553CDA,extended,00001147
+patch=1,EE,10553CDC,extended,00001148
+patch=1,EE,10553CDE,extended,00001149
+patch=1,EE,10553CE0,extended,0000114A
+patch=1,EE,10553CE2,extended,0000114B
+patch=1,EE,10553CE4,extended,0000114C
+patch=1,EE,10553CE6,extended,0000114D
+patch=1,EE,10553CE8,extended,0000114E
+patch=1,EE,10553CEA,extended,0000114F
+patch=1,EE,10553CEC,extended,00001150
+patch=1,EE,10553CEE,extended,00001151
+patch=1,EE,10553CF0,extended,00001152
+patch=1,EE,10553CF2,extended,00001153
+patch=1,EE,105548C0,extended,0000008C
+patch=1,EE,4054E9B8,extended,00460001
+patch=1,EE,00630063,extended,00000000
+
+[Cheats\All Accessories Press Select]
+patch=1,EE,E033FFFE,extended,0056BADC
+patch=1,EE,10553CF4,extended,00001154
+patch=1,EE,10553CF6,extended,00001155
+patch=1,EE,10553CF8,extended,00001156
+patch=1,EE,10553CFA,extended,00001157
+patch=1,EE,10553CFC,extended,00001158
+patch=1,EE,10553CFE,extended,00001159
+patch=1,EE,10553D00,extended,0000115A
+patch=1,EE,10553D02,extended,0000115B
+patch=1,EE,10553D04,extended,0000115C
+patch=1,EE,10553D06,extended,0000115D
+patch=1,EE,10553D08,extended,0000115E
+patch=1,EE,10553D0A,extended,0000115F
+patch=1,EE,10553D0C,extended,00001160
+patch=1,EE,10553D0E,extended,00001161
+patch=1,EE,10553D10,extended,00001162
+patch=1,EE,10553D12,extended,00001163
+patch=1,EE,10553D14,extended,00001164
+patch=1,EE,10553D16,extended,00001165
+patch=1,EE,10553D18,extended,00001166
+patch=1,EE,10553D1A,extended,00001167
+patch=1,EE,10553D1C,extended,00001168
+patch=1,EE,10553D1E,extended,00001169
+patch=1,EE,10553D20,extended,0000116A
+patch=1,EE,10553D22,extended,0000116B
+patch=1,EE,10553D24,extended,0000116C
+patch=1,EE,10553D26,extended,0000116D
+patch=1,EE,10553D28,extended,0000116E
+patch=1,EE,10553D2A,extended,0000116F
+patch=1,EE,10553D2C,extended,00001170
+patch=1,EE,10553D2E,extended,00001171
+patch=1,EE,10553D30,extended,00001172
+patch=1,EE,10553D32,extended,00001173
+patch=1,EE,10553D34,extended,00001174
+patch=1,EE,10553D36,extended,00001175
+patch=1,EE,10553D38,extended,00001176
+patch=1,EE,10553D3A,extended,00001177
+patch=1,EE,10553D3C,extended,00001178
+patch=1,EE,10553D3E,extended,00001179
+patch=1,EE,10553D40,extended,0000117A
+patch=1,EE,10553D42,extended,0000117B
+patch=1,EE,10553D44,extended,0000117C
+patch=1,EE,10553D46,extended,0000117D
+patch=1,EE,10553D48,extended,0000117E
+patch=1,EE,10553D4A,extended,0000117F
+patch=1,EE,10553D4C,extended,00001180
+patch=1,EE,10553D4E,extended,00001181
+patch=1,EE,10553D50,extended,00001182
+patch=1,EE,10553D52,extended,00001183
+patch=1,EE,105548C4,extended,00000030
+patch=1,EE,4054EAD0,extended,00180001
+patch=1,EE,00630063,extended,00000000
+
+[Cheats\All Ammunition Press Select]
+patch=1,EE,E023FFFE,extended,0056BADC
+patch=1,EE,10553D54,extended,00001184
+patch=1,EE,10553D56,extended,00001185
+patch=1,EE,10553D58,extended,00001186
+patch=1,EE,10553D5A,extended,00001187
+patch=1,EE,10553D5C,extended,00001188
+patch=1,EE,10553D5E,extended,00001189
+patch=1,EE,10553D60,extended,0000118A
+patch=1,EE,10553D62,extended,0000118B
+patch=1,EE,10553D64,extended,0000118C
+patch=1,EE,10553D66,extended,0000118D
+patch=1,EE,10553D68,extended,0000118E
+patch=1,EE,10553D6A,extended,0000118F
+patch=1,EE,10553D6C,extended,00001190
+patch=1,EE,10553D6E,extended,00001191
+patch=1,EE,10553D70,extended,00001192
+patch=1,EE,10553D72,extended,00001193
+patch=1,EE,10553D74,extended,00001194
+patch=1,EE,10553D76,extended,00001195
+patch=1,EE,10553D78,extended,00001196
+patch=1,EE,10553D7A,extended,00001197
+patch=1,EE,10553D7C,extended,00001198
+patch=1,EE,10553D7E,extended,00001199
+patch=1,EE,10553D80,extended,0000119A
+patch=1,EE,10553D82,extended,0000119B
+patch=1,EE,10553D84,extended,0000119C
+patch=1,EE,10553D86,extended,0000119D
+patch=1,EE,10553D88,extended,0000119E
+patch=1,EE,10553D8A,extended,0000119F
+patch=1,EE,10553D8C,extended,000011A0
+patch=1,EE,10553D8E,extended,000011A1
+patch=1,EE,10553D90,extended,000011A2
+patch=1,EE,10553D92,extended,000011A3
+patch=1,EE,105548C8,extended,00000020
+patch=1,EE,4054EB30,extended,00100001
+patch=1,EE,00630063,extended,00000000
+
+[Cheats\All Weapons Press Select]
+patch=1,EE,E0AEFFFE,extended,0056BADC
+patch=1,EE,005548BC,extended,000000AA
+patch=1,EE,4054E82C,extended,00540001
+patch=1,EE,00630063,extended,00000000
+patch=1,EE,10553A4C,extended,00001001
+patch=1,EE,10553A4E,extended,00001002
+patch=1,EE,10553A50,extended,00001003
+patch=1,EE,10553A52,extended,00001004
+patch=1,EE,10553A54,extended,00001005
+patch=1,EE,10553A56,extended,00001006
+patch=1,EE,10553A58,extended,00001007
+patch=1,EE,10553A5A,extended,00001008
+patch=1,EE,10553A5C,extended,00001009
+patch=1,EE,10553A5E,extended,0000100A
+patch=1,EE,10553A60,extended,0000100B
+patch=1,EE,10553A62,extended,0000100C
+patch=1,EE,10553A64,extended,0000100D
+patch=1,EE,10553A66,extended,0000100E
+patch=1,EE,10553A68,extended,0000100F
+patch=1,EE,10553A6A,extended,00001010
+patch=1,EE,10553A6C,extended,00001011
+patch=1,EE,10553A6E,extended,00001012
+patch=1,EE,10553A70,extended,00001013
+patch=1,EE,10553A72,extended,00001014
+patch=1,EE,10553A74,extended,00001015
+patch=1,EE,10553A76,extended,00001016
+patch=1,EE,10553A78,extended,00001017
+patch=1,EE,10553A7A,extended,00001018
+patch=1,EE,10553A7C,extended,00001019
+patch=1,EE,10553A7E,extended,0000101A
+patch=1,EE,10553A80,extended,0000101B
+patch=1,EE,10553A82,extended,0000101C
+patch=1,EE,10553A84,extended,0000101D
+patch=1,EE,10553A86,extended,0000101E
+patch=1,EE,10553A88,extended,0000101F
+patch=1,EE,10553A8A,extended,00001020
+patch=1,EE,10553A8C,extended,00001021
+patch=1,EE,10553A8E,extended,00001022
+patch=1,EE,10553A90,extended,00001023
+patch=1,EE,10553A92,extended,00001024
+patch=1,EE,10553A94,extended,00001025
+patch=1,EE,10553A96,extended,00001026
+patch=1,EE,10553A98,extended,00001027
+patch=1,EE,10553A9A,extended,00001028
+patch=1,EE,10553A9C,extended,00001029
+patch=1,EE,10553A9E,extended,0000102A
+patch=1,EE,10553AA0,extended,0000102B
+patch=1,EE,10553AA2,extended,0000102C
+patch=1,EE,10553AA4,extended,0000102D
+patch=1,EE,10553AA6,extended,0000102E
+patch=1,EE,10553AA8,extended,0000102F
+patch=1,EE,10553AAA,extended,00001030
+patch=1,EE,10553AAC,extended,00001031
+patch=1,EE,10553AAE,extended,00001032
+patch=1,EE,10553AB0,extended,00001033
+patch=1,EE,10553AB2,extended,00001034
+patch=1,EE,10553AB4,extended,00001035
+patch=1,EE,10553AB6,extended,00001036
+patch=1,EE,10553AB8,extended,00001037
+patch=1,EE,10553ABA,extended,00001038
+patch=1,EE,10553ABC,extended,00001039
+patch=1,EE,10553ABE,extended,0000103A
+patch=1,EE,10553AC0,extended,0000103B
+patch=1,EE,10553AC2,extended,0000103C
+patch=1,EE,10553AC4,extended,0000103D
+patch=1,EE,10553AC6,extended,0000103E
+patch=1,EE,10553AC8,extended,0000103F
+patch=1,EE,10553ACA,extended,00001040
+patch=1,EE,10553ACC,extended,00001041
+patch=1,EE,10553ACE,extended,00001042
+patch=1,EE,10553AD0,extended,00001043
+patch=1,EE,10553AD2,extended,00001044
+patch=1,EE,10553AD4,extended,00001045
+patch=1,EE,10553AD6,extended,00001046
+patch=1,EE,10553AD8,extended,00001047
+patch=1,EE,10553ADA,extended,00001048
+patch=1,EE,10553ADC,extended,00001049
+patch=1,EE,10553ADE,extended,0000104A
+patch=1,EE,10553AE0,extended,0000104B
+patch=1,EE,10553AE2,extended,0000104C
+patch=1,EE,10553AE4,extended,0000104D
+patch=1,EE,10553AE6,extended,0000104E
+patch=1,EE,10553AE8,extended,0000104F
+patch=1,EE,10553AEA,extended,00001050
+patch=1,EE,10553AEC,extended,00001051
+patch=1,EE,10553AEE,extended,00001052
+patch=1,EE,10553AF0,extended,00001053
+patch=1,EE,10553AF2,extended,00001054
+patch=1,EE,10553AF4,extended,00001055
+patch=1,EE,10553AF6,extended,00001056
+patch=1,EE,10553AF8,extended,00001057
+patch=1,EE,10553AFA,extended,00001058
+patch=1,EE,10553AFC,extended,00001059
+patch=1,EE,10553AFE,extended,0000105A
+patch=1,EE,10553B00,extended,0000105B
+patch=1,EE,10553B02,extended,0000105C
+patch=1,EE,10553B04,extended,0000105D
+patch=1,EE,10553B06,extended,0000105E
+patch=1,EE,10553B08,extended,0000105F
+patch=1,EE,10553B0A,extended,00001060
+patch=1,EE,10553B0C,extended,00001061
+patch=1,EE,10553B0E,extended,00001062
+patch=1,EE,10553B10,extended,00001063
+patch=1,EE,10553B12,extended,00001064
+patch=1,EE,10553B14,extended,00001065
+patch=1,EE,10553B16,extended,00001066
+patch=1,EE,10553B18,extended,00001067
+patch=1,EE,10553B1A,extended,00001068
+patch=1,EE,10553B1C,extended,00001069
+patch=1,EE,10553B1E,extended,0000106A
+patch=1,EE,10553B20,extended,0000106B
+patch=1,EE,10553B22,extended,0000106C
+patch=1,EE,10553B24,extended,0000106D
+patch=1,EE,10553B26,extended,0000106E
+patch=1,EE,10553B28,extended,0000106F
+patch=1,EE,10553B2A,extended,00001070
+patch=1,EE,10553B2C,extended,00001071
+patch=1,EE,10553B2E,extended,00001072
+patch=1,EE,10553B30,extended,00001073
+patch=1,EE,10553B32,extended,00001074
+patch=1,EE,10553B34,extended,00001075
+patch=1,EE,10553B36,extended,00001076
+patch=1,EE,10553B38,extended,00001077
+patch=1,EE,10553B3A,extended,00001078
+patch=1,EE,10553B3C,extended,00001079
+patch=1,EE,10553B3E,extended,0000107A
+patch=1,EE,10553B40,extended,0000107B
+patch=1,EE,10553B42,extended,0000107C
+patch=1,EE,10553B44,extended,0000107D
+patch=1,EE,10553B46,extended,0000107E
+patch=1,EE,10553B48,extended,0000107F
+patch=1,EE,10553B4A,extended,00001080
+patch=1,EE,10553B4C,extended,00001081
+patch=1,EE,10553B4E,extended,00001082
+patch=1,EE,10553B50,extended,00001083
+patch=1,EE,10553B52,extended,00001084
+patch=1,EE,10553B54,extended,00001085
+patch=1,EE,10553B56,extended,00001086
+patch=1,EE,10553B58,extended,00001087
+patch=1,EE,10553B5A,extended,00001088
+patch=1,EE,10553B5C,extended,00001089
+patch=1,EE,10553B5E,extended,0000108A
+patch=1,EE,10553B60,extended,0000108B
+patch=1,EE,10553B62,extended,0000108C
+patch=1,EE,10553B64,extended,0000108D
+patch=1,EE,10553B66,extended,0000108E
+patch=1,EE,10553B68,extended,0000108F
+patch=1,EE,10553B6A,extended,00001090
+patch=1,EE,10553B6C,extended,00001091
+patch=1,EE,10553B6E,extended,00001092
+patch=1,EE,10553B70,extended,00001093
+patch=1,EE,10553B72,extended,00001094
+patch=1,EE,10553B74,extended,00001095
+patch=1,EE,10553B76,extended,00001096
+patch=1,EE,10553B78,extended,00001097
+patch=1,EE,10553B7A,extended,00001098
+patch=1,EE,10553B7C,extended,00001099
+patch=1,EE,10553B7E,extended,0000109A
+patch=1,EE,10553B80,extended,0000109B
+patch=1,EE,10553B82,extended,0000109C
+patch=1,EE,10553B84,extended,0000109D
+patch=1,EE,10553B86,extended,0000109E
+patch=1,EE,10553B88,extended,0000109F
+patch=1,EE,10553B8A,extended,000010A0
+patch=1,EE,10553B8C,extended,000010A1
+patch=1,EE,10553B8E,extended,000010A2
+patch=1,EE,10553B90,extended,000010A3
+patch=1,EE,10553B92,extended,000010A4
+patch=1,EE,10553B94,extended,000010A5
+patch=1,EE,10553B96,extended,000010A6
+patch=1,EE,10553B98,extended,000010A7
+patch=1,EE,10553B9A,extended,000010A8
+patch=1,EE,0054E982,extended,00000063
+patch=1,EE,0054E82A,extended,00000063
+patch=1,EE,20553B9C,extended,10AD10A9

@@ -1,0 +1,4 @@
+gametitle=ポップンミュージック 8 [SLPM-65316] [18B64A1A]
+
+[Cheats\Always Play Auto]
+patch=1,EE,201D8728,extended,00000001

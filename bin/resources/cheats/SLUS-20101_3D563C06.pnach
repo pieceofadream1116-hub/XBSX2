@@ -12,19 +12,19 @@ description=Infinite Fuel
 // Infinite Fuel
 patch=1,EE,200C0220,extended,AC80079C
 
-[Infinite Fuel]
+[Infinite Fuel (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Fuel
 // Infinite Fuel
 patch=1,EE,200C0224,extended,03E00008
 
-[Infinite Fuel]
+[Infinite Fuel (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Fuel
 // Infinite Fuel
 patch=1,EE,200C0228,extended,C480079C
 
-[Infinite Fuel]
+[Infinite Fuel (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Fuel
 // Infinite Fuel
@@ -42,13 +42,13 @@ description=Infinite Damage
 // Infinite Damage
 patch=1,EE,2012CBE8,extended,00000000
 
-[Infinite Damage]
+[Infinite Damage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Damage
 // Infinite Damage
 patch=1,EE,2012CC1C,extended,00000000
 
-[Infinite Damage]
+[Infinite Damage (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Damage
 // Infinite Damage
@@ -60,7 +60,7 @@ description=Press {L1}+{SELECT} To Stop Timer
 // Press {L1}+{SELECT} To Stop Timer
 patch=1,EE,D03AAA02,extended,0000FBFE
 
-[Press {L1}+{SELECT} To Stop Timer]
+[Press {L1}+{SELECT} To Stop Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} To Stop Timer
 // Press {L1}+{SELECT} To Stop Timer
@@ -72,8 +72,37 @@ description=Press {L2}+{START} To Stop Timer
 // Press {L2}+{START} To Stop Timer
 patch=1,EE,D03AAA02,extended,0000FEFE
 
-[Press {L2}+{START} To Stop Timer]
+[Press {L2}+{START} To Stop Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L2}+{START} To Stop Timer
 // Press {L2}+{START} To Stop Timer
 patch=1,EE,201A0E64,extended,E463000C
+
+[Cheats\Infinite Fuel]
+patch=1,EE,200C0220,extended,AC80079C
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,C480079C
+patch=1,EE,20165948,extended,0C030088
+
+[Cheats\Infinite Damage]
+patch=1,EE,2012CBE8,extended,00000000
+patch=1,EE,2012CC1C,extended,00000000
+patch=1,EE,2012CF7C,extended,00000000
+
+[Cheats\Press L1+select To Stop Timer]
+patch=1,EE,D03AAA02,extended,0000FBFE
+patch=1,EE,201A0E64,extended,00000000
+
+[Cheats\Press L2+start To Stop Timer]
+patch=1,EE,D03AAA02,extended,0000FEFE
+patch=1,EE,201A0E64,extended,E463000C
+
+[Cheats\Have No Car Damage Arcade Mode]
+patch=1,EE,1025D91E,extended,00000000
+patch=1,EE,1025D926,extended,00000000
+patch=1,EE,1025D92A,extended,00000000
+patch=1,EE,1025D92E,extended,00000000
+patch=1,EE,1025D932,extended,00000000
+patch=1,EE,1025D936,extended,00000000
+patch=1,EE,1025D93A,extended,00000000
+patch=1,EE,1025D93E,extended,00000000

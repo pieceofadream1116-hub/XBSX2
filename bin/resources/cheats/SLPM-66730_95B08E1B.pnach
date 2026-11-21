@@ -1,0 +1,8 @@
+gametitle=少年陰陽師 翼よいま、天へ還れ [通常版] [SLPM-66730] [95B08E1B]
+
+[Cheats\Infinite HP In Battle]
+patch=1,EE,2033375A,extended,0000006E
+
+[Cheats\Unlock All Dictionary]
+patch=1,EE,4031BBC0,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000

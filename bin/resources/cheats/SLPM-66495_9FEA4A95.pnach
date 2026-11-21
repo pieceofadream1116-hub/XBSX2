@@ -1,0 +1,5 @@
+gametitle=女子高生 GAME'S-HIGH！ [SLPM-66495] [9FEA4A95]
+
+[Cheats\Max Stat Profile while the code is used and the game data is loaded the effect appears]
+patch=1,EE,009B4784,extended,0000001E
+patch=1,EE,009B4786,extended,0000001E

@@ -1,0 +1,129 @@
+gametitle=Lord of the Ring, The - The Return of the King PAL-M SLES-52017 9771C478
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,0014B334,word,3C030000 //3C033F80
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC Mode at start. FMVs aren't sync and few glitches at main screen title.
+patch=1,EE,00144894,word,24060002 //24060003
+patch=1,EE,00144878,word,0803FFE0 //A7821B8E
+patch=1,EE,000FFF80,word,A7821B8E //00000000
+patch=1,EE,000FFF84,word,240201C0 //00000000
+patch=1,EE,000FFF88,word,0805121F //00000000
+patch=1,EE,0014bd74,word,3c023F4C //3c023f80
+patch=1,EE,0014BD78,word,3442CCCD //44820000
+patch=1,EE,0014BD7C,word,44820000 //03E00008
+patch=1,EE,0014BD80,word,03E00008 //46010002
+patch=1,EE,0014BD84,word,46010002 //00000000
+
+[Cheats\Infinite Health]
+patch=1,EE,201979E8,extended,00000000
+
+[Cheats\1 Hit Kill]
+patch=1,EE,201EE230,extended,AE600090
+
+[Cheats\Unlock Aragorn All Levels Available]
+patch=1,EE,202F38E4,extended,0000FFFF
+patch=1,EE,202F38E8,extended,0000FFF
+
+[Cheats\Unlock Faramir All Levels Available]
+patch=1,EE,202F3AC4,extended,0000FFFF
+patch=1,EE,202F3AC8,extended,0000FFFF
+
+[Cheats\Unlock Frodo All Levels Available]
+patch=1,EE,202F3A10,extended,0000FFFF
+patch=1,EE,202F3A14,extended,0000FFFF
+
+[Cheats\Unlock Gandalf All Levels Available]
+patch=1,EE,202F3998,extended,0000FFFF
+patch=1,EE,202F399C,extended,0000FFFF
+
+[Cheats\Unlock Gimli All Levels Available]
+patch=1,EE,202F395C,extended,0000FFFF
+patch=1,EE,202F3960,extended,0000FFFF
+
+[Cheats\Unlock Legolas All Levels Available]
+patch=1,EE,202F3920,extended,0000FFFF
+patch=1,EE,202F3924,extended,0000FFFF
+
+[Cheats\Unlock Merry All Levels Available]
+patch=1,EE,202F3A88,extended,0000FFFF
+patch=1,EE,202F3A8C,extended,0000FFFF
+
+[Cheats\Unlock Pippin All Levels Available]
+patch=1,EE,202F3A4C,extended,0000FFFF
+patch=1,EE,202F3A50,extended,0000FFFF
+
+[Cheats\Unlock Frodo All Levels Available (2)]
+patch=1,EE,202F39D4,extended,0000FFFF
+patch=1,EE,202F39D8,extended,0000FFFF
+
+[Cheats\Aragorn Rapid Level Gain]
+patch=1,EE,202F3900,extended,49000000
+
+[Cheats\Aragorn All Upgrades]
+patch=1,EE,202F38EC,extended,FFFFFFFF
+patch=1,EE,202F38F0,extended,FFFFFFFF
+
+[Cheats\Aragorn All Levels Availables]
+patch=1,EE,202F38E4,extended,0000FFFF
+patch=1,EE,202F38E8,extended,0000FFFF
+
+[Cheats\Legolas Rapid Level Gain]
+patch=1,EE,202F393C,extended,49000000
+
+[Cheats\Legolas All Upgrades]
+patch=1,EE,202F3928,extended,FFFFFFFF
+patch=1,EE,202F392C,extended,FFFFFFFF
+
+[Cheats\Gimli Rapid Level Gain]
+patch=1,EE,202F3978,extended,49000000
+
+[Cheats\Gimli All Upgrades]
+patch=1,EE,202F3964,extended,FFFFFFFF
+patch=1,EE,202F3968,extended,FFFFFFFF
+
+[Cheats\Gandalf Rapid Level Gain]
+patch=1,EE,202F39B4,extended,49000000
+
+[Cheats\Gandalf All Upgrades]
+patch=1,EE,202F39A0,extended,FFFFFFFF
+patch=1,EE,202F39A4,extended,FFFFFFFF
+
+[Cheats\Sam Rapid Level Gain]
+patch=1,EE,202F39F0,extended,49000000
+
+[Cheats\Sam All Upgrades]
+patch=1,EE,202F39DC,extended,FFFFFFFF
+patch=1,EE,202F39E0,extended,FFFFFFFF
+
+[Cheats\Frodo Rapid Level Gain]
+patch=1,EE,202F3A2C,extended,49000000
+
+[Cheats\Frodo All Upgrades]
+patch=1,EE,202F3A18,extended,FFFFFFFF
+patch=1,EE,202F3A1C,extended,FFFFFFFF
+
+[Cheats\Pippin Rapid Level Gain]
+patch=1,EE,202F3A68,extended,49000000
+
+[Cheats\Pippin All Upgrades]
+patch=1,EE,202F3A54,extended,FFFFFFFF
+patch=1,EE,202F3A58,extended,FFFFFFFF
+
+[Cheats\Merry Rapid Level Gain]
+patch=1,EE,202F3AA4,extended,49000000
+
+[Cheats\Merry All Upgrades]
+patch=1,EE,202F3A90,extended,FFFFFFFF
+patch=1,EE,202F3A94,extended,FFFFFFFF
+
+[Cheats\Faramir Rapid Level Gain]
+patch=1,EE,202F3AE0,extended,49000000
+
+[Cheats\Faramir All Upgrades]
+patch=1,EE,202F3ACC,extended,FFFFFFFF
+patch=1,EE,202F3AD0,extended,FFFFFFFF

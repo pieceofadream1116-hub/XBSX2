@@ -48,17 +48,11 @@ description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,D02A05DC,extended,00000000
 
-[Start On Lap 2]
+[Start On Lap 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,002A05DC,extended,00000001
-
-[Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 3
-// Start On Lap 3
-patch=1,EE,D02A05DC,extended,00000000
 
 [Start On Lap 3]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -72,7 +66,7 @@ description=Access All Riding Spirit Races
 // Access All Riding Spirit Races
 patch=1,EE,20247A78,extended,FFFFFFFF
 
-[Access All Riding Spirit Races]
+[Access All Riding Spirit Races (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Riding Spirit Races
 // Access All Riding Spirit Races
@@ -84,7 +78,7 @@ description=Press {R1}+{CROSS} For Turbo Speed P1
 // Press {R1}+{CROSS} For Turbo Speed P1
 patch=1,EE,D0236882,extended,0000B7FF
 
-[Press {R1}+{CROSS} For Turbo Speed P1]
+[Press {R1}+{CROSS} For Turbo Speed P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {R1}+{CROSS} For Turbo Speed P1
 // Press {R1}+{CROSS} For Turbo Speed P1
@@ -96,7 +90,7 @@ description=Press {R2}+{CROSS} For Super Speed P1
 // Press {R2}+{CROSS} For Super Speed P1
 patch=1,EE,D0236882,extended,0000BDFF
 
-[Press {R2}+{CROSS} For Super Speed P1]
+[Press {R2}+{CROSS} For Super Speed P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {R2}+{CROSS} For Super Speed P1
 // Press {R2}+{CROSS} For Super Speed P1
@@ -108,7 +102,7 @@ description=Press {R1}+{R2}+{CROSS} For Hella Speed P1
 // Press {R1}+{R2}+{CROSS} For Hella Speed P1
 patch=1,EE,D0236882,extended,0000B5FF
 
-[Press {R1}+{R2}+{CROSS} For Hella Speed P1]
+[Press {R1}+{R2}+{CROSS} For Hella Speed P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {R1}+{R2}+{CROSS} For Hella Speed P1
 // Press {R1}+{R2}+{CROSS} For Hella Speed P1
@@ -120,7 +114,7 @@ description=Press {R1}+{CROSS} For Turbo Speed P2
 // Press {R1}+{CROSS} For Turbo Speed P2
 patch=1,EE,D0236982,extended,0000B7FF
 
-[Press {R1}+{CROSS} For Turbo Speed P2]
+[Press {R1}+{CROSS} For Turbo Speed P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {R1}+{CROSS} For Turbo Speed P2
 // Press {R1}+{CROSS} For Turbo Speed P2
@@ -132,7 +126,7 @@ description=Press {R2}+{CROSS} For Super Speed P2
 // Press {R2}+{CROSS} For Super Speed P2
 patch=1,EE,D0236982,extended,0000BDFF
 
-[Press {R2}+{CROSS} For Super Speed P2]
+[Press {R2}+{CROSS} For Super Speed P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {R2}+{CROSS} For Super Speed P2
 // Press {R2}+{CROSS} For Super Speed P2
@@ -144,7 +138,7 @@ description=Press {R1}+{R2}+{CROSS} For Hella Speed P2
 // Press {R1}+{R2}+{CROSS} For Hella Speed P2
 patch=1,EE,D0236982,extended,0000B5FF
 
-[Press {R1}+{R2}+{CROSS} For Hella Speed P2]
+[Press {R1}+{R2}+{CROSS} For Hella Speed P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {R1}+{R2}+{CROSS} For Hella Speed P2
 // Press {R1}+{R2}+{CROSS} For Hella Speed P2
@@ -510,7 +504,7 @@ description=Have Battle Duel Completed-All Bikes
 // Have Battle Duel Completed-All Bikes
 patch=1,EE,40247790,extended,00050001
 
-[Have Battle Duel Completed-All Bikes]
+[Have Battle Duel Completed-All Bikes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Battle Duel Completed-All Bikes
 // Have Battle Duel Completed-All Bikes
@@ -528,7 +522,7 @@ description=Battle From Zero-Battle From Zero Naked
 // Battle From Zero-Battle From Zero Naked
 patch=1,EE,002477B5,extended,00000001
 
-[Battle From Zero-Battle From Zero Sports]
+[Battle From Zero-Battle From Zero Sports (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Battle From Zero-Battle From Zero Sports
 // Battle From Zero-Battle From Zero Sports
@@ -570,13 +564,13 @@ description=Battle From Zero-Battle From Zero 600
 // Battle From Zero-Battle From Zero 600
 patch=1,EE,002477DE,extended,00000001
 
-[Battle From Zero-Battle From Zero Naked]
+[Battle From Zero-Battle From Zero Naked (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Battle From Zero-Battle From Zero Naked
 // Battle From Zero-Battle From Zero Naked
 patch=1,EE,002477DD,extended,00000001
 
-[Battle From Zero-Battle From Zero Sports]
+[Battle From Zero-Battle From Zero Sports (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Battle From Zero-Battle From Zero Sports
 // Battle From Zero-Battle From Zero Sports
@@ -750,13 +744,13 @@ description=Battle From Zero-Battle From Zero Open
 // Battle From Zero-Battle From Zero Open
 patch=1,EE,002477FE,extended,00000001
 
-[Battle From Zero-Battle From Zero Naked]
+[Battle From Zero-Battle From Zero Naked (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Battle From Zero-Battle From Zero Naked
 // Battle From Zero-Battle From Zero Naked
 patch=1,EE,002477FD,extended,00000001
 
-[Battle From Zero-Battle From Zero Sports]
+[Battle From Zero-Battle From Zero Sports (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Battle From Zero-Battle From Zero Sports
 // Battle From Zero-Battle From Zero Sports
@@ -828,19 +822,19 @@ description=Class Race-750 CC
 // Class Race-750 CC
 patch=1,EE,002477E7,extended,00000001
 
-[Class Race-600 CC]
+[Class Race-600 CC (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Class Race-600 CC
 // Class Race-600 CC
 patch=1,EE,002477E6,extended,00000001
 
-[Class Race-400 CC]
+[Class Race-400 CC (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Class Race-400 CC
 // Class Race-400 CC
 patch=1,EE,002477E5,extended,00000001
 
-[Class Race-250 CC]
+[Class Race-250 CC (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Class Race-250 CC
 // Class Race-250 CC
@@ -894,13 +888,13 @@ description=Battle From Zero-Battle From Zero Extreme
 // Battle From Zero-Battle From Zero Extreme
 patch=1,EE,00247826,extended,00000001
 
-[Battle From Zero-Battle From Zero Naked]
+[Battle From Zero-Battle From Zero Naked (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Battle From Zero-Battle From Zero Naked
 // Battle From Zero-Battle From Zero Naked
 patch=1,EE,00247825,extended,00000001
 
-[Battle From Zero-Battle From Zero Sports]
+[Battle From Zero-Battle From Zero Sports (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Battle From Zero-Battle From Zero Sports
 // Battle From Zero-Battle From Zero Sports
@@ -966,32 +960,40 @@ description=Class Race-Extreme
 // Class Race-Extreme
 patch=1,EE,00247811,extended,00000001
 
-[Class Race-Open]
+[Class Race-Open (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Class Race-Open
 // Class Race-Open
 patch=1,EE,00247810,extended,00000001
 
-[Class Race-750 CC]
+[Class Race-750 CC (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Class Race-750 CC
 // Class Race-750 CC
 patch=1,EE,0024780F,extended,00000001
 
-[Class Race-600 CC]
+[Class Race-600 CC (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Class Race-600 CC
 // Class Race-600 CC
 patch=1,EE,0024780E,extended,00000001
 
-[Class Race-400 CC]
+[Class Race-400 CC (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Class Race-400 CC
 // Class Race-400 CC
 patch=1,EE,0024780D,extended,00000001
 
-[Class Race-250 CC]
+[Class Race-250 CC (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Class Race-250 CC
 // Class Race-250 CC
 patch=1,EE,0024780C,extended,00000001
+
+[Cheats\Start On Lap 3]
+patch=1,EE,D02A05DC,extended,00000000
+patch=1,EE,002A05DC,extended,00000002
+
+[Cheats\Unlock All Riding Spirit Races]
+patch=1,EE,20247A78,extended,FFFFFFFF
+patch=1,EE,20247A7C,extended,FFFFFFFF

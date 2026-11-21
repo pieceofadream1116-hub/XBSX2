@@ -30,41 +30,11 @@ description=Team A Start With Score 50
 // Team A Start With Score 50
 patch=1,EE,D02F05D4,extended,00000000
 
-[Team A Start With Score 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Team A Start With Score 50
-// Team A Start With Score 50
-patch=1,EE,002F05D4,extended,00000032
-
-[Team A Start With Score 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Team A Start With Score 20
-// Team A Start With Score 20
-patch=1,EE,D02F05D4,extended,00000000
-
-[Team A Start With Score 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Team A Start With Score 20
-// Team A Start With Score 20
-patch=1,EE,002F05D4,extended,00000014
-
-[Team A Start With Score 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Team A Start With Score 10
-// Team A Start With Score 10
-patch=1,EE,D02F05D4,extended,00000000
-
 [Team A Start With Score 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Team A Start With Score 10
 // Team A Start With Score 10
 patch=1,EE,002F05D4,extended,0000000A
-
-[Team A Start With Score 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Team A Start With Score 5
-// Team A Start With Score 5
-patch=1,EE,D02F05D4,extended,00000000
 
 [Team A Start With Score 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -90,47 +60,11 @@ description=Team B Scores 0
 // Team B Scores 0
 patch=1,EE,002F05D5,extended,00000000
 
-[Team B Start With Score 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Team B Start With Score 50
-// Team B Start With Score 50
-patch=1,EE,D02F05D4,extended,00000000
-
-[Team B Start With Score 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Team B Start With Score 50
-// Team B Start With Score 50
-patch=1,EE,002F05D5,extended,00000032
-
-[Team B Start With Score 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Team B Start With Score 20
-// Team B Start With Score 20
-patch=1,EE,D02F05D4,extended,00000000
-
-[Team B Start With Score 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Team B Start With Score 20
-// Team B Start With Score 20
-patch=1,EE,002F05D5,extended,00000014
-
-[Team B Start With Score 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Team B Start With Score 10
-// Team B Start With Score 10
-patch=1,EE,D02F05D4,extended,00000000
-
 [Team B Start With Score 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Team B Start With Score 10
 // Team B Start With Score 10
 patch=1,EE,002F05D5,extended,0000000A
-
-[Team B Start With Score 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Team B Start With Score 5
-// Team B Start With Score 5
-patch=1,EE,D02F05D4,extended,00000000
 
 [Team B Start With Score 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -144,7 +78,7 @@ description=Unlock All Difficulties
 // Unlock All Difficulties
 patch=1,EE,00262016,extended,000000FF
 
-[Unlock All Difficulties]
+[Unlock All Difficulties (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Difficulties
 // Unlock All Difficulties
@@ -156,7 +90,7 @@ description=Unlock All Summer Heat US Tour Difficulties
 // Unlock All Summer Heat US Tour Difficulties
 patch=1,EE,00262015,extended,000000FF
 
-[Unlock All Summer Heat US Tour Difficulties]
+[Unlock All Summer Heat US Tour Difficulties (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Summer Heat US Tour Difficulties
 // Unlock All Summer Heat US Tour Difficulties
@@ -168,31 +102,31 @@ description=Unlock Advanced Training
 // Unlock Advanced Training
 patch=1,EE,0026201C,extended,000000FF
 
-[Unlock Advanced Training]
+[Unlock Advanced Training (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Advanced Training
 // Unlock Advanced Training
 patch=1,EE,D026201E,extended,00000000
 
-[Unlock Advanced Training]
+[Unlock Advanced Training (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Advanced Training
 // Unlock Advanced Training
 patch=1,EE,0026201E,extended,00000001
 
-[Unlock Advanced Training]
+[Unlock Advanced Training (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Advanced Training
 // Unlock Advanced Training
 patch=1,EE,0026290A,extended,000000FF
 
-[Unlock Advanced Training]
+[Unlock Advanced Training (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Advanced Training
 // Unlock Advanced Training
 patch=1,EE,D026290C,extended,00200100
 
-[Unlock Advanced Training]
+[Unlock Advanced Training (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Advanced Training
 // Unlock Advanced Training
@@ -204,7 +138,7 @@ description=Unlock All Mini-Games
 // Unlock All Mini-Games
 patch=1,EE,00262014,extended,000000FF
 
-[Unlock All Mini-Games]
+[Unlock All Mini-Games (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Mini-Games
 // Unlock All Mini-Games
@@ -216,7 +150,7 @@ description=Unlock All Basic Training Skills
 // Unlock All Basic Training Skills
 patch=1,EE,0026201D,extended,000000FF
 
-[Unlock All Basic Training Skills]
+[Unlock All Basic Training Skills (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Basic Training Skills
 // Unlock All Basic Training Skills
@@ -228,7 +162,7 @@ description=Unlock All Advanced Training Skills
 // Unlock All Advanced Training Skills
 patch=1,EE,0026201E,extended,000000FF
 
-[Unlock All Advanced Training Skills]
+[Unlock All Advanced Training Skills (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Advanced Training Skills
 // Unlock All Advanced Training Skills
@@ -240,7 +174,7 @@ description=Unlock All Destinations
 // Unlock All Destinations
 patch=1,EE,20261FC8,extended,FFFFFFFF
 
-[Unlock All Destinations]
+[Unlock All Destinations (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Destinations
 // Unlock All Destinations
@@ -252,7 +186,7 @@ description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,20261FCC,extended,FFFFFFFF
 
-[Unlock All Characters]
+[Unlock All Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
@@ -264,128 +198,160 @@ description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,202628B4,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,202628B8,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,202628BC,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,202628C0,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,202628C4,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,202628C8,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,202628CC,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,202628D0,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,202628D4,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,202628D8,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,102628DC,extended,0000FFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,20261FD0,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,20261FD4,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,20261FD8,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,20261FDC,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,20261FE0,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,20261FE4,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,20261FE8,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,20261FEC,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,20261FF0,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,20261FF4,extended,FFFFFFFF
 
-[Unlock All Swimwear]
+[Unlock All Swimwear (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Swimwear
 // Unlock All Swimwear
 patch=1,EE,10261FF8,extended,0000FFFF
+
+[Cheats\Unlock All MiniGames]
+patch=1,EE,1026318A,extended,00000701
+
+[Cheats\Unlock All Music Videos]
+patch=1,EE,10262898,extended,0000001F
+
+[Cheats\Unlock All Beach House]
+patch=1,EE,1026289A,extended,0000000F
+
+[Cheats\Unlock All Difficulties]
+patch=1,EE,10263188,extended,00000F0F
+
+[Cheats\Unlock All Characters]
+patch=1,EE,10263130,extended,0000FFFF
+patch=1,EE,10263132,extended,0000001F
+
+[Cheats\Unlock All Costumes]
+patch=1,EE,10263134,extended,000003FF
+patch=1,EE,10263136,extended,000003FF
+patch=1,EE,10263138,extended,000003FF
+patch=1,EE,1026313A,extended,000003FF
+patch=1,EE,1026313C,extended,000003FF
+patch=1,EE,1026313E,extended,000003FF
+patch=1,EE,10263140,extended,000003FF
+patch=1,EE,10263142,extended,000003FF
+patch=1,EE,10263144,extended,000003FF
+patch=1,EE,10263146,extended,000003FF
+patch=1,EE,10263148,extended,000003FF
+patch=1,EE,1026314A,extended,000003FF
+patch=1,EE,1026314C,extended,000003FF
+patch=1,EE,1026314E,extended,000003FF

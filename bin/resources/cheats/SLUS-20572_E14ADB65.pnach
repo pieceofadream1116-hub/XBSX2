@@ -318,7 +318,7 @@ description=Always Hole In One P1-All Holes
 // Always Hole In One P1-All Holes
 patch=1,EE,40293554,extended,00120001
 
-[Always Hole In One P1-All Holes]
+[Always Hole In One P1-All Holes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Hole In One P1-All Holes
 // Always Hole In One P1-All Holes
@@ -328,12 +328,6 @@ patch=1,EE,00000000,extended,00000000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always 9 Strokes Recorded P1-All Holes
 // Always 9 Strokes Recorded P1-All Holes
-patch=1,EE,40293554,extended,00120001
-
-[Always 9 Strokes Recorded P1-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P1-All Holes
-// Always 9 Strokes Recorded P1-All Holes
 patch=1,EE,00000009,extended,00000000
 
 [Always Hole In One P2-All Holes]
@@ -342,68 +336,14 @@ description=Always Hole In One P2-All Holes
 // Always Hole In One P2-All Holes
 patch=1,EE,40294374,extended,00120001
 
-[Always Hole In One P2-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Hole In One P2-All Holes
-// Always Hole In One P2-All Holes
-patch=1,EE,00000000,extended,00000000
-
-[Always 9 Strokes Recorded P2-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P2-All Holes
-// Always 9 Strokes Recorded P2-All Holes
-patch=1,EE,40294374,extended,00120001
-
-[Always 9 Strokes Recorded P2-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P2-All Holes
-// Always 9 Strokes Recorded P2-All Holes
-patch=1,EE,00000009,extended,00000000
-
 [Always Hole In One P3-All Holes]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Hole In One P3-All Holes
 // Always Hole In One P3-All Holes
 patch=1,EE,40295194,extended,00120001
 
-[Always Hole In One P3-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Hole In One P3-All Holes
-// Always Hole In One P3-All Holes
-patch=1,EE,00000000,extended,00000000
-
-[Always 9 Strokes Recorded P3-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P3-All Holes
-// Always 9 Strokes Recorded P3-All Holes
-patch=1,EE,40295194,extended,00120001
-
-[Always 9 Strokes Recorded P3-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P3-All Holes
-// Always 9 Strokes Recorded P3-All Holes
-patch=1,EE,00000009,extended,00000000
-
 [Always Hole In One P4-All Holes]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Hole In One P4-All Holes
 // Always Hole In One P4-All Holes
 patch=1,EE,40295FB4,extended,00120001
-
-[Always Hole In One P4-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Hole In One P4-All Holes
-// Always Hole In One P4-All Holes
-patch=1,EE,00000000,extended,00000000
-
-[Always 9 Strokes Recorded P4-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P4-All Holes
-// Always 9 Strokes Recorded P4-All Holes
-patch=1,EE,40295FB4,extended,00120001
-
-[Always 9 Strokes Recorded P4-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P4-All Holes
-// Always 9 Strokes Recorded P4-All Holes
-patch=1,EE,00000009,extended,00000000

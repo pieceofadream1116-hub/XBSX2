@@ -18,19 +18,19 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,8C810008
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,0807E77C
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,AC810004
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -42,19 +42,19 @@ description=Infinite Adrenaline
 // Infinite Adrenaline
 patch=1,EE,200C0230,extended,3C013F80
 
-[Infinite Adrenaline]
+[Infinite Adrenaline (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Adrenaline
 // Infinite Adrenaline
 patch=1,EE,200C0234,extended,08073664
 
-[Infinite Adrenaline]
+[Infinite Adrenaline (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Adrenaline
 // Infinite Adrenaline
 patch=1,EE,200C0238,extended,AC810014
 
-[Infinite Adrenaline]
+[Infinite Adrenaline (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Adrenaline
 // Infinite Adrenaline
@@ -66,7 +66,7 @@ description=P1 Press {L1}+{SELECT} To Stop Timer
 // P1 Press {L1}+{SELECT} To Stop Timer
 patch=1,EE,D05034DC,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Stop Timer]
+[P1 Press {L1}+{SELECT} To Stop Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Stop Timer
 // P1 Press {L1}+{SELECT} To Stop Timer
@@ -78,7 +78,7 @@ description=P1 Press {R1}+{SELECT} To Empty Timer
 // P1 Press {R1}+{SELECT} To Empty Timer
 patch=1,EE,D05034DC,extended,0000F7FE
 
-[P1 Press {R1}+{SELECT} To Empty Timer]
+[P1 Press {R1}+{SELECT} To Empty Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{SELECT} To Empty Timer
 // P1 Press {R1}+{SELECT} To Empty Timer
@@ -90,7 +90,7 @@ description=P1 Press {L2}+{SELECT} To Restart Timer
 // P1 Press {L2}+{SELECT} To Restart Timer
 patch=1,EE,D05034DC,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} To Restart Timer]
+[P1 Press {L2}+{SELECT} To Restart Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To Restart Timer
 // P1 Press {L2}+{SELECT} To Restart Timer
@@ -192,7 +192,7 @@ description=Constant EXP Gain
 // Constant EXP Gain
 patch=1,EE,20566AC0,extended,4479C000
 
-[Max EXP]
+[Max EXP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
@@ -204,7 +204,7 @@ description=Load Game To Goto Last Level
 // Load Game To Goto Last Level
 patch=1,EE,D071E9A4,extended,00200016
 
-[Load Game To Goto Last Level]
+[Load Game To Goto Last Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Load Game To Goto Last Level
 // Load Game To Goto Last Level
@@ -240,7 +240,7 @@ description=Infinite Health (Carriages)
 // Infinite Health (Carriages)
 patch=1,EE,00567205,extended,00000001
 
-[Infinite Adrenaline]
+[Infinite Adrenaline (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Adrenaline
 // Infinite Adrenaline
@@ -354,7 +354,7 @@ description=All Battle Arenas
 // All Battle Arenas
 patch=1,EE,4071EB1C,extended,00060004
 
-[All Battle Arenas]
+[All Battle Arenas (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Battle Arenas
 // All Battle Arenas
@@ -396,8 +396,32 @@ description=All Upgrades
 // All Upgrades
 patch=1,EE,2071EBC0,extended,06060606
 
-[All Upgrades]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Upgrades
-// All Upgrades
-patch=1,EE,0071EBC4,extended,00000006
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,2034865C,extended,00000001
+patch=1,EE,E0010001,extended,0050E860
+patch=1,EE,2034865C,extended,00000101
+
+[Cheats\Infinite Health]
+patch=1,EE,200C0220,extended,8C810008
+patch=1,EE,200C0224,extended,0807E77C
+patch=1,EE,200C0228,extended,AC810004
+patch=1,EE,20234000,extended,0C030088
+
+[Cheats\Infinite Adrenaline]
+patch=1,EE,200C0230,extended,3C013F80
+patch=1,EE,200C0234,extended,08073664
+patch=1,EE,200C0238,extended,AC810014
+patch=1,EE,202A6FE4,extended,0C03008C
+
+[Cheats\Load Game To Go to Last Level]
+patch=1,EE,D071E9A4,extended,00200016
+patch=1,EE,2071E9A4,extended,00000016
+
+[Cheats\Unlock All Battle Arenas]
+patch=1,EE,4071EB1D,extended,00060004
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Debug Mode Code Debug Keys Press shoulder buttons to activate various items]
+patch=1,EE,00567210,extended,00000001

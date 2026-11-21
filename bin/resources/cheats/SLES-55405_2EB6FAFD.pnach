@@ -1,0 +1,8 @@
+gametitle=Pro Evolution Soccer 2009 [SLES-55405] [2EB6FAFD]
+
+[Cheats\Special Skill Points 99]
+patch=1,EE,D09CAF1E,extended,00002404
+patch=1,EE,20A19274,extended,00000063
+
+[Cheats\Max PES Points]
+patch=1,EE,20A12DF0,extended,000186A0

@@ -18,31 +18,31 @@ description=Infinite Health (Alternate)
 // Infinite Health (Alternate)
 patch=1,EE,200C0220,extended,3C014348
 
-[Infinite Health (Alternate)]
+[Infinite Health (Alternate) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Alternate)
 // Infinite Health (Alternate)
 patch=1,EE,200C0224,extended,AE8119F4
 
-[Infinite Health (Alternate)]
+[Infinite Health (Alternate) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Alternate)
 // Infinite Health (Alternate)
 patch=1,EE,200C0228,extended,AE811A08
 
-[Infinite Health (Alternate)]
+[Infinite Health (Alternate) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Alternate)
 // Infinite Health (Alternate)
 patch=1,EE,200C022C,extended,03E00008
 
-[Infinite Health (Alternate)]
+[Infinite Health (Alternate) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Alternate)
 // Infinite Health (Alternate)
 patch=1,EE,200C0230,extended,C68219F4
 
-[Infinite Health (Alternate)]
+[Infinite Health (Alternate) (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Alternate)
 // Infinite Health (Alternate)
@@ -60,31 +60,31 @@ description=Max Pocket Change (Alternate)
 // Max Pocket Change (Alternate)
 patch=1,EE,200C0240,extended,3C0205F5
 
-[Max Pocket Change (Alternate)]
+[Max Pocket Change (Alternate) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Pocket Change (Alternate)
 // Max Pocket Change (Alternate)
 patch=1,EE,200C0244,extended,3442E0FF
 
-[Max Pocket Change (Alternate)]
+[Max Pocket Change (Alternate) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Pocket Change (Alternate)
 // Max Pocket Change (Alternate)
 patch=1,EE,200C0248,extended,03E00008
 
-[Max Pocket Change (Alternate)]
+[Max Pocket Change (Alternate) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Pocket Change (Alternate)
 // Max Pocket Change (Alternate)
 patch=1,EE,200C024C,extended,AC2219F0
 
-[Max Pocket Change (Alternate)]
+[Max Pocket Change (Alternate) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Pocket Change (Alternate)
 // Max Pocket Change (Alternate)
 patch=1,EE,2042ED50,extended,8C418520
 
-[Max Pocket Change (Alternate)]
+[Max Pocket Change (Alternate) (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Pocket Change (Alternate)
 // Max Pocket Change (Alternate)
@@ -102,19 +102,13 @@ description=P1 Press {L1}+{L2} For Low Trouble Meter
 // P1 Press {L1}+{L2} For Low Trouble Meter
 patch=1,EE,D06D5DC2,extended,0000FAFF
 
-[P1 Press {L1}+{L2} For Low Trouble Meter]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{L2} For Low Trouble Meter
-// P1 Press {L1}+{L2} For Low Trouble Meter
-patch=1,EE,21C68B50,extended,00000000
-
 [P1 Press {R1}+{R2} For High Trouble Meter]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{R2} For High Trouble Meter
 // P1 Press {R1}+{R2} For High Trouble Meter
 patch=1,EE,D06D5DC2,extended,0000F5FF
 
-[P1 Press {R1}+{R2} For High Trouble Meter]
+[P1 Press {R1}+{R2} For High Trouble Meter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{R2} For High Trouble Meter
 // P1 Press {R1}+{R2} For High Trouble Meter
@@ -126,7 +120,7 @@ description=Press {R1}+{SELECT} For Top Of The Hour
 // Press {R1}+{SELECT} For Top Of The Hour
 patch=1,EE,D06D5DC2,extended,0000F7FE
 
-[Press {R1}+{SELECT} For Top Of The Hour]
+[Press {R1}+{SELECT} For Top Of The Hour (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {R1}+{SELECT} For Top Of The Hour
 // Press {R1}+{SELECT} For Top Of The Hour
@@ -138,7 +132,7 @@ description=Press {R2}+{SELECT} For End Of The Hour
 // Press {R2}+{SELECT} For End Of The Hour
 patch=1,EE,D06D5DC2,extended,0000FDFE
 
-[Press {R2}+{SELECT} For End Of The Hour]
+[Press {R2}+{SELECT} For End Of The Hour (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {R2}+{SELECT} For End Of The Hour
 // Press {R2}+{SELECT} For End Of The Hour
@@ -150,23 +144,11 @@ description=Press {L1}+{SELECT} For 12:00 A.M.
 // Press {L1}+{SELECT} For 12:00 A.M.
 patch=1,EE,E002FBFE,extended,006D5DC2
 
-[Press {L1}+{SELECT} For 12:00 A.M.]
+[Press {L1}+{SELECT} For 12:00 A.M. (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 12:00 A.M.
 // Press {L1}+{SELECT} For 12:00 A.M.
 patch=1,EE,205E4EB8,extended,00000000
-
-[Press {L1}+{SELECT} For 12:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 12:00 A.M.
-// Press {L1}+{SELECT} For 12:00 A.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 1:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 1:00 A.M.
-// Press {L1}+{SELECT} For 1:00 A.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
 
 [Press {L1}+{SELECT} For 1:00 A.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -174,35 +156,11 @@ description=Press {L1}+{SELECT} For 1:00 A.M.
 // Press {L1}+{SELECT} For 1:00 A.M.
 patch=1,EE,205E4EB8,extended,00000001
 
-[Press {L1}+{SELECT} For 1:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 1:00 A.M.
-// Press {L1}+{SELECT} For 1:00 A.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 2:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 2:00 A.M.
-// Press {L1}+{SELECT} For 2:00 A.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
-
 [Press {L1}+{SELECT} For 2:00 A.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 2:00 A.M.
 // Press {L1}+{SELECT} For 2:00 A.M.
 patch=1,EE,205E4EB8,extended,00000002
-
-[Press {L1}+{SELECT} For 2:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 2:00 A.M.
-// Press {L1}+{SELECT} For 2:00 A.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 3:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 3:00 A.M.
-// Press {L1}+{SELECT} For 3:00 A.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
 
 [Press {L1}+{SELECT} For 3:00 A.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -210,35 +168,11 @@ description=Press {L1}+{SELECT} For 3:00 A.M.
 // Press {L1}+{SELECT} For 3:00 A.M.
 patch=1,EE,205E4EB8,extended,00000003
 
-[Press {L1}+{SELECT} For 3:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 3:00 A.M.
-// Press {L1}+{SELECT} For 3:00 A.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 4:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 4:00 A.M.
-// Press {L1}+{SELECT} For 4:00 A.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
-
 [Press {L1}+{SELECT} For 4:00 A.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 4:00 A.M.
 // Press {L1}+{SELECT} For 4:00 A.M.
 patch=1,EE,205E4EB8,extended,00000004
-
-[Press {L1}+{SELECT} For 4:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 4:00 A.M.
-// Press {L1}+{SELECT} For 4:00 A.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 5:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 5:00 A.M.
-// Press {L1}+{SELECT} For 5:00 A.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
 
 [Press {L1}+{SELECT} For 5:00 A.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -246,35 +180,11 @@ description=Press {L1}+{SELECT} For 5:00 A.M.
 // Press {L1}+{SELECT} For 5:00 A.M.
 patch=1,EE,205E4EB8,extended,00000005
 
-[Press {L1}+{SELECT} For 5:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 5:00 A.M.
-// Press {L1}+{SELECT} For 5:00 A.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 6:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 6:00 A.M.
-// Press {L1}+{SELECT} For 6:00 A.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
-
 [Press {L1}+{SELECT} For 6:00 A.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 6:00 A.M.
 // Press {L1}+{SELECT} For 6:00 A.M.
 patch=1,EE,205E4EB8,extended,00000006
-
-[Press {L1}+{SELECT} For 6:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 6:00 A.M.
-// Press {L1}+{SELECT} For 6:00 A.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 7:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 7:00 A.M.
-// Press {L1}+{SELECT} For 7:00 A.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
 
 [Press {L1}+{SELECT} For 7:00 A.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -282,35 +192,11 @@ description=Press {L1}+{SELECT} For 7:00 A.M.
 // Press {L1}+{SELECT} For 7:00 A.M.
 patch=1,EE,205E4EB8,extended,00000007
 
-[Press {L1}+{SELECT} For 7:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 7:00 A.M.
-// Press {L1}+{SELECT} For 7:00 A.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 8:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 8:00 A.M.
-// Press {L1}+{SELECT} For 8:00 A.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
-
 [Press {L1}+{SELECT} For 8:00 A.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 8:00 A.M.
 // Press {L1}+{SELECT} For 8:00 A.M.
 patch=1,EE,205E4EB8,extended,00000008
-
-[Press {L1}+{SELECT} For 8:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 8:00 A.M.
-// Press {L1}+{SELECT} For 8:00 A.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 9:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 9:00 A.M.
-// Press {L1}+{SELECT} For 9:00 A.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
 
 [Press {L1}+{SELECT} For 9:00 A.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -318,35 +204,11 @@ description=Press {L1}+{SELECT} For 9:00 A.M.
 // Press {L1}+{SELECT} For 9:00 A.M.
 patch=1,EE,205E4EB8,extended,00000009
 
-[Press {L1}+{SELECT} For 9:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 9:00 A.M.
-// Press {L1}+{SELECT} For 9:00 A.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 10:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 10:00 A.M.
-// Press {L1}+{SELECT} For 10:00 A.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
-
 [Press {L1}+{SELECT} For 10:00 A.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 10:00 A.M.
 // Press {L1}+{SELECT} For 10:00 A.M.
 patch=1,EE,205E4EB8,extended,0000000A
-
-[Press {L1}+{SELECT} For 10:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 10:00 A.M.
-// Press {L1}+{SELECT} For 10:00 A.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 11:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 11:00 A.M.
-// Press {L1}+{SELECT} For 11:00 A.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
 
 [Press {L1}+{SELECT} For 11:00 A.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -354,35 +216,11 @@ description=Press {L1}+{SELECT} For 11:00 A.M.
 // Press {L1}+{SELECT} For 11:00 A.M.
 patch=1,EE,205E4EB8,extended,0000000B
 
-[Press {L1}+{SELECT} For 11:00 A.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 11:00 A.M.
-// Press {L1}+{SELECT} For 11:00 A.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 12:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 12:00 P.M.
-// Press {L1}+{SELECT} For 12:00 P.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
-
 [Press {L1}+{SELECT} For 12:00 P.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 12:00 P.M.
 // Press {L1}+{SELECT} For 12:00 P.M.
 patch=1,EE,205E4EB8,extended,0000000C
-
-[Press {L1}+{SELECT} For 12:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 12:00 P.M.
-// Press {L1}+{SELECT} For 12:00 P.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 1:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 1:00 P.M.
-// Press {L1}+{SELECT} For 1:00 P.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
 
 [Press {L1}+{SELECT} For 1:00 P.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -390,35 +228,11 @@ description=Press {L1}+{SELECT} For 1:00 P.M.
 // Press {L1}+{SELECT} For 1:00 P.M.
 patch=1,EE,205E4EB8,extended,0000000D
 
-[Press {L1}+{SELECT} For 1:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 1:00 P.M.
-// Press {L1}+{SELECT} For 1:00 P.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 2:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 2:00 P.M.
-// Press {L1}+{SELECT} For 2:00 P.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
-
 [Press {L1}+{SELECT} For 2:00 P.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 2:00 P.M.
 // Press {L1}+{SELECT} For 2:00 P.M.
 patch=1,EE,205E4EB8,extended,0000000E
-
-[Press {L1}+{SELECT} For 2:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 2:00 P.M.
-// Press {L1}+{SELECT} For 2:00 P.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 3:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 3:00 P.M.
-// Press {L1}+{SELECT} For 3:00 P.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
 
 [Press {L1}+{SELECT} For 3:00 P.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -426,35 +240,11 @@ description=Press {L1}+{SELECT} For 3:00 P.M.
 // Press {L1}+{SELECT} For 3:00 P.M.
 patch=1,EE,205E4EB8,extended,0000000F
 
-[Press {L1}+{SELECT} For 3:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 3:00 P.M.
-// Press {L1}+{SELECT} For 3:00 P.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 4:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 4:00 P.M.
-// Press {L1}+{SELECT} For 4:00 P.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
-
 [Press {L1}+{SELECT} For 4:00 P.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 4:00 P.M.
 // Press {L1}+{SELECT} For 4:00 P.M.
 patch=1,EE,205E4EB8,extended,00000010
-
-[Press {L1}+{SELECT} For 4:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 4:00 P.M.
-// Press {L1}+{SELECT} For 4:00 P.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 5:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 5:00 P.M.
-// Press {L1}+{SELECT} For 5:00 P.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
 
 [Press {L1}+{SELECT} For 5:00 P.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -462,35 +252,11 @@ description=Press {L1}+{SELECT} For 5:00 P.M.
 // Press {L1}+{SELECT} For 5:00 P.M.
 patch=1,EE,205E4EB8,extended,00000011
 
-[Press {L1}+{SELECT} For 5:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 5:00 P.M.
-// Press {L1}+{SELECT} For 5:00 P.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 6:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 6:00 P.M.
-// Press {L1}+{SELECT} For 6:00 P.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
-
 [Press {L1}+{SELECT} For 6:00 P.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 6:00 P.M.
 // Press {L1}+{SELECT} For 6:00 P.M.
 patch=1,EE,205E4EB8,extended,00000012
-
-[Press {L1}+{SELECT} For 6:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 6:00 P.M.
-// Press {L1}+{SELECT} For 6:00 P.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 7:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 7:00 P.M.
-// Press {L1}+{SELECT} For 7:00 P.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
 
 [Press {L1}+{SELECT} For 7:00 P.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -498,35 +264,11 @@ description=Press {L1}+{SELECT} For 7:00 P.M.
 // Press {L1}+{SELECT} For 7:00 P.M.
 patch=1,EE,205E4EB8,extended,00000013
 
-[Press {L1}+{SELECT} For 7:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 7:00 P.M.
-// Press {L1}+{SELECT} For 7:00 P.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 8:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 8:00 P.M.
-// Press {L1}+{SELECT} For 8:00 P.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
-
 [Press {L1}+{SELECT} For 8:00 P.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 8:00 P.M.
 // Press {L1}+{SELECT} For 8:00 P.M.
 patch=1,EE,205E4EB8,extended,00000014
-
-[Press {L1}+{SELECT} For 8:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 8:00 P.M.
-// Press {L1}+{SELECT} For 8:00 P.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 9:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 9:00 P.M.
-// Press {L1}+{SELECT} For 9:00 P.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
 
 [Press {L1}+{SELECT} For 9:00 P.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -534,47 +276,17 @@ description=Press {L1}+{SELECT} For 9:00 P.M.
 // Press {L1}+{SELECT} For 9:00 P.M.
 patch=1,EE,205E4EB8,extended,00000015
 
-[Press {L1}+{SELECT} For 9:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 9:00 P.M.
-// Press {L1}+{SELECT} For 9:00 P.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 10:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 10:00 P.M.
-// Press {L1}+{SELECT} For 10:00 P.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
-
 [Press {L1}+{SELECT} For 10:00 P.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 10:00 P.M.
 // Press {L1}+{SELECT} For 10:00 P.M.
 patch=1,EE,205E4EB8,extended,00000016
 
-[Press {L1}+{SELECT} For 10:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 10:00 P.M.
-// Press {L1}+{SELECT} For 10:00 P.M.
-patch=1,EE,205E4EBC,extended,00000000
-
-[Press {L1}+{SELECT} For 11:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 11:00 P.M.
-// Press {L1}+{SELECT} For 11:00 P.M.
-patch=1,EE,E002FBFE,extended,006D5DC2
-
 [Press {L1}+{SELECT} For 11:00 P.M.]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} For 11:00 P.M.
 // Press {L1}+{SELECT} For 11:00 P.M.
 patch=1,EE,205E4EB8,extended,00000017
-
-[Press {L1}+{SELECT} For 11:00 P.M.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {L1}+{SELECT} For 11:00 P.M.
-// Press {L1}+{SELECT} For 11:00 P.M.
-patch=1,EE,205E4EBC,extended,00000000
 
 [Max Money Earned]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -684,13 +396,13 @@ description=No Distance Travelled On Go Kart
 // No Distance Travelled On Go Kart
 patch=1,EE,206C7080,extended,00000000
 
-[Max Distance Travelled On Go Kart]
+[Max Distance Travelled On Go Kart (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Distance Travelled On Go Kart
 // Max Distance Travelled On Go Kart
 patch=1,EE,206C7084,extended,4B189678
 
-[No Distance Travelled On Go Kart]
+[No Distance Travelled On Go Kart (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Distance Travelled On Go Kart
 // No Distance Travelled On Go Kart
@@ -3299,3 +3011,31 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fortunes Read
 // No Fortunes Read
 patch=1,EE,206C7424,extended,00000000
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,001F3AC8,word,28420001
+
+[Cheats\Max Money]
+patch=1,EE,21C68AB0,extended,05F5E100
+
+[Cheats\Infinite Health Alternate]
+patch=1,EE,200C0220,extended,3C014348
+patch=1,EE,200C0224,extended,AE8119F4
+patch=1,EE,200C0228,extended,AE811A08
+patch=1,EE,200C022C,extended,03E00008
+patch=1,EE,200C0230,extended,C68219F4
+patch=1,EE,2041F568,extended,0C030088
+
+[Cheats\Max Pocket Change Alternate]
+patch=1,EE,200C0240,extended,3C0205F5
+patch=1,EE,200C0244,extended,3442E0FF
+patch=1,EE,200C0248,extended,03E00008
+patch=1,EE,200C024C,extended,AC2219F0
+patch=1,EE,2042ED50,extended,8C418520
+patch=1,EE,2042ED58,extended,0C030090
+
+[Cheats\Infinite Health People You Got To Protect]
+patch=1,EE,2042B6B8,extended,E4811A08
+patch=1,EE,2042B6C0,extended,C48119F4

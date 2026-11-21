@@ -1,0 +1,4 @@
+gametitle=Spider-Man [SLES-50813] [601B6FDF]
+
+[Cheats\God Mode]
+patch=1,EE,00509018,extended,00000001

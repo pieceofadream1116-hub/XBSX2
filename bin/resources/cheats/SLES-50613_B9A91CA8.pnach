@@ -23,3 +23,9 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Special Movies
 // Infinite Special Movies
 patch=1,EE,10920A84,extended,00000063
+
+[Cheats\Infinite Lives]
+patch=1,EE,20118B67,extended,0000000A
+
+[Cheats\Feather Hop]
+patch=1,EE,009BEA83,extended,000000E9

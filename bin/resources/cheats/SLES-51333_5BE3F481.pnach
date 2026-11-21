@@ -12,19 +12,19 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,C48002A4
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,E48002A0
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -36,19 +36,19 @@ description=Always Max Rage
 // Always Max Rage
 patch=1,EE,200C0230,extended,C48002B8
 
-[Always Max Rage]
+[Always Max Rage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Rage
 // Always Max Rage
 patch=1,EE,200C0234,extended,03E00008
 
-[Always Max Rage]
+[Always Max Rage (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Rage
 // Always Max Rage
 patch=1,EE,200C0238,extended,E48002B4
 
-[Always Max Rage]
+[Always Max Rage (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Rage
 // Always Max Rage
@@ -78,7 +78,7 @@ description=Have EMF Jammer
 // Have EMF Jammer
 patch=1,EE,205735F0,extended,00000001
 
-[Have EMF Jammer]
+[Have EMF Jammer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have EMF Jammer
 // Have EMF Jammer
@@ -90,7 +90,7 @@ description=Infinite Explosive Charges
 // Infinite Explosive Charges
 patch=1,EE,20573610,extended,00000002
 
-[Infinite Explosive Charges]
+[Infinite Explosive Charges (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Explosive Charges
 // Infinite Explosive Charges
@@ -102,7 +102,7 @@ description=Have Keycard 1
 // Have Keycard 1
 patch=1,EE,20573630,extended,00000003
 
-[Have Keycard 1]
+[Have Keycard 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Keycard 1
 // Have Keycard 1
@@ -114,7 +114,7 @@ description=Have Keycard 2
 // Have Keycard 2
 patch=1,EE,20573650,extended,00000004
 
-[Have Keycard 2]
+[Have Keycard 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Keycard 2
 // Have Keycard 2
@@ -126,7 +126,7 @@ description=Have Keycard 3
 // Have Keycard 3
 patch=1,EE,20573670,extended,00000005
 
-[Have Keycard 3]
+[Have Keycard 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Keycard 3
 // Have Keycard 3
@@ -138,7 +138,7 @@ description=Infinite Health Packs
 // Infinite Health Packs
 patch=1,EE,20573690,extended,00000006
 
-[Infinite Health Packs]
+[Infinite Health Packs (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health Packs
 // Infinite Health Packs
@@ -150,7 +150,7 @@ description=Have Lighter
 // Have Lighter
 patch=1,EE,205736B0,extended,00000007
 
-[Have Lighter]
+[Have Lighter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Lighter
 // Have Lighter
@@ -162,7 +162,7 @@ description=Have Map
 // Have Map
 patch=1,EE,205736D0,extended,00000008
 
-[Have Map]
+[Have Map (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Map
 // Have Map
@@ -174,7 +174,7 @@ description=Have Stealth Gun
 // Have Stealth Gun
 patch=1,EE,205736F0,extended,00000009
 
-[Have Stealth Gun]
+[Have Stealth Gun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Stealth Gun
 // Have Stealth Gun
@@ -186,7 +186,7 @@ description=Infinite Stealth Gun Ammunition
 // Infinite Stealth Gun Ammunition
 patch=1,EE,20573710,extended,0000000A
 
-[Infinite Stealth Gun Ammunition]
+[Infinite Stealth Gun Ammunition (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Stealth Gun Ammunition
 // Infinite Stealth Gun Ammunition
@@ -198,7 +198,7 @@ description=Have Tonfa
 // Have Tonfa
 patch=1,EE,20573730,extended,0000000B
 
-[Have Tonfa]
+[Have Tonfa (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Tonfa
 // Have Tonfa
@@ -210,8 +210,14 @@ description=Have Walkie Talkie
 // Have Walkie Talkie
 patch=1,EE,20573750,extended,0000000C
 
-[Have Walkie Talkie]
+[Have Walkie Talkie (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Walkie Talkie
 // Have Walkie Talkie
 patch=1,EE,20573760,extended,00000001
+
+[Cheats\Infinite Health Packs]
+patch=1,EE,20573D50,extended,00000063
+
+[Cheats\Infinite Rage]
+patch=1,EE,101193C4,extended,000002B8

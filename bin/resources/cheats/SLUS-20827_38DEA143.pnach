@@ -36,7 +36,7 @@ description=Have All Levels Completed
 // Have All Levels Completed
 patch=1,EE,405E0684,extended,0014002C
 
-[Have All Levels Completed]
+[Have All Levels Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels Completed
 // Have All Levels Completed
@@ -48,7 +48,7 @@ description=Max Rating-All Levels
 // Max Rating-All Levels
 patch=1,EE,405E0688,extended,0014002C
 
-[Max Rating-All Levels]
+[Max Rating-All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Rating-All Levels
 // Max Rating-All Levels
@@ -119,3 +119,11 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=God Mode
 // God Mode
 patch=1,EE,20549B10,extended,00000001
+
+[Cheats\Have All Levels Completed]
+patch=1,EE,405E0684,extended,0014002C
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Max Rating All Levels]
+patch=1,EE,405E0688,extended,0014002C
+patch=1,EE,00000005,extended,00000000

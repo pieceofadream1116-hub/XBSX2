@@ -1,0 +1,4 @@
+gametitle=SIMPLE2000シリーズ Ultimate Vol.15 ラブ★ピンポン [SLPM-62429] [3E274F26]
+
+[Cheats\Option Menu = Debug Sound Test Menu]
+patch=1,EE,10107B80,extended,0000F158

@@ -42,7 +42,7 @@ description=Using Essense Of Amahagene Doesnt Decrease It
 // Using Essense Of Amahagene Doesnt Decrease It
 patch=1,EE,20242D14,extended,00000000
 
-[Using Essense Of Amahagene Doesnt Decrease It]
+[Using Essense Of Amahagene Doesnt Decrease It (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Using Essense Of Amahagene Doesnt Decrease It
 // Using Essense Of Amahagene Doesnt Decrease It
@@ -54,7 +54,7 @@ description=Using Essense Of Amahagene Increases It
 // Using Essense Of Amahagene Increases It
 patch=1,EE,10242D14,extended,00000001
 
-[Using Essense Of Amahagene Increases It]
+[Using Essense Of Amahagene Increases It (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Using Essense Of Amahagene Increases It
 // Using Essense Of Amahagene Increases It
@@ -90,7 +90,7 @@ description=Extra Items
 // Extra Items
 patch=1,EE,202C0A80,extended,00F11021
 
-[Extra Items]
+[Extra Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Items
 // Extra Items
@@ -144,25 +144,25 @@ description=Level 50
 // Level 50
 patch=1,EE,10572B8C,extended,00000032
 
-[Max Health]
+[Max Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,20572BA8,extended,03E803E8
 
-[Quick Exp Gain]
+[Quick Exp Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,10572BC4,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,20572BC4,extended,000F423F
 
-[Level 50]
+[Level 50 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 50
 // Level 50
@@ -480,500 +480,515 @@ description=Slot 52
 // Slot 52
 patch=1,EE,006EE24D,extended,0000000F
 
-[Slot 1]
+[Slot 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 1
 // Slot 1
 patch=1,EE,006EE255,extended,0000000F
 
-[Slot 2]
+[Slot 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 2
 // Slot 2
 patch=1,EE,006EE25D,extended,0000000F
 
-[Slot 3]
+[Slot 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 3
 // Slot 3
 patch=1,EE,006EE265,extended,0000000F
 
-[Slot 4]
+[Slot 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 4
 // Slot 4
 patch=1,EE,006EE26D,extended,0000000F
 
-[Slot 5]
+[Slot 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 5
 // Slot 5
 patch=1,EE,006EE275,extended,0000000F
 
-[Slot 6]
+[Slot 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 6
 // Slot 6
 patch=1,EE,006EE27D,extended,0000000F
 
-[Slot 7]
+[Slot 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 7
 // Slot 7
 patch=1,EE,006EE285,extended,0000000F
 
-[Slot 8]
+[Slot 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 8
 // Slot 8
 patch=1,EE,006EE28D,extended,0000000F
 
-[Slot 9]
+[Slot 9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 9
 // Slot 9
 patch=1,EE,006EE295,extended,0000000F
 
-[Slot 10]
+[Slot 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 10
 // Slot 10
 patch=1,EE,006EE29D,extended,0000000F
 
-[Slot 11]
+[Slot 11 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 11
 // Slot 11
 patch=1,EE,006EE2A5,extended,0000000F
 
-[Slot 12]
+[Slot 12 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 12
 // Slot 12
 patch=1,EE,006EE2AD,extended,0000000F
 
-[Slot 13]
+[Slot 13 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 13
 // Slot 13
 patch=1,EE,006EE2B5,extended,0000000F
 
-[Slot 14]
+[Slot 14 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 14
 // Slot 14
 patch=1,EE,006EE2BD,extended,0000000F
 
-[Slot 15]
+[Slot 15 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 15
 // Slot 15
 patch=1,EE,006EE2C5,extended,0000000F
 
-[Slot 16]
+[Slot 16 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 16
 // Slot 16
 patch=1,EE,006EE2CD,extended,0000000F
 
-[Slot 1]
+[Slot 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 1
 // Slot 1
 patch=1,EE,006EE2D5,extended,0000000F
 
-[Slot 2]
+[Slot 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 2
 // Slot 2
 patch=1,EE,006EE2DD,extended,0000000F
 
-[Slot 3]
+[Slot 3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 3
 // Slot 3
 patch=1,EE,006EE2E5,extended,0000000F
 
-[Slot 4]
+[Slot 4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 4
 // Slot 4
 patch=1,EE,006EE2ED,extended,0000000F
 
-[Slot 5]
+[Slot 5 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 5
 // Slot 5
 patch=1,EE,006EE2F5,extended,0000000F
 
-[Slot 6]
+[Slot 6 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 6
 // Slot 6
 patch=1,EE,006EE2FD,extended,0000000F
 
-[Slot 7]
+[Slot 7 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 7
 // Slot 7
 patch=1,EE,006EE305,extended,0000000F
 
-[Slot 8]
+[Slot 8 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 8
 // Slot 8
 patch=1,EE,006EE30D,extended,0000000F
 
-[Slot 9]
+[Slot 9 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 9
 // Slot 9
 patch=1,EE,006EE315,extended,0000000F
 
-[Slot 10]
+[Slot 10 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 10
 // Slot 10
 patch=1,EE,006EE31D,extended,0000000F
 
-[Slot 11]
+[Slot 11 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 11
 // Slot 11
 patch=1,EE,006EE325,extended,0000000F
 
-[Slot 12]
+[Slot 12 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 12
 // Slot 12
 patch=1,EE,006EE32D,extended,0000000F
 
-[Slot 13]
+[Slot 13 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 13
 // Slot 13
 patch=1,EE,006EE335,extended,0000000F
 
-[Slot 14]
+[Slot 14 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 14
 // Slot 14
 patch=1,EE,006EE33D,extended,0000000F
 
-[Slot 15]
+[Slot 15 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 15
 // Slot 15
 patch=1,EE,006EE345,extended,0000000F
 
-[Slot 16]
+[Slot 16 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 16
 // Slot 16
 patch=1,EE,006EE34D,extended,0000000F
 
-[Slot 17]
+[Slot 17 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 17
 // Slot 17
 patch=1,EE,006EE355,extended,0000000F
 
-[Slot 18]
+[Slot 18 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 18
 // Slot 18
 patch=1,EE,006EE35D,extended,0000000F
 
-[Slot 19]
+[Slot 19 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 19
 // Slot 19
 patch=1,EE,006EE365,extended,0000000F
 
-[Slot 20]
+[Slot 20 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 20
 // Slot 20
 patch=1,EE,006EE36D,extended,0000000F
 
-[Slot 21]
+[Slot 21 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 21
 // Slot 21
 patch=1,EE,006EE375,extended,0000000F
 
-[Slot 22]
+[Slot 22 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 22
 // Slot 22
 patch=1,EE,006EE37D,extended,0000000F
 
-[Slot 23]
+[Slot 23 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 23
 // Slot 23
 patch=1,EE,006EE385,extended,0000000F
 
-[Slot 24]
+[Slot 24 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 24
 // Slot 24
 patch=1,EE,006EE38D,extended,0000000F
 
-[Slot 25]
+[Slot 25 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 25
 // Slot 25
 patch=1,EE,006EE395,extended,0000000F
 
-[Slot 26]
+[Slot 26 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 26
 // Slot 26
 patch=1,EE,006EE39D,extended,0000000F
 
-[Slot 27]
+[Slot 27 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 27
 // Slot 27
 patch=1,EE,006EE3A5,extended,0000000F
 
-[Slot 28]
+[Slot 28 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 28
 // Slot 28
 patch=1,EE,006EE3AD,extended,0000000F
 
-[Slot 29]
+[Slot 29 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 29
 // Slot 29
 patch=1,EE,006EE3B5,extended,0000000F
 
-[Slot 30]
+[Slot 30 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 30
 // Slot 30
 patch=1,EE,006EE3BD,extended,0000000F
 
-[Slot 1]
+[Slot 1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 1
 // Slot 1
 patch=1,EE,006EE3C5,extended,0000000F
 
-[Slot 2]
+[Slot 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 2
 // Slot 2
 patch=1,EE,006EE3CD,extended,0000000F
 
-[Slot 3]
+[Slot 3 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 3
 // Slot 3
 patch=1,EE,006EE3D5,extended,0000000F
 
-[Slot 4]
+[Slot 4 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 4
 // Slot 4
 patch=1,EE,006EE3DD,extended,0000000F
 
-[Slot 5]
+[Slot 5 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 5
 // Slot 5
 patch=1,EE,006EE3E5,extended,0000000F
 
-[Slot 6]
+[Slot 6 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 6
 // Slot 6
 patch=1,EE,006EE3ED,extended,0000000F
 
-[Slot 7]
+[Slot 7 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 7
 // Slot 7
 patch=1,EE,006EE3F5,extended,0000000F
 
-[Slot 8]
+[Slot 8 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 8
 // Slot 8
 patch=1,EE,006EE3FD,extended,0000000F
 
-[Slot 9]
+[Slot 9 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 9
 // Slot 9
 patch=1,EE,006EE405,extended,0000000F
 
-[Slot 10]
+[Slot 10 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 10
 // Slot 10
 patch=1,EE,006EE40D,extended,0000000F
 
-[Slot 11]
+[Slot 11 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 11
 // Slot 11
 patch=1,EE,006EE415,extended,0000000F
 
-[Slot 12]
+[Slot 12 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 12
 // Slot 12
 patch=1,EE,006EE41D,extended,0000000F
 
-[Slot 13]
+[Slot 13 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 13
 // Slot 13
 patch=1,EE,006EE425,extended,0000000F
 
-[Slot 14]
+[Slot 14 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 14
 // Slot 14
 patch=1,EE,006EE42D,extended,0000000F
 
-[Slot 1]
+[Slot 1 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 1
 // Slot 1
 patch=1,EE,006EE455,extended,0000000F
 
-[Slot 2]
+[Slot 2 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 2
 // Slot 2
 patch=1,EE,006EE45D,extended,0000000F
 
-[Slot 3]
+[Slot 3 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 3
 // Slot 3
 patch=1,EE,006EE465,extended,0000000F
 
-[Slot 4]
+[Slot 4 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 4
 // Slot 4
 patch=1,EE,006EE46D,extended,0000000F
 
-[Slot 5]
+[Slot 5 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 5
 // Slot 5
 patch=1,EE,006EE475,extended,0000000F
 
-[Slot 6]
+[Slot 6 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 6
 // Slot 6
 patch=1,EE,006EE47D,extended,0000000F
 
-[Slot 7]
+[Slot 7 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 7
 // Slot 7
 patch=1,EE,006EE485,extended,0000000F
 
-[Slot 8]
+[Slot 8 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 8
 // Slot 8
 patch=1,EE,006EE48D,extended,0000000F
 
-[Slot 9]
+[Slot 9 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 9
 // Slot 9
 patch=1,EE,006EE495,extended,0000000F
 
-[Slot 10]
+[Slot 10 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 10
 // Slot 10
 patch=1,EE,006EE49D,extended,0000000F
 
-[Slot 11]
+[Slot 11 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 11
 // Slot 11
 patch=1,EE,006EE4A5,extended,0000000F
 
-[Slot 12]
+[Slot 12 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 12
 // Slot 12
 patch=1,EE,006EE4AD,extended,0000000F
 
-[Slot 13]
+[Slot 13 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 13
 // Slot 13
 patch=1,EE,006EE4B5,extended,0000000F
 
-[Slot 14]
+[Slot 14 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 14
 // Slot 14
 patch=1,EE,006EE4BD,extended,0000000F
 
-[Slot 15]
+[Slot 15 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 15
 // Slot 15
 patch=1,EE,006EE4C5,extended,0000000F
 
-[Slot 16]
+[Slot 16 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 16
 // Slot 16
 patch=1,EE,006EE4CD,extended,0000000F
 
-[Slot 17]
+[Slot 17 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 17
 // Slot 17
 patch=1,EE,006EE4D5,extended,0000000F
 
-[Slot 18]
+[Slot 18 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 18
 // Slot 18
 patch=1,EE,006EE4DD,extended,0000000F
 
-[Slot 19]
+[Slot 19 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 19
 // Slot 19
 patch=1,EE,006EE4E5,extended,0000000F
 
-[Slot 20]
+[Slot 20 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 20
 // Slot 20
 patch=1,EE,006EE4ED,extended,0000000F
 
-[Slot 21]
+[Slot 21 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 21
 // Slot 21
 patch=1,EE,006EE4F5,extended,0000000F
 
-[Slot 22]
+[Slot 22 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 22
 // Slot 22
 patch=1,EE,006EE4FD,extended,0000000F
 
-[Slot 23]
+[Slot 23 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 23
 // Slot 23
 patch=1,EE,006EE505,extended,0000000F
+
+[Cheats\Infinite Health Yoshitsune]
+patch=1,EE,2057611C,extended,000003E8
+
+[Cheats\Infinite Kamui Yoshitsune]
+patch=1,EE,20576718,extended,04EC0000
+
+[Cheats\Infinite Essence Yoshitsune]
+patch=1,EE,106EE526,extended,000003E7
+
+[Cheats\Level 50 Yoshitsune]
+patch=1,EE,00572B8C,extended,00000032
+
+[Cheats\Infinite Health Benkei]
+patch=1,EE,206566C0,extended,000003E8

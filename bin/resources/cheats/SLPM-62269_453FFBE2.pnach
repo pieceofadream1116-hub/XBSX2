@@ -1,0 +1,4 @@
+gametitle=アカギ ～闇に降り立った天才～ [SLPM-62269] [453FFBE2]
+
+[Cheats\Player 1 Has 99999 Points]
+patch=1,EE,203F2E90,extended,000F423F

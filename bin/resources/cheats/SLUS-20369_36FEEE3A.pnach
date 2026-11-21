@@ -12,7 +12,7 @@ description=Infinite Stamina P1 & P2
 // Infinite Stamina P1 & P2
 patch=1,EE,20165E28,extended,03E00008
 
-[Infinite Stamina P1 & P2]
+[Infinite Stamina P1 & P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Stamina P1 & P2
 // Infinite Stamina P1 & P2
@@ -30,7 +30,7 @@ description=Infinite Health P2
 // Infinite Health P2
 patch=1,EE,20166B98,extended,00000000
 
-[Infinite Health P2]
+[Infinite Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P2
 // Infinite Health P2
@@ -42,7 +42,7 @@ description=Infinite Health P1 & P2
 // Infinite Health P1 & P2
 patch=1,EE,20165EB0,extended,03E00008
 
-[Infinite Health P1 & P2]
+[Infinite Health P1 & P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 & P2
 // Infinite Health P1 & P2
@@ -174,14 +174,18 @@ description=Infinite Creation Points
 // Infinite Creation Points
 patch=1,EE,00409A50,extended,00000096
 
-[Max All Stats]
+[Max All Stats (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,20409A78,extended,FFFFFFFF
 
-[Max All Stats]
+[Max All Stats (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
+patch=1,EE,10409A7C,extended,0000FFFF
+
+[Cheats\Max All Stats]
+patch=1,EE,20409A78,extended,FFFFFFFF
 patch=1,EE,10409A7C,extended,0000FFFF

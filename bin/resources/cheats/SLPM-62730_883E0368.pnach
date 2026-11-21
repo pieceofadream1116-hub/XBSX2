@@ -1,0 +1,5 @@
+gametitle=オレたちゲーセン族 魂斗羅 [SLPM-62730] [883E0368]
+
+[Cheats\Infinite Time 3D Maze]
+patch=1,EE,D0692DC8,extended,00000001
+patch=1,EE,002FDEFD,extended,00000000

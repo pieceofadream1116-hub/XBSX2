@@ -1,0 +1,6 @@
+gametitle=Erde ～ネズの樹の下で～ [SLPS-25188] [FE802D9C]
+
+[Cheats\Unlock All Special Album]
+patch=1,EE,41AA48C8,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,01AA48DC,extended,000000FF

@@ -1,0 +1,7 @@
+gametitle=オレたちゲーセン族 プーヤン [SLPM-62731] [A13BAE78]
+
+[Cheats\Infinite Lives]
+patch=1,EE,0030E5C8,extended,000000FF
+
+[Cheats\Always Appear Meat]
+patch=1,EE,0030EBF0,extended,00000001

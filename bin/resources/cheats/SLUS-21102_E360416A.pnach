@@ -18,7 +18,7 @@ description=Max Credits
 // Max Credits
 patch=1,EE,20245798,extended,4876E7FF
 
-[Max Credits]
+[Max Credits (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Credits
 // Max Credits
@@ -95,3 +95,7 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hard Rock Slots
 // Hard Rock Slots
 patch=1,EE,20204A08,extended,00000000
+
+[Cheats\Max Credits]
+patch=1,EE,20245798,extended,4876E7FF
+patch=1,EE,2024579C,extended,00000017

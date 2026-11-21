@@ -54,7 +54,7 @@ description=Always Have Max Infinite Main Spells
 // Always Have Max Infinite Main Spells
 patch=1,EE,201BE838,extended,24030003
 
-[Always Have Max Infinite Main Spells]
+[Always Have Max Infinite Main Spells (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Have Max Infinite Main Spells
 // Always Have Max Infinite Main Spells
@@ -66,7 +66,7 @@ description=Infinite Double Jumps
 // Infinite Double Jumps
 patch=1,EE,201C6DF4,extended,00000000
 
-[Infinite Double Jumps]
+[Infinite Double Jumps (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Double Jumps
 // Infinite Double Jumps
@@ -84,13 +84,13 @@ description=Super Jumps/Double Jumps
 // Super Jumps/Double Jumps
 patch=1,EE,201C6AC8,extended,00000000
 
-[Super Jumps/Double Jumps]
+[Super Jumps/Double Jumps (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Jumps/Double Jumps
 // Super Jumps/Double Jumps
 patch=1,EE,201C6AD4,extended,00000000
 
-[Super Jumps/Double Jumps]
+[Super Jumps/Double Jumps (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Jumps/Double Jumps
 // Super Jumps/Double Jumps
@@ -100,31 +100,7 @@ patch=1,EE,101C6AD8,extended,00004000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mega Jumps/Double Jumps
 // Mega Jumps/Double Jumps
-patch=1,EE,201C6AC8,extended,00000000
-
-[Mega Jumps/Double Jumps]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Mega Jumps/Double Jumps
-// Mega Jumps/Double Jumps
-patch=1,EE,201C6AD4,extended,00000000
-
-[Mega Jumps/Double Jumps]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Mega Jumps/Double Jumps
-// Mega Jumps/Double Jumps
 patch=1,EE,101C6AD8,extended,00004040
-
-[Ultra Jumps/Double Jumps]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Ultra Jumps/Double Jumps
-// Ultra Jumps/Double Jumps
-patch=1,EE,201C6AC8,extended,00000000
-
-[Ultra Jumps/Double Jumps]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Ultra Jumps/Double Jumps
-// Ultra Jumps/Double Jumps
-patch=1,EE,201C6AD4,extended,00000000
 
 [Ultra Jumps/Double Jumps]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -137,3 +113,10 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Retry Never Increases When Retrying Levels
 // Retry Never Increases When Retrying Levels
 patch=1,EE,201AF558,extended,00000000
+
+[Cheats\Unlock All Levels - Stage Select]
+patch=1,EE,219FD2A8,extended,0D0D0D0D
+
+[Cheats\Unlock All Extras And Galleries]
+patch=1,EE,419FD2AC,extended,00060001
+patch=1,EE,00000000,extended,00000000

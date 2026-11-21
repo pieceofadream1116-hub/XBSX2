@@ -12,7 +12,7 @@ description=Unlock All Gameplay Modes
 // Unlock All Gameplay Modes
 patch=1,EE,402278FC,extended,000F0001
 
-[Unlock All Gameplay Modes]
+[Unlock All Gameplay Modes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gameplay Modes
 // Unlock All Gameplay Modes
@@ -306,25 +306,25 @@ description=Tomcat
 // Tomcat
 patch=1,EE,20227D54,extended,00000001
 
-[Barnstorming]
+[Barnstorming (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Barnstorming
 // Barnstorming
 patch=1,EE,002279F0,extended,00000004
 
-[Beamrider]
+[Beamrider (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Beamrider
 // Beamrider
 patch=1,EE,00227A00,extended,00000001
 
-[Chopper Command]
+[Chopper Command (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chopper Command
 // Chopper Command
 patch=1,EE,00227A50,extended,00000002
 
-[Crackpots]
+[Crackpots (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Crackpots
 // Crackpots
@@ -360,127 +360,127 @@ description=Dolphin 2
 // Dolphin 2
 patch=1,EE,00227AB1,extended,00000014
 
-[Dragster]
+[Dragster (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dragster
 // Dragster
 patch=1,EE,00227AD0,extended,00000015
 
-[Enduro]
+[Enduro (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enduro
 // Enduro
 patch=1,EE,00227AE0,extended,00000016
 
-[Freeway]
+[Freeway (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Freeway
 // Freeway
 patch=1,EE,00227B10,extended,00000018
 
-[Frostbite]
+[Frostbite (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Frostbite
 // Frostbite
 patch=1,EE,00227B30,extended,00000017
 
-[Grand Prix]
+[Grand Prix (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Grand Prix
 // Grand Prix
 patch=1,EE,00227B50,extended,00000019
 
-[HERO]
+[HERO (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=HERO
 // HERO
 patch=1,EE,00227B60,extended,00000009
 
-[Ice Hockey]
+[Ice Hockey (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ice Hockey
 // Ice Hockey
 patch=1,EE,00227B70,extended,00000003
 
-[Kaboom!]
+[Kaboom! (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kaboom!
 // Kaboom!
 patch=1,EE,00227B90,extended,0000000A
 
-[Keystone Kapers]
+[Keystone Kapers (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Keystone Kapers
 // Keystone Kapers
 patch=1,EE,00227BA0,extended,0000001A
 
-[Laser Blast]
+[Laser Blast (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Laser Blast
 // Laser Blast
 patch=1,EE,00227BB0,extended,0000000B
 
-[Megamania]
+[Megamania (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Megamania
 // Megamania
 patch=1,EE,00227BC0,extended,00000012
 
-[Oink]
+[Oink (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Oink
 // Oink
 patch=1,EE,00227BE0,extended,0000000C
 
-[Pitfall!]
+[Pitfall! (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pitfall!
 // Pitfall!
 patch=1,EE,00227C00,extended,00000020
 
-[Plaque Attack]
+[Plaque Attack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Plaque Attack
 // Plaque Attack
 patch=1,EE,00227C20,extended,0000001C
 
-[Pressure Cooker]
+[Pressure Cooker (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pressure Cooker
 // Pressure Cooker
 patch=1,EE,00227C30,extended,00000021
 
-[Private Eye]
+[Private Eye (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Private Eye
 // Private Eye
 patch=1,EE,00227C40,extended,0000000D
 
-[River Raid]
+[River Raid (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=River Raid
 // River Raid
 patch=1,EE,00227C70,extended,00000022
 
-[Robot Tank]
+[Robot Tank (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Robot Tank
 // Robot Tank
 patch=1,EE,00227C90,extended,00000013
 
-[Seaquest]
+[Seaquest (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seaquest
 // Seaquest
 patch=1,EE,00227CA0,extended,00000023
 
-[Skiing]
+[Skiing (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Skiing
 // Skiing
 patch=1,EE,00227CC0,extended,0000001F
 
-[Sky Jinks]
+[Sky Jinks (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sky Jinks
 // Sky Jinks
@@ -498,13 +498,13 @@ description=Space Shuttle 2
 // Space Shuttle 2
 patch=1,EE,00227CE1,extended,0000001D
 
-[Spider Fighter]
+[Spider Fighter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spider Fighter
 // Spider Fighter
 patch=1,EE,00227CF0,extended,00000010
 
-[Stampede]
+[Stampede (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stampede
 // Stampede
@@ -534,13 +534,13 @@ description=Starmaster 4
 // Starmaster 4
 patch=1,EE,00227D23,extended,00000028
 
-[Tennis]
+[Tennis (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tennis
 // Tennis
 patch=1,EE,00227D30,extended,00000011
 
-[Tomcat]
+[Tomcat (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tomcat
 // Tomcat

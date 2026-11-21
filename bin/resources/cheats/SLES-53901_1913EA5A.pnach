@@ -66,13 +66,13 @@ description=Always Low Time
 // Always Low Time
 patch=1,EE,2041E3E4,extended,00000000
 
-[Always Low Time]
+[Always Low Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Time
 // Always Low Time
 patch=1,EE,2041F3CC,extended,00000000
 
-[Always Low Time]
+[Always Low Time (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Time
 // Always Low Time
@@ -108,30 +108,6 @@ description=Rhythm
 // Rhythm
 patch=1,EE,7040D888,extended,00000008
 
-[Precision]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Precision
-// Precision
-patch=1,EE,7040D888,extended,00000001
-
-[Style]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Style
-// Style
-patch=1,EE,7040D888,extended,00000002
-
-[Froce]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Froce
-// Froce
-patch=1,EE,7040D888,extended,00000004
-
-[Alpine Speed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Alpine Speed
-// Alpine Speed
-patch=1,EE,7040D888,extended,00000008
-
 [Ski Jumping Distance]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ski Jumping Distance
@@ -156,20 +132,17 @@ description=Biathion Speed
 // Biathion Speed
 patch=1,EE,7040D889,extended,00000008
 
-[Bobsleigh Speed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Bobsleigh Speed
-// Bobsleigh Speed
-patch=1,EE,7040D889,extended,00000001
-
-[Luge Speed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Luge Speed
-// Luge Speed
-patch=1,EE,7040D889,extended,00000002
-
 [All Challenges]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Challenges
 // All Challenges
 patch=1,EE,7040D888,extended,00103FFF
+
+[Cheats\All Challenges Complete]
+patch=1,EE,2040D888,extended,0000FFFF
+
+[Cheats\Max Overall Score]
+patch=1,EE,20402E70,extended,000F423F
+
+[Cheats\Max Event Score]
+patch=1,EE,20402E74,extended,000061A8

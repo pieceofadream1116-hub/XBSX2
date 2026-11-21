@@ -60,7 +60,7 @@ description=P1 Press {CROSS} For Hover Mode
 // P1 Press {CROSS} For Hover Mode
 patch=1,EE,D038DEC2,extended,0000BFFF
 
-[P1 Press {CROSS} For Hover Mode]
+[P1 Press {CROSS} For Hover Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {CROSS} For Hover Mode
 // P1 Press {CROSS} For Hover Mode
@@ -72,7 +72,7 @@ description=Start With 50 Wins P1
 // Start With 50 Wins P1
 patch=1,EE,D07085C0,extended,00000000
 
-[Start With 50 Wins P1]
+[Start With 50 Wins P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With 50 Wins P1
 // Start With 50 Wins P1
@@ -82,19 +82,7 @@ patch=1,EE,107085C0,extended,00000032
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With 20 Wins P1
 // Start With 20 Wins P1
-patch=1,EE,D07085C0,extended,00000000
-
-[Start With 20 Wins P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start With 20 Wins P1
-// Start With 20 Wins P1
 patch=1,EE,107085C0,extended,00000014
-
-[Start With 10 Wins P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start With 10 Wins P1
-// Start With 10 Wins P1
-patch=1,EE,D07085C0,extended,00000000
 
 [Start With 10 Wins P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -108,7 +96,7 @@ description=Never Gain Wins P1
 // Never Gain Wins P1
 patch=1,EE,D07085C0,extended,00200002
 
-[Never Gain Wins P1]
+[Never Gain Wins P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Gain Wins P1
 // Never Gain Wins P1
@@ -132,7 +120,7 @@ description=P2 Press {CROSS} For Hover Mode
 // P2 Press {CROSS} For Hover Mode
 patch=1,EE,D0391EC2,extended,0000BFFF
 
-[P2 Press {CROSS} For Hover Mode]
+[P2 Press {CROSS} For Hover Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {CROSS} For Hover Mode
 // P2 Press {CROSS} For Hover Mode
@@ -144,7 +132,7 @@ description=Start With 50 Wins P2
 // Start With 50 Wins P2
 patch=1,EE,D07085C4,extended,00000000
 
-[Start With 50 Wins P2]
+[Start With 50 Wins P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With 50 Wins P2
 // Start With 50 Wins P2
@@ -154,19 +142,7 @@ patch=1,EE,107085C4,extended,00000032
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With 20 Wins P2
 // Start With 20 Wins P2
-patch=1,EE,D07085C4,extended,00000000
-
-[Start With 20 Wins P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start With 20 Wins P2
-// Start With 20 Wins P2
 patch=1,EE,107085C4,extended,00000014
-
-[Start With 10 Wins P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start With 10 Wins P2
-// Start With 10 Wins P2
-patch=1,EE,D07085C4,extended,00000000
 
 [Start With 10 Wins P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -180,7 +156,7 @@ description=Never Gain Wins P2
 // Never Gain Wins P2
 patch=1,EE,D07085C4,extended,00200002
 
-[Never Gain Wins P2]
+[Never Gain Wins P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Gain Wins P2
 // Never Gain Wins P2

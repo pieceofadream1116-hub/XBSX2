@@ -1,0 +1,4 @@
+gametitle=四八(仮) [SLPS-25759] [1713D02E]
+
+[Cheats\Strength 99999]
+patch=1,EE,216FF324,extended,0001869F

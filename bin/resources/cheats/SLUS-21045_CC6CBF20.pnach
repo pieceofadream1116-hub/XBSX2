@@ -66,25 +66,25 @@ description=Infinite Health (Entire Team)
 // Infinite Health (Entire Team)
 patch=1,EE,200C0220,extended,3C024376
 
-[Infinite Health (Entire Team)]
+[Infinite Health (Entire Team) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Entire Team)
 // Infinite Health (Entire Team)
 patch=1,EE,200C0224,extended,03E00008
 
-[Infinite Health (Entire Team)]
+[Infinite Health (Entire Team) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Entire Team)
 // Infinite Health (Entire Team)
 patch=1,EE,200C0228,extended,AE020074
 
-[Infinite Health (Entire Team)]
+[Infinite Health (Entire Team) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Entire Team)
 // Infinite Health (Entire Team)
 patch=1,EE,201CE040,extended,0C030088
 
-[Infinite Health (Entire Team)]
+[Infinite Health (Entire Team) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Entire Team)
 // Infinite Health (Entire Team)
@@ -96,25 +96,25 @@ description=Infinite Health (Only Current Character)
 // Infinite Health (Only Current Character)
 patch=1,EE,200C0230,extended,3C014348
 
-[Infinite Health (Only Current Character)]
+[Infinite Health (Only Current Character) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Only Current Character)
 // Infinite Health (Only Current Character)
 patch=1,EE,200C0234,extended,AC810074
 
-[Infinite Health (Only Current Character)]
+[Infinite Health (Only Current Character) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Only Current Character)
 // Infinite Health (Only Current Character)
 patch=1,EE,200C0238,extended,08087798
 
-[Infinite Health (Only Current Character)]
+[Infinite Health (Only Current Character) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Only Current Character)
 // Infinite Health (Only Current Character)
 patch=1,EE,200C023C,extended,C4800074
 
-[Infinite Health (Only Current Character)]
+[Infinite Health (Only Current Character) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Only Current Character)
 // Infinite Health (Only Current Character)
@@ -132,19 +132,19 @@ description=Max Infinite Skill Points
 // Max Infinite Skill Points
 patch=1,EE,200C0230,extended,2402270F
 
-[Max Infinite Skill Points]
+[Max Infinite Skill Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Skill Points
 // Max Infinite Skill Points
 patch=1,EE,200C0234,extended,03E00008
 
-[Max Infinite Skill Points]
+[Max Infinite Skill Points (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Skill Points
 // Max Infinite Skill Points
 patch=1,EE,200C0238,extended,A4821AA8
 
-[Max Infinite Skill Points]
+[Max Infinite Skill Points (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Skill Points
 // Max Infinite Skill Points
@@ -162,7 +162,7 @@ description=Unlock Cheats Menu (Inside Options)
 // Unlock Cheats Menu (Inside Options)
 patch=1,EE,2042BF10,extended,00000001
 
-[Infinite Ammo]
+[Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
@@ -180,7 +180,7 @@ description=P1 Press {L1}+{SELECT} For Hyper Speed
 // P1 Press {L1}+{SELECT} For Hyper Speed
 patch=1,EE,D069AB02,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} For Hyper Speed]
+[P1 Press {L1}+{SELECT} For Hyper Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} For Hyper Speed
 // P1 Press {L1}+{SELECT} For Hyper Speed
@@ -192,7 +192,7 @@ description=P1 Press {L2}+{SELECT} For Super Hyper Speed
 // P1 Press {L2}+{SELECT} For Super Hyper Speed
 patch=1,EE,D069AB02,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} For Super Hyper Speed]
+[P1 Press {L2}+{SELECT} For Super Hyper Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} For Super Hyper Speed
 // P1 Press {L2}+{SELECT} For Super Hyper Speed
@@ -204,7 +204,7 @@ description=P1 Press {R1}+{SELECT} For Slow Speed
 // P1 Press {R1}+{SELECT} For Slow Speed
 patch=1,EE,D069AB02,extended,0000F7FE
 
-[P1 Press {R1}+{SELECT} For Slow Speed]
+[P1 Press {R1}+{SELECT} For Slow Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{SELECT} For Slow Speed
 // P1 Press {R1}+{SELECT} For Slow Speed
@@ -216,7 +216,7 @@ description=P1 Press {R2}+{SELECT} For Super Slow Speed
 // P1 Press {R2}+{SELECT} For Super Slow Speed
 patch=1,EE,D069AB02,extended,0000FDFE
 
-[P1 Press {R2}+{SELECT} For Super Slow Speed]
+[P1 Press {R2}+{SELECT} For Super Slow Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+{SELECT} For Super Slow Speed
 // P1 Press {R2}+{SELECT} For Super Slow Speed
@@ -228,38 +228,14 @@ description=P1 Press {L3}+{SELECT} For Normal Speed
 // P1 Press {L3}+{SELECT} For Normal Speed
 patch=1,EE,D069AB02,extended,0000FFFC
 
-[P1 Press {L3}+{SELECT} For Normal Speed]
+[P1 Press {L3}+{SELECT} For Normal Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3}+{SELECT} For Normal Speed
 // P1 Press {L3}+{SELECT} For Normal Speed
 patch=1,EE,20432130,extended,3F800000
 
-[Super Hyper Speed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Super Hyper Speed
-// Super Hyper Speed
-patch=1,EE,20432130,extended,40800000
-
-[Hyper Speed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Hyper Speed
-// Hyper Speed
-patch=1,EE,20432130,extended,40000000
-
-[Normal Speed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Normal Speed
-// Normal Speed
-patch=1,EE,20432130,extended,3F800000
-
-[Slow Speed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Slow Speed
-// Slow Speed
-patch=1,EE,20432130,extended,3F400000
-
-[Super Slow Speed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Super Slow Speed
-// Super Slow Speed
-patch=1,EE,20432130,extended,3F000000
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,00141F94,word,24100000
+//patch=1,EE,0074AD38,word,00000000

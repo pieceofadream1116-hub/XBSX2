@@ -1,0 +1,4 @@
+gametitle=Dynasty Tactics [SLUS-20468] [470FDAAD]
+
+[Cheats\Infinite Turn Left Day]
+patch=1,EE,2057399C,extended,00000000

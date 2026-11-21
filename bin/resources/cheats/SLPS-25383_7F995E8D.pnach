@@ -1,0 +1,5 @@
+gametitle=デジモンバトルクロニクル [SLPS-25383] [7F995E8D]
+
+[Cheats\Unlock All Characters and Stages]
+patch=1,EE,4054A900,extended,00120001
+patch=1,EE,00000001,extended,00000000

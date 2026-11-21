@@ -30,17 +30,11 @@ description=Have All VR Missions Completed (OK)
 // Have All VR Missions Completed (OK)
 patch=1,EE,2056E170,extended,FFFFFFFF
 
-[Have All VR Missions Completed (OK)]
+[Have All VR Missions Completed (OK) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All VR Missions Completed (OK)
 // Have All VR Missions Completed (OK)
 patch=1,EE,1056E174,extended,00000000
-
-[Have All VR Missions Completed (Record)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All VR Missions Completed (Record)
-// Have All VR Missions Completed (Record)
-patch=1,EE,2056E170,extended,FFFFFFFF
 
 [Have All VR Missions Completed (Record)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -240,7 +234,7 @@ description=Press {L1}+{SELECT} To Turn Collisions On
 // Press {L1}+{SELECT} To Turn Collisions On
 patch=1,EE,D047B3BA,extended,0000FBFE
 
-[Press {L1}+{SELECT} To Turn Collisions On]
+[Press {L1}+{SELECT} To Turn Collisions On (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} To Turn Collisions On
 // Press {L1}+{SELECT} To Turn Collisions On
@@ -252,7 +246,7 @@ description=Press {L2}+{SELECT} To Turn Collisions Off
 // Press {L2}+{SELECT} To Turn Collisions Off
 patch=1,EE,D047B3BA,extended,0000FEFE
 
-[Press {L2}+{SELECT} To Turn Collisions Off]
+[Press {L2}+{SELECT} To Turn Collisions Off (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L2}+{SELECT} To Turn Collisions Off
 // Press {L2}+{SELECT} To Turn Collisions Off
@@ -455,3 +449,12 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 30
 // Slot 30
 patch=1,EE,203FFD74,extended,00000063
+
+[Cheats\Have All VR Missions Completed Record]
+patch=1,EE,2056E170,extended,FFFFFFFF
+patch=1,EE,1056E174,extended,0000FFFF
+
+[Cheats\Enable Debug Menu Presa R1+Square+Start at any time]
+patch=1,EE,2058AC38,extended,00000001
+patch=1,EE,2058AC3C,extended,00000001
+patch=1,EE,2058AC40,extended,00000001

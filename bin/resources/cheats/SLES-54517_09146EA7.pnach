@@ -1,0 +1,4 @@
+gametitle=Thrillville [SLES-54517] [09146EA7]
+
+[Cheats\Max Money]
+patch=1,EE,2196A5E8,extended,3C0205F5

@@ -1,0 +1,4 @@
+gametitle=プリンセスメーカー2 [SLPS-20393] [2031B0C8]
+
+[Cheats\Max Money 9999999]
+patch=1,EE,203034B8,extended,000F423F

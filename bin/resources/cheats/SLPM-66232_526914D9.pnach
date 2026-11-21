@@ -1,0 +1,4 @@
+gametitle=ニード・フォー・スピード モスト・ウォンテッド [SLPM-66232] [526914D9]
+
+[Cheats\Infinite Cash]
+patch=1,EE,20A74B10,extended,3B9AC9FF

@@ -42,17 +42,11 @@ description=Ultra Quick Exp Gain
 // Ultra Quick Exp Gain
 patch=1,EE,201A023C,extended,A6220006
 
-[Ultra Quick Exp Gain]
+[Ultra Quick Exp Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ultra Quick Exp Gain
 // Ultra Quick Exp Gain
 patch=1,EE,201A0240,extended,24020001
-
-[Quick Exp Gain]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Quick Exp Gain
-// Quick Exp Gain
-patch=1,EE,201A023C,extended,A6220006
 
 [Quick Exp Gain]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -72,7 +66,7 @@ description=P1 Press {R3} To Disable Random Battles
 // P1 Press {R3} To Disable Random Battles
 patch=1,EE,D05BC402,extended,0000FFFB
 
-[P1 Press {R3} To Disable Random Battles]
+[P1 Press {R3} To Disable Random Battles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R3} To Disable Random Battles
 // P1 Press {R3} To Disable Random Battles
@@ -84,7 +78,7 @@ description=P1 Press {L3} To Enable Random Battles
 // P1 Press {L3} To Enable Random Battles
 patch=1,EE,D05BC402,extended,0000FFFD
 
-[P1 Press {L3} To Enable Random Battles]
+[P1 Press {L3} To Enable Random Battles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3} To Enable Random Battles
 // P1 Press {L3} To Enable Random Battles
@@ -96,103 +90,103 @@ description=Have All Items
 // Have All Items
 patch=1,EE,200C04E0,extended,3C01000C
 
-[Have All Items]
+[Have All Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C04E4,extended,80220700
 
-[Have All Items]
+[Have All Items (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C04E8,extended,1440000E
 
-[Have All Items]
+[Have All Items (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C04EC,extended,24020001
 
-[Have All Items]
+[Have All Items (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C04F0,extended,A0220700
 
-[Have All Items]
+[Have All Items (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C04F8,extended,03E08021
 
-[Have All Items]
+[Have All Items (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C04FC,extended,24110001
 
-[Have All Items]
+[Have All Items (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C0500,extended,24120063
 
-[Have All Items]
+[Have All Items (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C0504,extended,02202021
 
-[Have All Items]
+[Have All Items (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C050C,extended,0C0B0B64
 
-[Have All Items]
+[Have All Items (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C0510,extended,02402821
 
-[Have All Items]
+[Have All Items (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C0514,extended,2E220215
 
-[Have All Items]
+[Have All Items (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C0518,extended,1440FFFA
 
-[Have All Items]
+[Have All Items (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C051C,extended,26310001
 
-[Have All Items]
+[Have All Items (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C0520,extended,0200F821
 
-[Have All Items]
+[Have All Items (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C0524,extended,03E00008
 
-[Have All Items]
+[Have All Items (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,200C0528,extended,0000102D
 
-[Have All Items]
+[Have All Items (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
@@ -204,7 +198,7 @@ description=Character 1
 // Character 1
 patch=1,EE,D0535E60,extended,00100000
 
-[Character 1]
+[Character 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 1
 // Character 1
@@ -216,7 +210,7 @@ description=Character 2
 // Character 2
 patch=1,EE,D0535E62,extended,00100000
 
-[Character 2]
+[Character 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 2
 // Character 2
@@ -228,7 +222,7 @@ description=Character 3
 // Character 3
 patch=1,EE,D0535E64,extended,00100000
 
-[Character 3]
+[Character 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 3
 // Character 3
@@ -240,31 +234,31 @@ description=Character 4
 // Character 4
 patch=1,EE,D0535E66,extended,00100000
 
-[Character 4]
+[Character 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 4
 // Character 4
 patch=1,EE,201B8FF4,extended,000003E7
 
-[Character 1]
+[Character 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 1
 // Character 1
 patch=1,EE,201B8D68,extended,09090909
 
-[Character 2]
+[Character 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 2
 // Character 2
 patch=1,EE,201B8E44,extended,09090909
 
-[Character 3]
+[Character 3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 3
 // Character 3
 patch=1,EE,201B8F20,extended,09090909
 
-[Character 4]
+[Character 4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 4
 // Character 4
@@ -276,55 +270,55 @@ description=All Characters
 // All Characters
 patch=1,EE,401B8D68,extended,00040037
 
-[All Characters]
+[All Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Characters
 // All Characters
 patch=1,EE,09090909,extended,00000000
 
-[Character 1]
+[Character 1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 1
 // Character 1
 patch=1,EE,501B8D64,extended,00000004
 
-[Character 1]
+[Character 1 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 1
 // Character 1
 patch=1,EE,001B8D68,extended,00000000
 
-[Character 2]
+[Character 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 2
 // Character 2
 patch=1,EE,501B8E40,extended,00000004
 
-[Character 2]
+[Character 2 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 2
 // Character 2
 patch=1,EE,001B8E44,extended,00000000
 
-[Character 3]
+[Character 3 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 3
 // Character 3
 patch=1,EE,501B8F1C,extended,00000004
 
-[Character 3]
+[Character 3 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 3
 // Character 3
 patch=1,EE,001B8F20,extended,00000000
 
-[Character 4]
+[Character 4 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 4
 // Character 4
 patch=1,EE,501B8FF8,extended,00000004
 
-[Character 4]
+[Character 4 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Character 4
 // Character 4
@@ -420,7 +414,7 @@ description=Max All Stats
 // Max All Stats
 patch=1,EE,40532988,extended,00030001
 
-[Max All Stats]
+[Max All Stats (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
@@ -503,3 +497,51 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Rune LVL 4
 // Infinite Rune LVL 4
 patch=1,EE,005329B8,extended,00000009
+
+[Cheats\Always Max Runes Codes All Characters]
+patch=1,EE,401B8D68,extended,00040037
+patch=1,EE,09090909,extended,00000000
+
+[Cheats\Infinite HP Character 1 In Battle]
+patch=1,EE,D0535E60,extended,00100000
+patch=1,EE,201B8D60,extended,000003E7
+
+[Cheats\Infinite HP Character 2 In Battle]
+patch=1,EE,D0535E62,extended,00100000
+patch=1,EE,201B8E3C,extended,000003E7
+
+[Cheats\Infinite HP Character 3 In Battle]
+patch=1,EE,D0535E64,extended,00100000
+patch=1,EE,201B8F18,extended,000003E7
+
+[Cheats\Infinite HP Character 4 In Battle]
+patch=1,EE,D0535E66,extended,00100000
+patch=1,EE,201B8FF4,extended,000003E7
+
+[Cheats\P1 Press R3 To Disable Random Battles]
+patch=1,EE,D05BC402,extended,0000FFFB
+patch=1,EE,202D5C84,extended,24020000
+
+[Cheats\P1 Press L3 To Enable Random Battles]
+patch=1,EE,D05BC402,extended,0000FFFD
+patch=1,EE,202D5C84,extended,0C0B575C
+
+[Cheats\Have All Items]
+patch=1,EE,200C04E0,extended,3C01000C
+patch=1,EE,200C04E4,extended,80220700
+patch=1,EE,200C04E8,extended,1440000E
+patch=1,EE,200C04EC,extended,24020001
+patch=1,EE,200C04F0,extended,A0220700
+patch=1,EE,200C04F8,extended,03E08021
+patch=1,EE,200C04FC,extended,24110001
+patch=1,EE,200C0500,extended,24120063
+patch=1,EE,200C0504,extended,02202021
+patch=1,EE,200C050C,extended,0C0B0B64
+patch=1,EE,200C0510,extended,02402821
+patch=1,EE,200C0514,extended,2E220215
+patch=1,EE,200C0518,extended,1440FFFA
+patch=1,EE,200C051C,extended,26310001
+patch=1,EE,200C0520,extended,0200F821
+patch=1,EE,200C0524,extended,03E00008
+patch=1,EE,200C0528,extended,0000102D
+patch=1,EE,202D5794,extended,0C030138

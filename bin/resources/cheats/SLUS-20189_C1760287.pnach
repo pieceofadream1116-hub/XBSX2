@@ -48,7 +48,7 @@ description=Always Low Time
 // Always Low Time
 patch=1,EE,D07508B2,extended,00000075
 
-[Always Low Time]
+[Always Low Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Time
 // Always Low Time
@@ -60,7 +60,7 @@ description=Max Trip Meter
 // Max Trip Meter
 patch=1,EE,D0742372,extended,00000074
 
-[Max Trip Meter]
+[Max Trip Meter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Trip Meter
 // Max Trip Meter
@@ -70,19 +70,7 @@ patch=1,EE,20742B68,extended,00189BC6
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Auto Pilot Never On
 // Auto Pilot Never On
-patch=1,EE,D0742372,extended,00000074
-
-[Auto Pilot Never On]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Auto Pilot Never On
-// Auto Pilot Never On
 patch=1,EE,10742380,extended,00000000
-
-[Auto Pilot Always On]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Auto Pilot Always On
-// Auto Pilot Always On
-patch=1,EE,D0742372,extended,00000074
 
 [Auto Pilot Always On]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -100,19 +88,7 @@ patch=1,EE,20188FF4,extended,00000000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite SP P1
 // Infinite SP P1
-patch=1,EE,D07508B2,extended,00000075
-
-[Infinite SP P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite SP P1
-// Infinite SP P1
 patch=1,EE,207508F8,extended,004C4B40
-
-[No SP P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No SP P1
-// No SP P1
-patch=1,EE,D07508B2,extended,00000075
 
 [No SP P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -124,22 +100,41 @@ patch=1,EE,207508F8,extended,00000000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite SP Rival
 // Infinite SP Rival
-patch=1,EE,D07508B2,extended,00000075
-
-[Infinite SP Rival]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite SP Rival
-// Infinite SP Rival
 patch=1,EE,207508FC,extended,004C4B40
 
 [No SP Rival]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No SP Rival
 // No SP Rival
-patch=1,EE,D07508B2,extended,00000075
-
-[No SP Rival]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No SP Rival
-// No SP Rival
 patch=1,EE,207508FC,extended,00000000
+
+[Cheats\Max Total Miles]
+patch=1,EE,D0750C1A,extended,00000002
+patch=1,EE,1037DDBA,extended,00007F00
+
+[Cheats\Always Low Time]
+patch=1,EE,D07508B2,extended,00000075
+patch=1,EE,20750900,extended,00000000
+
+[Cheats\Max Trip Meter]
+patch=1,EE,D0742372,extended,00000074
+patch=1,EE,20742B68,extended,00189BC6
+
+[Cheats\Auto Pilot Never On]
+patch=1,EE,D0742372,extended,00000074
+patch=1,EE,10742380,extended,00000000
+
+[Cheats\Auto Pilot Always On]
+patch=1,EE,D0742372,extended,00000074
+patch=1,EE,10742380,extended,00000004
+
+[Cheats\Infinite SP Player 1]
+patch=1,EE,D07508B2,extended,00000075
+patch=1,EE,207508F8,extended,004C4B40
+
+[Cheats\No SP Rival]
+patch=1,EE,D07508B2,extended,00000075
+patch=1,EE,207508FC,extended,00000000
+
+[Cheats\Debug Menu features working sound and movie test, car viewer, freerun, quick, versus, advertise. time attack, ending]
+patch=1,EE,20391D54,extended,00000064

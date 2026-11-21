@@ -12,7 +12,7 @@ description=Infinite HP
 // Infinite HP
 patch=1,EE,205C4F94,extended,0000EA60
 
-[Infinite HP]
+[Infinite HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
@@ -161,3 +161,25 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No People Rescued-Injured
 // No People Rescued-Injured
 patch=1,EE,205A512C,extended,00000000
+
+[Cheats\Infinite Health]
+patch=1,EE,201831A4,extended,00000000
+
+[Cheats\Infinite HP]
+patch=1,EE,205C4F94,extended,0000EA60
+patch=1,EE,205C4F98,extended,0000EA60
+
+[Cheats\Infinite Impulse Ammo]
+patch=1,EE,205C4FB4,extended,0000000F
+
+[Cheats\Survivors Never Die]
+patch=1,EE,201B6BDC,extended,00000000
+
+[Cheats\Infinite Fire Fighting Support Calls]
+patch=1,EE,200C2000,extended,341B000A
+patch=1,EE,200C2004,extended,0804BF74
+patch=1,EE,200C2008,extended,AC7B0054
+patch=1,EE,2012FDCC,extended,08030800
+
+[Cheats\Stop Timer]
+patch=1,EE,2011DFE0,extended,00000000

@@ -18,13 +18,13 @@ description=Always Place 1st
 // Always Place 1st
 patch=1,EE,0066BC70,extended,00000000
 
-[Max Race Points]
+[Max Race Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Race Points
 // Max Race Points
 patch=1,EE,D06658D2,extended,00000000
 
-[Max Race Points]
+[Max Race Points (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Race Points
 // Max Race Points
@@ -36,17 +36,11 @@ description=Lap 2
 // Lap 2
 patch=1,EE,D066BC38,extended,00000000
 
-[Lap 2]
+[Lap 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lap 2
 // Lap 2
 patch=1,EE,1066BC38,extended,00000001
-
-[Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 3
-// Lap 3
-patch=1,EE,D066BC38,extended,00000000
 
 [Lap 3]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -58,22 +52,30 @@ patch=1,EE,1066BC38,extended,00000002
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lap 4
 // Lap 4
-patch=1,EE,D066BC38,extended,00000000
-
-[Lap 4]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 4
-// Lap 4
 patch=1,EE,1066BC38,extended,00000003
 
 [Lap 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lap 5
 // Lap 5
-patch=1,EE,D066BC38,extended,00000000
+patch=1,EE,1066BC38,extended,00000004
 
-[Lap 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 5
-// Lap 5
+[Cheats\Max Engine Status]
+patch=1,EE,00395ECC,extended,0000000C
+
+[Cheats\Max Grip Status]
+patch=1,EE,00395ED0,extended,0000000C
+
+[Cheats\Max Handling Status]
+patch=1,EE,00395EC8,extended,0000000C
+
+[Cheats\Max Tricks Status]
+patch=1,EE,00395ED4,extended,0000000C
+
+[Cheats\Never Penalty Misses]
+patch=1,EE,0066BC24,extended,00000000
+patch=1,EE,0066BC28,extended,00000009
+
+[Cheats\Start On Lap 5]
+patch=1,EE,D066BC38,extended,00000000
 patch=1,EE,1066BC38,extended,00000004

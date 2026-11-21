@@ -18,13 +18,13 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,2037380C,extended,24020078
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,20373810,extended,AE020714
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -36,7 +36,7 @@ description=Infinite Health (Your Team)
 // Infinite Health (Your Team)
 patch=1,EE,203944CC,extended,8FA12B1C
 
-[Infinite Health (Your Team)]
+[Infinite Health (Your Team) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Your Team)
 // Infinite Health (Your Team)
@@ -48,19 +48,19 @@ description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2039A650,extended,904100CF
 
-[Infinite Ammo]
+[Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2039A654,extended,34210002
 
-[Infinite Ammo]
+[Infinite Ammo (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2039A658,extended,A04100CF
 
-[Infinite Ammo]
+[Infinite Ammo (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
@@ -120,25 +120,25 @@ description=Max Points To Buy Galleries/Movies
 // Max Points To Buy Galleries/Movies
 patch=1,EE,200C0220,extended,24087530
 
-[Max Points To Buy Galleries/Movies]
+[Max Points To Buy Galleries/Movies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Points To Buy Galleries/Movies
 // Max Points To Buy Galleries/Movies
 patch=1,EE,200C0224,extended,A5A80320
 
-[Max Points To Buy Galleries/Movies]
+[Max Points To Buy Galleries/Movies (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Points To Buy Galleries/Movies
 // Max Points To Buy Galleries/Movies
 patch=1,EE,200C0228,extended,0812B7DF
 
-[Max Points To Buy Galleries/Movies]
+[Max Points To Buy Galleries/Movies (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Points To Buy Galleries/Movies
 // Max Points To Buy Galleries/Movies
 patch=1,EE,200C022C,extended,A5A80324
 
-[Max Points To Buy Galleries/Movies]
+[Max Points To Buy Galleries/Movies (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Points To Buy Galleries/Movies
 // Max Points To Buy Galleries/Movies
@@ -150,7 +150,7 @@ description=All Gallery Items Cost 0 Pts
 // All Gallery Items Cost 0 Pts
 patch=1,EE,204A79CC,extended,24060000
 
-[All Gallery Items Cost 0 Pts]
+[All Gallery Items Cost 0 Pts (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Gallery Items Cost 0 Pts
 // All Gallery Items Cost 0 Pts
@@ -162,7 +162,7 @@ description=All Gallery Movies Cost 0 Pts
 // All Gallery Movies Cost 0 Pts
 patch=1,EE,204A5724,extended,24060000
 
-[All Gallery Movies Cost 0 Pts]
+[All Gallery Movies Cost 0 Pts (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Gallery Movies Cost 0 Pts
 // All Gallery Movies Cost 0 Pts
@@ -174,20 +174,48 @@ description=Unlock All Gallery Items/Movies
 // Unlock All Gallery Items/Movies
 patch=1,EE,204AE054,extended,2403FFFF
 
-[Unlock All Gallery Items/Movies]
+[Unlock All Gallery Items/Movies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Items/Movies
 // Unlock All Gallery Items/Movies
 patch=1,EE,204AE058,extended,AD0301D0
 
-[Unlock All Gallery Items/Movies]
+[Unlock All Gallery Items/Movies (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Items/Movies
 // Unlock All Gallery Items/Movies
 patch=1,EE,204AE06C,extended,AC6001E0
 
-[Unlock All Gallery Items/Movies]
+[Unlock All Gallery Items/Movies (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Items/Movies
 // Unlock All Gallery Items/Movies
 patch=1,EE,204AE070,extended,00000000
+
+[Cheats\Infinite Health]
+patch=1,EE,2037380C,extended,24020078
+patch=1,EE,20373810,extended,AE020714
+patch=1,EE,10373816,extended,00001000
+
+[Cheats\Infinite Health Your Team]
+patch=1,EE,203944CC,extended,8FA12B1C
+patch=1,EE,203944D0,extended,AC410714
+
+[Cheats\Infinite Ammo]
+patch=1,EE,2039A650,extended,904100CF
+patch=1,EE,2039A654,extended,34210002
+patch=1,EE,2039A658,extended,A04100CF
+patch=1,EE,2039A65C,extended,00000000
+
+[Cheats\Load Any Profile Unlocks All Gallery]
+patch=1,EE,200C2010,extended,24020FFF
+patch=1,EE,200C2014,extended,AC8201D0
+patch=1,EE,200C2018,extended,AC8201D4
+patch=1,EE,200C201C,extended,AC8201D8
+
+[Cheats\Load Any Profile Unlocks All Movies and Quick Missions]
+patch=1,EE,200C202C,extended,2402003F
+patch=1,EE,200C2030,extended,AC8201DC
+patch=1,EE,200C2034,extended,24020001
+patch=1,EE,200C2038,extended,AC8201C0
+patch=1,EE,200C203C,extended,AC8201C

@@ -1,0 +1,4 @@
+gametitle=Go, Diego, Go! Great Dinosaur Rescue [SLUS-21794] [4D6B5DE5]
+
+[Cheats\Enable Debug Options level select menu in the main menu.Enables a debug menu when pressing Select in-game. Enables a free camera mode when pressing R3.]
+patch=1,EE,2013034C,extended,24038275

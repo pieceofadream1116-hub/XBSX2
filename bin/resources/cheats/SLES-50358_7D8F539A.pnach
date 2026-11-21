@@ -60,7 +60,7 @@ description=Moon Jump
 // Moon Jump
 patch=1,EE,D0765572,extended,00001000
 
-[Moon Jump]
+[Moon Jump (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Moon Jump
 // Moon Jump
@@ -90,7 +90,7 @@ description=Disable Screen Blur
 // Disable Screen Blur
 patch=1,EE,20149490,extended,03E00008
 
-[Disable Screen Blur]
+[Disable Screen Blur (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Disable Screen Blur
 // Disable Screen Blur
@@ -102,7 +102,7 @@ description=Infinite Devil Trigger
 // Infinite Devil Trigger
 patch=1,EE,105B85F2,extended,000003E8
 
-[Infinite Devil Trigger]
+[Infinite Devil Trigger (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Devil Trigger
 // Infinite Devil Trigger
@@ -114,7 +114,7 @@ description=Max Devil Trigger
 // Max Devil Trigger
 patch=1,EE,105B85F4,extended,000003E8
 
-[Max Devil Trigger]
+[Max Devil Trigger (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Devil Trigger
 // Max Devil Trigger
@@ -126,25 +126,25 @@ description=Allow Usage Of Sparda Devil Trigger (Not Fireballs)
 // Allow Usage Of Sparda Devil Trigger (Not Fireballs)
 patch=1,EE,20138A90,extended,00000000
 
-[Allow Usage Of Sparda Devil Trigger (Not Fireballs)]
+[Allow Usage Of Sparda Devil Trigger (Not Fireballs) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Allow Usage Of Sparda Devil Trigger (Not Fireballs)
 // Allow Usage Of Sparda Devil Trigger (Not Fireballs)
 patch=1,EE,102D338C,extended,00000003
 
-[Allow Usage Of Sparda Devil Trigger (Not Fireballs)]
+[Allow Usage Of Sparda Devil Trigger (Not Fireballs) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Allow Usage Of Sparda Devil Trigger (Not Fireballs)
 // Allow Usage Of Sparda Devil Trigger (Not Fireballs)
 patch=1,EE,102D339C,extended,00000003
 
-[Allow Usage Of Sparda Devil Trigger (Not Fireballs)]
+[Allow Usage Of Sparda Devil Trigger (Not Fireballs) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Allow Usage Of Sparda Devil Trigger (Not Fireballs)
 // Allow Usage Of Sparda Devil Trigger (Not Fireballs)
 patch=1,EE,202C04E0,extended,03E00008
 
-[Allow Usage Of Sparda Devil Trigger (Not Fireballs)]
+[Allow Usage Of Sparda Devil Trigger (Not Fireballs) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Allow Usage Of Sparda Devil Trigger (Not Fireballs)
 // Allow Usage Of Sparda Devil Trigger (Not Fireballs)
@@ -156,13 +156,13 @@ description=All Difficulties-All Stages-Rank S
 // All Difficulties-All Stages-Rank S
 patch=1,EE,407547AC,extended,00110001
 
-[All Difficulties-All Stages-Rank S]
+[All Difficulties-All Stages-Rank S (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Difficulties-All Stages-Rank S
 // All Difficulties-All Stages-Rank S
 patch=1,EE,00000000,extended,00000000
 
-[All Difficulties-All Stages-Rank S]
+[All Difficulties-All Stages-Rank S (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Difficulties-All Stages-Rank S
 // All Difficulties-All Stages-Rank S
@@ -174,7 +174,7 @@ description=Infinite Health (Alternate)
 // Infinite Health (Alternate)
 patch=1,EE,20152560,extended,03E00008
 
-[Infinite Health (Alternate)]
+[Infinite Health (Alternate) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Alternate)
 // Infinite Health (Alternate)
@@ -186,7 +186,7 @@ description=Attack Rank Never Lowers
 // Attack Rank Never Lowers
 patch=1,EE,201B7540,extended,03E00008
 
-[Attack Rank Never Lowers]
+[Attack Rank Never Lowers (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Attack Rank Never Lowers
 // Attack Rank Never Lowers
@@ -263,12 +263,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Stage Time-All Missions
 // Low Completed Stage Time-All Missions
 patch=1,EE,40754460,extended,00170001
-
-[Low Completed Stage Time-All Missions]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Low Completed Stage Time-All Missions
-// Low Completed Stage Time-All Missions
-patch=1,EE,00000000,extended,00000000
 
 [Slot 1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -480,211 +474,211 @@ description=Stage 23
 // Stage 23
 patch=1,EE,007547C2,extended,00000000
 
-[Stage 1]
+[Stage 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 1
 // Stage 1
 patch=1,EE,007547C3,extended,00000000
 
-[Stage 2]
+[Stage 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 2
 // Stage 2
 patch=1,EE,007547C4,extended,00000000
 
-[Stage 3]
+[Stage 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 3
 // Stage 3
 patch=1,EE,007547C5,extended,00000000
 
-[Stage 4]
+[Stage 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 4
 // Stage 4
 patch=1,EE,007547C6,extended,00000000
 
-[Stage 5]
+[Stage 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 5
 // Stage 5
 patch=1,EE,007547C7,extended,00000000
 
-[Stage 6]
+[Stage 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 6
 // Stage 6
 patch=1,EE,007547C8,extended,00000000
 
-[Stage 7]
+[Stage 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 7
 // Stage 7
 patch=1,EE,007547C9,extended,00000000
 
-[Stage 8]
+[Stage 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 8
 // Stage 8
 patch=1,EE,007547CA,extended,00000000
 
-[Stage 9]
+[Stage 9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 9
 // Stage 9
 patch=1,EE,007547CB,extended,00000000
 
-[Stage 10]
+[Stage 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 10
 // Stage 10
 patch=1,EE,007547CC,extended,00000000
 
-[Stage 11]
+[Stage 11 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 11
 // Stage 11
 patch=1,EE,007547CD,extended,00000000
 
-[Stage 12]
+[Stage 12 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 12
 // Stage 12
 patch=1,EE,007547CE,extended,00000000
 
-[Stage 13]
+[Stage 13 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 13
 // Stage 13
 patch=1,EE,007547CF,extended,00000000
 
-[Stage 14]
+[Stage 14 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 14
 // Stage 14
 patch=1,EE,007547D0,extended,00000000
 
-[Stage 15]
+[Stage 15 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 15
 // Stage 15
 patch=1,EE,007547D1,extended,00000000
 
-[Stage 16]
+[Stage 16 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 16
 // Stage 16
 patch=1,EE,007547D2,extended,00000000
 
-[Stage 17]
+[Stage 17 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 17
 // Stage 17
 patch=1,EE,007547D3,extended,00000000
 
-[Stage 18]
+[Stage 18 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 18
 // Stage 18
 patch=1,EE,007547D4,extended,00000000
 
-[Stage 19]
+[Stage 19 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 19
 // Stage 19
 patch=1,EE,007547D5,extended,00000000
 
-[Stage 20]
+[Stage 20 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 20
 // Stage 20
 patch=1,EE,007547D6,extended,00000000
 
-[Stage 21]
+[Stage 21 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 21
 // Stage 21
 patch=1,EE,007547D7,extended,00000000
 
-[Stage 22]
+[Stage 22 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 22
 // Stage 22
 patch=1,EE,007547D8,extended,00000000
 
-[Stage 23]
+[Stage 23 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 23
 // Stage 23
 patch=1,EE,007547D9,extended,00000000
 
-[Slot 1]
+[Slot 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 1
 // Slot 1
 patch=1,EE,007547DA,extended,00000000
 
-[Slot 2]
+[Slot 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 2
 // Slot 2
 patch=1,EE,007547DB,extended,00000000
 
-[Slot 3]
+[Slot 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 3
 // Slot 3
 patch=1,EE,007547DC,extended,00000000
 
-[Slot 4]
+[Slot 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 4
 // Slot 4
 patch=1,EE,007547DD,extended,00000000
 
-[Slot 5]
+[Slot 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 5
 // Slot 5
 patch=1,EE,007547DE,extended,00000000
 
-[Slot 6]
+[Slot 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 6
 // Slot 6
 patch=1,EE,007547DF,extended,00000000
 
-[Slot 7]
+[Slot 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 7
 // Slot 7
 patch=1,EE,007547E0,extended,00000000
 
-[Slot 8]
+[Slot 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 8
 // Slot 8
 patch=1,EE,007547E1,extended,00000000
 
-[Slot 9]
+[Slot 9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 9
 // Slot 9
 patch=1,EE,007547E2,extended,00000000
 
-[Slot 10]
+[Slot 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 10
 // Slot 10
 patch=1,EE,007547E3,extended,00000000
 
-[Slot 11]
+[Slot 11 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 11
 // Slot 11
 patch=1,EE,007547E4,extended,00000000
 
-[Slot 12]
+[Slot 12 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 12
 // Slot 12
@@ -750,12 +744,6 @@ description=Slot 22
 // Slot 22
 patch=1,EE,007547EF,extended,00000000
 
-[Slot 23]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Slot 23
-// Slot 23
-patch=1,EE,007547F0,extended,00000000
-
 [Secret Mission 1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Secret Mission 1
@@ -767,3 +755,39 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Secret Mission 2
 // Secret Mission 2
 patch=1,EE,105B0A7C,extended,00000064
+
+[Cheats\Infinite Health]
+patch=1,EE,205C7654,extended,07D00000
+
+[Cheats\Infinite Devil Trigger]
+patch=1,EE,105C79F2,extended,00004B00
+
+[Cheats\Always 0 Saves]
+patch=1,EE,205BF510,extended,FFFFFFFF
+
+[Cheats\Max Red Orbs At End Stage]
+patch=1,EE,20742AFC,extended,05F5E0FF
+
+[Cheats\Stop Countdown Timer]
+patch=1,EE,205BEB80,extended,00003E00
+
+[Cheats\Infinite Red Orbs]
+patch=1,EE,20742924,extended,05F5E0FF
+
+[Cheats\Infinite Yellow Orbs]
+patch=1,EE,20742910,extended,000003E7
+
+[Cheats\Always 3 Blue Orbs]
+patch=1,EE,20742928,extended,00000003
+
+[Cheats\Master All Moves]
+patch=1,EE,20742918,extended,7FFE0000
+
+[Cheats\Beer Goggles]
+patch=1,EE,205CD800,extended,00012038
+
+[Cheats\Clear Vision Underwater]
+patch=1,EE,205CD800,extended,00002038
+
+[Cheats\Unlock All Game Modes]
+patch=1,EE,20742204,extended,FFFFFFFF

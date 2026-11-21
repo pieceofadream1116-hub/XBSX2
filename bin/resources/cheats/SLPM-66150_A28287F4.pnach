@@ -1,0 +1,8 @@
+gametitle=しろがねの鳥籠 [通常版] [SLPM-66150] [A28287F4]
+
+[Cheats\Unlock All CG]
+patch=1,EE,20426BC8,extended,FFFFFFFF
+patch=1,EE,20426BCC,extended,FFFFFFFF
+patch=1,EE,20426BD0,extended,FFFFFFFF
+patch=1,EE,10426BD4,extended,0000FFFF
+patch=1,EE,00426BD6,extended,000000FF

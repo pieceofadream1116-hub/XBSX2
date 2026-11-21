@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,201FB8C0,extended,24020096
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -30,7 +30,7 @@ description=Have All Smiths Personalities
 // Have All Smiths Personalities
 patch=1,EE,2061C870,extended,FFFFFFFF
 
-[Have All Smiths Personalities]
+[Have All Smiths Personalities (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Smiths Personalities
 // Have All Smiths Personalities
@@ -42,7 +42,7 @@ description=Have All Smiths Alive
 // Have All Smiths Alive
 patch=1,EE,2061C868,extended,00000000
 
-[Have All Smiths Alive]
+[Have All Smiths Alive (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Smiths Alive
 // Have All Smiths Alive
@@ -78,55 +78,49 @@ description=Max All Levels
 // Max All Levels
 patch=1,EE,4061C3EC,extended,00040014
 
-[Max All Levels]
+[Max All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Levels
 // Max All Levels
 patch=1,EE,00000009,extended,00000000
 
-[Max Power Level]
+[Max Power Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power Level
 // Max Power Level
 patch=1,EE,2061C424,extended,00000009
 
-[Max Speed Level]
+[Max Speed Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed Level
 // Max Speed Level
 patch=1,EE,2061C474,extended,00000009
 
-[Max Waver Level]
+[Max Waver Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Waver Level
 // Max Waver Level
 patch=1,EE,2061C4C4,extended,00000009
 
-[Max Criticals Level]
+[Max Criticals Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Criticals Level
 // Max Criticals Level
 patch=1,EE,2061C514,extended,00000009
 
-[Max All Levels]
+[Max All Levels (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Levels
 // Max All Levels
 patch=1,EE,4061C424,extended,00040014
 
-[Max All Levels]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max All Levels
-// Max All Levels
-patch=1,EE,00000009,extended,00000000
-
-[Max Power Level]
+[Max Power Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power Level
 // Max Power Level
 patch=1,EE,2061C42C,extended,00000009
 
-[Max Speed Level]
+[Max Speed Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed Level
 // Max Speed Level
@@ -138,109 +132,91 @@ description=Max Invisibility Level
 // Max Invisibility Level
 patch=1,EE,2061C4CC,extended,00000009
 
-[Max Criticals Level]
+[Max Criticals Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Criticals Level
 // Max Criticals Level
 patch=1,EE,2061C51C,extended,00000009
 
-[Max All Levels]
+[Max All Levels (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Levels
 // Max All Levels
 patch=1,EE,4061C42C,extended,00040014
 
-[Max All Levels]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max All Levels
-// Max All Levels
-patch=1,EE,00000009,extended,00000000
-
-[Max Power Level]
+[Max Power Level (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power Level
 // Max Power Level
 patch=1,EE,2061C41C,extended,00000009
 
-[Max Speed Level]
+[Max Speed Level (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed Level
 // Max Speed Level
 patch=1,EE,2061C46C,extended,00000009
 
-[Max Waver Level]
+[Max Waver Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Waver Level
 // Max Waver Level
 patch=1,EE,2061C4BC,extended,00000009
 
-[Max Criticals Level]
+[Max Criticals Level (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Criticals Level
 // Max Criticals Level
 patch=1,EE,2061C50C,extended,00000009
 
-[Max All Levels]
+[Max All Levels (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Levels
 // Max All Levels
 patch=1,EE,4061C41C,extended,00040014
 
-[Max All Levels]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max All Levels
-// Max All Levels
-patch=1,EE,00000009,extended,00000000
-
-[Max Power Level]
+[Max Power Level (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power Level
 // Max Power Level
 patch=1,EE,2061C3FC,extended,00000009
 
-[Max Speed Level]
+[Max Speed Level (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed Level
 // Max Speed Level
 patch=1,EE,2061C44C,extended,00000009
 
-[Max Waver Level]
+[Max Waver Level (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Waver Level
 // Max Waver Level
 patch=1,EE,2061C49C,extended,00000009
 
-[Max Criticals Level]
+[Max Criticals Level (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Criticals Level
 // Max Criticals Level
 patch=1,EE,2061C4EC,extended,00000009
 
-[Max All Levels]
+[Max All Levels (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Levels
 // Max All Levels
 patch=1,EE,4061C3FC,extended,00040014
 
-[Max All Levels]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max All Levels
-// Max All Levels
-patch=1,EE,00000009,extended,00000000
-
-[Max Power Level]
+[Max Power Level (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power Level
 // Max Power Level
 patch=1,EE,2061C434,extended,00000009
 
-[Max Speed Level]
+[Max Speed Level (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed Level
 // Max Speed Level
 patch=1,EE,2061C484,extended,00000009
 
-[Max Waver Level]
+[Max Waver Level (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Waver Level
 // Max Waver Level
@@ -252,14 +228,23 @@ description=Max Range Level
 // Max Range Level
 patch=1,EE,2061C524,extended,00000009
 
-[Max All Levels]
+[Max All Levels (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Levels
 // Max All Levels
 patch=1,EE,4061C434,extended,00040014
 
-[Max All Levels]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max All Levels
-// Max All Levels
-patch=1,EE,00000009,extended,00000000
+[Cheats\Infinite Health]
+patch=1,EE,201FC554,extended,24020096
+patch=1,EE,201FC55C,extended,A64202B8
+
+[Cheats\Infinite Ammo]
+patch=1,EE,201FD340,extended,00000000
+
+[Cheats\Unlock All Characters]
+patch=1,EE,10674830,extended,00000FFF
+patch=1,EE,10674834,extended,0000FFFF
+
+[Cheats\Team Members Always Alive]
+patch=1,EE,20674828,extended,00000000
+patch=1,EE,2067482C,extended,0000FFFF

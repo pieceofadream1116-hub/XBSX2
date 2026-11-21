@@ -1,0 +1,7 @@
+gametitle=EVER BLUE2 [SLPM-62214] [F97D5A55]
+
+[Cheats\Max Gold]
+patch=1,EE,204B682C,extended,05F5E0FF
+
+[Cheats\Infinite Air]
+patch=1,EE,204B67F4,extended,461C3C00

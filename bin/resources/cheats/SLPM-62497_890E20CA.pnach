@@ -1,0 +1,10 @@
+gametitle=SIMPLE2000シリーズ Vol.51 THE 戦艦 [SLPM-62497] [890E20CA]
+
+[Cheats\Max Army Sommo Gauge]
+patch=1,EE,1033B628,extended,000005DC
+
+[Cheats\Infinite Salvoes]
+patch=1,EE,0033B664,extended,00000003
+
+[Cheats\Unlock All Missions can be Selected]
+patch=1,EE,20236620,extended,0000001D

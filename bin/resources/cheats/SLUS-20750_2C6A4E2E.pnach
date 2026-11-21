@@ -30,41 +30,11 @@ description=Home Team Start With Score 50
 // Home Team Start With Score 50
 patch=1,EE,D05915A0,extended,00000000
 
-[Home Team Start With Score 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With Score 50
-// Home Team Start With Score 50
-patch=1,EE,205915A0,extended,00000032
-
-[Home Team Start With Score 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With Score 20
-// Home Team Start With Score 20
-patch=1,EE,D05915A0,extended,00000000
-
-[Home Team Start With Score 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With Score 20
-// Home Team Start With Score 20
-patch=1,EE,205915A0,extended,00000014
-
-[Home Team Start With Score 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With Score 10
-// Home Team Start With Score 10
-patch=1,EE,D05915A0,extended,00000000
-
 [Home Team Start With Score 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Home Team Start With Score 10
 // Home Team Start With Score 10
 patch=1,EE,205915A0,extended,0000000A
-
-[Home Team Start With Score 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With Score 5
-// Home Team Start With Score 5
-patch=1,EE,D05915A0,extended,00000000
 
 [Home Team Start With Score 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -96,41 +66,11 @@ description=Away Team Start With Score 50
 // Away Team Start With Score 50
 patch=1,EE,D05915A4,extended,00000000
 
-[Away Team Start With Score 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With Score 50
-// Away Team Start With Score 50
-patch=1,EE,205915A4,extended,00000032
-
-[Away Team Start With Score 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With Score 20
-// Away Team Start With Score 20
-patch=1,EE,D05915A4,extended,00000000
-
-[Away Team Start With Score 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With Score 20
-// Away Team Start With Score 20
-patch=1,EE,205915A4,extended,00000014
-
-[Away Team Start With Score 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With Score 10
-// Away Team Start With Score 10
-patch=1,EE,D05915A4,extended,00000000
-
 [Away Team Start With Score 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Away Team Start With Score 10
 // Away Team Start With Score 10
 patch=1,EE,205915A4,extended,0000000A
-
-[Away Team Start With Score 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With Score 5
-// Away Team Start With Score 5
-patch=1,EE,D05915A4,extended,00000000
 
 [Away Team Start With Score 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -174,31 +114,31 @@ description=Max Budget Remaining
 // Max Budget Remaining
 patch=1,EE,200C0220,extended,3463E0FF
 
-[Max Budget Remaining]
+[Max Budget Remaining (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Budget Remaining
 // Max Budget Remaining
 patch=1,EE,200C0224,extended,ACE30028
 
-[Max Budget Remaining]
+[Max Budget Remaining (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Budget Remaining
 // Max Budget Remaining
 patch=1,EE,200C0228,extended,03E00008
 
-[Max Budget Remaining]
+[Max Budget Remaining (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Budget Remaining
 // Max Budget Remaining
 patch=1,EE,200C022C,extended,AD030010
 
-[Max Budget Remaining]
+[Max Budget Remaining (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Budget Remaining
 // Max Budget Remaining
 patch=1,EE,202F9D68,extended,0C030088
 
-[Max Budget Remaining]
+[Max Budget Remaining (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Budget Remaining
 // Max Budget Remaining
@@ -216,7 +156,7 @@ description=P1 Press {L1}+{L2} For More Time
 // P1 Press {L1}+{L2} For More Time
 patch=1,EE,D065DE02,extended,0000FAFF
 
-[P1 Press {L1}+{L2} For More Time]
+[P1 Press {L1}+{L2} For More Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{L2} For More Time
 // P1 Press {L1}+{L2} For More Time
@@ -228,7 +168,7 @@ description=P1 Press {R1}+{R2} To End Half
 // P1 Press {R1}+{R2} To End Half
 patch=1,EE,D065DE02,extended,0000F5FF
 
-[P1 Press {R1}+{R2} To End Half]
+[P1 Press {R1}+{R2} To End Half (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{R2} To End Half
 // P1 Press {R1}+{R2} To End Half
@@ -240,23 +180,11 @@ description=P2 Press {L1}+{L2} For More Time
 // P2 Press {L1}+{L2} For More Time
 patch=1,EE,D065DF02,extended,0000FAFF
 
-[P2 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L1}+{L2} For More Time
-// P2 Press {L1}+{L2} For More Time
-patch=1,EE,105940B8,extended,00000000
-
 [P2 Press {R1}+{R2} To End Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {R1}+{R2} To End Half
 // P2 Press {R1}+{R2} To End Half
 patch=1,EE,D065DF02,extended,0000F5FF
-
-[P2 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R1}+{R2} To End Half
-// P2 Press {R1}+{R2} To End Half
-patch=1,EE,105940B8,extended,00000170
 
 [P3 Press {L1}+{L2} For More Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -264,23 +192,11 @@ description=P3 Press {L1}+{L2} For More Time
 // P3 Press {L1}+{L2} For More Time
 patch=1,EE,D065E002,extended,0000FAFF
 
-[P3 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {L1}+{L2} For More Time
-// P3 Press {L1}+{L2} For More Time
-patch=1,EE,105940B8,extended,00000000
-
 [P3 Press {R1}+{R2} To End Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P3 Press {R1}+{R2} To End Half
 // P3 Press {R1}+{R2} To End Half
 patch=1,EE,D065E002,extended,0000F5FF
-
-[P3 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {R1}+{R2} To End Half
-// P3 Press {R1}+{R2} To End Half
-patch=1,EE,105940B8,extended,00000170
 
 [P4 Press {L1}+{L2} For More Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -288,23 +204,11 @@ description=P4 Press {L1}+{L2} For More Time
 // P4 Press {L1}+{L2} For More Time
 patch=1,EE,D065E102,extended,0000FAFF
 
-[P4 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {L1}+{L2} For More Time
-// P4 Press {L1}+{L2} For More Time
-patch=1,EE,105940B8,extended,00000000
-
 [P4 Press {R1}+{R2} To End Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P4 Press {R1}+{R2} To End Half
 // P4 Press {R1}+{R2} To End Half
 patch=1,EE,D065E102,extended,0000F5FF
-
-[P4 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {R1}+{R2} To End Half
-// P4 Press {R1}+{R2} To End Half
-patch=1,EE,105940B8,extended,00000170
 
 [P5 Press {L1}+{L2} For More Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -312,23 +216,11 @@ description=P5 Press {L1}+{L2} For More Time
 // P5 Press {L1}+{L2} For More Time
 patch=1,EE,D065E202,extended,0000FAFF
 
-[P5 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {L1}+{L2} For More Time
-// P5 Press {L1}+{L2} For More Time
-patch=1,EE,105940B8,extended,00000000
-
 [P5 Press {R1}+{R2} To End Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P5 Press {R1}+{R2} To End Half
 // P5 Press {R1}+{R2} To End Half
 patch=1,EE,D065E202,extended,0000F5FF
-
-[P5 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {R1}+{R2} To End Half
-// P5 Press {R1}+{R2} To End Half
-patch=1,EE,105940B8,extended,00000170
 
 [P6 Press {L1}+{L2} For More Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -336,23 +228,11 @@ description=P6 Press {L1}+{L2} For More Time
 // P6 Press {L1}+{L2} For More Time
 patch=1,EE,D065E302,extended,0000FAFF
 
-[P6 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {L1}+{L2} For More Time
-// P6 Press {L1}+{L2} For More Time
-patch=1,EE,105940B8,extended,00000000
-
 [P6 Press {R1}+{R2} To End Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P6 Press {R1}+{R2} To End Half
 // P6 Press {R1}+{R2} To End Half
 patch=1,EE,D065E302,extended,0000F5FF
-
-[P6 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {R1}+{R2} To End Half
-// P6 Press {R1}+{R2} To End Half
-patch=1,EE,105940B8,extended,00000170
 
 [P7 Press {L1}+{L2} For More Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -360,23 +240,11 @@ description=P7 Press {L1}+{L2} For More Time
 // P7 Press {L1}+{L2} For More Time
 patch=1,EE,D065E402,extended,0000FAFF
 
-[P7 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {L1}+{L2} For More Time
-// P7 Press {L1}+{L2} For More Time
-patch=1,EE,105940B8,extended,00000000
-
 [P7 Press {R1}+{R2} To End Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P7 Press {R1}+{R2} To End Half
 // P7 Press {R1}+{R2} To End Half
 patch=1,EE,D065E402,extended,0000F5FF
-
-[P7 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {R1}+{R2} To End Half
-// P7 Press {R1}+{R2} To End Half
-patch=1,EE,105940B8,extended,00000170
 
 [P8 Press {L1}+{L2} For More Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -384,20 +252,8 @@ description=P8 Press {L1}+{L2} For More Time
 // P8 Press {L1}+{L2} For More Time
 patch=1,EE,D065E502,extended,0000FAFF
 
-[P8 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {L1}+{L2} For More Time
-// P8 Press {L1}+{L2} For More Time
-patch=1,EE,105940B8,extended,00000000
-
-[P8 Press {R1}+{R2} To End Half]
+[P8 Press {R1}+{R2} To End Half (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P8 Press {R1}+{R2} To End Half
 // P8 Press {R1}+{R2} To End Half
 patch=1,EE,D065E502,extended,0000F5FF
-
-[P8 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {R1}+{R2} To End Half
-// P8 Press {R1}+{R2} To End Half
-patch=1,EE,105940B8,extended,00000170

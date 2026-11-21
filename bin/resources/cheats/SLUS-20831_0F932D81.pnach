@@ -1,4 +1,10 @@
-gametitle=Tokyo Xtreme Racer 3 [SLUS-20831] [0F932D81]
+gametitle=Tokyo Xtreme Racer 3 [UNKNOWN] [0F932D81]
+
+[Max Money]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Money
+// Max Money
+patch=1,EE,2A1B43A8,extended,05F5E0FF
 
 [Buying Items Increases Money]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -60,17 +66,11 @@ description=Always Low Time
 // Always Low Time
 patch=1,EE,D041E8D2,extended,00000041
 
-[Always Low Time]
+[Always Low Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Time
 // Always Low Time
 patch=1,EE,2041EAC0,extended,00000000
-
-[Max Trip Meter]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Trip Meter
-// Max Trip Meter
-patch=1,EE,D041E8D2,extended,00000041
 
 [Max Trip Meter]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -82,19 +82,7 @@ patch=1,EE,2041EABC,extended,00189BC6
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite SP P1
 // Infinite SP P1
-patch=1,EE,D041E8D2,extended,00000041
-
-[Infinite SP P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite SP P1
-// Infinite SP P1
 patch=1,EE,2041E958,extended,004C4B40
-
-[No SP P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No SP P1
-// No SP P1
-patch=1,EE,D041E8D2,extended,00000041
 
 [No SP P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -106,19 +94,7 @@ patch=1,EE,2041E958,extended,00000000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite SP Rival
 // Infinite SP Rival
-patch=1,EE,D041E8D2,extended,00000041
-
-[Infinite SP Rival]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite SP Rival
-// Infinite SP Rival
 patch=1,EE,2041E9A8,extended,004C4B40
-
-[No SP Rival]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No SP Rival
-// No SP Rival
-patch=1,EE,D041E8D2,extended,00000041
 
 [No SP Rival]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -132,7 +108,7 @@ description=Rival Always Loses SP Over Time
 // Rival Always Loses SP Over Time
 patch=1,EE,20165B18,extended,24090BB8
 
-[Rival Always Loses SP Over Time]
+[Rival Always Loses SP Over Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rival Always Loses SP Over Time
 // Rival Always Loses SP Over Time
@@ -144,7 +120,7 @@ description=Never Lose SP Over Time P1
 // Never Lose SP Over Time P1
 patch=1,EE,20165B60,extended,00000000
 
-[Never Lose SP Over Time P1]
+[Never Lose SP Over Time P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Lose SP Over Time P1
 // Never Lose SP Over Time P1
@@ -179,3 +155,18 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Money Increases When Buying Cars
 // Money Increases When Buying Cars
 patch=1,EE,2020D8D8,extended,00451021
+
+[Cheats\Always Low Time]
+patch=1,EE,D041E8D2,extended,00000041
+patch=1,EE,2041EAC0,extended,00000000
+
+[Cheats\Max Trip Meter]
+patch=1,EE,D041E8D2,extended,00000041
+patch=1,EE,2041EABC,extended,00189BC6
+
+[Cheats\Infinite SP Player 1]
+patch=1,EE,D041E8D2,extended,00000041
+patch=1,EE,2041E958,extended,004C4B40
+
+[Cheats\Easy Wins]
+patch=1,EE,2041E9A8,extended,00000001

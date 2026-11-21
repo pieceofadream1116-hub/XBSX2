@@ -24,13 +24,13 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,0806192A
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,E44100B8
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -48,13 +48,13 @@ description=Max Plasm
 // Max Plasm
 patch=1,EE,2034E39C,extended,05F5E0FF
 
-[Max Plasm]
+[Max Plasm (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Plasm
 // Max Plasm
 patch=1,EE,2034E3A0,extended,4CBEBC1F
 
-[Max Plasm]
+[Max Plasm (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Plasm
 // Max Plasm
@@ -78,7 +78,7 @@ description=Have All Abilities
 // Have All Abilities
 patch=1,EE,408485D4,extended,00310001
 
-[Have All Abilities]
+[Have All Abilities (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
@@ -389,3 +389,17 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Citadel-Ending
 // Citadel-Ending
 patch=1,EE,203C51F4,extended,00000032
+
+[Cheats\Infinite Health]
+patch=1,EE,200C0220,extended,0806192A
+patch=1,EE,200C0224,extended,E44100B8
+patch=1,EE,2011BCC0,extended,0C030088
+
+[Cheats\Max Plasm]
+patch=1,EE,2034E39C,extended,05F5E0FF
+patch=1,EE,2034E3A0,extended,4CBEBC1F
+patch=1,EE,203C51EC,extended,05F5E0FF
+
+[Cheats\Have All Abilities]
+patch=1,EE,408485D4,extended,00310001
+patch=1,EE,00000002,extended,00000000

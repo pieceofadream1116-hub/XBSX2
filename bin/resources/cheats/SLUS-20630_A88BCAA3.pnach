@@ -1,0 +1,4 @@
+gametitle=Grand Prix Challenge [SLUS-20630] [A88BCAA3]
+
+[Cheats\Stop Lap Timer]
+patch=1,EE,2021CC30,extended,00000000

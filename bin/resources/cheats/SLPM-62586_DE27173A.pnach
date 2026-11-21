@@ -1,0 +1,4 @@
+gametitle=SIMPLE2000シリーズ Vol.70 THE 鑑識官 [SLPM-62586] [DE27173A]
+
+[Cheats\Evaluation Not Deducted]
+patch=1,EE,00194986,extended,00000064

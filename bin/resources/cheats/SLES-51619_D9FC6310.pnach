@@ -84,7 +84,7 @@ description=Killers Dont Come Around Much
 // Killers Dont Come Around Much
 patch=1,EE,21862170,extended,03E00008
 
-[Killers Dont Come Around Much]
+[Killers Dont Come Around Much (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Killers Dont Come Around Much
 // Killers Dont Come Around Much
@@ -96,7 +96,7 @@ description=P1 Press {R2}+Up To For Killers Leave You Alone
 // P1 Press {R2}+Up To For Killers Leave You Alone
 patch=1,EE,D193E602,extended,0000FDEF
 
-[P1 Press {R2}+Up To For Killers Leave You Alone]
+[P1 Press {R2}+Up To For Killers Leave You Alone (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+Up To For Killers Leave You Alone
 // P1 Press {R2}+Up To For Killers Leave You Alone
@@ -108,7 +108,7 @@ description=P1 Press {R2}+Down To For Killers Hunt You Again
 // P1 Press {R2}+Down To For Killers Hunt You Again
 patch=1,EE,D193E602,extended,0000FDBF
 
-[P1 Press {R2}+Down To For Killers Hunt You Again]
+[P1 Press {R2}+Down To For Killers Hunt You Again (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+Down To For Killers Hunt You Again
 // P1 Press {R2}+Down To For Killers Hunt You Again
@@ -120,7 +120,7 @@ description=Killers Don�t Follow You
 // Killers Don�t Follow You
 patch=1,EE,2187E3D0,extended,03E00008
 
-[Killers Don�t Follow You]
+[Killers Don�t Follow You (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Killers Don�t Follow You
 // Killers Don�t Follow You
@@ -132,13 +132,13 @@ description=P1 Press {L1}+Up To Activate Walk Thru Walls
 // P1 Press {L1}+Up To Activate Walk Thru Walls
 patch=1,EE,E002FEEF,extended,0193E602
 
-[P1 Press {L1}+Up To Activate Walk Thru Walls]
+[P1 Press {L1}+Up To Activate Walk Thru Walls (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Up To Activate Walk Thru Walls
 // P1 Press {L1}+Up To Activate Walk Thru Walls
 patch=1,EE,218B1A40,extended,03E00008
 
-[P1 Press {L1}+Up To Activate Walk Thru Walls]
+[P1 Press {L1}+Up To Activate Walk Thru Walls (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Up To Activate Walk Thru Walls
 // P1 Press {L1}+Up To Activate Walk Thru Walls
@@ -150,13 +150,13 @@ description=P1 Press {L1}+Down To Deactivate Walk Thru Walls
 // P1 Press {L1}+Down To Deactivate Walk Thru Walls
 patch=1,EE,E002FEBF,extended,0193E602
 
-[P1 Press {L1}+Down To Deactivate Walk Thru Walls]
+[P1 Press {L1}+Down To Deactivate Walk Thru Walls (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Deactivate Walk Thru Walls
 // P1 Press {L1}+Down To Deactivate Walk Thru Walls
 patch=1,EE,218B1A40,extended,27BDFF30
 
-[P1 Press {L1}+Down To Deactivate Walk Thru Walls]
+[P1 Press {L1}+Down To Deactivate Walk Thru Walls (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Deactivate Walk Thru Walls
 // P1 Press {L1}+Down To Deactivate Walk Thru Walls
@@ -168,7 +168,7 @@ description=Cant Be Grabbed
 // Cant Be Grabbed
 patch=1,EE,218FBB50,extended,03E00008
 
-[Cant Be Grabbed]
+[Cant Be Grabbed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cant Be Grabbed
 // Cant Be Grabbed
@@ -180,7 +180,7 @@ description=Cant Be Hit
 // Cant Be Hit
 patch=1,EE,218FC2F0,extended,03E00008
 
-[Cant Be Hit]
+[Cant Be Hit (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cant Be Hit
 // Cant Be Hit
@@ -197,3 +197,31 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Binding Arrows (Boss Battles)
 // Infinite Binding Arrows (Boss Battles)
 patch=1,EE,2193F790,extended,00000002
+
+[50/60 FPS]
+author=Gabominated
+description=Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.
+patch=1,EE,218A8C5C,extended,24040000 //24040001 fps
+patch=1,EE,219453C0,extended,0000003C //0000001E timer fix
+
+[Cheats\Infinite Holy Water]
+patch=1,EE,21943B08,extended,00000008
+
+[Cheats\Stop Time]
+patch=1,EE,218F2A10,extended,03E00008
+patch=1,EE,218F2A14,extended,00000000
+
+[Cheats\Always Empty Panic Meter]
+patch=1,EE,219436F4,extended,00000000
+
+[Cheats\Infinite Health Boss Battle]
+patch=1,EE,21A57C24,extended,00000320
+
+[Cheats\Instant Boss Death Boss Battles]
+patch=1,EE,2187075C,extended,24020001
+
+[Cheats\Unlock All Theater SNeed a save Reload the Game]
+patch=1,EE,D1942270,extended,00000000
+patch=1,EE,21942270,extended,00000001
+patch=1,EE,D1942270,extended,00000002
+patch=1,EE,21942270,extended,00000003

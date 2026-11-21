@@ -12,19 +12,19 @@ description=P1 Press {SELECT} To Skip FMV
 // P1 Press {SELECT} To Skip FMV
 patch=1,EE,D058931C,extended,0000FFFE
 
-[P1 Press {SELECT} To Skip FMV]
+[P1 Press {SELECT} To Skip FMV (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {SELECT} To Skip FMV
 // P1 Press {SELECT} To Skip FMV
 patch=1,EE,201E0270,extended,24020001
 
-[P1 Press {SELECT} To Skip FMV]
+[P1 Press {SELECT} To Skip FMV (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {SELECT} To Skip FMV
 // P1 Press {SELECT} To Skip FMV
 patch=1,EE,D058931C,extended,0000FFFF
 
-[P1 Press {SELECT} To Skip FMV]
+[P1 Press {SELECT} To Skip FMV (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {SELECT} To Skip FMV
 // P1 Press {SELECT} To Skip FMV
@@ -36,25 +36,25 @@ description=Infinite Driver Condition
 // Infinite Driver Condition
 patch=1,EE,200C0220,extended,3C014348
 
-[Infinite Driver Condition]
+[Infinite Driver Condition (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Driver Condition
 // Infinite Driver Condition
 patch=1,EE,200C0224,extended,AC41002C
 
-[Infinite Driver Condition]
+[Infinite Driver Condition (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Driver Condition
 // Infinite Driver Condition
 patch=1,EE,200C0228,extended,03E00008
 
-[Infinite Driver Condition]
+[Infinite Driver Condition (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Driver Condition
 // Infinite Driver Condition
 patch=1,EE,200C022C,extended,44021000
 
-[Infinite Driver Condition]
+[Infinite Driver Condition (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Driver Condition
 // Infinite Driver Condition
@@ -66,7 +66,7 @@ description=Infinite Tiger Effect
 // Infinite Tiger Effect
 patch=1,EE,202C8610,extended,3C014348
 
-[Infinite Tiger Effect]
+[Infinite Tiger Effect (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Tiger Effect
 // Infinite Tiger Effect
@@ -78,7 +78,7 @@ description=Infinite Car Condition
 // Infinite Car Condition
 patch=1,EE,202C8D20,extended,3C0142C8
 
-[Infinite Car Condition]
+[Infinite Car Condition (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Car Condition
 // Infinite Car Condition
@@ -108,7 +108,7 @@ description=P1 Press {L1}+{SELECT} To Stop Lap Timer
 // P1 Press {L1}+{SELECT} To Stop Lap Timer
 patch=1,EE,D058931C,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Stop Lap Timer]
+[P1 Press {L1}+{SELECT} To Stop Lap Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Stop Lap Timer
 // P1 Press {L1}+{SELECT} To Stop Lap Timer
@@ -120,8 +120,28 @@ description=P1 Press {L2}+{SELECT} To Restart Lap Timer
 // P1 Press {L2}+{SELECT} To Restart Lap Timer
 patch=1,EE,D058931C,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} To Restart Lap Timer]
+[P1 Press {L2}+{SELECT} To Restart Lap Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To Restart Lap Timer
 // P1 Press {L2}+{SELECT} To Restart Lap Timer
 patch=1,EE,201F6B8C,extended,E460000C
+
+[60 FPS]
+author=Gabominated
+description=Semaphore still faster but is playable.
+patch=1,EE,0027DA1C,word,8E220080 //8E220040
+
+[Cheats\Infinite Driver Condition]
+patch=1,EE,200C0220,extended,3C014348
+patch=1,EE,200C0224,extended,AC41002C
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,44021000
+patch=1,EE,202C85CC,extended,0C030088
+
+[Cheats\Infinite Tiger Effect]
+patch=1,EE,202C8610,extended,3C014348
+patch=1,EE,202C8614,extended,AC61007C
+
+[Cheats\Infinite Car Condition]
+patch=1,EE,202C8D20,extended,3C0142C8
+patch=1,EE,202C8D24,extended,AC410024

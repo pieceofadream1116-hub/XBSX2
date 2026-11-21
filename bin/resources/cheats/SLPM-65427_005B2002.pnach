@@ -1,0 +1,4 @@
+gametitle=RSⅡ ～ライディング スピリッツII～ [SLPM-65427] [005B2002]
+
+[Cheats\Max Money]
+patch=1,EE,203AEFA0,extended,3B9AC9FF

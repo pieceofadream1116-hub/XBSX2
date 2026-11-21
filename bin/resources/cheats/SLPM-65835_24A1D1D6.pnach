@@ -1,0 +1,9 @@
+gametitle=幕末恋華・新選組 [SLPM-65835] [24A1D1D6]
+
+[Cheats\Unlock All Album]
+patch=1,EE,2027EBF0,extended,FFFFFFFF
+patch=1,EE,2027EBF4,extended,FFFFFFFF
+patch=1,EE,2027EBF8,extended,FFFFFFFF
+patch=1,EE,2027EBFC,extended,FFFFFFFF
+patch=1,EE,2027EC00,extended,FFFFFFFF
+patch=1,EE,2027EC04,extended,0001FFFF

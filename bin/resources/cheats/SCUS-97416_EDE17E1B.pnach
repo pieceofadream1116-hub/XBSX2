@@ -12,19 +12,19 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,20241F20,extended,C600044C
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,20241F28,extended,E6000448
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,20241F64,extended,C460044C
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -42,7 +42,7 @@ description=Idiot AI
 // Idiot AI
 patch=1,EE,2020D808,extended,03E00008
 
-[Idiot AI]
+[Idiot AI (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
@@ -72,13 +72,13 @@ description=P1 Press {L1}+{SELECT} To Enable Walk Thru Walls
 // P1 Press {L1}+{SELECT} To Enable Walk Thru Walls
 patch=1,EE,E002FBFE,extended,01D34542
 
-[P1 Press {L1}+{SELECT} To Enable Walk Thru Walls]
+[P1 Press {L1}+{SELECT} To Enable Walk Thru Walls (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Enable Walk Thru Walls
 // P1 Press {L1}+{SELECT} To Enable Walk Thru Walls
 patch=1,EE,2014F7A8,extended,03E00008
 
-[P1 Press {L1}+{SELECT} To Enable Walk Thru Walls]
+[P1 Press {L1}+{SELECT} To Enable Walk Thru Walls (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Enable Walk Thru Walls
 // P1 Press {L1}+{SELECT} To Enable Walk Thru Walls
@@ -90,13 +90,13 @@ description=P1 Press {L1}+{SELECT} To Disable Walk Thru Walls
 // P1 Press {L1}+{SELECT} To Disable Walk Thru Walls
 patch=1,EE,E002FEFE,extended,01D34542
 
-[P1 Press {L1}+{SELECT} To Disable Walk Thru Walls]
+[P1 Press {L1}+{SELECT} To Disable Walk Thru Walls (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Disable Walk Thru Walls
 // P1 Press {L1}+{SELECT} To Disable Walk Thru Walls
 patch=1,EE,2014F7A8,extended,27BDFFC0
 
-[P1 Press {L1}+{SELECT} To Disable Walk Thru Walls]
+[P1 Press {L1}+{SELECT} To Disable Walk Thru Walls (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Disable Walk Thru Walls
 // P1 Press {L1}+{SELECT} To Disable Walk Thru Walls
@@ -108,7 +108,7 @@ description=Disable Weapon Wall Collisions
 // Disable Weapon Wall Collisions
 patch=1,EE,20150D38,extended,03E00008
 
-[Disable Weapon Wall Collisions]
+[Disable Weapon Wall Collisions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Disable Weapon Wall Collisions
 // Disable Weapon Wall Collisions
@@ -120,7 +120,7 @@ description=Disable Wall Collisions
 // Disable Wall Collisions
 patch=1,EE,20151820,extended,03E00008
 
-[Disable Wall Collisions]
+[Disable Wall Collisions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Disable Wall Collisions
 // Disable Wall Collisions
@@ -132,7 +132,7 @@ description=AI Can�t See/Sense/Hear You
 // AI Can�t See/Sense/Hear You
 patch=1,EE,2023A0A8,extended,03E00008
 
-[AI Can�t See/Sense/Hear You]
+[AI Can�t See/Sense/Hear You (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=AI Can�t See/Sense/Hear You
 // AI Can�t See/Sense/Hear You
@@ -150,7 +150,7 @@ description=AI Can�t Sense You
 // AI Can�t Sense You
 patch=1,EE,2023A148,extended,03E00008
 
-[AI Can�t Sense You]
+[AI Can�t Sense You (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=AI Can�t Sense You
 // AI Can�t Sense You
@@ -162,7 +162,7 @@ description=AI Can�t Hear You
 // AI Can�t Hear You
 patch=1,EE,2023A168,extended,03E00008
 
-[AI Can�t Hear You]
+[AI Can�t Hear You (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=AI Can�t Hear You
 // AI Can�t Hear You
@@ -174,7 +174,7 @@ description=Birds Don�t Runaway
 // Birds Don�t Runaway
 patch=1,EE,2010EBF0,extended,03E00008
 
-[Birds Don�t Runaway]
+[Birds Don�t Runaway (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Birds Don�t Runaway
 // Birds Don�t Runaway
@@ -186,7 +186,7 @@ description=P1 Press {L1}+Up To Enable Lighting
 // P1 Press {L1}+Up To Enable Lighting
 patch=1,EE,D1D34542,extended,0000FBEF
 
-[P1 Press {L1}+Up To Enable Lighting]
+[P1 Press {L1}+Up To Enable Lighting (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Up To Enable Lighting
 // P1 Press {L1}+Up To Enable Lighting
@@ -198,7 +198,7 @@ description=P1 Press {L1}+Down To Disable Lighting
 // P1 Press {L1}+Down To Disable Lighting
 patch=1,EE,D1D34542,extended,0000FBBF
 
-[P1 Press {L1}+Down To Disable Lighting]
+[P1 Press {L1}+Down To Disable Lighting (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Disable Lighting
 // P1 Press {L1}+Down To Disable Lighting
@@ -210,7 +210,7 @@ description=P1 Press {L1}+Right To Display Prev Anim Info
 // P1 Press {L1}+Right To Display Prev Anim Info
 patch=1,EE,D1D34542,extended,0000FBDF
 
-[P1 Press {L1}+Right To Display Prev Anim Info]
+[P1 Press {L1}+Right To Display Prev Anim Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Right To Display Prev Anim Info
 // P1 Press {L1}+Right To Display Prev Anim Info
@@ -222,7 +222,7 @@ description=P1 Press {L1}+Left To Hide Prev Anim Info
 // P1 Press {L1}+Left To Hide Prev Anim Info
 patch=1,EE,D1D34542,extended,0000FB7F
 
-[P1 Press {L1}+Left To Hide Prev Anim Info]
+[P1 Press {L1}+Left To Hide Prev Anim Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Left To Hide Prev Anim Info
 // P1 Press {L1}+Left To Hide Prev Anim Info
@@ -234,7 +234,7 @@ description=P1 Press {L2}+Up To Display Debug Info
 // P1 Press {L2}+Up To Display Debug Info
 patch=1,EE,D1D34542,extended,0000FEEF
 
-[P1 Press {L2}+Up To Display Debug Info]
+[P1 Press {L2}+Up To Display Debug Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+Up To Display Debug Info
 // P1 Press {L2}+Up To Display Debug Info
@@ -246,7 +246,7 @@ description=P1 Press {L2}+Down To Hide Debug Info
 // P1 Press {L2}+Down To Hide Debug Info
 patch=1,EE,D1D34542,extended,0000FEBF
 
-[P1 Press {L2}+Down To Hide Debug Info]
+[P1 Press {L2}+Down To Hide Debug Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+Down To Hide Debug Info
 // P1 Press {L2}+Down To Hide Debug Info
@@ -258,7 +258,7 @@ description=P1 Press {L2}+Right To Display Player Debug Info
 // P1 Press {L2}+Right To Display Player Debug Info
 patch=1,EE,D1D34542,extended,0000FEDF
 
-[P1 Press {L2}+Right To Display Player Debug Info]
+[P1 Press {L2}+Right To Display Player Debug Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+Right To Display Player Debug Info
 // P1 Press {L2}+Right To Display Player Debug Info
@@ -270,7 +270,7 @@ description=P1 Press {L2}+Right To Hide Player Debug Info
 // P1 Press {L2}+Right To Hide Player Debug Info
 patch=1,EE,D1D34542,extended,0000FE7F
 
-[P1 Press {L2}+Right To Hide Player Debug Info]
+[P1 Press {L2}+Right To Hide Player Debug Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+Right To Hide Player Debug Info
 // P1 Press {L2}+Right To Hide Player Debug Info
@@ -282,7 +282,7 @@ description=P1 Press {R1}+Up To Display NPC Info
 // P1 Press {R1}+Up To Display NPC Info
 patch=1,EE,D1D34542,extended,0000F7EF
 
-[P1 Press {R1}+Up To Display NPC Info]
+[P1 Press {R1}+Up To Display NPC Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+Up To Display NPC Info
 // P1 Press {R1}+Up To Display NPC Info
@@ -294,7 +294,7 @@ description=P1 Press {R1}+Down To Hide NPC Info
 // P1 Press {R1}+Down To Hide NPC Info
 patch=1,EE,D1D34542,extended,0000F7BF
 
-[P1 Press {R1}+Down To Hide NPC Info]
+[P1 Press {R1}+Down To Hide NPC Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+Down To Hide NPC Info
 // P1 Press {R1}+Down To Hide NPC Info
@@ -306,7 +306,7 @@ description=P1 Press {R1}+Right To Display Pad Info
 // P1 Press {R1}+Right To Display Pad Info
 patch=1,EE,D1D34542,extended,0000F7DF
 
-[P1 Press {R1}+Right To Display Pad Info]
+[P1 Press {R1}+Right To Display Pad Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+Right To Display Pad Info
 // P1 Press {R1}+Right To Display Pad Info
@@ -318,7 +318,7 @@ description=P1 Press {R1}+Left To Hide Pad Info
 // P1 Press {R1}+Left To Hide Pad Info
 patch=1,EE,D1D34542,extended,0000F77F
 
-[P1 Press {R1}+Left To Hide Pad Info]
+[P1 Press {R1}+Left To Hide Pad Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+Left To Hide Pad Info
 // P1 Press {R1}+Left To Hide Pad Info
@@ -330,7 +330,7 @@ description=P1 Press {R2}+Up To Display Death Info
 // P1 Press {R2}+Up To Display Death Info
 patch=1,EE,D1D34542,extended,0000FDEF
 
-[P1 Press {R2}+Up To Display Death Info]
+[P1 Press {R2}+Up To Display Death Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+Up To Display Death Info
 // P1 Press {R2}+Up To Display Death Info
@@ -342,7 +342,7 @@ description=P1 Press {R2}+Down To Hide Death Info
 // P1 Press {R2}+Down To Hide Death Info
 patch=1,EE,D1D34542,extended,0000FDBF
 
-[P1 Press {R2}+Down To Hide Death Info]
+[P1 Press {R2}+Down To Hide Death Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+Down To Hide Death Info
 // P1 Press {R2}+Down To Hide Death Info
@@ -354,7 +354,7 @@ description=P1 Press {R2}+Right To Display Death Info 2
 // P1 Press {R2}+Right To Display Death Info 2
 patch=1,EE,D1D34542,extended,0000FDDF
 
-[P1 Press {R2}+Right To Display Death Info 2]
+[P1 Press {R2}+Right To Display Death Info 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+Right To Display Death Info 2
 // P1 Press {R2}+Right To Display Death Info 2
@@ -366,7 +366,7 @@ description=P1 Press {R2}+Left To Hide Death Info 2
 // P1 Press {R2}+Left To Hide Death Info 2
 patch=1,EE,D1D34542,extended,0000FD7F
 
-[P1 Press {R2}+Left To Hide Death Info 2]
+[P1 Press {R2}+Left To Hide Death Info 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+Left To Hide Death Info 2
 // P1 Press {R2}+Left To Hide Death Info 2
@@ -378,7 +378,7 @@ description=Disable AI
 // Disable AI
 patch=1,EE,003FDDDE,extended,00000000
 
-[Disable AI]
+[Disable AI (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Disable AI
 // Disable AI
@@ -390,7 +390,7 @@ description=P1 Press {L1}+{SELECT} To Enable Flying Mode
 // P1 Press {L1}+{SELECT} To Enable Flying Mode
 patch=1,EE,D1D34542,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Enable Flying Mode]
+[P1 Press {L1}+{SELECT} To Enable Flying Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Enable Flying Mode
 // P1 Press {L1}+{SELECT} To Enable Flying Mode
@@ -402,7 +402,7 @@ description=P1 Press {L2}+{SELECT} To Disable Flying Mode
 // P1 Press {L2}+{SELECT} To Disable Flying Mode
 patch=1,EE,D1D34542,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} To Disable Flying Mode]
+[P1 Press {L2}+{SELECT} To Disable Flying Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To Disable Flying Mode
 // P1 Press {L2}+{SELECT} To Disable Flying Mode
@@ -420,7 +420,7 @@ description=P1 Press {L3}+Up To Show Memory Info
 // P1 Press {L3}+Up To Show Memory Info
 patch=1,EE,D1D34542,extended,0000FFED
 
-[P1 Press {L3}+Up To Show Memory Info]
+[P1 Press {L3}+Up To Show Memory Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3}+Up To Show Memory Info
 // P1 Press {L3}+Up To Show Memory Info
@@ -432,7 +432,7 @@ description=P1 Press {L3}+Down To Hide Memory Info
 // P1 Press {L3}+Down To Hide Memory Info
 patch=1,EE,D1D34542,extended,0000FFBD
 
-[P1 Press {L3}+Down To Hide Memory Info]
+[P1 Press {L3}+Down To Hide Memory Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3}+Down To Hide Memory Info
 // P1 Press {L3}+Down To Hide Memory Info
@@ -444,7 +444,7 @@ description=P1 Press {L3}+Right To Show Texture Info
 // P1 Press {L3}+Right To Show Texture Info
 patch=1,EE,D1D34542,extended,0000FFDD
 
-[P1 Press {L3}+Right To Show Texture Info]
+[P1 Press {L3}+Right To Show Texture Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3}+Right To Show Texture Info
 // P1 Press {L3}+Right To Show Texture Info
@@ -456,7 +456,7 @@ description=P1 Press {L3}+Right To Hide Texture Info
 // P1 Press {L3}+Right To Hide Texture Info
 patch=1,EE,D1D34542,extended,0000FF7D
 
-[P1 Press {L3}+Right To Hide Texture Info]
+[P1 Press {L3}+Right To Hide Texture Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3}+Right To Hide Texture Info
 // P1 Press {L3}+Right To Hide Texture Info
@@ -468,7 +468,7 @@ description=P1 Press {R3}+Up To Show Excite Info
 // P1 Press {R3}+Up To Show Excite Info
 patch=1,EE,D1D34542,extended,0000FFEB
 
-[P1 Press {R3}+Up To Show Excite Info]
+[P1 Press {R3}+Up To Show Excite Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R3}+Up To Show Excite Info
 // P1 Press {R3}+Up To Show Excite Info
@@ -480,7 +480,7 @@ description=P1 Press {R3}+Down To Hide Excite Info
 // P1 Press {R3}+Down To Hide Excite Info
 patch=1,EE,D1D34542,extended,0000FFBB
 
-[P1 Press {R3}+Down To Hide Excite Info]
+[P1 Press {R3}+Down To Hide Excite Info (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R3}+Down To Hide Excite Info
 // P1 Press {R3}+Down To Hide Excite Info
@@ -492,7 +492,7 @@ description=P1 Press {R3}+Right To Enable Env Particles
 // P1 Press {R3}+Right To Enable Env Particles
 patch=1,EE,D1D34542,extended,0000FFDB
 
-[P1 Press {R3}+Right To Enable Env Particles]
+[P1 Press {R3}+Right To Enable Env Particles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R3}+Right To Enable Env Particles
 // P1 Press {R3}+Right To Enable Env Particles
@@ -504,7 +504,7 @@ description=P1 Press {R3}+Left To Disable Env Particles
 // P1 Press {R3}+Left To Disable Env Particles
 patch=1,EE,D1D34542,extended,0000FF7B
 
-[P1 Press {R3}+Left To Disable Env Particles]
+[P1 Press {R3}+Left To Disable Env Particles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R3}+Left To Disable Env Particles
 // P1 Press {R3}+Left To Disable Env Particles
@@ -552,7 +552,7 @@ description=Arena AI Off
 // Arena AI Off
 patch=1,EE,703F5584,extended,00000002
 
-[Invincibility]
+[Invincibility (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Invincibility
 // Invincibility
@@ -575,3 +575,19 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Player
 // Super Player
 patch=1,EE,703F5584,extended,00000020
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,00345A00,word,10A00003 //14A00003
+
+[Cheats\Infinite Health]
+patch=1,EE,2064A428,extended,42C80000
+patch=1,EE,20647D08,extended,42C80000
+
+[Cheats\Max Health]
+patch=1,EE,2064A42C,extended,42C80000
+patch=1,EE,20647D0C,extended,42C80000
+
+[Cheats\Infinite Arrows]
+patch=1,EE,0064BDDC,extended,00000063

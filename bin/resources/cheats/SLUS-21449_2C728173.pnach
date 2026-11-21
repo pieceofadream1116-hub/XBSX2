@@ -90,7 +90,7 @@ description=Have All Racers Defeated/Tutorials Completed
 // Have All Racers Defeated/Tutorials Completed
 patch=1,EE,201AAE04,extended,AC430018
 
-[Have All Racers Defeated/Tutorials Completed]
+[Have All Racers Defeated/Tutorials Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Racers Defeated/Tutorials Completed
 // Have All Racers Defeated/Tutorials Completed
@@ -101,3 +101,7 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Film Cars Unlocked
 // Have All Film Cars Unlocked
 patch=1,EE,20143A44,extended,AC42000C
+
+[Cheats\Have All Racers Defeated and Tutorials Completed]
+patch=1,EE,201AAE04,extended,AC430018
+patch=1,EE,101AAE0A,extended,00001000

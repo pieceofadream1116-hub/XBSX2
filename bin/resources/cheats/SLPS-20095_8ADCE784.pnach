@@ -1,0 +1,4 @@
+gametitle=ノックアウトキング2001 [SLPS-20095] [8ADCE784]
+
+[Cheats\Career Mode Create Boxer Max Status Points]
+patch=1,EE,1024DE60,extended,000003E7

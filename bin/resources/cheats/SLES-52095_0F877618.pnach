@@ -1,0 +1,20 @@
+gametitle=Gradius V [UNKNOWN] [0F877618]
+
+[Invincible (Both Players)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Invincible (Both Players)
+// Invincible (Both Players)
+patch=1,EE,102C725E,extended,00001000
+
+[Cheats\Infinite Lives Both Players]
+patch=1,EE,20289504,extended,00000000
+
+[Cheats\Invincible]
+patch=1,EE,202CAEA0,extended,240203E7
+
+[Cheats\Invincible to Enemies and Walls]
+patch=1,EE,002A85B8,extended,24020000
+patch=1,EE,002A950C,extended,24020000
+
+[Cheats\Unlock All Stage Select Levels]
+patch=1,EE,204A5FA4,extended,01010101

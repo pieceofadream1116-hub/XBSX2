@@ -24,7 +24,7 @@ description=Max Jump
 // Max Jump
 patch=1,EE,2024E098,extended,07030700
 
-[Max Jump]
+[Max Jump (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
@@ -36,7 +36,7 @@ description=Max Speed
 // Max Speed
 patch=1,EE,2024E0A4,extended,07030701
 
-[Max Speed]
+[Max Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
@@ -48,7 +48,7 @@ description=Max Spin
 // Max Spin
 patch=1,EE,2024E0B0,extended,07030702
 
-[Max Spin]
+[Max Spin (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
@@ -60,7 +60,7 @@ description=Max Grind
 // Max Grind
 patch=1,EE,2024E0BC,extended,07030703
 
-[Max Grind]
+[Max Grind (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
@@ -72,7 +72,7 @@ description=Max Manual
 // Max Manual
 patch=1,EE,2024E0C8,extended,07030704
 
-[Max Manual]
+[Max Manual (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
@@ -84,7 +84,7 @@ description=Max Fakie
 // Max Fakie
 patch=1,EE,2024E0D4,extended,07030705
 
-[Max Fakie]
+[Max Fakie (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
@@ -96,7 +96,7 @@ description=Max Wallride
 // Max Wallride
 patch=1,EE,2024E0E0,extended,07030706
 
-[Max Wallride]
+[Max Wallride (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
@@ -120,1838 +120,1892 @@ description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,2024E050,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,2024E5A8,extended,07030700
 
-[Max Jump]
+[Max Jump (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,2024E5B0,extended,42C80000
 
-[Max Speed]
+[Max Speed (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2024E5B4,extended,07030701
 
-[Max Speed]
+[Max Speed (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2024E5BC,extended,42C80000
 
-[Max Spin]
+[Max Spin (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,2024E5C0,extended,07030702
 
-[Max Spin]
+[Max Spin (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,2024E5C8,extended,42C80000
 
-[Max Grind]
+[Max Grind (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2024E5CC,extended,07030703
 
-[Max Grind]
+[Max Grind (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2024E5D4,extended,42C80000
 
-[Max Manual]
+[Max Manual (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,2024E5D8,extended,07030704
 
-[Max Manual]
+[Max Manual (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,2024E5E0,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2024E5E4,extended,07030705
 
-[Max Fakie]
+[Max Fakie (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2024E5EC,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,2024E5F0,extended,07030706
 
-[Max Wallride]
+[Max Wallride (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,2024E5F8,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,2024E554,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,2024E558,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,2024E560,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,2024EAB8,extended,07030700
 
-[Max Jump]
+[Max Jump (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,2024EAC0,extended,42C80000
 
-[Max Speed]
+[Max Speed (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2024EAC4,extended,07030701
 
-[Max Speed]
+[Max Speed (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2024EACC,extended,42C80000
 
-[Max Spin]
+[Max Spin (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,2024EAD0,extended,07030702
 
-[Max Spin]
+[Max Spin (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,2024EAD8,extended,42C80000
 
-[Max Grind]
+[Max Grind (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2024EADC,extended,07030703
 
-[Max Grind]
+[Max Grind (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2024EAE4,extended,42C80000
 
-[Max Manual]
+[Max Manual (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,2024EAE8,extended,07030704
 
-[Max Manual]
+[Max Manual (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,2024EAF0,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2024EAF4,extended,07030705
 
-[Max Fakie]
+[Max Fakie (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2024EAFC,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,2024EB00,extended,07030706
 
-[Max Wallride]
+[Max Wallride (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,2024EB08,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,2024EA64,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,2024EA68,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,2024EA70,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,2024EFC8,extended,07030700
 
-[Max Jump]
+[Max Jump (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,2024EFD0,extended,42C80000
 
-[Max Speed]
+[Max Speed (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2024EFD4,extended,07030701
 
-[Max Speed]
+[Max Speed (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2024EFDC,extended,42C80000
 
-[Max Spin]
+[Max Spin (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,2024EFE0,extended,07030702
 
-[Max Spin]
+[Max Spin (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,2024EFE8,extended,42C80000
 
-[Max Grind]
+[Max Grind (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2024EFEC,extended,07030703
 
-[Max Grind]
+[Max Grind (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2024EFF4,extended,42C80000
 
-[Max Manual]
+[Max Manual (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,2024EFF8,extended,07030704
 
-[Max Manual]
+[Max Manual (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,2024F000,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2024F004,extended,07030705
 
-[Max Fakie]
+[Max Fakie (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2024F00C,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,2024F010,extended,07030706
 
-[Max Wallride]
+[Max Wallride (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,2024F018,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,2024EF74,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,2024EF78,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,2024EF80,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,2024F4D8,extended,07030700
 
-[Max Jump]
+[Max Jump (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,2024F4E0,extended,42C80000
 
-[Max Speed]
+[Max Speed (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2024F4E4,extended,07030701
 
-[Max Speed]
+[Max Speed (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2024F4EC,extended,42C80000
 
-[Max Spin]
+[Max Spin (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,2024F4F0,extended,07030702
 
-[Max Spin]
+[Max Spin (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,2024F4F8,extended,42C80000
 
-[Max Grind]
+[Max Grind (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2024F4FC,extended,07030703
 
-[Max Grind]
+[Max Grind (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2024F504,extended,42C80000
 
-[Max Manual]
+[Max Manual (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,2024F508,extended,07030704
 
-[Max Manual]
+[Max Manual (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,2024F510,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2024F514,extended,07030705
 
-[Max Fakie]
+[Max Fakie (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2024F51C,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,2024F520,extended,07030706
 
-[Max Wallride]
+[Max Wallride (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,2024F528,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,2024F484,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,2024F488,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,2024F490,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,2024F9E8,extended,07030700
 
-[Max Jump]
+[Max Jump (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,2024F9F0,extended,42C80000
 
-[Max Speed]
+[Max Speed (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2024F9F4,extended,07030701
 
-[Max Speed]
+[Max Speed (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2024F9FC,extended,42C80000
 
-[Max Spin]
+[Max Spin (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,2024FA00,extended,07030702
 
-[Max Spin]
+[Max Spin (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,2024FA08,extended,42C80000
 
-[Max Grind]
+[Max Grind (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2024FA0C,extended,07030703
 
-[Max Grind]
+[Max Grind (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2024FA14,extended,42C80000
 
-[Max Manual]
+[Max Manual (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,2024FA18,extended,07030704
 
-[Max Manual]
+[Max Manual (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,2024FA20,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2024FA24,extended,07030705
 
-[Max Fakie]
+[Max Fakie (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2024FA2C,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,2024FA30,extended,07030706
 
-[Max Wallride]
+[Max Wallride (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,2024FA38,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,2024F994,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,2024F998,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,2024F9A0,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,2024FEF8,extended,07030700
 
-[Max Jump]
+[Max Jump (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,2024FF00,extended,42C80000
 
-[Max Speed]
+[Max Speed (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2024FF04,extended,07030701
 
-[Max Speed]
+[Max Speed (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2024FF0C,extended,42C80000
 
-[Max Spin]
+[Max Spin (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,2024FF10,extended,07030702
 
-[Max Spin]
+[Max Spin (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,2024FF18,extended,42C80000
 
-[Max Grind]
+[Max Grind (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2024FF1C,extended,07030703
 
-[Max Grind]
+[Max Grind (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2024FF24,extended,42C80000
 
-[Max Manual]
+[Max Manual (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,2024FF28,extended,07030704
 
-[Max Manual]
+[Max Manual (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,2024FF30,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2024FF34,extended,07030705
 
-[Max Fakie]
+[Max Fakie (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2024FF3C,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,2024FF40,extended,07030706
 
-[Max Wallride]
+[Max Wallride (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,2024FF48,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,2024FEA4,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,2024FEA8,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,2024FEB0,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20250408,extended,07030700
 
-[Max Jump]
+[Max Jump (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20250410,extended,42C80000
 
-[Max Speed]
+[Max Speed (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20250414,extended,07030701
 
-[Max Speed]
+[Max Speed (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2025041C,extended,42C80000
 
-[Max Spin]
+[Max Spin (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20250420,extended,07030702
 
-[Max Spin]
+[Max Spin (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20250428,extended,42C80000
 
-[Max Grind]
+[Max Grind (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2025042C,extended,07030703
 
-[Max Grind]
+[Max Grind (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20250434,extended,42C80000
 
-[Max Manual]
+[Max Manual (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20250438,extended,07030704
 
-[Max Manual]
+[Max Manual (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20250440,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,20250444,extended,07030705
 
-[Max Fakie]
+[Max Fakie (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2025044C,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20250450,extended,07030706
 
-[Max Wallride]
+[Max Wallride (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20250458,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,202503B4,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,202503B8,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,202503C0,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20250918,extended,07030700
 
-[Max Jump]
+[Max Jump (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20250920,extended,42C80000
 
-[Max Speed]
+[Max Speed (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20250924,extended,07030701
 
-[Max Speed]
+[Max Speed (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2025092C,extended,42C80000
 
-[Max Spin]
+[Max Spin (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20250930,extended,07030702
 
-[Max Spin]
+[Max Spin (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20250938,extended,42C80000
 
-[Max Grind]
+[Max Grind (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2025093C,extended,07030703
 
-[Max Grind]
+[Max Grind (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20250944,extended,42C80000
 
-[Max Manual]
+[Max Manual (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20250948,extended,07030704
 
-[Max Manual]
+[Max Manual (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20250950,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,20250954,extended,07030705
 
-[Max Fakie]
+[Max Fakie (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2025095C,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20250960,extended,07030706
 
-[Max Wallride]
+[Max Wallride (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20250968,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,202508C4,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,202508C8,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,202508D0,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20250E28,extended,07030700
 
-[Max Jump]
+[Max Jump (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20250E30,extended,42C80000
 
-[Max Speed]
+[Max Speed (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20250E34,extended,07030701
 
-[Max Speed]
+[Max Speed (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20250E3C,extended,42C80000
 
-[Max Spin]
+[Max Spin (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20250E40,extended,07030702
 
-[Max Spin]
+[Max Spin (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20250E48,extended,42C80000
 
-[Max Grind]
+[Max Grind (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20250E4C,extended,07030703
 
-[Max Grind]
+[Max Grind (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20250E54,extended,42C80000
 
-[Max Manual]
+[Max Manual (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20250E58,extended,07030704
 
-[Max Manual]
+[Max Manual (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20250E60,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,20250E64,extended,07030705
 
-[Max Fakie]
+[Max Fakie (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,20250E6C,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20250E70,extended,07030706
 
-[Max Wallride]
+[Max Wallride (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20250E78,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20250DD4,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,20250DD8,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,20250DE0,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20251338,extended,07030700
 
-[Max Jump]
+[Max Jump (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20251340,extended,42C80000
 
-[Max Speed]
+[Max Speed (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20251344,extended,07030701
 
-[Max Speed]
+[Max Speed (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2025134C,extended,42C80000
 
-[Max Spin]
+[Max Spin (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20251350,extended,07030702
 
-[Max Spin]
+[Max Spin (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20251358,extended,42C80000
 
-[Max Grind]
+[Max Grind (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2025135C,extended,07030703
 
-[Max Grind]
+[Max Grind (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20251364,extended,42C80000
 
-[Max Manual]
+[Max Manual (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20251368,extended,07030704
 
-[Max Manual]
+[Max Manual (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20251370,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,20251374,extended,07030705
 
-[Max Fakie]
+[Max Fakie (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2025137C,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20251380,extended,07030706
 
-[Max Wallride]
+[Max Wallride (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20251388,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,202512E4,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,202512E8,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,202512F0,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20251848,extended,07030700
 
-[Max Jump]
+[Max Jump (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20251850,extended,42C80000
 
-[Max Speed]
+[Max Speed (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20251854,extended,07030701
 
-[Max Speed]
+[Max Speed (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2025185C,extended,42C80000
 
-[Max Spin]
+[Max Spin (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20251860,extended,07030702
 
-[Max Spin]
+[Max Spin (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20251868,extended,42C80000
 
-[Max Grind]
+[Max Grind (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2025186C,extended,07030703
 
-[Max Grind]
+[Max Grind (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20251874,extended,42C80000
 
-[Max Manual]
+[Max Manual (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20251878,extended,07030704
 
-[Max Manual]
+[Max Manual (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20251880,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,20251884,extended,07030705
 
-[Max Fakie]
+[Max Fakie (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,2025188C,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20251890,extended,07030706
 
-[Max Wallride]
+[Max Wallride (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20251898,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,202517F4,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,202517F8,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,20251800,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20251D58,extended,07030700
 
-[Max Jump]
+[Max Jump (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20251D60,extended,42C80000
 
-[Max Speed]
+[Max Speed (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20251D64,extended,07030701
 
-[Max Speed]
+[Max Speed (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20251D6C,extended,42C80000
 
-[Max Spin]
+[Max Spin (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20251D70,extended,07030702
 
-[Max Spin]
+[Max Spin (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20251D78,extended,42C80000
 
-[Max Grind]
+[Max Grind (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20251D7C,extended,07030703
 
-[Max Grind]
+[Max Grind (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20251D84,extended,42C80000
 
-[Max Manual]
+[Max Manual (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20251D88,extended,07030704
 
-[Max Manual]
+[Max Manual (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20251D90,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,20251D94,extended,07030705
 
-[Max Fakie]
+[Max Fakie (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,20251D9C,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20251DA0,extended,07030706
 
-[Max Wallride]
+[Max Wallride (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20251DA8,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20251D04,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,20251D08,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,20251D10,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20252268,extended,07030700
 
-[Max Jump]
+[Max Jump (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20252270,extended,42C80000
 
-[Max Speed]
+[Max Speed (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20252274,extended,07030701
 
-[Max Speed]
+[Max Speed (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2025227C,extended,42C80000
 
-[Max Spin]
+[Max Spin (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20252280,extended,07030702
 
-[Max Spin]
+[Max Spin (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20252288,extended,42C80000
 
-[Max Grind]
+[Max Grind (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2025228C,extended,07030703
 
-[Max Grind]
+[Max Grind (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20252294,extended,42C80000
 
-[Max Manual]
+[Max Manual (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20252298,extended,07030704
 
-[Max Manual]
+[Max Manual (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,202522A0,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,202522A4,extended,07030705
 
-[Max Fakie]
+[Max Fakie (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,202522AC,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,202522B0,extended,07030706
 
-[Max Wallride]
+[Max Wallride (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,202522B8,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20252214,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,20252218,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,20252220,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20252778,extended,07030700
 
-[Max Jump]
+[Max Jump (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20252780,extended,42C80000
 
-[Max Speed]
+[Max Speed (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20252784,extended,07030701
 
-[Max Speed]
+[Max Speed (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2025278C,extended,42C80000
 
-[Max Spin]
+[Max Spin (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20252790,extended,07030702
 
-[Max Spin]
+[Max Spin (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20252798,extended,42C80000
 
-[Max Grind]
+[Max Grind (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,2025279C,extended,07030703
 
-[Max Grind]
+[Max Grind (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,202527A4,extended,42C80000
 
-[Max Manual]
+[Max Manual (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,202527A8,extended,07030704
 
-[Max Manual]
+[Max Manual (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,202527B0,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,202527B4,extended,07030705
 
-[Max Fakie]
+[Max Fakie (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,202527BC,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,202527C0,extended,07030706
 
-[Max Wallride]
+[Max Wallride (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,202527C8,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20252724,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,20252728,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,20252730,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20252C88,extended,07030700
 
-[Max Jump]
+[Max Jump (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20252C90,extended,42C80000
 
-[Max Speed]
+[Max Speed (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20252C94,extended,07030701
 
-[Max Speed]
+[Max Speed (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20252C9C,extended,42C80000
 
-[Max Spin]
+[Max Spin (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20252CA0,extended,07030702
 
-[Max Spin]
+[Max Spin (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20252CA8,extended,42C80000
 
-[Max Grind]
+[Max Grind (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20252CAC,extended,07030703
 
-[Max Grind]
+[Max Grind (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20252CB4,extended,42C80000
 
-[Max Manual]
+[Max Manual (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20252CB8,extended,07030704
 
-[Max Manual]
+[Max Manual (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20252CC0,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,20252CC4,extended,07030705
 
-[Max Fakie]
+[Max Fakie (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,20252CCC,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20252CD0,extended,07030706
 
-[Max Wallride]
+[Max Wallride (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20252CD8,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20252C34,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,20252C38,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,20252C40,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20253198,extended,07030700
 
-[Max Jump]
+[Max Jump (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,202531A0,extended,42C80000
 
-[Max Speed]
+[Max Speed (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,202531A4,extended,07030701
 
-[Max Speed]
+[Max Speed (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,202531AC,extended,42C80000
 
-[Max Spin]
+[Max Spin (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,202531B0,extended,07030702
 
-[Max Spin]
+[Max Spin (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,202531B8,extended,42C80000
 
-[Max Grind]
+[Max Grind (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,202531BC,extended,07030703
 
-[Max Grind]
+[Max Grind (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,202531C4,extended,42C80000
 
-[Max Manual]
+[Max Manual (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,202531C8,extended,07030704
 
-[Max Manual]
+[Max Manual (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,202531D0,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,202531D4,extended,07030705
 
-[Max Fakie]
+[Max Fakie (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,202531DC,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,202531E0,extended,07030706
 
-[Max Wallride]
+[Max Wallride (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,202531E8,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20253144,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,20253148,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,20253150,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,202536A8,extended,07030700
 
-[Max Jump]
+[Max Jump (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,202536B0,extended,42C80000
 
-[Max Speed]
+[Max Speed (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,202536B4,extended,07030701
 
-[Max Speed]
+[Max Speed (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,202536BC,extended,42C80000
 
-[Max Spin]
+[Max Spin (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,202536C0,extended,07030702
 
-[Max Spin]
+[Max Spin (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,202536C8,extended,42C80000
 
-[Max Grind]
+[Max Grind (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,202536CC,extended,07030703
 
-[Max Grind]
+[Max Grind (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,202536D4,extended,42C80000
 
-[Max Manual]
+[Max Manual (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,202536D8,extended,07030704
 
-[Max Manual]
+[Max Manual (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,202536E0,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,202536E4,extended,07030705
 
-[Max Fakie]
+[Max Fakie (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,202536EC,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,202536F0,extended,07030706
 
-[Max Wallride]
+[Max Wallride (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,202536F8,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20253654,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,20253658,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,20253660,extended,FFFFFFFF
 
-[Max Jump]
+[Max Jump (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20253BB8,extended,07030700
 
-[Max Jump]
+[Max Jump (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Jump
 // Max Jump
 patch=1,EE,20253BC0,extended,42C80000
 
-[Max Speed]
+[Max Speed (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20253BC4,extended,07030701
 
-[Max Speed]
+[Max Speed (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,20253BCC,extended,42C80000
 
-[Max Spin]
+[Max Spin (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20253BD0,extended,07030702
 
-[Max Spin]
+[Max Spin (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spin
 // Max Spin
 patch=1,EE,20253BD8,extended,42C80000
 
-[Max Grind]
+[Max Grind (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20253BDC,extended,07030703
 
-[Max Grind]
+[Max Grind (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grind
 // Max Grind
 patch=1,EE,20253BE4,extended,42C80000
 
-[Max Manual]
+[Max Manual (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20253BE8,extended,07030704
 
-[Max Manual]
+[Max Manual (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Manual
 // Max Manual
 patch=1,EE,20253BF0,extended,42C80000
 
-[Max Fakie]
+[Max Fakie (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,20253BF4,extended,07030705
 
-[Max Fakie]
+[Max Fakie (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fakie
 // Max Fakie
 patch=1,EE,20253BFC,extended,42C80000
 
-[Max Wallride]
+[Max Wallride (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20253C00,extended,07030706
 
-[Max Wallride]
+[Max Wallride (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Wallride
 // Max Wallride
 patch=1,EE,20253C08,extended,42C80000
 
-[Have All Levels]
+[Have All Levels (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20253B64,extended,000000FF
 
-[Have All Keys & Powerups]
+[Have All Keys & Powerups (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys & Powerups
 // Have All Keys & Powerups
 patch=1,EE,20253B68,extended,0000FFFF
 
-[Have All Special Tricks]
+[Have All Special Tricks (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Tricks
 // Have All Special Tricks
 patch=1,EE,20253B70,extended,FFFFFFFF
+
+[Cheats\Unlock All Characters]
+patch=1,EE,1024CBB8,extended,0000FFFF
+patch=1,EE,0024CBBA,extended,0000000F
+
+[Cheats\Unlock All Park Editor Parts]
+patch=1,EE,0024CBD2,extended,000000FF
+
+[Cheats\Chris E. Tutorial Stage Is 100% Complete]
+patch=1,EE,2024E1EC,extended,00000018
+
+[Cheats\Chris E. Movie Stage Is 100% Complete]
+patch=1,EE,2024E1A0,extended,00000018
+patch=1,EE,2024E1A4,extended,00000018
+patch=1,EE,2024E1AC,extended,02025353
+
+[Cheats\Chris E. Civic Stage Is 100% Complete]
+patch=1,EE,2024E0EC,extended,00000023
+patch=1,EE,2024E0F0,extended,00000023
+patch=1,EE,2024E0F8,extended,02028282
+
+[Cheats\Chris E. Industrial Stage Is 100% Complete]
+patch=1,EE,2024E17C,extended,00000014
+patch=1,EE,2024E180,extended,00000014
+patch=1,EE,2024E188,extended,01015757
+
+[Cheats\Chris E. Boardwalk Stage Is 100% Complete]
+patch=1,EE,2024E110,extended,0000001C
+patch=1,EE,2024E114,extended,0000001C
+patch=1,EE,2024E11C,extended,03034C4C
+
+[Cheats\Chris E. Cannery Stage Is 100% Complete]
+patch=1,EE,2024E134,extended,00000018
+patch=1,EE,2024E138,extended,00000018
+patch=1,EE,2024E140,extended,01016363
+
+[Cheats\Chris E. Airfield Stage Is 100% Complete]
+patch=1,EE,2024E158,extended,00000012
+patch=1,EE,2024E15C,extended,00000012
+patch=1,EE,2024E164,extended,01013B3B
+
+[Cheats\Chris E. Museum Stage Is 100% Complete]
+patch=1,EE,2024E1C4,extended,00000017
+patch=1,EE,2024E1C8,extended,00000017
+patch=1,EE,2024E1D0,extended,01018484
+
+[Cheats\Unlock All Special Tricks]
+patch=1,EE,1024E050,extended,0000FFFF
+
+[Cheats\Have All Keys And Power Ups]
+patch=1,EE,1024E048,extended,0000FFFF
+
+[Cheats\Unlock All Levels]
+patch=1,EE,0024E040,extended,000000FF

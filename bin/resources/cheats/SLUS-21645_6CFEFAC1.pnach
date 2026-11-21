@@ -1,0 +1,198 @@
+gametitle=Smackdown vs Raw 2008 [UNKNOWN] [6CFEFAC1]
+
+[Unlock Store Items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock Store Items
+// Unlock Store Items
+patch=1,EE,76080A50,extended,00000000
+
+[Unlock Store Items (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock Store Items
+// Unlock Store Items
+patch=1,EE,2850E55A,extended,948C883E
+
+[Unlock Store Items (3)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock Store Items
+// Unlock Store Items
+patch=1,EE,28507EF9,extended,948C883E
+
+[Attribute Point Modifiers - CAW 1]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 1
+// Attribute Point Modifiers - CAW 1
+patch=1,EE,003DD640,extended,000000FF
+
+[Attribute Point Modifiers - CAW 1 (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 1
+// Attribute Point Modifiers - CAW 1
+patch=1,EE,003DD641,extended,000000FF
+
+[Attribute Point Modifiers - CAW 1 (3)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 1
+// Attribute Point Modifiers - CAW 1
+patch=1,EE,003DD642,extended,000000FF
+
+[Attribute Point Modifiers - CAW 1 (4)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 1
+// Attribute Point Modifiers - CAW 1
+patch=1,EE,003DD643,extended,000000FF
+
+[Attribute Point Modifiers - CAW 1 (5)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 1
+// Attribute Point Modifiers - CAW 1
+patch=1,EE,003DD644,extended,000000FF
+
+[Attribute Point Modifiers - CAW 1 (6)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 1
+// Attribute Point Modifiers - CAW 1
+patch=1,EE,003DD645,extended,000000FF
+
+[Attribute Point Modifiers - CAW 1 (7)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 1
+// Attribute Point Modifiers - CAW 1
+patch=1,EE,003DD646,extended,000000FF
+
+[Attribute Point Modifiers - CAW 1 (8)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 1
+// Attribute Point Modifiers - CAW 1
+patch=1,EE,003DD647,extended,000000FF
+
+[Attribute Point Modifiers - CAW 2]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 2
+// Attribute Point Modifiers - CAW 2
+patch=1,EE,003DDBF0,extended,000000FF
+
+[Attribute Point Modifiers - CAW 2 (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 2
+// Attribute Point Modifiers - CAW 2
+patch=1,EE,003DDBF1,extended,000000FF
+
+[Attribute Point Modifiers - CAW 2 (3)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 2
+// Attribute Point Modifiers - CAW 2
+patch=1,EE,003DDBF2,extended,000000FF
+
+[Attribute Point Modifiers - CAW 2 (4)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 2
+// Attribute Point Modifiers - CAW 2
+patch=1,EE,003DDBF3,extended,000000FF
+
+[Attribute Point Modifiers - CAW 2 (5)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 2
+// Attribute Point Modifiers - CAW 2
+patch=1,EE,003DDBF4,extended,000000FF
+
+[Attribute Point Modifiers - CAW 2 (6)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 2
+// Attribute Point Modifiers - CAW 2
+patch=1,EE,003DDBF5,extended,000000FF
+
+[Attribute Point Modifiers - CAW 2 (7)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 2
+// Attribute Point Modifiers - CAW 2
+patch=1,EE,003DDBF6,extended,000000FF
+
+[Attribute Point Modifiers - CAW 2 (8)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Attribute Point Modifiers - CAW 2
+// Attribute Point Modifiers - CAW 2
+patch=1,EE,003DDBF7,extended,000000FF
+
+[Maximum Cash - ShopZone]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Maximum Cash - ShopZone
+// Maximum Cash - ShopZone
+patch=1,EE,20435CB4,extended,05F5E0FF
+
+[Maximum Cash - GM Mode - SmackDown!]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Maximum Cash - GM Mode - SmackDown!
+// Maximum Cash - GM Mode - SmackDown!
+patch=1,EE,20430AC0,extended,05F51FAB
+
+[Maximum Experience Points]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Maximum Experience Points
+// Maximum Experience Points
+patch=1,EE,20436FF0,extended,000F423F
+
+[UNLOCK EVERYTHING]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=UNLOCK EVERYTHING
+// UNLOCK EVERYTHING
+patch=1,EE,201EAE2C,extended,240300FF
+
+[UNLOCK EVERYTHING (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=UNLOCK EVERYTHING
+// UNLOCK EVERYTHING
+patch=1,EE,201EAE30,extended,A0430000
+
+[UNLOCK EVERYTHING (3)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=UNLOCK EVERYTHING
+// UNLOCK EVERYTHING
+patch=1,EE,201EAE44,extended,24020001
+
+[Cheats\Momentum Never Increases Decreases]
+patch=1,EE,D04E7A20,extended,0000182D
+patch=1,EE,204E7A4C,extended,00000000
+
+[Cheats\Do Not Lose Momentum After Special Move]
+patch=1,EE,D04E805C,extended,0000802D
+patch=1,EE,204E8070,extended,00000000
+
+[Cheats\Quick Max EXP Gain]
+patch=1,EE,2023DE48,extended,00000000
+
+[Cheats\P1 Press R1+Select For Hyper Mode]
+patch=1,EE,D1CF8782,extended,0000F7FE
+patch=1,EE,2028F9DC,extended,00000000
+
+[Cheats\P1 Press R2+Select For Normal Speed]
+patch=1,EE,D1CF8782,extended,0000FDFE
+patch=1,EE,2028F9DC,extended,0060F809
+
+[Cheats\Infinite Time Out Of Ring]
+patch=1,EE,D0533568,extended,0000202D
+patch=1,EE,20533580,extended,00000000
+
+[Cheats\Pinning P1 Press L1+Select While Pinning For Instant 3 Count]
+patch=1,EE,E001FBFE,extended,01CF8782
+patch=1,EE,20520CD4,extended,00000000
+patch=1,EE,E001FFFF,extended,01CF8782
+patch=1,EE,20520CD4,extended,54900024
+
+[Cheats\Pinning P1 Press L2+Select While Pinning To Reset Pin Count]
+patch=1,EE,E002FEFE,extended,01CF8782
+patch=1,EE,20520CD0,extended,24040000
+patch=1,EE,20520CD8,extended,AE440060
+patch=1,EE,E002FFFF,extended,01CF8782
+patch=1,EE,20520CD0,extended,8E440060
+patch=1,EE,20520CD8,extended,8E430064
+
+[Cheats\WWE Shop Max WWE Cash]
+patch=1,EE,20491C30,extended,3B9AC9FF
+
+[Cheats\Unlock Almost Everything]
+patch=1,EE,204AB87C,extended,FFFFFFFF
+
+[Cheats\Have Almost Everything Purchased]
+patch=1,EE,204AB880,extended,FFFFFFFF
+patch=1,EE,104AB884,extended,0000FFFF

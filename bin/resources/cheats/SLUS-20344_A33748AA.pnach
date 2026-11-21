@@ -72,8 +72,12 @@ description=Max Analyzation
 // Max Analyzation
 patch=1,EE,102F96AC,extended,00000009
 
-[Max Analyzation]
+[Max Analyzation (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Analyzation
 // Max Analyzation
+patch=1,EE,102F96B0,extended,00000009
+
+[Cheats\Max Analyzation]
+patch=1,EE,102F96AC,extended,00000009
 patch=1,EE,102F96B0,extended,00000009

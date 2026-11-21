@@ -1,0 +1,7 @@
+gametitle=最遊記RELOAD GUNLOCK [SLPS-20391] [D13EAC09]
+
+[Cheats\Max Funds]
+patch=1,EE,00406C90,extended,000000FF
+
+[Cheats\Max Rave Power]
+patch=1,EE,00406C9C,extended,000000FF

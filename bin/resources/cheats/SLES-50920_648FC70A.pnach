@@ -1,0 +1,13 @@
+gametitle=King's Field IV [SLES-50920] [648FC70A]
+
+[Cheats\Infinite Gold]
+patch=1,EE,2041378C,extended,000F423F
+
+[Cheats\Infinite Health]
+patch=1,EE,201B9B64,extended,00000000
+
+[Cheats\Infinite Magic]
+patch=1,EE,204137F8,extended,000003E7
+
+[Cheats\Infinite Oxygen]
+patch=1,EE,2041380C,extended,00000500

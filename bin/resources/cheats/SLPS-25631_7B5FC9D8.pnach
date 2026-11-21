@@ -1,0 +1,7 @@
+gametitle=SIMPLE2000シリーズ Vol.98 THE 浪漫茶房 [SLPS-25631] [7B5FC9D8]
+
+[Cheats\Max Money]
+patch=1,EE,201E64AC,extended,3B9AC9FF
+
+[Cheats\Fatigue 0]
+patch=1,EE,201E66D0,extended,00000000

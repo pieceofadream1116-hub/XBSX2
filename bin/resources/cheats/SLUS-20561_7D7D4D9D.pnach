@@ -24,7 +24,7 @@ description=Have All Maps
 // Have All Maps
 patch=1,EE,2036CC00,extended,FFFFFFFF
 
-[Have All Maps]
+[Have All Maps (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Maps
 // Have All Maps
@@ -36,7 +36,7 @@ description=Have All Compasses
 // Have All Compasses
 patch=1,EE,203FE8EC,extended,FFFFFFFF
 
-[Have All Compasses]
+[Have All Compasses (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Compasses
 // Have All Compasses
@@ -89,3 +89,11 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Water Consumed
 // Always Low Water Consumed
 patch=1,EE,204144C8,extended,00000000
+
+[Cheats\Have All Maps]
+patch=1,EE,2036CC00,extended,FFFFFFFF
+patch=1,EE,2036CC04,extended,FFFFFFFF
+
+[Cheats\Have All Compasses]
+patch=1,EE,203FE8EC,extended,FFFFFFFF
+patch=1,EE,203FE8F0,extended,FFFFFFF7

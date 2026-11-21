@@ -1,0 +1,6 @@
+gametitle=実戦パチスロ必勝法！ 北斗の拳 [SLPS-20373] [AACAC045]
+
+[Cheats\Unlock All Extras]
+patch=1,EE,00393CB4,extended,00000001
+patch=1,EE,00393CB8,extended,00000001
+patch=1,EE,00393CAC,extended,00000001

@@ -1,4 +1,46 @@
-gametitle=Killzone [SCES-52004] [6624A78C]
+gametitle=Killzone [UNKNOWN] [6624A78C]
+
+[All Levels Available]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Levels Available
+// All Levels Available
+patch=1,EE,201D7704,extended,24020001
+
+[God Mode]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=God Mode
+// God Mode
+patch=1,EE,20276E88,extended,24020001
+
+[Display Coordinates]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Display Coordinates
+// Display Coordinates
+patch=1,EE,2047E7E0,extended,24020001
+
+[Display Spread Circle]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Display Spread Circle
+// Display Spread Circle
+patch=1,EE,20479D74,extended,24020001
+
+[Display Lock Circle]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Display Lock Circle
+// Display Lock Circle
+patch=1,EE,20479CB8,extended,24020001
+
+[Infinite Ammo/No Reload]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo/No Reload
+// Infinite Ammo/No Reload
+patch=1,EE,2028BC80,extended,00000000
+
+[Infinite Sprint]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Sprint
+// Infinite Sprint
+patch=1,EE,2021B640,extended,00000000
 
 [Max All Levels]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -12,25 +54,25 @@ description=Always Max Health Can Be Recovered
 // Always Max Health Can Be Recovered
 patch=1,EE,200C0220,extended,3C0144C8
 
-[Always Max Health Can Be Recovered]
+[Always Max Health Can Be Recovered (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Health Can Be Recovered
 // Always Max Health Can Be Recovered
 patch=1,EE,200C0224,extended,AC410230
 
-[Always Max Health Can Be Recovered]
+[Always Max Health Can Be Recovered (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Health Can Be Recovered
 // Always Max Health Can Be Recovered
 patch=1,EE,200C0228,extended,03E00008
 
-[Always Max Health Can Be Recovered]
+[Always Max Health Can Be Recovered (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Health Can Be Recovered
 // Always Max Health Can Be Recovered
 patch=1,EE,200C022C,extended,C4440230
 
-[Always Max Health Can Be Recovered]
+[Always Max Health Can Be Recovered (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Health Can Be Recovered
 // Always Max Health Can Be Recovered
@@ -42,25 +84,25 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0230,extended,3C0144C8
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0234,extended,AC41022C
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0238,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C023C,extended,C441022C
 
-[Infinite Health]
+[Infinite Health (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -108,7 +150,7 @@ description=Always Max Primary Ammo
 // Always Max Primary Ammo
 patch=1,EE,2047BB0C,extended,240403E7
 
-[Always Max Primary Ammo]
+[Always Max Primary Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Primary Ammo
 // Always Max Primary Ammo
@@ -120,7 +162,7 @@ description=Always Max Secondary Ammo
 // Always Max Secondary Ammo
 patch=1,EE,2047D830,extended,24060063
 
-[Always Max Secondary Ammo]
+[Always Max Secondary Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Secondary Ammo
 // Always Max Secondary Ammo
@@ -132,7 +174,7 @@ description=Halo-Legacy Mode Control Setting
 // Halo-Legacy Mode Control Setting
 patch=1,EE,00416DF0,extended,00000004
 
-[Halo-Legacy Mode Control Setting]
+[Halo-Legacy Mode Control Setting (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Halo-Legacy Mode Control Setting
 // Halo-Legacy Mode Control Setting
@@ -144,7 +186,7 @@ description=Always Objective Succeeded
 // Always Objective Succeeded
 patch=1,EE,201CCDB0,extended,080733AC
 
-[Always Objective Succeeded]
+[Always Objective Succeeded (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Objective Succeeded
 // Always Objective Succeeded
@@ -156,13 +198,13 @@ description=Unlock All Levels
 // Unlock All Levels
 patch=1,EE,201D7234,extended,00821821
 
-[Unlock All Levels]
+[Unlock All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Levels
 // Unlock All Levels
 patch=1,EE,201D7238,extended,24020001
 
-[Unlock All Levels]
+[Unlock All Levels (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Levels
 // Unlock All Levels
@@ -174,25 +216,25 @@ description=P1 Press {L2}+Up To Skip FMV
 // P1 Press {L2}+Up To Skip FMV
 patch=1,EE,D07C4602,extended,0000FEEF
 
-[P1 Press {L2}+Up To Skip FMV]
+[P1 Press {L2}+Up To Skip FMV (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+Up To Skip FMV
 // P1 Press {L2}+Up To Skip FMV
 patch=1,EE,203CD868,extended,24020001
 
-[P1 Press {L2}+Up To Skip FMV]
+[P1 Press {L2}+Up To Skip FMV (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+Up To Skip FMV
 // P1 Press {L2}+Up To Skip FMV
 patch=1,EE,D07C4602,extended,0000FFFF
 
-[P1 Press {L2}+Up To Skip FMV]
+[P1 Press {L2}+Up To Skip FMV (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+Up To Skip FMV
 // P1 Press {L2}+Up To Skip FMV
 patch=1,EE,203CD868,extended,8C620000
 
-[God Mode]
+[God Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=God Mode
 // God Mode
@@ -228,20 +270,19 @@ description=P1 Press {L2}+{SELECT} For Victory On Current Level
 // P1 Press {L2}+{SELECT} For Victory On Current Level
 patch=1,EE,D07C4602,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} For Victory On Current Level]
+[P1 Press {L2}+{SELECT} For Victory On Current Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} For Victory On Current Level
 // P1 Press {L2}+{SELECT} For Victory On Current Level
 patch=1,EE,00514024,extended,00000001
 
-[P1 Press {L2}+{SELECT} For Victory On Current Level]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L2}+{SELECT} For Victory On Current Level
-// P1 Press {L2}+{SELECT} For Victory On Current Level
-patch=1,EE,D07C4602,extended,0000FFFF
-
-[P1 Press {L2}+{SELECT} For Victory On Current Level]
+[P1 Press {L2}+{SELECT} For Victory On Current Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} For Victory On Current Level
 // P1 Press {L2}+{SELECT} For Victory On Current Level
 patch=1,EE,00514024,extended,00000000
+
+[NTSC Mode]
+author=Gabominated
+description=Enable native NTSC Mode at start instead PAL Mode.
+patch=1,EE,001BD6B4,word,38420001 //38420002

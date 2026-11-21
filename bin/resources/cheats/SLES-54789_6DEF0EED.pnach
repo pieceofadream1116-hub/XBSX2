@@ -1,0 +1,4 @@
+gametitle=Beta Bloc [SLES-54789] [6DEF0EED]
+
+[Cheats\Infinite health]
+patch=1,EE,202336AC,extended,000003E8

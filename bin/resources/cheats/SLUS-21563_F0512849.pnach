@@ -12,25 +12,25 @@ description=Max Horse Condition
 // Max Horse Condition
 patch=1,EE,200C0220,extended,3C013F80
 
-[Max Horse Condition]
+[Max Horse Condition (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Horse Condition
 // Max Horse Condition
 patch=1,EE,200C0224,extended,AE210008
 
-[Max Horse Condition]
+[Max Horse Condition (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Horse Condition
 // Max Horse Condition
 patch=1,EE,200C0228,extended,03E00008
 
-[Max Horse Condition]
+[Max Horse Condition (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Horse Condition
 // Max Horse Condition
 patch=1,EE,200C022C,extended,C6280008
 
-[Max Horse Condition]
+[Max Horse Condition (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Horse Condition
 // Max Horse Condition
@@ -42,7 +42,7 @@ description=P1 Press {L1}+{SELECT} To Stop Timer
 // P1 Press {L1}+{SELECT} To Stop Timer
 patch=1,EE,D064BA42,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Stop Timer]
+[P1 Press {L1}+{SELECT} To Stop Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Stop Timer
 // P1 Press {L1}+{SELECT} To Stop Timer
@@ -54,7 +54,7 @@ description=P1 Press {L2}+{SELECT} To Restart Timer
 // P1 Press {L2}+{SELECT} To Restart Timer
 patch=1,EE,D064BA42,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} To Restart Timer]
+[P1 Press {L2}+{SELECT} To Restart Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To Restart Timer
 // P1 Press {L2}+{SELECT} To Restart Timer
@@ -66,31 +66,31 @@ description=Max Tokens
 // Max Tokens
 patch=1,EE,200C0220,extended,3C02000F
 
-[Max Tokens]
+[Max Tokens (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Tokens
 // Max Tokens
 patch=1,EE,200C0224,extended,3442423F
 
-[Max Tokens]
+[Max Tokens (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Tokens
 // Max Tokens
 patch=1,EE,200C0228,extended,080BB05C
 
-[Max Tokens]
+[Max Tokens (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Tokens
 // Max Tokens
 patch=1,EE,200C022C,extended,AC220000
 
-[Max Tokens]
+[Max Tokens (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Tokens
 // Max Tokens
 patch=1,EE,202EC164,extended,08030088
 
-[Max Tokens]
+[Max Tokens (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Tokens
 // Max Tokens
@@ -102,25 +102,25 @@ description=Max Horse Moral
 // Max Horse Moral
 patch=1,EE,200C0230,extended,24020064
 
-[Max Horse Moral]
+[Max Horse Moral (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Horse Moral
 // Max Horse Moral
 patch=1,EE,200C0234,extended,080BAFFC
 
-[Max Horse Moral]
+[Max Horse Moral (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Horse Moral
 // Max Horse Moral
 patch=1,EE,200C0238,extended,AC220000
 
-[Max Horse Moral]
+[Max Horse Moral (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Horse Moral
 // Max Horse Moral
 patch=1,EE,202EBFE4,extended,0803008C
 
-[Max Horse Moral]
+[Max Horse Moral (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Horse Moral
 // Max Horse Moral
@@ -132,25 +132,25 @@ description=Max Horse Health
 // Max Horse Health
 patch=1,EE,200C0240,extended,24020064
 
-[Max Horse Health]
+[Max Horse Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Horse Health
 // Max Horse Health
 patch=1,EE,200C0244,extended,080BB00C
 
-[Max Horse Health]
+[Max Horse Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Horse Health
 // Max Horse Health
 patch=1,EE,200C0248,extended,AC220000
 
-[Max Horse Health]
+[Max Horse Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Horse Health
 // Max Horse Health
 patch=1,EE,202EC024,extended,08030090
 
-[Max Horse Health]
+[Max Horse Health (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Horse Health
 // Max Horse Health

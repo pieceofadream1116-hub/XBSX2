@@ -1,0 +1,5 @@
+gametitle=彼女の伝説、僕の石版～アリミリオンの剣とともに～ [SLPM-65392] [EF9D69ED]
+
+[Cheats\Unlock All Album]
+patch=1,EE,40176F48,extended,000E0001
+patch=1,EE,FFFFFFFF,extended,00000000

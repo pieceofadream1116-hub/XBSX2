@@ -78,133 +78,133 @@ description=No Misses
 // No Misses
 patch=1,EE,1098411C,extended,00000000
 
-[Always Rank A]
+[Always Rank A (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Rank A
 // Always Rank A
 patch=1,EE,20281738,extended,00000000
 
-[Max Perfects]
+[Max Perfects (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Perfects
 // Max Perfects
 patch=1,EE,109840E8,extended,000003E7
 
-[Max Cools]
+[Max Cools (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cools
 // Max Cools
 patch=1,EE,109840EC,extended,000003E7
 
-[Max Goods]
+[Max Goods (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Goods
 // Max Goods
 patch=1,EE,109840F0,extended,000003E7
 
-[Max Bads]
+[Max Bads (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Bads
 // Max Bads
 patch=1,EE,109840F4,extended,000003E7
 
-[Max Misses]
+[Max Misses (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Misses
 // Max Misses
 patch=1,EE,109840F8,extended,000003E7
 
-[No Perfects]
+[No Perfects (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Perfects
 // No Perfects
 patch=1,EE,109840E8,extended,00000000
 
-[No Cools]
+[No Cools (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Cools
 // No Cools
 patch=1,EE,109840EC,extended,00000000
 
-[No Goods]
+[No Goods (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Goods
 // No Goods
 patch=1,EE,109840F0,extended,00000000
 
-[No Bads]
+[No Bads (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Bads
 // No Bads
 patch=1,EE,109840F4,extended,00000000
 
-[No Misses]
+[No Misses (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Misses
 // No Misses
 patch=1,EE,109840F8,extended,00000000
 
-[Always Rank A]
+[Always Rank A (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Rank A
 // Always Rank A
 patch=1,EE,20281FA8,extended,00000000
 
-[Max Perfects]
+[Max Perfects (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Perfects
 // Max Perfects
 patch=1,EE,10984130,extended,000003E7
 
-[Max Cools]
+[Max Cools (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cools
 // Max Cools
 patch=1,EE,10984134,extended,000003E7
 
-[Max Goods]
+[Max Goods (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Goods
 // Max Goods
 patch=1,EE,10984138,extended,000003E7
 
-[Max Bads]
+[Max Bads (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Bads
 // Max Bads
 patch=1,EE,1098413C,extended,000003E7
 
-[Max Misses]
+[Max Misses (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Misses
 // Max Misses
 patch=1,EE,10984140,extended,000003E7
 
-[No Perfects]
+[No Perfects (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Perfects
 // No Perfects
 patch=1,EE,10984130,extended,00000000
 
-[No Cools]
+[No Cools (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Cools
 // No Cools
 patch=1,EE,10984134,extended,00000000
 
-[No Goods]
+[No Goods (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Goods
 // No Goods
 patch=1,EE,10984138,extended,00000000
 
-[No Bads]
+[No Bads (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Bads
 // No Bads
 patch=1,EE,1098413C,extended,00000000
 
-[No Misses]
+[No Misses (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Misses
 // No Misses

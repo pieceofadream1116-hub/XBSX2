@@ -1,0 +1,4 @@
+gametitle=The King of Fighters - Neo Wave [SLES-53999] [F5090D15]
+
+[Cheats\P1 Infinte HP]
+patch=1,EE,0051E420,extended,00000066

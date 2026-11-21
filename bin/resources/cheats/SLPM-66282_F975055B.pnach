@@ -1,0 +1,5 @@
+gametitle=SuperLite 2000 恋愛アドベンチャー Memories Off AfterRain Vol.2 ～想演～ [SLPM-66282] [F975055B]
+
+[Cheats\Unlock All Bonus When you view any of Your Memories everything is fully opened]
+patch=1,EE,21E4B610,extended,FFFFFFFF
+patch=1,EE,01E4B614,extended,0000000F

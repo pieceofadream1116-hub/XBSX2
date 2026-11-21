@@ -1,0 +1,6 @@
+gametitle=宇宙戦艦ヤマト 暗黒星団帝国の逆襲 [初回生産限定版] [SLPS-25161] [3F483959]
+
+[Cheats\In battle Max HP First Character]
+patch=1,EE,10330E58,extended,000000FF
+patch=1,EE,10330E5C,extended,000000FF
+patch=1,EE,10330E60,extended,000000FF

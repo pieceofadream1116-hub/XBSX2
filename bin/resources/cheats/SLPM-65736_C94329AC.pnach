@@ -1,0 +1,5 @@
+gametitle=蒼のままで・・・・・・ [SLPM-65736] [C94329AC]
+
+[Cheats\Unlock All Album]
+patch=1,EE,20123804,extended,24060001
+patch=1,EE,20123810,extended,A4860000

@@ -1,0 +1,4 @@
+gametitle=アメリカ横断ウルトラクイズ [SLPS-25106] [BCBC8DC7]
+
+[Cheats\Unlock All Free Mode]
+patch=1,EE,001C0E24,extended,00000009

@@ -1,0 +1,5 @@
+gametitle=麻雀やろうぜ！2 [SLPM-62004] [86693010]
+
+[Cheats\Max Money 99900]
+patch=1,EE,20462538,extended,0001863C
+patch=1,EE,2032928C,extended,0001863C

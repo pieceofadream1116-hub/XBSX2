@@ -12,7 +12,7 @@ description=Always Low Lap Time
 // Always Low Lap Time
 patch=1,EE,D0468800,extended,00001024
 
-[Always Low Lap Time]
+[Always Low Lap Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Lap Time
 // Always Low Lap Time
@@ -24,7 +24,7 @@ description=Always Low TBL Time
 // Always Low TBL Time
 patch=1,EE,D04687D8,extended,00001024
 
-[Always Low TBL Time]
+[Always Low TBL Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low TBL Time
 // Always Low TBL Time
@@ -36,19 +36,19 @@ description=Max Store Points
 // Max Store Points
 patch=1,EE,E003F768,extended,004E2210
 
-[Max Store Points]
+[Max Store Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Store Points
 // Max Store Points
 patch=1,EE,204E221C,extended,3C0105F5
 
-[Max Store Points]
+[Max Store Points (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Store Points
 // Max Store Points
 patch=1,EE,204E2220,extended,3421E0FF
 
-[Max Store Points]
+[Max Store Points (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Store Points
 // Max Store Points
@@ -60,17 +60,11 @@ description=Using Store Points Doesnt Decrease Store Points
 // Using Store Points Doesnt Decrease Store Points
 patch=1,EE,D04E52BC,extended,00008021
 
-[Using Store Points Doesnt Decrease Store Points]
+[Using Store Points Doesnt Decrease Store Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Using Store Points Doesnt Decrease Store Points
 // Using Store Points Doesnt Decrease Store Points
 patch=1,EE,204E52CC,extended,00000000
-
-[Using Store Points Increases Store Points]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Using Store Points Increases Store Points
-// Using Store Points Increases Store Points
-patch=1,EE,D04E52BC,extended,00008021
 
 [Using Store Points Increases Store Points]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -84,14 +78,43 @@ description=View Store To Unlock Everything
 // View Store To Unlock Everything
 patch=1,EE,202DF3B4,extended,304200FB
 
-[View Store To Unlock Everything]
+[View Store To Unlock Everything (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Store To Unlock Everything
 // View Store To Unlock Everything
 patch=1,EE,202DF3B8,extended,A082003A
 
-[View Store To Unlock Everything]
+[View Store To Unlock Everything (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Store To Unlock Everything
 // View Store To Unlock Everything
+patch=1,EE,202DF3BC,extended,00000000
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,E0010000,extended,00395AB8
+patch=1,EE,1040C190,extended,00000001
+//patch=1,EE,10799FBC,extended,00000002
+
+[Cheats\Max Points]
+patch=1,EE,2091775C,extended,05F5E0FF
+
+[Cheats\Max Store Points]
+patch=1,EE,E003F768,extended,004E2210
+patch=1,EE,204E221C,extended,3C0105F5
+patch=1,EE,204E2220,extended,3421E0FF
+patch=1,EE,204E2224,extended,AC41015C
+
+[Cheats\Always Low Lap Time]
+patch=1,EE,D0468800,extended,00001024
+patch=1,EE,20468814,extended,00000000
+
+[Cheats\Always Low TBL Time]
+patch=1,EE,D04687D8,extended,00001024
+patch=1,EE,204687F0,extended,00000000
+
+[Cheats\Unlock Everything View Store]
+patch=1,EE,202DF3B4,extended,304200FB
+patch=1,EE,202DF3B8,extended,A082003A
 patch=1,EE,202DF3BC,extended,00000000

@@ -1,0 +1,5 @@
+gametitle=太鼓の達人 ドキッ！新曲だらけの春祭り [SLPS-20272] [848C6247]
+
+[Cheats\Max Soul Gauge Solo Play After Increases]
+patch=1,EE,D1168704,extended,00300001
+patch=1,EE,11168704,extended,00002710

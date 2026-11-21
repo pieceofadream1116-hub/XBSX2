@@ -30,7 +30,7 @@ description=Infinite HP (In-Battle)
 // Infinite HP (In-Battle)
 patch=1,EE,201C86D8,extended,2402270F
 
-[Infinite HP (In-Battle)]
+[Infinite HP (In-Battle) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP (In-Battle)
 // Infinite HP (In-Battle)
@@ -42,7 +42,7 @@ description=Infinite MP (In-Battle)
 // Infinite MP (In-Battle)
 patch=1,EE,201C86EC,extended,2402270F
 
-[Infinite MP (In-Battle)]
+[Infinite MP (In-Battle) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP (In-Battle)
 // Infinite MP (In-Battle)
@@ -54,19 +54,19 @@ description=Always Max Overdrive Meter (In-Battle)
 // Always Max Overdrive Meter (In-Battle)
 patch=1,EE,200C0220,extended,240200FF
 
-[Always Max Overdrive Meter (In-Battle)]
+[Always Max Overdrive Meter (In-Battle) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Overdrive Meter (In-Battle)
 // Always Max Overdrive Meter (In-Battle)
 patch=1,EE,200C0224,extended,03E00008
 
-[Always Max Overdrive Meter (In-Battle)]
+[Always Max Overdrive Meter (In-Battle) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Overdrive Meter (In-Battle)
 // Always Max Overdrive Meter (In-Battle)
 patch=1,EE,200C0228,extended,A0620268
 
-[Always Max Overdrive Meter (In-Battle)]
+[Always Max Overdrive Meter (In-Battle) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Overdrive Meter (In-Battle)
 // Always Max Overdrive Meter (In-Battle)
@@ -96,7 +96,7 @@ description=Infinite Item Usage
 // Infinite Item Usage
 patch=1,EE,101BECEA,extended,0000A266
 
-[Infinite Item Usage]
+[Infinite Item Usage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Item Usage
 // Infinite Item Usage
@@ -108,19 +108,19 @@ description=Max Status (All Characters & Summons)
 // Max Status (All Characters & Summons)
 patch=1,EE,201BD958,extended,2401FFFF
 
-[Max Status (All Characters & Summons)]
+[Max Status (All Characters & Summons) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Status (All Characters & Summons)
 // Max Status (All Characters & Summons)
 patch=1,EE,201BD96C,extended,00621021
 
-[Max Status (All Characters & Summons)]
+[Max Status (All Characters & Summons) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Status (All Characters & Summons)
 // Max Status (All Characters & Summons)
 patch=1,EE,201BD970,extended,AC41000C
 
-[Max Status (All Characters & Summons)]
+[Max Status (All Characters & Summons) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Status (All Characters & Summons)
 // Max Status (All Characters & Summons)
@@ -132,7 +132,7 @@ description=Max HP/MP/Limit Break (All Characters)
 // Max HP/MP/Limit Break (All Characters)
 patch=1,EE,201BE130,extended,AFC60004
 
-[Max HP/MP/Limit Break (All Characters)]
+[Max HP/MP/Limit Break (All Characters) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP/MP/Limit Break (All Characters)
 // Max HP/MP/Limit Break (All Characters)
@@ -144,7 +144,7 @@ description=Break Damage Limit (All Characters)
 // Break Damage Limit (All Characters)
 patch=1,EE,201C1350,extended,3C0B3B9A
 
-[Break Damage Limit (All Characters)]
+[Break Damage Limit (All Characters) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Break Damage Limit (All Characters)
 // Break Damage Limit (All Characters)
@@ -162,7 +162,7 @@ description=S Level 98 (All Characters)
 // S Level 98 (All Characters)
 patch=1,EE,201BC1D0,extended,0080102D
 
-[S Level 98 (All Characters)]
+[S Level 98 (All Characters) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=S Level 98 (All Characters)
 // S Level 98 (All Characters)
@@ -174,13 +174,13 @@ description=Have All Three Magus Sisters Activated
 // Have All Three Magus Sisters Activated
 patch=1,EE,0031C184,extended,00000011
 
-[Have All Three Magus Sisters Activated]
+[Have All Three Magus Sisters Activated (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Three Magus Sisters Activated
 // Have All Three Magus Sisters Activated
 patch=1,EE,0031C218,extended,00000011
 
-[Have All Three Magus Sisters Activated]
+[Have All Three Magus Sisters Activated (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Three Magus Sisters Activated
 // Have All Three Magus Sisters Activated
@@ -192,13 +192,13 @@ description=Have All Three Magus Sisters Deactivated
 // Have All Three Magus Sisters Deactivated
 patch=1,EE,0031C184,extended,00000000
 
-[Have All Three Magus Sisters Deactivated]
+[Have All Three Magus Sisters Deactivated (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Three Magus Sisters Deactivated
 // Have All Three Magus Sisters Deactivated
 patch=1,EE,0031C218,extended,00000000
 
-[Have All Three Magus Sisters Deactivated]
+[Have All Three Magus Sisters Deactivated (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Three Magus Sisters Deactivated
 // Have All Three Magus Sisters Deactivated
@@ -210,7 +210,7 @@ description=Have All Monsters Captured (In Spira)
 // Have All Monsters Captured (In Spira)
 patch=1,EE,4031A4EC,extended,00240001
 
-[Have All Monsters Captured (In Spira)]
+[Have All Monsters Captured (In Spira) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Monsters Captured (In Spira)
 // Have All Monsters Captured (In Spira)
@@ -228,13 +228,13 @@ description=Have All Key Items
 // Have All Key Items
 patch=1,EE,2031A76C,extended,FFFFFFFF
 
-[Have All Key Items]
+[Have All Key Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Key Items
 // Have All Key Items
 patch=1,EE,1031A770,extended,0000FFFB
 
-[Have All Key Items]
+[Have All Key Items (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Key Items
 // Have All Key Items
@@ -246,19 +246,19 @@ description=Have All Overdrives
 // Have All Overdrives
 patch=1,EE,2031A04C,extended,FFFFFFFF
 
-[Have All Overdrives]
+[Have All Overdrives (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrives
 // Have All Overdrives
 patch=1,EE,2031A050,extended,FFFFFFFF
 
-[Have All Overdrives]
+[Have All Overdrives (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrives
 // Have All Overdrives
 patch=1,EE,2031A054,extended,FFFFFFFF
 
-[Have All Overdrives]
+[Have All Overdrives (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrives
 // Have All Overdrives
@@ -276,7 +276,7 @@ description=View HP Of 1 Enemy To Kill All Enemies Fast
 // View HP Of 1 Enemy To Kill All Enemies Fast
 patch=1,EE,201C70B0,extended,AE20027C
 
-[View HP Of 1 Enemy To Kill All Enemies Fast]
+[View HP Of 1 Enemy To Kill All Enemies Fast (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View HP Of 1 Enemy To Kill All Enemies Fast
 // View HP Of 1 Enemy To Kill All Enemies Fast
@@ -288,37 +288,37 @@ description=View HP Of Enemy To Kill In 1-Hit
 // View HP Of Enemy To Kill In 1-Hit
 patch=1,EE,200C0230,extended,8E22027C
 
-[View HP Of Enemy To Kill In 1-Hit]
+[View HP Of Enemy To Kill In 1-Hit (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View HP Of Enemy To Kill In 1-Hit
 // View HP Of Enemy To Kill In 1-Hit
 patch=1,EE,200C0234,extended,2C410002
 
-[View HP Of Enemy To Kill In 1-Hit]
+[View HP Of Enemy To Kill In 1-Hit (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View HP Of Enemy To Kill In 1-Hit
 // View HP Of Enemy To Kill In 1-Hit
 patch=1,EE,200C0238,extended,10200001
 
-[View HP Of Enemy To Kill In 1-Hit]
+[View HP Of Enemy To Kill In 1-Hit (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View HP Of Enemy To Kill In 1-Hit
 // View HP Of Enemy To Kill In 1-Hit
 patch=1,EE,200C023C,extended,24020001
 
-[View HP Of Enemy To Kill In 1-Hit]
+[View HP Of Enemy To Kill In 1-Hit (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View HP Of Enemy To Kill In 1-Hit
 // View HP Of Enemy To Kill In 1-Hit
 patch=1,EE,200C0240,extended,03E00008
 
-[View HP Of Enemy To Kill In 1-Hit]
+[View HP Of Enemy To Kill In 1-Hit (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View HP Of Enemy To Kill In 1-Hit
 // View HP Of Enemy To Kill In 1-Hit
 patch=1,EE,200C0244,extended,AE22027C
 
-[View HP Of Enemy To Kill In 1-Hit]
+[View HP Of Enemy To Kill In 1-Hit (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View HP Of Enemy To Kill In 1-Hit
 // View HP Of Enemy To Kill In 1-Hit
@@ -330,7 +330,7 @@ description=Enemies Have No MP
 // Enemies Have No MP
 patch=1,EE,201C70B4,extended,AE200280
 
-[Enemies Have No MP]
+[Enemies Have No MP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemies Have No MP
 // Enemies Have No MP
@@ -342,19 +342,19 @@ description=Enemies Have No Atk/Def
 // Enemies Have No Atk/Def
 patch=1,EE,200C0250,extended,AE200254
 
-[Enemies Have No Atk/Def]
+[Enemies Have No Atk/Def (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemies Have No Atk/Def
 // Enemies Have No Atk/Def
 patch=1,EE,200C0254,extended,03E00008
 
-[Enemies Have No Atk/Def]
+[Enemies Have No Atk/Def (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemies Have No Atk/Def
 // Enemies Have No Atk/Def
 patch=1,EE,200C0258,extended,92240308
 
-[Enemies Have No Atk/Def]
+[Enemies Have No Atk/Def (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemies Have No Atk/Def
 // Enemies Have No Atk/Def
@@ -366,19 +366,19 @@ description=Have All Items (V7.0 Or Higher Needed!)
 // Have All Items (V7.0 Or Higher Needed!)
 patch=1,EE,4031A1AC,extended,00380001
 
-[Have All Items (V7.0 Or Higher Needed!)]
+[Have All Items (V7.0 Or Higher Needed!) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items (V7.0 Or Higher Needed!)
 // Have All Items (V7.0 Or Higher Needed!)
 patch=1,EE,20012000,extended,00020002
 
-[Have All Items (V7.0 Or Higher Needed!)]
+[Have All Items (V7.0 Or Higher Needed!) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items (V7.0 Or Higher Needed!)
 // Have All Items (V7.0 Or Higher Needed!)
 patch=1,EE,4031A3AC,extended,001C0001
 
-[Have All Items (V7.0 Or Higher Needed!)]
+[Have All Items (V7.0 Or Higher Needed!) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items (V7.0 Or Higher Needed!)
 // Have All Items (V7.0 Or Higher Needed!)
@@ -570,7 +570,7 @@ description=Have All Skills
 // Have All Skills
 patch=1,EE,1031B8EA,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
@@ -588,13 +588,13 @@ description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031B8EF,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031B8F0,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
@@ -606,17 +606,11 @@ description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031B8F2,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031B8F4,extended,0000000F
-
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031B8EA,extended,0000FFFF
 
 [Have All Skills/Specials/Black Magic/White Magic]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -624,17 +618,11 @@ description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031B8EC,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031B8F0,extended,FFFFFFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031B8F4,extended,0000000F
 
 [Have All Overdrive Modes]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -642,1303 +630,1219 @@ description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031B934,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031B95C,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031B960,extended,0000270F
 
-[Max HP]
+[Max HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031B964,extended,0001869F
 
-[Max MP]
+[Max MP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031B968,extended,0000270F
 
-[Have Activated]
+[Have Activated (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031B96C,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031B96C,extended,00000000
 
-[Max Strength]
+[Max Strength (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031B96F,extended,000000FF
 
-[Max Defense]
+[Max Defense (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031B970,extended,000000FF
 
-[Max Magic]
+[Max Magic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031B971,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031B972,extended,000000FF
 
-[Max Agility]
+[Max Agility (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031B973,extended,000000FF
 
-[Max Luck]
+[Max Luck (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031B974,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031B975,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031B976,extended,000000FF
 
-[Maximum Overdrive Mode]
+[Maximum Overdrive Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maximum Overdrive Mode
 // Maximum Overdrive Mode
 patch=1,EE,0031B978,extended,0000000F
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031B979,extended,000000FF
 
-[Max S. Level]
+[Max S. Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max S. Level
 // Max S. Level
 patch=1,EE,0031B97B,extended,000000FF
 
-[Always Low AP]
+[Always Low AP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low AP
 // Always Low AP
 patch=1,EE,1031B97C,extended,00000000
 
-[Have All Skills]
+[Have All Skills (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031B97E,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031B980,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031B980,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031B983,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031B984,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031B986,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031B986,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031B988,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031B97E,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031B980,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031B984,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031B988,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031B9C8,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031B9F0,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031B9F4,extended,0000270F
 
-[Max HP]
+[Max HP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031B9F8,extended,0001869F
 
-[Max MP]
+[Max MP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031B9FC,extended,0000270F
 
-[Have Activated]
+[Have Activated (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031BA00,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031BA00,extended,00000000
 
-[Max Strength]
+[Max Strength (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031BA03,extended,000000FF
 
-[Max Defense]
+[Max Defense (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031BA04,extended,000000FF
 
-[Max Magic]
+[Max Magic (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031BA05,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031BA06,extended,000000FF
 
-[Max Agility]
+[Max Agility (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031BA07,extended,000000FF
 
-[Max Luck]
+[Max Luck (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031BA08,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031BA09,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031BA0A,extended,000000FF
 
-[Maximum Overdrive Mode]
+[Maximum Overdrive Mode (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maximum Overdrive Mode
 // Maximum Overdrive Mode
 patch=1,EE,0031BA0C,extended,0000000F
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031BA0D,extended,000000FF
 
-[Max S. Level]
+[Max S. Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max S. Level
 // Max S. Level
 patch=1,EE,0031BA0F,extended,000000FF
 
-[Always Low AP]
+[Always Low AP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low AP
 // Always Low AP
 patch=1,EE,1031BA10,extended,00000000
 
-[Have All Skills]
+[Have All Skills (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031BA12,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031BA14,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031BA14,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BA17,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031BA18,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BA1A,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031BA1A,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031BA1C,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031BA12,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BA14,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BA18,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031BA1C,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031BA5C,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031BA84,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031BA88,extended,0000270F
 
-[Max HP]
+[Max HP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031BA8C,extended,0001869F
 
-[Max MP]
+[Max MP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031BA90,extended,0000270F
 
-[Have Activated]
+[Have Activated (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031BA94,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031BA94,extended,00000000
 
-[Max Strength]
+[Max Strength (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031BA97,extended,000000FF
 
-[Max Defense]
+[Max Defense (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031BA98,extended,000000FF
 
-[Max Magic]
+[Max Magic (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031BA99,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031BA9A,extended,000000FF
 
-[Max Agility]
+[Max Agility (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031BA9B,extended,000000FF
 
-[Max Luck]
+[Max Luck (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031BA9C,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031BA9D,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031BA9E,extended,000000FF
 
-[Maximum Overdrive Mode]
+[Maximum Overdrive Mode (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maximum Overdrive Mode
 // Maximum Overdrive Mode
 patch=1,EE,0031BAA0,extended,0000000F
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031BAA1,extended,000000FF
 
-[Max S. Level]
+[Max S. Level (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max S. Level
 // Max S. Level
 patch=1,EE,0031BAA3,extended,000000FF
 
-[Always Low AP]
+[Always Low AP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low AP
 // Always Low AP
 patch=1,EE,1031BAA4,extended,00000000
 
-[Have All Skills]
+[Have All Skills (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031BAA6,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031BAA8,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031BAA8,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BAAB,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031BAAC,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BAAE,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031BAAE,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031BAB0,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031BAA6,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BAA8,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BAAC,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031BAB0,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031BAF0,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031BB18,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031BB1C,extended,0000270F
 
-[Max HP]
+[Max HP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031BB20,extended,0001869F
 
-[Max MP]
+[Max MP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031BB24,extended,0000270F
 
-[Have Activated]
+[Have Activated (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031BB28,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031BB28,extended,00000000
 
-[Max Strength]
+[Max Strength (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031BB2B,extended,000000FF
 
-[Max Defense]
+[Max Defense (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031BB2C,extended,000000FF
 
-[Max Magic]
+[Max Magic (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031BB2D,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031BB2E,extended,000000FF
 
-[Max Agility]
+[Max Agility (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031BB2F,extended,000000FF
 
-[Max Luck]
+[Max Luck (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031BB30,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031BB31,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031BB32,extended,000000FF
 
-[Maximum Overdrive Mode]
+[Maximum Overdrive Mode (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maximum Overdrive Mode
 // Maximum Overdrive Mode
 patch=1,EE,0031BB34,extended,0000000F
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031BB35,extended,000000FF
 
-[Max S. Level]
+[Max S. Level (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max S. Level
 // Max S. Level
 patch=1,EE,0031BB37,extended,000000FF
 
-[Always Low AP]
+[Always Low AP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low AP
 // Always Low AP
 patch=1,EE,1031BB38,extended,00000000
 
-[Have All Skills]
+[Have All Skills (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031BB3A,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031BB3C,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031BB3C,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BB3F,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031BB40,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BB42,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031BB42,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031BB44,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031BB3A,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BB3C,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BB40,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031BB44,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031BB84,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031BBAC,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031BBB0,extended,0000270F
 
-[Max HP]
+[Max HP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031BBB4,extended,0001869F
 
-[Max MP]
+[Max MP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031BBB8,extended,0000270F
 
-[Have Activated]
+[Have Activated (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031BBBC,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031BBBC,extended,00000000
 
-[Max Strength]
+[Max Strength (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031BBBF,extended,000000FF
 
-[Max Defense]
+[Max Defense (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031BBC0,extended,000000FF
 
-[Max Magic]
+[Max Magic (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031BBC1,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031BBC2,extended,000000FF
 
-[Max Agility]
+[Max Agility (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031BBC3,extended,000000FF
 
-[Max Luck]
+[Max Luck (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031BBC4,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031BBC5,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031BBC6,extended,000000FF
 
-[Maximum Overdrive Mode]
+[Maximum Overdrive Mode (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maximum Overdrive Mode
 // Maximum Overdrive Mode
 patch=1,EE,0031BBC8,extended,0000000F
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031BBC9,extended,000000FF
 
-[Max S. Level]
+[Max S. Level (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max S. Level
 // Max S. Level
 patch=1,EE,0031BBCB,extended,000000FF
 
-[Always Low AP]
+[Always Low AP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low AP
 // Always Low AP
 patch=1,EE,1031BBCC,extended,00000000
 
-[Have All Skills]
+[Have All Skills (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031BBCE,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031BBD0,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031BBD0,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BBD3,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031BBD4,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BBD6,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031BBD6,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031BBD8,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031BBCE,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BBD0,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BBD4,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031BBD8,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031BC18,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031BC40,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031BC44,extended,0000270F
 
-[Max HP]
+[Max HP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031BC48,extended,0001869F
 
-[Max MP]
+[Max MP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031BC4C,extended,0000270F
 
-[Have Activated]
+[Have Activated (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031BC50,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031BC50,extended,00000000
 
-[Max Strength]
+[Max Strength (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031BC53,extended,000000FF
 
-[Max Defense]
+[Max Defense (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031BC54,extended,000000FF
 
-[Max Magic]
+[Max Magic (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031BC55,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031BC56,extended,000000FF
 
-[Max Agility]
+[Max Agility (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031BC57,extended,000000FF
 
-[Max Luck]
+[Max Luck (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031BC58,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031BC59,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031BC5A,extended,000000FF
 
-[Maximum Overdrive Mode]
+[Maximum Overdrive Mode (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maximum Overdrive Mode
 // Maximum Overdrive Mode
 patch=1,EE,0031BC5C,extended,0000000F
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031BC5D,extended,000000FF
 
-[Max S. Level]
+[Max S. Level (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max S. Level
 // Max S. Level
 patch=1,EE,0031BC5F,extended,000000FF
 
-[Always Low AP]
+[Always Low AP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low AP
 // Always Low AP
 patch=1,EE,1031BC60,extended,00000000
 
-[Have All Skills]
+[Have All Skills (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031BC62,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031BC64,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031BC64,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BC67,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031BC68,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BC6A,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031BC6A,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031BC6C,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031BC62,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BC64,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BC68,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031BC6C,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031BCAC,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031BCD4,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031BCD8,extended,0000270F
 
-[Max HP]
+[Max HP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031BCDC,extended,0001869F
 
-[Max MP]
+[Max MP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031BCE0,extended,0000270F
 
-[Have Activated]
+[Have Activated (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031BCE4,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031BCE4,extended,00000000
 
-[Max Strength]
+[Max Strength (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031BCE7,extended,000000FF
 
-[Max Defense]
+[Max Defense (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031BCE8,extended,000000FF
 
-[Max Magic]
+[Max Magic (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031BCE9,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031BCEA,extended,000000FF
 
-[Max Agility]
+[Max Agility (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031BCEB,extended,000000FF
 
-[Max Luck]
+[Max Luck (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031BCEC,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031BCED,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031BCEE,extended,000000FF
 
-[Maximum Overdrive Mode]
+[Maximum Overdrive Mode (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maximum Overdrive Mode
 // Maximum Overdrive Mode
 patch=1,EE,0031BCF0,extended,0000000F
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031BCF1,extended,000000FF
 
-[Max S. Level]
+[Max S. Level (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max S. Level
 // Max S. Level
 patch=1,EE,0031BCF3,extended,000000FF
 
-[Always Low AP]
+[Always Low AP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low AP
 // Always Low AP
 patch=1,EE,1031BCF4,extended,00000000
 
-[Have All Skills]
+[Have All Skills (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031BCF6,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031BCF8,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031BCF8,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BCFB,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031BCFC,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BCFE,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031BCFE,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031BD00,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031BCF6,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BCF8,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BCFC,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031BD00,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
@@ -1950,7 +1854,7 @@ description=Have Max Points
 // Have Max Points
 patch=1,EE,0031791E,extended,00000063
 
-[Have Max Points]
+[Have Max Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Max Points
 // Have Max Points
@@ -1962,7 +1866,7 @@ description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203174CC,extended,FFFFFFFF
 
-[Have All Abilities]
+[Have All Abilities (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
@@ -1986,271 +1890,271 @@ description=Max Exp
 // Max Exp
 patch=1,EE,10317A34,extended,0000270F
 
-[Have All Abilities]
+[Have All Abilities (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203174D0,extended,FFFFFFFF
 
-[Have All Abilities]
+[Have All Abilities (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203175C0,extended,FFFFFFFF
 
-[Can Set 5 Abilities]
+[Can Set 5 Abilities (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Set 5 Abilities
 // Can Set 5 Abilities
 patch=1,EE,0031785F,extended,00000005
 
-[Level 99]
+[Level 99 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0031789B,extended,00000063
 
-[Max Exp]
+[Max Exp (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,10317A36,extended,0000270F
 
-[Have All Abilities]
+[Have All Abilities (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203174D4,extended,FFFFFFFF
 
-[Have All Abilities]
+[Have All Abilities (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203175C4,extended,FFFFFFFF
 
-[Can Set 5 Abilities]
+[Can Set 5 Abilities (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Set 5 Abilities
 // Can Set 5 Abilities
 patch=1,EE,00317860,extended,00000005
 
-[Level 99]
+[Level 99 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0031789C,extended,00000063
 
-[Max Exp]
+[Max Exp (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,10317A38,extended,0000270F
 
-[Have All Abilities]
+[Have All Abilities (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203174D8,extended,FFFFFFFF
 
-[Have All Abilities]
+[Have All Abilities (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203175C8,extended,FFFFFFFF
 
-[Can Set 5 Abilities]
+[Can Set 5 Abilities (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Set 5 Abilities
 // Can Set 5 Abilities
 patch=1,EE,00317861,extended,00000005
 
-[Level 99]
+[Level 99 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0031789D,extended,00000063
 
-[Max Exp]
+[Max Exp (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,10317A3A,extended,0000270F
 
-[Have All Abilities]
+[Have All Abilities (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203174DC,extended,FFFFFFFF
 
-[Have All Abilities]
+[Have All Abilities (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203175CC,extended,FFFFFFFF
 
-[Can Set 5 Abilities]
+[Can Set 5 Abilities (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Set 5 Abilities
 // Can Set 5 Abilities
 patch=1,EE,00317862,extended,00000005
 
-[Level 99]
+[Level 99 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0031789E,extended,00000063
 
-[Max Exp]
+[Max Exp (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,10317A3C,extended,0000270F
 
-[Have All Abilities]
+[Have All Abilities (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203174E0,extended,FFFFFFFF
 
-[Have All Abilities]
+[Have All Abilities (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203175D0,extended,FFFFFFFF
 
-[Can Set 5 Abilities]
+[Can Set 5 Abilities (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Set 5 Abilities
 // Can Set 5 Abilities
 patch=1,EE,00317863,extended,00000005
 
-[Level 99]
+[Level 99 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,0031789F,extended,00000063
 
-[Max Exp]
+[Max Exp (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,10317A3E,extended,0000270F
 
-[Have All Abilities]
+[Have All Abilities (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203174E4,extended,FFFFFFFF
 
-[Have All Abilities]
+[Have All Abilities (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Abilities
 // Have All Abilities
 patch=1,EE,203175D4,extended,FFFFFFFF
 
-[Can Set 5 Abilities]
+[Can Set 5 Abilities (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Set 5 Abilities
 // Can Set 5 Abilities
 patch=1,EE,00317864,extended,00000005
 
-[Level 99]
+[Level 99 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,003178A0,extended,00000063
 
-[Max Exp]
+[Max Exp (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,10317A40,extended,0000270F
 
-[Infinite HP]
+[Infinite HP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031BD68,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031BD6C,extended,0000270F
 
-[Max HP]
+[Max HP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031BD70,extended,0001869F
 
-[Max MP]
+[Max MP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031BD74,extended,0000270F
 
-[Have Activated]
+[Have Activated (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031BD78,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031BD78,extended,00000000
 
-[Max Strength]
+[Max Strength (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031BD7B,extended,000000FF
 
-[Max Defense]
+[Max Defense (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031BD7C,extended,000000FF
 
-[Max Magic]
+[Max Magic (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031BD7D,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031BD7E,extended,000000FF
 
-[Max Agility]
+[Max Agility (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031BD7F,extended,000000FF
 
-[Max Luck]
+[Max Luck (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031BD80,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031BD81,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031BD82,extended,000000FF
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
@@ -2262,109 +2166,97 @@ description=Can Use Every Battle
 // Can Use Every Battle
 patch=1,EE,1031BD88,extended,00000000
 
-[Have All Skills]
+[Have All Skills (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031BD8A,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031BD8C,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031BD8C,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BD8F,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031BD90,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BD92,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031BD92,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031BD94,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031BD8A,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BD8C,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BD90,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031BD94,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031BDD4,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031BDFC,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031BE00,extended,0000270F
 
-[Max HP]
+[Max HP (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031BE04,extended,0001869F
 
-[Max MP]
+[Max MP (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031BE08,extended,0000270F
 
-[Have Activated]
+[Have Activated (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
@@ -2376,1496 +2268,1430 @@ description=Have Deativated
 // Have Deativated
 patch=1,EE,0031BE0C,extended,00000000
 
-[Max Strength]
+[Max Strength (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031BE0F,extended,000000FF
 
-[Max Defense]
+[Max Defense (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031BE10,extended,000000FF
 
-[Max Magic]
+[Max Magic (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031BE11,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031BE12,extended,000000FF
 
-[Max Agility]
+[Max Agility (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031BE13,extended,000000FF
 
-[Max Luck]
+[Max Luck (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031BE14,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031BE15,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031BE16,extended,000000FF
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031BE19,extended,000000FF
 
-[Can Use Every Battle]
+[Can Use Every Battle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Use Every Battle
 // Can Use Every Battle
 patch=1,EE,1031BE1C,extended,00000000
 
-[Have All Skills]
+[Have All Skills (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031BE1E,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031BE20,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031BE20,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BE23,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031BE24,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BE26,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031BE26,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031BE28,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031BE1E,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BE20,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BE24,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031BE28,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031BE68,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031BE90,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031BE94,extended,0000270F
 
-[Max HP]
+[Max HP (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031BE98,extended,0001869F
 
-[Max MP]
+[Max MP (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031BE9C,extended,0000270F
 
-[Have Activated]
+[Have Activated (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031BEA0,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031BEA0,extended,00000000
 
-[Max Strength]
+[Max Strength (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031BEA3,extended,000000FF
 
-[Max Defense]
+[Max Defense (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031BEA4,extended,000000FF
 
-[Max Magic]
+[Max Magic (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031BEA5,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031BEA6,extended,000000FF
 
-[Max Agility]
+[Max Agility (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031BEA7,extended,000000FF
 
-[Max Luck]
+[Max Luck (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031BEA8,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031BEA9,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031BEAA,extended,000000FF
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031BEAD,extended,000000FF
 
-[Can Use Every Battle]
+[Can Use Every Battle (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Use Every Battle
 // Can Use Every Battle
 patch=1,EE,1031BEB0,extended,00000000
 
-[Have All Skills]
+[Have All Skills (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031BEB2,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031BEB4,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031BEB4,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BEB7,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031BEB8,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BEBA,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031BEBA,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031BEBC,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031BEB2,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BEB4,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BEB8,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031BEBC,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031BEFC,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031BF24,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031BF28,extended,0000270F
 
-[Max HP]
+[Max HP (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031BF2C,extended,0001869F
 
-[Max MP]
+[Max MP (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031BF30,extended,0000270F
 
-[Have Activated]
+[Have Activated (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031BF34,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031BF34,extended,00000000
 
-[Max Strength]
+[Max Strength (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031BF37,extended,000000FF
 
-[Max Defense]
+[Max Defense (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031BF38,extended,000000FF
 
-[Max Magic]
+[Max Magic (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031BF39,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031BF3A,extended,000000FF
 
-[Max Agility]
+[Max Agility (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031BF3B,extended,000000FF
 
-[Max Luck]
+[Max Luck (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031BF3C,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031BF3D,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031BF3E,extended,000000FF
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031BF41,extended,000000FF
 
-[Can Use Every Battle]
+[Can Use Every Battle (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Use Every Battle
 // Can Use Every Battle
 patch=1,EE,1031BF44,extended,00000000
 
-[Have All Skills]
+[Have All Skills (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031BF46,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031BF48,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031BF48,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BF4B,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031BF4C,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BF4E,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031BF4E,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031BF50,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031BF46,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BF48,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BF4C,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031BF50,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031BF90,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031BFB8,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031BFBC,extended,0000270F
 
-[Max HP]
+[Max HP (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031BFC0,extended,0001869F
 
-[Max MP]
+[Max MP (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031BFC4,extended,0000270F
 
-[Have Activated]
+[Have Activated (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031BFC8,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031BFC8,extended,00000000
 
-[Max Strength]
+[Max Strength (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031BFCB,extended,000000FF
 
-[Max Defense]
+[Max Defense (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031BFCC,extended,000000FF
 
-[Max Magic]
+[Max Magic (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031BFCD,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031BFCE,extended,000000FF
 
-[Max Agility]
+[Max Agility (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031BFCF,extended,000000FF
 
-[Max Luck]
+[Max Luck (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031BFD0,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031BFD1,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031BFD2,extended,000000FF
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031BFD5,extended,000000FF
 
-[Can Use Every Battle]
+[Can Use Every Battle (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Use Every Battle
 // Can Use Every Battle
 patch=1,EE,1031BFD8,extended,00000000
 
-[Have All Skills]
+[Have All Skills (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031BFDA,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031BFDC,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031BFDC,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BFDF,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031BFE0,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031BFE2,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031BFE2,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031BFE4,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031BFDA,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BFDC,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031BFE0,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031BFE4,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031C024,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031C04C,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031C050,extended,0000270F
 
-[Max HP]
+[Max HP (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031C054,extended,0001869F
 
-[Max MP]
+[Max MP (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031C058,extended,0000270F
 
-[Have Activated]
+[Have Activated (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031C05C,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031C05C,extended,00000000
 
-[Max Strength]
+[Max Strength (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031C05F,extended,000000FF
 
-[Max Defense]
+[Max Defense (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031C060,extended,000000FF
 
-[Max Magic]
+[Max Magic (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031C061,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031C062,extended,000000FF
 
-[Max Agility]
+[Max Agility (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031C063,extended,000000FF
 
-[Max Luck]
+[Max Luck (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031C064,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031C065,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031C066,extended,000000FF
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031C069,extended,000000FF
 
-[Can Use Every Battle]
+[Can Use Every Battle (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Use Every Battle
 // Can Use Every Battle
 patch=1,EE,1031C06C,extended,00000000
 
-[Have All Skills]
+[Have All Skills (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031C06E,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031C070,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031C070,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031C073,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031C074,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031C076,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031C076,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031C078,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031C06E,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031C070,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031C074,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031C078,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031C0B8,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031C0E0,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031C0E4,extended,0000270F
 
-[Max HP]
+[Max HP (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031C0E8,extended,0001869F
 
-[Max MP]
+[Max MP (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031C0EC,extended,0000270F
 
-[Have Activated]
+[Have Activated (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Activated
 // Have Activated
 patch=1,EE,0031C0F0,extended,00000011
 
-[Have Deactivated]
+[Have Deactivated (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Deactivated
 // Have Deactivated
 patch=1,EE,0031C0F0,extended,00000000
 
-[Max Strength]
+[Max Strength (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031C0F3,extended,000000FF
 
-[Max Defense]
+[Max Defense (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031C0F4,extended,000000FF
 
-[Max Magic]
+[Max Magic (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031C0F5,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031C0F6,extended,000000FF
 
-[Max Agility]
+[Max Agility (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031C0F7,extended,000000FF
 
-[Max Luck]
+[Max Luck (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031C0F8,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031C0F9,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031C0FA,extended,000000FF
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031C0FD,extended,000000FF
 
-[Can Use Every Battle]
+[Can Use Every Battle (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Use Every Battle
 // Can Use Every Battle
 patch=1,EE,1031C100,extended,00000000
 
-[Have All Skills]
+[Have All Skills (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031C102,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031C104,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031C104,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031C107,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031C108,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031C10A,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031C10A,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031C10C,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031C102,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031C104,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031C108,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031C10C,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031C14C,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031C174,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031C178,extended,0000270F
 
-[Max HP]
+[Max HP (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031C17C,extended,0001869F
 
-[Max MP]
+[Max MP (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031C180,extended,0000270F
 
-[Max Strength]
+[Max Strength (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031C187,extended,000000FF
 
-[Max Defense]
+[Max Defense (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031C188,extended,000000FF
 
-[Max Magic]
+[Max Magic (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031C189,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031C18A,extended,000000FF
 
-[Max Agility]
+[Max Agility (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031C18B,extended,000000FF
 
-[Max Luck]
+[Max Luck (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031C18C,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031C18D,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031C18E,extended,000000FF
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031C191,extended,000000FF
 
-[Can Use Every Battle]
+[Can Use Every Battle (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Use Every Battle
 // Can Use Every Battle
 patch=1,EE,1031C194,extended,00000000
 
-[Have All Skills]
+[Have All Skills (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031C196,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031C198,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031C198,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031C19B,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031C19C,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031C19E,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031C19E,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031C1A0,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031C196,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031C198,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031C19C,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031C1A0,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031C1E0,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031C208,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031C20C,extended,0000270F
 
-[Max HP]
+[Max HP (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031C210,extended,0001869F
 
-[Max MP]
+[Max MP (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031C214,extended,0000270F
 
-[Max Strength]
+[Max Strength (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031C21B,extended,000000FF
 
-[Max Defense]
+[Max Defense (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031C21C,extended,000000FF
 
-[Max Magic]
+[Max Magic (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031C21D,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031C21E,extended,000000FF
 
-[Max Agility]
+[Max Agility (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031C21F,extended,000000FF
 
-[Max Luck]
+[Max Luck (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031C220,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031C221,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031C222,extended,000000FF
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031C225,extended,000000FF
 
-[Can Use Every Battle]
+[Can Use Every Battle (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Use Every Battle
 // Can Use Every Battle
 patch=1,EE,1031C228,extended,00000000
 
-[Have All Skills]
+[Have All Skills (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031C22A,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031C22C,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031C22C,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031C22F,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031C230,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031C232,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031C232,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031C234,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031C22A,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031C22C,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031C230,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031C234,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031C274,extended,0001FFFF
 
-[Infinite HP]
+[Infinite HP (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2031C29C,extended,0001869F
 
-[Infinite MP]
+[Infinite MP (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,2031C2A0,extended,0000270F
 
-[Max HP]
+[Max HP (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2031C2A4,extended,0001869F
 
-[Max MP]
+[Max MP (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,2031C2A8,extended,0000270F
 
-[Max Strength]
+[Max Strength (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,0031C2AF,extended,000000FF
 
-[Max Defense]
+[Max Defense (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,0031C2B0,extended,000000FF
 
-[Max Magic]
+[Max Magic (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,0031C2B1,extended,000000FF
 
-[Max Magic Defense]
+[Max Magic Defense (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic Defense
 // Max Magic Defense
 patch=1,EE,0031C2B2,extended,000000FF
 
-[Max Agility]
+[Max Agility (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,0031C2B3,extended,000000FF
 
-[Max Luck]
+[Max Luck (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,0031C2B4,extended,000000FF
 
-[Max Evasion]
+[Max Evasion (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Evasion
 // Max Evasion
 patch=1,EE,0031C2B5,extended,000000FF
 
-[Max Accuracy]
+[Max Accuracy (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accuracy
 // Max Accuracy
 patch=1,EE,0031C2B6,extended,000000FF
 
-[Max Overdrive Meter]
+[Max Overdrive Meter (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Overdrive Meter
 // Max Overdrive Meter
 patch=1,EE,0031C2B9,extended,000000FF
 
-[Can Use Every Battle]
+[Can Use Every Battle (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Use Every Battle
 // Can Use Every Battle
 patch=1,EE,1031C2BC,extended,00000000
 
-[Have All Skills]
+[Have All Skills (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,1031C2BE,extended,0000FFFF
 
-[Have All Skills]
+[Have All Skills (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills
 // Have All Skills
 patch=1,EE,0031C2C0,extended,0000003F
 
-[Have All Specials]
+[Have All Specials (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Specials
 // Have All Specials
 patch=1,EE,2031C2C0,extended,07FFFFC0
 
-[Have All White Magic]
+[Have All White Magic (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031C2C3,extended,000000F8
 
-[Have All White Magic]
+[Have All White Magic (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,1031C2C4,extended,0000FFFF
 
-[Have All White Magic]
+[Have All White Magic (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All White Magic
 // Have All White Magic
 patch=1,EE,0031C2C6,extended,00000001
 
-[Have All Black Magic]
+[Have All Black Magic (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,1031C2C6,extended,0000FFFE
 
-[Have All Black Magic]
+[Have All Black Magic (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Black Magic
 // Have All Black Magic
 patch=1,EE,0031C2C8,extended,0000000F
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,1031C2BE,extended,0000FFFF
-
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031C2C0,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
+[Have All Skills/Specials/Black Magic/White Magic (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Skills/Specials/Black Magic/White Magic
 // Have All Skills/Specials/Black Magic/White Magic
 patch=1,EE,2031C2C4,extended,FFFFFFFF
 
-[Have All Skills/Specials/Black Magic/White Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Skills/Specials/Black Magic/White Magic
-// Have All Skills/Specials/Black Magic/White Magic
-patch=1,EE,0031C2C8,extended,0000000F
-
-[Have All Overdrive Modes]
+[Have All Overdrive Modes (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Overdrive Modes
 // Have All Overdrive Modes
 patch=1,EE,2031C308,extended,0001FFFF
+
+[Cheats\Full HP Tidus]
+patch=1,EE,1031EAB8,extended,0000270F
+
+[Cheats\Full MP Tidus]
+patch=1,EE,1031EABC,extended,000003E7
+
+[Cheats\Max HP Tidus]
+patch=1,EE,1031EAC0,extended,0000270F
+
+[Cheats\Max MP Tidus]
+patch=1,EE,1031EAC4,extended,000003E7
+
+[Cheats\Alle Charaktere haben 999.999 HP]
+patch=1,EE,4031EAB8,extended,00070025
+patch=1,EE,000F423F,extended,DEADC0DE
+
+[Cheats\Alle Charaktere haben Max.999.999 HP]
+patch=1,EE,4031EAC0,extended,00070025
+patch=1,EE,000F423F,extended,DEADC0DE
+
+[Cheats\Alle Charaktere haben 99.999 MP]
+patch=1,EE,4031EABC,extended,00070025
+patch=1,EE,0001869F,extended,DEADC0DE
+
+[Cheats\Alle Charaktere haben Max.99.999 MP]
+patch=1,EE,4031EAC4,extended,00070025
+patch=1,EE,0001869F,extended,DEADC0DE
+
+[Cheats\ab alle Magien und Techniken mit allen Charakteren]
+patch=1,EE,4031EAD8,extended,00070025
+patch=1,EE,FFFF0000,extended,FADEABBA
+patch=1,EE,4031EADC,extended,00070025
+patch=1,EE,FFFFFFFF,extended,FADEABBA
+patch=1,EE,4031EAE0,extended,00070025
+patch=1,EE,FFFFFFFF,extended,FADEABBA
+patch=1,EE,4031EAE4,extended,00070025
+patch=1,EE,0000FFFF,extended,FADEABBA
+
+[Cheats\Alle Charaktere haben Sphere Level 99]
+patch=1,EE,4031EAD4,extended,00070025
+patch=1,EE,63000000,extended,DEADFACE

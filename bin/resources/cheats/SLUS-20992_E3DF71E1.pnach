@@ -36,14 +36,31 @@ description=Unlock Everything
 // Unlock Everything
 patch=1,EE,10341CEE,extended,0000FFFF
 
-[Unlock Everything]
+[Unlock Everything (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Everything
 // Unlock Everything
 patch=1,EE,20341CF0,extended,FFFFFFFF
 
-[Unlock Everything]
+[Unlock Everything (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Everything
 // Unlock Everything
 patch=1,EE,20341CF4,extended,FFFFFFFF
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0012A3B0,word,24420002
+patch=0,EE,001763C4,word,46000843
+
+[Cheats\Unlock Everything]
+patch=1,EE,10341CEE,extended,0000FFFF
+patch=1,EE,20341CF0,extended,FFFFFFFF
+patch=1,EE,20341CF4,extended,FFFFFFFF
+
+[Cheats\Debug Mode Pause the game with the code on to enable this.]
+patch=1,EE,2012B134,extended,00000000
+
+[Cheats\Debug Mode invulnerability Level SelectTwo extra debug menu options will be enabled if this is active.]
+patch=1,EE,2012B090,extended,00000000

@@ -12,25 +12,25 @@ description=Max Money
 // Max Money
 patch=1,EE,200C0220,extended,3C0205F5
 
-[Max Money]
+[Max Money (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Money
 // Max Money
 patch=1,EE,200C0224,extended,3442E0FF
 
-[Max Money]
+[Max Money (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Money
 // Max Money
 patch=1,EE,200C0228,extended,03E00008
 
-[Max Money]
+[Max Money (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Money
 // Max Money
 patch=1,EE,200C022C,extended,AC8206B4
 
-[Max Money]
+[Max Money (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Money
 // Max Money
@@ -54,19 +54,19 @@ description=Unlock All Sub-Games
 // Unlock All Sub-Games
 patch=1,EE,200C0230,extended,24120001
 
-[Unlock All Sub-Games]
+[Unlock All Sub-Games (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Sub-Games
 // Unlock All Sub-Games
 patch=1,EE,200C0234,extended,0804F1A4
 
-[Unlock All Sub-Games]
+[Unlock All Sub-Games (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Sub-Games
 // Unlock All Sub-Games
 patch=1,EE,200C0238,extended,AC5200A4
 
-[Unlock All Sub-Games]
+[Unlock All Sub-Games (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Sub-Games
 // Unlock All Sub-Games
@@ -78,19 +78,19 @@ description=Unlock All Gadgets
 // Unlock All Gadgets
 patch=1,EE,200C0240,extended,24120001
 
-[Unlock All Gadgets]
+[Unlock All Gadgets (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gadgets
 // Unlock All Gadgets
 patch=1,EE,200C0244,extended,0804F1A4
 
-[Unlock All Gadgets]
+[Unlock All Gadgets (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gadgets
 // Unlock All Gadgets
 patch=1,EE,200C0248,extended,AC52009C
 
-[Unlock All Gadgets]
+[Unlock All Gadgets (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gadgets
 // Unlock All Gadgets
@@ -102,19 +102,19 @@ description=Unlock All Cues
 // Unlock All Cues
 patch=1,EE,200C0250,extended,24120001
 
-[Unlock All Cues]
+[Unlock All Cues (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Cues
 // Unlock All Cues
 patch=1,EE,200C0254,extended,0804F1A4
 
-[Unlock All Cues]
+[Unlock All Cues (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Cues
 // Unlock All Cues
 patch=1,EE,200C0258,extended,AC520058
 
-[Unlock All Cues]
+[Unlock All Cues (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Cues
 // Unlock All Cues
@@ -126,19 +126,19 @@ description=Unlock All Crazy Tables
 // Unlock All Crazy Tables
 patch=1,EE,200C0260,extended,24120001
 
-[Unlock All Crazy Tables]
+[Unlock All Crazy Tables (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Crazy Tables
 // Unlock All Crazy Tables
 patch=1,EE,200C0264,extended,0804F1A4
 
-[Unlock All Crazy Tables]
+[Unlock All Crazy Tables (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Crazy Tables
 // Unlock All Crazy Tables
 patch=1,EE,200C0268,extended,AC520024
 
-[Unlock All Crazy Tables]
+[Unlock All Crazy Tables (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Crazy Tables
 // Unlock All Crazy Tables
@@ -150,19 +150,19 @@ description=Unlock All Baizes
 // Unlock All Baizes
 patch=1,EE,200C0270,extended,24120001
 
-[Unlock All Baizes]
+[Unlock All Baizes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Baizes
 // Unlock All Baizes
 patch=1,EE,200C0274,extended,0804F1A4
 
-[Unlock All Baizes]
+[Unlock All Baizes (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Baizes
 // Unlock All Baizes
 patch=1,EE,200C0278,extended,AC520000
 
-[Unlock All Baizes]
+[Unlock All Baizes (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Baizes
 // Unlock All Baizes
@@ -174,19 +174,19 @@ description=Unlock All Balls
 // Unlock All Balls
 patch=1,EE,200C0280,extended,24120001
 
-[Unlock All Balls]
+[Unlock All Balls (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Balls
 // Unlock All Balls
 patch=1,EE,200C0284,extended,0804F1A4
 
-[Unlock All Balls]
+[Unlock All Balls (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Balls
 // Unlock All Balls
 patch=1,EE,200C0288,extended,AC5200C8
 
-[Unlock All Balls]
+[Unlock All Balls (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Balls
 // Unlock All Balls
@@ -198,26 +198,77 @@ description=Unlock All Items
 // Unlock All Items
 patch=1,EE,200C0290,extended,24120001
 
-[Unlock All Items]
+[Unlock All Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Items
 // Unlock All Items
 patch=1,EE,200C0294,extended,0804F1A4
 
-[Unlock All Items]
+[Unlock All Items (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Items
 // Unlock All Items
 patch=1,EE,200C0298,extended,AC5200BC
 
-[Unlock All Items]
+[Unlock All Items (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Items
 // Unlock All Items
 patch=1,EE,2013C688,extended,080300A4
 
-[Unlock All Items]
+[Unlock All Items (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Items
 // Unlock All Items
 patch=1,EE,2013C68C,extended,02221021
+
+[Cheats\Infinite Cash]
+patch=1,EE,200C0220,extended,3C0205F5
+patch=1,EE,200C0224,extended,3442E0FF
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,AC8206B4
+patch=1,EE,20156A80,extended,08030088
+
+[Cheats\Unlock All Baizes]
+patch=1,EE,200C0270,extended,24120001
+patch=1,EE,200C0274,extended,0804F1A4
+patch=1,EE,200C0278,extended,AC520000
+patch=1,EE,2013C624,extended,0803009C
+
+[Cheats\Unlock All Balls]
+patch=1,EE,FBDA204B,extended,1481C0C9
+patch=1,EE,200C0280,extended,24120001
+patch=1,EE,200C0284,extended,0804F1A4
+patch=1,EE,200C0288,extended,AC5200C8
+patch=1,EE,2013C67C,extended,080300A0
+
+[Cheats\Unlock All Crazy Tables]
+patch=1,EE,200C0260,extended,24120001
+patch=1,EE,200C0264,extended,0804F1A4
+patch=1,EE,200C0268,extended,AC520024
+patch=1,EE,2013C638,extended,08030098
+
+[Cheats\Unlock All Cues]
+patch=1,EE,200C0250,extended,24120001
+patch=1,EE,200C0254,extended,0804F1A4
+patch=1,EE,200C0258,extended,AC520058
+patch=1,EE,2013C648,extended,08030094
+
+[Cheats\Unlock All Gadgets]
+patch=1,EE,200C0240,extended,24120001
+patch=1,EE,200C0244,extended,0804F1A4
+patch=1,EE,200C0248,extended,AC52009C
+patch=1,EE,2013C668,extended,08030090
+
+[Cheats\Unlock All Items]
+patch=1,EE,200C0290,extended,24120001
+patch=1,EE,200C0294,extended,0804F1A4
+patch=1,EE,200C0298,extended,AC5200BC
+patch=1,EE,2013C688,extended,080300A4
+patch=1,EE,2013C68C,extended,02221021
+
+[Cheats\Unlock All MiniGames]
+patch=1,EE,200C0230,extended,24120001
+patch=1,EE,200C0234,extended,0804F1A4
+patch=1,EE,200C0238,extended,AC5200A4
+patch=1,EE,2013C658,extended,0803008C

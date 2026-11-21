@@ -1,0 +1,5 @@
+gametitle=実戦パチンコ必勝法！ CRサクラ大戦 [SLPM-66820] [E71F7E71]
+
+[Cheats\Press L3 For Debug Menu This menu doesn't work that well anymore and is likely to crash.]
+patch=1,EE,D064B71E,extended,0000FFFD
+patch=1,EE,2064B7D0,extended,00000000

@@ -42,7 +42,7 @@ description=Have All History-Shells
 // Have All History-Shells
 patch=1,EE,204870C8,extended,FFFFFFFF
 
-[Have All History-Shells]
+[Have All History-Shells (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All History-Shells
 // Have All History-Shells
@@ -54,7 +54,7 @@ description=Have All History-Titles
 // Have All History-Titles
 patch=1,EE,204870F0,extended,FFFFFFFF
 
-[Have All History-Titles]
+[Have All History-Titles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All History-Titles
 // Have All History-Titles
@@ -312,7 +312,7 @@ description=Wood
 // Wood
 patch=1,EE,004B81A2,extended,00000001
 
-[Wood]
+[Wood (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wood
 // Wood
@@ -324,7 +324,7 @@ description=Clay
 // Clay
 patch=1,EE,004B81A5,extended,00000001
 
-[Clay]
+[Clay (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Clay
 // Clay
@@ -336,7 +336,7 @@ description=Stone
 // Stone
 patch=1,EE,004B81A8,extended,00000001
 
-[Stone]
+[Stone (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stone
 // Stone
@@ -348,7 +348,7 @@ description=Fish Call
 // Fish Call
 patch=1,EE,004B81AB,extended,00000001
 
-[Fish Call]
+[Fish Call (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fish Call
 // Fish Call
@@ -360,7 +360,7 @@ description=Fish Avay
 // Fish Avay
 patch=1,EE,004B81AE,extended,00000001
 
-[Fish Avay]
+[Fish Avay (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fish Avay
 // Fish Avay
@@ -372,7 +372,7 @@ description=Worldmap
 // Worldmap
 patch=1,EE,004B81B1,extended,00000001
 
-[Worldmap]
+[Worldmap (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Worldmap
 // Worldmap
@@ -384,7 +384,7 @@ description=Ferry Map
 // Ferry Map
 patch=1,EE,004B81B4,extended,00000001
 
-[Ferry Map]
+[Ferry Map (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ferry Map
 // Ferry Map
@@ -396,7 +396,7 @@ description=Airplane Map
 // Airplane Map
 patch=1,EE,004B81B7,extended,00000001
 
-[Airplane Map]
+[Airplane Map (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Airplane Map
 // Airplane Map
@@ -408,7 +408,7 @@ description=Cruise Ship Map
 // Cruise Ship Map
 patch=1,EE,004B81BA,extended,00000001
 
-[Cruise Ship Map]
+[Cruise Ship Map (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cruise Ship Map
 // Cruise Ship Map
@@ -420,7 +420,7 @@ description=Pirate Ship Map (30)
 // Pirate Ship Map (30)
 patch=1,EE,004B81BD,extended,00000001
 
-[Pirate Ship Map (30)]
+[Pirate Ship Map (30) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pirate Ship Map (30)
 // Pirate Ship Map (30)
@@ -432,7 +432,7 @@ description=Submarine Map
 // Submarine Map
 patch=1,EE,004B81C0,extended,00000001
 
-[Submarine Map]
+[Submarine Map (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Submarine Map
 // Submarine Map
@@ -444,7 +444,7 @@ description=Deck Area Key
 // Deck Area Key
 patch=1,EE,004B81C3,extended,00000001
 
-[Deck Area Key]
+[Deck Area Key (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Deck Area Key
 // Deck Area Key
@@ -456,7 +456,7 @@ description=Locker Room Key
 // Locker Room Key
 patch=1,EE,004B81C6,extended,00000001
 
-[Locker Room Key]
+[Locker Room Key (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Locker Room Key
 // Locker Room Key
@@ -468,7 +468,7 @@ description=Play Area Key
 // Play Area Key
 patch=1,EE,004B81CF,extended,00000001
 
-[Play Area Key]
+[Play Area Key (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Play Area Key
 // Play Area Key
@@ -480,7 +480,7 @@ description=Luxury Room Key
 // Luxury Room Key
 patch=1,EE,004B81D2,extended,00000001
 
-[Luxury Room Key]
+[Luxury Room Key (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Luxury Room Key
 // Luxury Room Key
@@ -492,7 +492,7 @@ description=Pedestal Key
 // Pedestal Key
 patch=1,EE,004B81D5,extended,00000001
 
-[Pedestal Key]
+[Pedestal Key (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pedestal Key
 // Pedestal Key
@@ -504,7 +504,7 @@ description=Guiding Gem
 // Guiding Gem
 patch=1,EE,004B81D8,extended,00000001
 
-[Guiding Gem]
+[Guiding Gem (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guiding Gem
 // Guiding Gem
@@ -516,7 +516,7 @@ description=Stone Key
 // Stone Key
 patch=1,EE,004B81DB,extended,00000001
 
-[Stone Key]
+[Stone Key (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stone Key
 // Stone Key
@@ -528,7 +528,7 @@ description=Pirate Crest
 // Pirate Crest
 patch=1,EE,004B81DE,extended,00000001
 
-[Pirate Crest]
+[Pirate Crest (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pirate Crest
 // Pirate Crest
@@ -540,7 +540,7 @@ description=Acetic Acid
 // Acetic Acid
 patch=1,EE,004B81E1,extended,00000001
 
-[Acetic Acid]
+[Acetic Acid (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Acetic Acid
 // Acetic Acid
@@ -552,7 +552,7 @@ description=Aspirin
 // Aspirin
 patch=1,EE,004B81E4,extended,00000001
 
-[Aspirin]
+[Aspirin (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Aspirin
 // Aspirin
@@ -564,7 +564,7 @@ description=Bouquet
 // Bouquet
 patch=1,EE,004B81E7,extended,00000001
 
-[Bouquet]
+[Bouquet (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bouquet
 // Bouquet
@@ -576,7 +576,7 @@ description=Erebos
 // Erebos
 patch=1,EE,004B81EA,extended,00000001
 
-[Erebos]
+[Erebos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Erebos
 // Erebos
@@ -588,7 +588,7 @@ description=Important Document
 // Important Document
 patch=1,EE,004B81ED,extended,00000001
 
-[Important Document]
+[Important Document (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Important Document
 // Important Document
@@ -600,7 +600,7 @@ description=Alberto's Notes
 // Alberto's Notes
 patch=1,EE,004B81F0,extended,00000001
 
-[Alberto's Notes]
+[Alberto's Notes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Alberto's Notes
 // Alberto's Notes
@@ -612,7 +612,7 @@ description=60's Tacos
 // 60's Tacos
 patch=1,EE,004B81F3,extended,00000001
 
-[60's Tacos]
+[60's Tacos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=60's Tacos
 // 60's Tacos
@@ -624,7 +624,7 @@ description=Memoirs Of A Poet
 // Memoirs Of A Poet
 patch=1,EE,004B81F6,extended,00000001
 
-[Memoirs Of A Poet]
+[Memoirs Of A Poet (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Memoirs Of A Poet
 // Memoirs Of A Poet
@@ -636,7 +636,7 @@ description=Pirate Tacos
 // Pirate Tacos
 patch=1,EE,004B81F9,extended,00000001
 
-[Pirate Tacos]
+[Pirate Tacos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pirate Tacos
 // Pirate Tacos
@@ -648,7 +648,7 @@ description=Competitive Tacos
 // Competitive Tacos
 patch=1,EE,004B81FC,extended,00000001
 
-[Competitive Tacos]
+[Competitive Tacos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Competitive Tacos
 // Competitive Tacos
@@ -660,7 +660,7 @@ description=Tropical Tacos
 // Tropical Tacos
 patch=1,EE,004B81FF,extended,00000001
 
-[Tropical Tacos]
+[Tropical Tacos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tropical Tacos
 // Tropical Tacos
@@ -672,7 +672,7 @@ description=Chinese Tacos
 // Chinese Tacos
 patch=1,EE,004B8201,extended,00000001
 
-[Chinese Tacos]
+[Chinese Tacos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chinese Tacos
 // Chinese Tacos
@@ -684,7 +684,7 @@ description=Mariachi Poems
 // Mariachi Poems
 patch=1,EE,004B8204,extended,00000001
 
-[Mariachi Poems]
+[Mariachi Poems (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mariachi Poems
 // Mariachi Poems
@@ -696,7 +696,7 @@ description=Young Execs Today!
 // Young Execs Today!
 patch=1,EE,004B8207,extended,00000001
 
-[Young Execs Today!]
+[Young Execs Today! (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Young Execs Today!
 // Young Execs Today!
@@ -708,7 +708,7 @@ description=Wheelgraph
 // Wheelgraph
 patch=1,EE,004B820A,extended,00000001
 
-[Wheelgraph]
+[Wheelgraph (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wheelgraph
 // Wheelgraph
@@ -720,7 +720,7 @@ description=Ultimate Comix!
 // Ultimate Comix!
 patch=1,EE,004B820D,extended,00000001
 
-[Ultimate Comix!]
+[Ultimate Comix! (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ultimate Comix!
 // Ultimate Comix!
@@ -864,7 +864,7 @@ description=Seawater
 // Seawater
 patch=1,EE,004B8255,extended,00000063
 
-[Seawater]
+[Seawater (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seawater
 // Seawater
@@ -876,7 +876,7 @@ description=Olive Oil
 // Olive Oil
 patch=1,EE,004B8258,extended,00000063
 
-[Olive Oil]
+[Olive Oil (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olive Oil
 // Olive Oil
@@ -888,7 +888,7 @@ description=Oxidized Alcohol
 // Oxidized Alcohol
 patch=1,EE,004B825B,extended,00000063
 
-[Oxidized Alcohol]
+[Oxidized Alcohol (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Oxidized Alcohol
 // Oxidized Alcohol
@@ -900,7 +900,7 @@ description=Kill Kwik
 // Kill Kwik
 patch=1,EE,004B825E,extended,00000063
 
-[Kill Kwik]
+[Kill Kwik (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kill Kwik
 // Kill Kwik
@@ -912,7 +912,7 @@ description=High And Low
 // High And Low
 patch=1,EE,004B8261,extended,00000063
 
-[High And Low]
+[High And Low (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=High And Low
 // High And Low
@@ -924,7 +924,7 @@ description=Expired Mega-ade
 // Expired Mega-ade
 patch=1,EE,004B8264,extended,00000063
 
-[Expired Mega-ade]
+[Expired Mega-ade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Expired Mega-ade
 // Expired Mega-ade
@@ -936,7 +936,7 @@ description=Mega-ade 300
 // Mega-ade 300
 patch=1,EE,004B8267,extended,00000063
 
-[Mega-ade 300]
+[Mega-ade 300 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mega-ade 300
 // Mega-ade 300
@@ -948,7 +948,7 @@ description=Mega-ade 500
 // Mega-ade 500
 patch=1,EE,004B826A,extended,00000063
 
-[Mega-ade 500]
+[Mega-ade 500 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mega-ade 500
 // Mega-ade 500
@@ -960,7 +960,7 @@ description=Mega-ade 1000
 // Mega-ade 1000
 patch=1,EE,004B826D,extended,00000063
 
-[Mega-ade 1000]
+[Mega-ade 1000 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mega-ade 1000
 // Mega-ade 1000
@@ -972,7 +972,7 @@ description=Mega-ade 2000
 // Mega-ade 2000
 patch=1,EE,004B8270,extended,00000063
 
-[Mega-ade 2000]
+[Mega-ade 2000 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mega-ade 2000
 // Mega-ade 2000
@@ -984,7 +984,7 @@ description=Mega-ade 4000
 // Mega-ade 4000
 patch=1,EE,004B8273,extended,00000063
 
-[Mega-ade 4000]
+[Mega-ade 4000 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mega-ade 4000
 // Mega-ade 4000
@@ -996,7 +996,7 @@ description=Mega-ade 8000
 // Mega-ade 8000
 patch=1,EE,004B8276,extended,00000063
 
-[Mega-ade 8000]
+[Mega-ade 8000 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mega-ade 8000
 // Mega-ade 8000
@@ -1008,7 +1008,7 @@ description=Supertonic
 // Supertonic
 patch=1,EE,004B8279,extended,00000063
 
-[Supertonic]
+[Supertonic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Supertonic
 // Supertonic
@@ -1020,7 +1020,7 @@ description=Supertonic Dash
 // Supertonic Dash
 patch=1,EE,004B827C,extended,00000063
 
-[Supertonic Dash]
+[Supertonic Dash (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Supertonic Dash
 // Supertonic Dash
@@ -1032,7 +1032,7 @@ description=Supertonic Turbo
 // Supertonic Turbo
 patch=1,EE,004B827F,extended,00000063
 
-[Supertonic Turbo]
+[Supertonic Turbo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Supertonic Turbo
 // Supertonic Turbo
@@ -1044,7 +1044,7 @@ description=Supertonic Extra
 // Supertonic Extra
 patch=1,EE,004B8282,extended,00000063
 
-[Supertonic Extra]
+[Supertonic Extra (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Supertonic Extra
 // Supertonic Extra
@@ -1056,7 +1056,7 @@ description=Supertonic X
 // Supertonic X
 patch=1,EE,004B8285,extended,00000063
 
-[Supertonic X]
+[Supertonic X (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Supertonic X
 // Supertonic X
@@ -1068,7 +1068,7 @@ description=Roaring Tiger
 // Roaring Tiger
 patch=1,EE,004B8288,extended,00000063
 
-[Roaring Tiger]
+[Roaring Tiger (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Roaring Tiger
 // Roaring Tiger
@@ -1080,7 +1080,7 @@ description=Snake Bite
 // Snake Bite
 patch=1,EE,004B828B,extended,00000063
 
-[Snake Bite]
+[Snake Bite (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Snake Bite
 // Snake Bite
@@ -1092,7 +1092,7 @@ description=Ninja Rush
 // Ninja Rush
 patch=1,EE,004B828E,extended,00000063
 
-[Ninja Rush]
+[Ninja Rush (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ninja Rush
 // Ninja Rush
@@ -1104,7 +1104,7 @@ description=Killer Spider
 // Killer Spider
 patch=1,EE,004B8291,extended,00000063
 
-[Killer Spider]
+[Killer Spider (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Killer Spider
 // Killer Spider
@@ -1116,7 +1116,7 @@ description=Scorpion's Tail
 // Scorpion's Tail
 patch=1,EE,004B8294,extended,00000063
 
-[Scorpion's Tail]
+[Scorpion's Tail (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Scorpion's Tail
 // Scorpion's Tail
@@ -1128,7 +1128,7 @@ description=Water
 // Water
 patch=1,EE,004B8297,extended,00000063
 
-[Water]
+[Water (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Water
 // Water
@@ -1140,7 +1140,7 @@ description=Deep Seawater
 // Deep Seawater
 patch=1,EE,004B829A,extended,00000063
 
-[Deep Seawater]
+[Deep Seawater (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Deep Seawater
 // Deep Seawater
@@ -1152,7 +1152,7 @@ description=Negative Ion Water
 // Negative Ion Water
 patch=1,EE,004B829D,extended,00000063
 
-[Negative Ion Water]
+[Negative Ion Water (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Negative Ion Water
 // Negative Ion Water
@@ -1164,7 +1164,7 @@ description=Mineral Water
 // Mineral Water
 patch=1,EE,004B82A0,extended,00000063
 
-[Mineral Water]
+[Mineral Water (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mineral Water
 // Mineral Water
@@ -1176,7 +1176,7 @@ description=Acetic Anhydride
 // Acetic Anhydride
 patch=1,EE,004B82A3,extended,00000063
 
-[Acetic Anhydride]
+[Acetic Anhydride (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Acetic Anhydride
 // Acetic Anhydride
@@ -1188,7 +1188,7 @@ description=Mercury
 // Mercury
 patch=1,EE,004B82A6,extended,00000063
 
-[Mercury]
+[Mercury (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mercury
 // Mercury
@@ -1200,7 +1200,7 @@ description=Yellow Paint
 // Yellow Paint
 patch=1,EE,004B82A9,extended,00000063
 
-[Yellow Paint]
+[Yellow Paint (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yellow Paint
 // Yellow Paint
@@ -1212,7 +1212,7 @@ description=Serum Syringe
 // Serum Syringe
 patch=1,EE,004B82AC,extended,00000063
 
-[Serum Syringe]
+[Serum Syringe (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Serum Syringe
 // Serum Syringe
@@ -1224,7 +1224,7 @@ description=Disinfectant
 // Disinfectant
 patch=1,EE,004B82AF,extended,00000063
 
-[Disinfectant]
+[Disinfectant (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Disinfectant
 // Disinfectant
@@ -1236,7 +1236,7 @@ description=Ion Ring
 // Ion Ring
 patch=1,EE,004B82B2,extended,00000063
 
-[Ion Ring]
+[Ion Ring (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ion Ring
 // Ion Ring
@@ -1248,7 +1248,7 @@ description=Royal Ampoule
 // Royal Ampoule
 patch=1,EE,004B82BB,extended,00000063
 
-[Royal Ampoule]
+[Royal Ampoule (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Royal Ampoule
 // Royal Ampoule
@@ -1260,8 +1260,16 @@ description=Beryl Knife
 // Beryl Knife
 patch=1,EE,004B82BE,extended,00000063
 
-[Beryl Knife]
+[Beryl Knife (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Beryl Knife
 // Beryl Knife
 patch=1,EE,004B82C0,extended,00000001
+
+[Cheats\Have All History Shells]
+patch=1,EE,204870C8,extended,FFFFFFFF
+patch=1,EE,204870CC,extended,FFFFFFFF
+
+[Cheats\Have All History Titles]
+patch=1,EE,204870F0,extended,FFFFFFFF
+patch=1,EE,204870F4,extended,FFFFFFFF

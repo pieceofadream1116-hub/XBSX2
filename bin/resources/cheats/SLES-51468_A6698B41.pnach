@@ -1,0 +1,4 @@
+gametitle=Freedom Fighters [SLES-51468] [A6698B41]
+
+[Cheats\God Mode]
+patch=1,EE,20540588,extended,3F800000

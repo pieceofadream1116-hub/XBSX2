@@ -12,7 +12,7 @@ description=Quick Max Score
 // Quick Max Score
 patch=1,EE,20117274,extended,3C02000F
 
-[Quick Max Score]
+[Quick Max Score (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Max Score
 // Quick Max Score
@@ -30,25 +30,25 @@ description=Unlock All Arenas/Characters
 // Unlock All Arenas/Characters
 patch=1,EE,200C0220,extended,24010001
 
-[Unlock All Arenas/Characters]
+[Unlock All Arenas/Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Arenas/Characters
 // Unlock All Arenas/Characters
 patch=1,EE,200C0224,extended,AC41000C
 
-[Unlock All Arenas/Characters]
+[Unlock All Arenas/Characters (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Arenas/Characters
 // Unlock All Arenas/Characters
 patch=1,EE,200C0228,extended,0804F594
 
-[Unlock All Arenas/Characters]
+[Unlock All Arenas/Characters (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Arenas/Characters
 // Unlock All Arenas/Characters
 patch=1,EE,200C022C,extended,8C42000C
 
-[Unlock All Arenas/Characters]
+[Unlock All Arenas/Characters (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Arenas/Characters
 // Unlock All Arenas/Characters
@@ -60,7 +60,7 @@ description=Unlock All Songs/Guitars
 // Unlock All Songs/Guitars
 patch=1,EE,201551F8,extended,24020001
 
-[Unlock All Songs/Guitars]
+[Unlock All Songs/Guitars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Songs/Guitars
 // Unlock All Songs/Guitars
@@ -72,25 +72,25 @@ description=Have All Venue Songs Completed
 // Have All Venue Songs Completed
 patch=1,EE,200C0230,extended,24010001
 
-[Have All Venue Songs Completed]
+[Have All Venue Songs Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue Songs Completed
 // Have All Venue Songs Completed
 patch=1,EE,200C0234,extended,AC410014
 
-[Have All Venue Songs Completed]
+[Have All Venue Songs Completed (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue Songs Completed
 // Have All Venue Songs Completed
 patch=1,EE,200C0238,extended,0804F59C
 
-[Have All Venue Songs Completed]
+[Have All Venue Songs Completed (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue Songs Completed
 // Have All Venue Songs Completed
 patch=1,EE,200C023C,extended,8C420014
 
-[Have All Venue Songs Completed]
+[Have All Venue Songs Completed (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue Songs Completed
 // Have All Venue Songs Completed
@@ -102,31 +102,31 @@ description=Have All Venue Max Song Scores
 // Have All Venue Max Song Scores
 patch=1,EE,200C0240,extended,3C01000F
 
-[Have All Venue Max Song Scores]
+[Have All Venue Max Song Scores (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue Max Song Scores
 // Have All Venue Max Song Scores
 patch=1,EE,200C0244,extended,3421423F
 
-[Have All Venue Max Song Scores]
+[Have All Venue Max Song Scores (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue Max Song Scores
 // Have All Venue Max Song Scores
 patch=1,EE,200C0248,extended,AC410018
 
-[Have All Venue Max Song Scores]
+[Have All Venue Max Song Scores (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue Max Song Scores
 // Have All Venue Max Song Scores
 patch=1,EE,200C024C,extended,0804FB5A
 
-[Have All Venue Max Song Scores]
+[Have All Venue Max Song Scores (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue Max Song Scores
 // Have All Venue Max Song Scores
 patch=1,EE,200C0250,extended,8C420018
 
-[Have All Venue Max Song Scores]
+[Have All Venue Max Song Scores (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue Max Song Scores
 // Have All Venue Max Song Scores
@@ -138,25 +138,25 @@ description=Have All Venue 5 Star Ratings
 // Have All Venue 5 Star Ratings
 patch=1,EE,200C0260,extended,24010005
 
-[Have All Venue 5 Star Ratings]
+[Have All Venue 5 Star Ratings (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue 5 Star Ratings
 // Have All Venue 5 Star Ratings
 patch=1,EE,200C0264,extended,A041001C
 
-[Have All Venue 5 Star Ratings]
+[Have All Venue 5 Star Ratings (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue 5 Star Ratings
 // Have All Venue 5 Star Ratings
 patch=1,EE,200C0268,extended,0804FB62
 
-[Have All Venue 5 Star Ratings]
+[Have All Venue 5 Star Ratings (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue 5 Star Ratings
 // Have All Venue 5 Star Ratings
 patch=1,EE,200C026C,extended,9042001C
 
-[Have All Venue 5 Star Ratings]
+[Have All Venue 5 Star Ratings (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Venue 5 Star Ratings
 // Have All Venue 5 Star Ratings
@@ -168,25 +168,25 @@ description=Max Cash
 // Max Cash
 patch=1,EE,200C0270,extended,3C0205F5
 
-[Max Cash]
+[Max Cash (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,200C0274,extended,3442E0FF
 
-[Max Cash]
+[Max Cash (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,200C0278,extended,03E00008
 
-[Max Cash]
+[Max Cash (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,200C027C,extended,AC820010
 
-[Max Cash]
+[Max Cash (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
@@ -210,188 +210,269 @@ description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD38,extended,64612F73
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD3C,extended,72616876
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD40,extended,796E6F6D
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD44,extended,7664612F
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD48,extended,6D726168
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD4C,extended,00796E6F
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD54,extended,64612F73
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD58,extended,72616876
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD5C,extended,796E6F6D
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD60,extended,7664612F
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD64,extended,6D726168
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD68,extended,2E796E6F
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,2044CD6C,extended,0064696D
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CBAF0,extended,6E656857
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CBAF4,extended,646E4120
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CBAF8,extended,73692079
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CBAFC,extended,2074276E
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CBB00,extended,6B636168
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CBB04,extended,2C676E69
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CBB08,extended,20656820
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CBB0C,extended,706D6F63
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CBB10,extended,7365736F
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CBB14,extended,20746120
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CBB18,extended,6B726542
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CBB1C,extended,0065656C
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205CAD20,extended,00796F4A
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,20545760,extended,72646E41
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,20545764,extended,42207765
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,20545768,extended,00686375
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205459D0,extended,6972542A
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205459D4,extended,6C6F7070
 
-[Guitar Hero Song Changes To Trippolette]
+[Guitar Hero Song Changes To Trippolette (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guitar Hero Song Changes To Trippolette
 // Guitar Hero Song Changes To Trippolette
 patch=1,EE,205459D8,extended,65747465
+
+[Cheats\Infinite Cash]
+patch=1,EE,2013E774,extended,24026000
+
+[Cheats\Quick Max Score]
+patch=1,EE,20117274,extended,3C02000F
+patch=1,EE,2011727C,extended,3442423F
+
+[Cheats\Max Cash]
+patch=1,EE,200C0270,extended,3C0205F5
+patch=1,EE,200C0274,extended,3442E0FF
+patch=1,EE,200C0278,extended,03E00008
+patch=1,EE,200C027C,extended,AC820010
+patch=1,EE,2013E770,extended,0803009C
+
+[Cheats\Guitar Hero Song Changes To Trippolette With this code, this is a hidden song that is not accessible normally.]
+patch=1,EE,2044CD38,extended,64612F73
+patch=1,EE,2044CD3C,extended,72616876
+patch=1,EE,2044CD40,extended,796E6F6D
+patch=1,EE,2044CD44,extended,7664612F
+patch=1,EE,2044CD48,extended,6D726168
+patch=1,EE,2044CD4C,extended,00796E6F
+patch=1,EE,2044CD54,extended,64612F73
+patch=1,EE,2044CD58,extended,72616876
+patch=1,EE,2044CD5C,extended,796E6F6D
+patch=1,EE,2044CD60,extended,7664612F
+patch=1,EE,2044CD64,extended,6D726168
+patch=1,EE,2044CD68,extended,2E796E6F
+patch=1,EE,2044CD6C,extended,0064696D
+patch=1,EE,205CBAF0,extended,6E656857
+patch=1,EE,205CBAF4,extended,646E4120
+patch=1,EE,205CBAF8,extended,73692079
+patch=1,EE,205CBAFC,extended,2074276E
+patch=1,EE,205CBB00,extended,6B636168
+patch=1,EE,205CBB04,extended,2C676E69
+patch=1,EE,205CBB08,extended,20656820
+patch=1,EE,205CBB0C,extended,706D6F63
+patch=1,EE,205CBB10,extended,7365736F
+patch=1,EE,205CBB14,extended,20746120
+patch=1,EE,205CBB18,extended,6B726542
+patch=1,EE,205CBB1C,extended,0065656C
+patch=1,EE,205CAD20,extended,00796F4A
+patch=1,EE,20545760,extended,72646E41
+patch=1,EE,20545764,extended,42207765
+patch=1,EE,20545768,extended,00686375
+patch=1,EE,205459D0,extended,6972542A
+patch=1,EE,205459D4,extended,6C6F7070
+patch=1,EE,205459D8,extended,65747465
+
+[Cheats\Unlock All Arenas And Characters]
+patch=1,EE,200C0220,extended,24010001
+patch=1,EE,200C0224,extended,AC41000C
+patch=1,EE,200C0228,extended,0804F594
+patch=1,EE,200C022C,extended,8C42000C
+patch=1,EE,2013D648,extended,08030088
+
+[Cheats\Unlock All Songs And Guitars]
+patch=1,EE,201551F8,extended,24020001
+patch=1,EE,201551FC,extended,AE02000C
+
+[Cheats\Have All Venue Songs Completed]
+patch=1,EE,200C0230,extended,24010001
+patch=1,EE,200C0234,extended,AC410014
+patch=1,EE,200C0238,extended,0804F59C
+patch=1,EE,200C023C,extended,8C420014
+patch=1,EE,2013D668,extended,0803008C
+
+[Cheats\Have All Venue Max Song Scores]
+patch=1,EE,200C0240,extended,3C01000F
+patch=1,EE,200C0244,extended,3421423F
+patch=1,EE,200C0248,extended,AC410018
+patch=1,EE,200C024C,extended,0804FB5A
+patch=1,EE,200C0250,extended,8C420018
+patch=1,EE,2013ED60,extended,08030090
+
+[Cheats\Have All Venue 5 Star Ratings]
+patch=1,EE,200C0260,extended,24010005
+patch=1,EE,200C0264,extended,A041001C
+patch=1,EE,200C0268,extended,0804FB62
+patch=1,EE,200C026C,extended,9042001C
+patch=1,EE,2013ED80,extended,08030098

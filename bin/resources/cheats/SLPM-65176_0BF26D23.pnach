@@ -1,0 +1,7 @@
+gametitle=キング オブ コロシアム(赤) [新日本×全日本×パンクラスディスク] [SLPM-65176] [0BF26D23]
+
+[Cheats\Max Trial load clear points]
+patch=1,EE,10283188,extended,000003E7
+
+[Cheats\Max Soul]
+patch=1,EE,1028318C,extended,000003E7

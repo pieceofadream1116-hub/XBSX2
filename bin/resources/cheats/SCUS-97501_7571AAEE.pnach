@@ -72,13 +72,13 @@ description=Unlock All Monkepedia
 // Unlock All Monkepedia
 patch=1,EE,406499DC,extended,008E0001
 
-[Unlock All Monkepedia]
+[Unlock All Monkepedia (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Monkepedia
 // Unlock All Monkepedia
 patch=1,EE,01010101,extended,00000000
 
-[Unlock All Monkepedia]
+[Unlock All Monkepedia (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Monkepedia
 // Unlock All Monkepedia
@@ -180,7 +180,7 @@ description=All Gadgets
 // All Gadgets
 patch=1,EE,4064992C,extended,00150001
 
-[All Gadgets]
+[All Gadgets (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Gadgets
 // All Gadgets
@@ -372,17 +372,11 @@ description=All Teleborgs
 // All Teleborgs
 patch=1,EE,10649C16,extended,00000101
 
-[All Teleborgs]
+[All Teleborgs (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Teleborgs
 // All Teleborgs
 patch=1,EE,40649C18,extended,00070001
-
-[All Teleborgs]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Teleborgs
-// All Teleborgs
-patch=1,EE,01010101,extended,00000000
 
 [1-Kei 1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -570,13 +564,7 @@ description=All Concept Arts
 // All Concept Arts
 patch=1,EE,40649C34,extended,00070001
 
-[All Concept Arts]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Concept Arts
-// All Concept Arts
-patch=1,EE,01010101,extended,00000000
-
-[All Concept Arts]
+[All Concept Arts (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Concept Arts
 // All Concept Arts
@@ -708,19 +696,13 @@ description=All Weird Photos
 // All Weird Photos
 patch=1,EE,10649C52,extended,00000101
 
-[All Weird Photos]
+[All Weird Photos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Weird Photos
 // All Weird Photos
 patch=1,EE,40649C54,extended,00040001
 
-[All Weird Photos]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Weird Photos
-// All Weird Photos
-patch=1,EE,01010101,extended,00000000
-
-[All Weird Photos]
+[All Weird Photos (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Weird Photos
 // All Weird Photos
@@ -912,17 +894,11 @@ description=All Secret Photos
 // All Secret Photos
 patch=1,EE,10649C66,extended,00000101
 
-[All Secret Photos]
+[All Secret Photos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Secret Photos
 // All Secret Photos
 patch=1,EE,40649C68,extended,00070001
-
-[All Secret Photos]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Secret Photos
-// All Secret Photos
-patch=1,EE,01010101,extended,00000000
 
 [1-Use Combos To Get Items!]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -1050,12 +1026,6 @@ description=All Hint Books
 // All Hint Books
 patch=1,EE,40649C84,extended,00050001
 
-[All Hint Books]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Hint Books
-// All Hint Books
-patch=1,EE,01010101,extended,00000000
-
 [Yumi's Favorite-Normal Chassis]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yumi's Favorite-Normal Chassis
@@ -1080,12 +1050,6 @@ description=All Bonus RC Cars
 // All Bonus RC Cars
 patch=1,EE,10649C98,extended,00000101
 
-[All Bonus RC Cars]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Bonus RC Cars
-// All Bonus RC Cars
-patch=1,EE,00649C9A,extended,00000001
-
 [Super Monkey Throw Stadium]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Monkey Throw Stadium
@@ -1103,12 +1067,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Metal Gear Solid
 // Metal Gear Solid
 patch=1,EE,00649C9D,extended,00000001
-
-[All Mini-Games]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Mini-Games
-// All Mini-Games
-patch=1,EE,00649C9B,extended,00000001
 
 [All Mini-Games]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -1242,19 +1200,13 @@ description=All Channel Guides
 // All Channel Guides
 patch=1,EE,10649C9E,extended,00000101
 
-[All Channel Guides]
+[All Channel Guides (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Channel Guides
 // All Channel Guides
 patch=1,EE,40649CA0,extended,00040001
 
-[All Channel Guides]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Channel Guides
-// All Channel Guides
-patch=1,EE,01010101,extended,00000000
-
-[All Channel Guides]
+[All Channel Guides (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Channel Guides
 // All Channel Guides
@@ -1386,19 +1338,13 @@ description=All Mon-Fictions
 // All Mon-Fictions
 patch=1,EE,10649CB2,extended,00000101
 
-[All Mon-Fictions]
+[All Mon-Fictions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Mon-Fictions
 // All Mon-Fictions
 patch=1,EE,40649CB4,extended,00040001
 
-[All Mon-Fictions]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Mon-Fictions
-// All Mon-Fictions
-patch=1,EE,01010101,extended,00000000
-
-[All Mon-Fictions]
+[All Mon-Fictions (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Mon-Fictions
 // All Mon-Fictions
@@ -1710,13 +1656,13 @@ description=All Music Discs
 // All Music Discs
 patch=1,EE,10649CC6,extended,00000101
 
-[All Music Discs]
+[All Music Discs (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Music Discs
 // All Music Discs
 patch=1,EE,40649CC8,extended,000C0001
 
-[All Music Discs]
+[All Music Discs (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Music Discs
 // All Music Discs
@@ -1745,12 +1691,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Genie Dance Music
 // All Genie Dance Music
 patch=1,EE,10649CF8,extended,00000101
-
-[All Genie Dance Music]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Genie Dance Music
-// All Genie Dance Music
-patch=1,EE,00649CFA,extended,00000001
 
 [1-Intro Movie]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -1930,16 +1870,65 @@ patch=1,EE,00649D17,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Movies
 // All Movies
-patch=1,EE,00649CFB,extended,00000001
-
-[All Movies]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Movies
-// All Movies
 patch=1,EE,40649CFC,extended,00070001
 
-[All Movies]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Movies
-// All Movies
+[Cheats\Infinite Coins]
+patch=1,EE,206499D4,extended,0000270F
+patch=1,EE,206499D8,extended,0000270F
+
+[Cheats\Have All Gadgets]
+patch=1,EE,4064992C,extended,00150001
+patch=1,EE,00000002,extended,00000000
+
+[Cheats\Unlock All Channel Guides]
+patch=1,EE,10649C9E,extended,00000101
+patch=1,EE,40649CA0,extended,00040001
 patch=1,EE,01010101,extended,00000000
+patch=1,EE,10649CB0,extended,00000101
+
+[Cheats\Unlock All Bonus RC Cars]
+patch=1,EE,10649C98,extended,00000101
+patch=1,EE,00649C9A,extended,00000001
+
+[Cheats\Unlock All Genie Dance Music]
+patch=1,EE,10649CF8,extended,00000101
+patch=1,EE,00649CFA,extended,00000001
+
+[Cheats\Unlock All Teleborgs]
+patch=1,EE,10649C16,extended,00000101
+patch=1,EE,40649C18,extended,00070001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\UnlockAll Mon-Fictions]
+patch=1,EE,10649CB2,extended,00000101
+patch=1,EE,40649CB4,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10649CC4,extended,00000101
+
+[Cheats\Unlock All Concept Art]
+patch=1,EE,40649C34,extended,00070001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10649C3C,extended,00000101
+
+[Cheats\Unlock All Secret Photos]
+patch=1,EE,40649C68,extended,00070001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10649C66,extended,00000101
+
+[Cheats\Unlock All Movies]
+patch=1,EE,40649CFC,extended,00070001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Unlock All Music]
+patch=1,EE,40649CC8,extended,000C0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10649CC6,extended,00000101
+
+[Cheats\Unlock All Minigames]
+patch=1,EE,00649C9B,extended,00000001
+patch=1,EE,10649C9C,extended,00000101
+
+[Cheats\Unlock All Monkepedia]
+patch=1,EE,406499DC,extended,008E0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10649C14,extended,00000101

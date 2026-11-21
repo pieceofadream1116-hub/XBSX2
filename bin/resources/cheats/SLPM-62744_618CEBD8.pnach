@@ -1,0 +1,4 @@
+gametitle=オレたちゲーセン族 サンダークロス [SLPM-62744] [618CEBD8]
+
+[Cheats\Infinite Lives]
+patch=1,EE,003168D0,extended,00000009

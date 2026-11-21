@@ -60,37 +60,37 @@ description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,200C0220,extended,54600001
 
-[Do Not Lose Upgraded Weapons When Dieing]
+[Do Not Lose Upgraded Weapons When Dieing (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,200C0224,extended,A0430004
 
-[Do Not Lose Upgraded Weapons When Dieing]
+[Do Not Lose Upgraded Weapons When Dieing (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,200C0228,extended,03E00008
 
-[Do Not Lose Upgraded Weapons When Dieing]
+[Do Not Lose Upgraded Weapons When Dieing (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,200C022C,extended,00000000
 
-[Do Not Lose Upgraded Weapons When Dieing]
+[Do Not Lose Upgraded Weapons When Dieing (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,2020A01C,extended,0C030088
 
-[Do Not Lose Upgraded Weapons When Dieing]
+[Do Not Lose Upgraded Weapons When Dieing (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,20208434,extended,00000000
 
-[Infinite Lives]
+[Infinite Lives (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
@@ -114,7 +114,7 @@ description=Max Score
 // Max Score
 patch=1,EE,20AD5100,extended,09999999
 
-[Infinite Bombs]
+[Infinite Bombs (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Bombs
 // Infinite Bombs
@@ -138,7 +138,7 @@ description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
 patch=1,EE,D0AD5642,extended,0000BFFF
 
-[Press {CROSS} For Moon Jump]
+[Press {CROSS} For Moon Jump (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
@@ -240,152 +240,173 @@ description=Super Bullet Gun
 // Super Bullet Gun
 patch=1,EE,00A9BAC4,extended,0000000F
 
-[Infinite Lives]
+[Infinite Lives (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,00AD4165,extended,00000063
 
-[Invincible]
+[Invincible (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Invincible
 // Invincible
 patch=1,EE,00AD3C9C,extended,000000FF
 
-[Quick Score Gain]
+[Quick Score Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Score Gain
 // Quick Score Gain
 patch=1,EE,10AD50F8,extended,00009999
 
-[Max Score]
+[Max Score (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,20AD50F8,extended,09999999
 
-[Infinite Bombs]
+[Infinite Bombs (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Bombs
 // Infinite Bombs
 patch=1,EE,00A9BAB7,extended,00000063
 
-[Infinite Ammo (Infinity Symbol)]
+[Infinite Ammo (Infinity Symbol) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Infinity Symbol)
 // Infinite Ammo (Infinity Symbol)
 patch=1,EE,10A9BABC,extended,0000FFFF
 
-[Max Infinite Ammo]
+[Max Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Ammo
 // Max Infinite Ammo
 patch=1,EE,10A9BABC,extended,000003E7
 
-[Press {CROSS} For Moon Jump]
+[Press {CROSS} For Moon Jump (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
 patch=1,EE,D0AD5742,extended,0000BFFF
 
-[Press {CROSS} For Moon Jump]
+[Press {CROSS} For Moon Jump (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
 patch=1,EE,10AD3C3E,extended,00000002
 
-[Normal Gun]
+[Normal Gun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Normal Gun
 // Normal Gun
 patch=1,EE,00A9BAB4,extended,00000000
 
-[Drop Shot (D)]
+[Drop Shot (D) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Drop Shot (D)
 // Drop Shot (D)
 patch=1,EE,00A9BAB4,extended,00000001
 
-[Shotgun (S)]
+[Shotgun (S) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shotgun (S)
 // Shotgun (S)
 patch=1,EE,00A9BAB4,extended,00000002
 
-[Rocket Launcher (R)]
+[Rocket Launcher (R) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rocket Launcher (R)
 // Rocket Launcher (R)
 patch=1,EE,00A9BAB4,extended,00000003
 
-[Flame Chop (F)]
+[Flame Chop (F) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Flame Chop (F)
 // Flame Chop (F)
 patch=1,EE,00A9BAB4,extended,00000004
 
-[Heavy Machine Gun (H)]
+[Heavy Machine Gun (H) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Machine Gun (H)
 // Heavy Machine Gun (H)
 patch=1,EE,00A9BAB4,extended,00000005
 
-[Laser Gun]
+[Laser Gun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Laser Gun
 // Laser Gun
 patch=1,EE,00A9BAB4,extended,00000006
 
-[Super Shotgun]
+[Super Shotgun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Shotgun
 // Super Shotgun
 patch=1,EE,00A9BAB4,extended,00000007
 
-[Super Rocket Launcher]
+[Super Rocket Launcher (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Rocket Launcher
 // Super Rocket Launcher
 patch=1,EE,00A9BAB4,extended,00000008
 
-[Explosive Rounds]
+[Explosive Rounds (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Explosive Rounds
 // Explosive Rounds
 patch=1,EE,00A9BAB4,extended,00000009
 
-[Super Handgun]
+[Super Handgun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Handgun
 // Super Handgun
 patch=1,EE,00A9BAB4,extended,0000000A
 
-[Super Laser]
+[Super Laser (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Laser
 // Super Laser
 patch=1,EE,00A9BAB4,extended,0000000B
 
-[Enemy Chaser (C)]
+[Enemy Chaser (C) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemy Chaser (C)
 // Enemy Chaser (C)
 patch=1,EE,00A9BAB4,extended,0000000C
 
-[Iron lizard (I)]
+[Iron lizard (I) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Iron lizard (I)
 // Iron lizard (I)
 patch=1,EE,00A9BAB4,extended,0000000D
 
-[Bubble Gun]
+[Bubble Gun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bubble Gun
 // Bubble Gun
 patch=1,EE,00A9BAB4,extended,0000000E
 
-[Super Bullet Gun]
+[Super Bullet Gun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Bullet Gun
 // Super Bullet Gun
 patch=1,EE,00A9BAB4,extended,0000000F
+
+[Cheats\P1 Invincible]
+patch=1,EE,00AD3DCC,extended,0000005E
+
+[Cheats\P1 Infinite Lives]
+patch=1,EE,00AD4295,extended,00000009
+
+[Cheats\P2 Invincible]
+patch=1,EE,00AD3C9C,extended,0000005E
+
+[Cheats\P2 Infinite Lives]
+patch=1,EE,00AD4165,extended,00000009
+
+[Cheats\Infinite Time]
+patch=1,EE,00AC8DC9,extended,00000060
+
+[Cheats\Unlock All Missions]
+patch=1,EE,00EA2DD0,extended,00000004
+
+[Cheats\Unlock All Trophy Items]
+patch=1,EE,20EA2E68,extended,FFFFFFFF

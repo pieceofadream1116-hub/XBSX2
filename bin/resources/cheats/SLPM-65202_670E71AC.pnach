@@ -1,0 +1,7 @@
+gametitle=K-1 WORLD GRAND PRIX 2002 [SLPM-65202] [670E71AC]
+
+[Cheats\Player 1 Has Infinite Stamina]
+patch=1,EE,214F6360,extended,44FA0000
+
+[Cheats\Player 2 Has No Stamina]
+patch=1,EE,21A1007C,extended,00000000

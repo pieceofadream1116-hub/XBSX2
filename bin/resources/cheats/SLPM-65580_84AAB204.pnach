@@ -1,0 +1,7 @@
+gametitle=クラッシュ・バンディクー 爆走！ニトロカート [SLPM-65580] [84AAB204]
+
+[Cheats\Max Apples After Getting One]
+patch=1,EE,9C84DC08,extended,1478CDC6
+
+[Cheats\Max Team Gauge Immediately]
+patch=1,EE,A0151B64,extended,E6200168

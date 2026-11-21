@@ -12,13 +12,13 @@ description=Have All Item Collections
 // Have All Item Collections
 patch=1,EE,21E52AC8,extended,FFFFFFFF
 
-[Have All Item Collections]
+[Have All Item Collections (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Item Collections
 // Have All Item Collections
 patch=1,EE,21E52ACC,extended,FFFFFFFF
 
-[Have All Item Collections]
+[Have All Item Collections (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Item Collections
 // Have All Item Collections
@@ -30,13 +30,13 @@ description=Have All Event Collections
 // Have All Event Collections
 patch=1,EE,21E52AD4,extended,FFFFFFFF
 
-[Have All Event Collections]
+[Have All Event Collections (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Event Collections
 // Have All Event Collections
 patch=1,EE,21E52AD8,extended,FFFFFFFF
 
-[Have All Event Collections]
+[Have All Event Collections (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Event Collections
 // Have All Event Collections
@@ -48,7 +48,7 @@ description=Max WAR
 // Max WAR
 patch=1,EE,21E56940,extended,00000064
 
-[Max WAR]
+[Max WAR (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max WAR
 // Max WAR
@@ -60,7 +60,7 @@ description=Max INT
 // Max INT
 patch=1,EE,21E56944,extended,00000064
 
-[Max INT]
+[Max INT (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max INT
 // Max INT
@@ -72,7 +72,7 @@ description=Max POL
 // Max POL
 patch=1,EE,21E56948,extended,00000064
 
-[Max POL]
+[Max POL (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max POL
 // Max POL
@@ -84,7 +84,7 @@ description=Max CHA
 // Max CHA
 patch=1,EE,21E5694C,extended,00000064
 
-[Max CHA]
+[Max CHA (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max CHA
 // Max CHA
@@ -96,7 +96,7 @@ description=Max Bonus
 // Max Bonus
 patch=1,EE,21E56960,extended,00000064
 
-[Max Bonus]
+[Max Bonus (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Bonus
 // Max Bonus
@@ -384,1766 +384,1796 @@ description=No Troops
 // No Troops
 patch=1,EE,20650FBC,extended,00000000
 
-[Max Gold]
+[Max Gold (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20650FD4,extended,0098967F
 
-[No Gold]
+[No Gold (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20650FD4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20650FD8,extended,0098967F
 
-[No Supplies]
+[No Supplies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20650FD8,extended,00000000
 
-[Max Troops]
+[Max Troops (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,20650FDC,extended,0098967F
 
-[No Troops]
+[No Troops (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,20650FDC,extended,00000000
 
-[Max Gold]
+[Max Gold (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20650FF4,extended,0098967F
 
-[No Gold]
+[No Gold (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20650FF4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20650FF8,extended,0098967F
 
-[No Supplies]
+[No Supplies (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20650FF8,extended,00000000
 
-[Max Troops]
+[Max Troops (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,20650FFC,extended,0098967F
 
-[No Troops]
+[No Troops (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,20650FFC,extended,00000000
 
-[Max Gold]
+[Max Gold (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651014,extended,0098967F
 
-[No Gold]
+[No Gold (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651014,extended,00000000
 
-[Max Supplies]
+[Max Supplies (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651018,extended,0098967F
 
-[No Supplies]
+[No Supplies (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651018,extended,00000000
 
-[Max Troops]
+[Max Troops (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065101C,extended,0098967F
 
-[No Troops]
+[No Troops (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065101C,extended,00000000
 
-[Max Gold]
+[Max Gold (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651034,extended,0098967F
 
-[No Gold]
+[No Gold (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651034,extended,00000000
 
-[Max Supplies]
+[Max Supplies (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651038,extended,0098967F
 
-[No Supplies]
+[No Supplies (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651038,extended,00000000
 
-[Max Troops]
+[Max Troops (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065103C,extended,0098967F
 
-[No Troops]
+[No Troops (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065103C,extended,00000000
 
-[Max Gold]
+[Max Gold (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651054,extended,0098967F
 
-[No Gold]
+[No Gold (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651054,extended,00000000
 
-[Max Supplies]
+[Max Supplies (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651058,extended,0098967F
 
-[No Supplies]
+[No Supplies (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651058,extended,00000000
 
-[Max Troops]
+[Max Troops (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065105C,extended,0098967F
 
-[No Troops]
+[No Troops (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065105C,extended,00000000
 
-[Max Gold]
+[Max Gold (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651074,extended,0098967F
 
-[No Gold]
+[No Gold (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651074,extended,00000000
 
-[Max Supplies]
+[Max Supplies (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651078,extended,0098967F
 
-[No Supplies]
+[No Supplies (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651078,extended,00000000
 
-[Max Troops]
+[Max Troops (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065107C,extended,0098967F
 
-[No Troops]
+[No Troops (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065107C,extended,00000000
 
-[Max Gold]
+[Max Gold (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651094,extended,0098967F
 
-[No Gold]
+[No Gold (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651094,extended,00000000
 
-[Max Supplies]
+[Max Supplies (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651098,extended,0098967F
 
-[No Supplies]
+[No Supplies (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651098,extended,00000000
 
-[Max Troops]
+[Max Troops (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065109C,extended,0098967F
 
-[No Troops]
+[No Troops (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065109C,extended,00000000
 
-[Max Gold]
+[Max Gold (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206510B4,extended,0098967F
 
-[No Gold]
+[No Gold (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206510B4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206510B8,extended,0098967F
 
-[No Supplies]
+[No Supplies (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206510B8,extended,00000000
 
-[Max Troops]
+[Max Troops (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206510BC,extended,0098967F
 
-[No Troops]
+[No Troops (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206510BC,extended,00000000
 
-[Max Gold]
+[Max Gold (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206510D4,extended,0098967F
 
-[No Gold]
+[No Gold (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206510D4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206510D8,extended,0098967F
 
-[No Supplies]
+[No Supplies (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206510D8,extended,00000000
 
-[Max Troops]
+[Max Troops (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206510DC,extended,0098967F
 
-[No Troops]
+[No Troops (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206510DC,extended,00000000
 
-[Max Gold]
+[Max Gold (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206510F4,extended,0098967F
 
-[No Gold]
+[No Gold (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206510F4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206510F8,extended,0098967F
 
-[No Supplies]
+[No Supplies (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206510F8,extended,00000000
 
-[Max Troops]
+[Max Troops (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206510FC,extended,0098967F
 
-[No Troops]
+[No Troops (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206510FC,extended,00000000
 
-[Max Gold]
+[Max Gold (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651114,extended,0098967F
 
-[No Gold]
+[No Gold (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651114,extended,00000000
 
-[Max Supplies]
+[Max Supplies (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651118,extended,0098967F
 
-[No Supplies]
+[No Supplies (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651118,extended,00000000
 
-[Max Troops]
+[Max Troops (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065111C,extended,0098967F
 
-[No Troops]
+[No Troops (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065111C,extended,00000000
 
-[Max Gold]
+[Max Gold (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651134,extended,0098967F
 
-[No Gold]
+[No Gold (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651134,extended,00000000
 
-[Max Supplies]
+[Max Supplies (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651138,extended,0098967F
 
-[No Supplies]
+[No Supplies (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651138,extended,00000000
 
-[Max Troops]
+[Max Troops (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065113C,extended,0098967F
 
-[No Troops]
+[No Troops (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065113C,extended,00000000
 
-[Max Gold]
+[Max Gold (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651154,extended,0098967F
 
-[No Gold]
+[No Gold (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651154,extended,00000000
 
-[Max Supplies]
+[Max Supplies (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651158,extended,0098967F
 
-[No Supplies]
+[No Supplies (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651158,extended,00000000
 
-[Max Troops]
+[Max Troops (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065115C,extended,0098967F
 
-[No Troops]
+[No Troops (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065115C,extended,00000000
 
-[Max Gold]
+[Max Gold (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651174,extended,0098967F
 
-[No Gold]
+[No Gold (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651174,extended,00000000
 
-[Max Supplies]
+[Max Supplies (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651178,extended,0098967F
 
-[No Supplies]
+[No Supplies (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651178,extended,00000000
 
-[Max Troops]
+[Max Troops (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065117C,extended,0098967F
 
-[No Troops]
+[No Troops (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065117C,extended,00000000
 
-[Max Gold]
+[Max Gold (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651194,extended,0098967F
 
-[No Gold]
+[No Gold (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651194,extended,00000000
 
-[Max Supplies]
+[Max Supplies (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651198,extended,0098967F
 
-[No Supplies]
+[No Supplies (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651198,extended,00000000
 
-[Max Troops]
+[Max Troops (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065119C,extended,0098967F
 
-[No Troops]
+[No Troops (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065119C,extended,00000000
 
-[Max Gold]
+[Max Gold (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206511B4,extended,0098967F
 
-[No Gold]
+[No Gold (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206511B4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206511B8,extended,0098967F
 
-[No Supplies]
+[No Supplies (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206511B8,extended,00000000
 
-[Max Troops]
+[Max Troops (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206511BC,extended,0098967F
 
-[No Troops]
+[No Troops (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206511BC,extended,00000000
 
-[Max Gold]
+[Max Gold (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206511D4,extended,0098967F
 
-[No Gold]
+[No Gold (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206511D4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206511D8,extended,0098967F
 
-[No Supplies]
+[No Supplies (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206511D8,extended,00000000
 
-[Max Troops]
+[Max Troops (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206511DC,extended,0098967F
 
-[No Troops]
+[No Troops (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206511DC,extended,00000000
 
-[Max Gold]
+[Max Gold (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206511F4,extended,0098967F
 
-[No Gold]
+[No Gold (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206511F4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206511F8,extended,0098967F
 
-[No Supplies]
+[No Supplies (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206511F8,extended,00000000
 
-[Max Troops]
+[Max Troops (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206511FC,extended,0098967F
 
-[No Troops]
+[No Troops (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206511FC,extended,00000000
 
-[Max Gold]
+[Max Gold (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651214,extended,0098967F
 
-[No Gold]
+[No Gold (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651214,extended,00000000
 
-[Max Supplies]
+[Max Supplies (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651218,extended,0098967F
 
-[No Supplies]
+[No Supplies (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651218,extended,00000000
 
-[Max Troops]
+[Max Troops (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065121C,extended,0098967F
 
-[No Troops]
+[No Troops (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065121C,extended,00000000
 
-[Max Gold]
+[Max Gold (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651234,extended,0098967F
 
-[No Gold]
+[No Gold (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651234,extended,00000000
 
-[Max Supplies]
+[Max Supplies (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651238,extended,0098967F
 
-[No Supplies]
+[No Supplies (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651238,extended,00000000
 
-[Max Troops]
+[Max Troops (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065123C,extended,0098967F
 
-[No Troops]
+[No Troops (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065123C,extended,00000000
 
-[Max Gold]
+[Max Gold (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651254,extended,0098967F
 
-[No Gold]
+[No Gold (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651254,extended,00000000
 
-[Max Supplies]
+[Max Supplies (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651258,extended,0098967F
 
-[No Supplies]
+[No Supplies (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651258,extended,00000000
 
-[Max Troops]
+[Max Troops (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065125C,extended,0098967F
 
-[No Troops]
+[No Troops (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065125C,extended,00000000
 
-[Max Gold]
+[Max Gold (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651274,extended,0098967F
 
-[No Gold]
+[No Gold (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651274,extended,00000000
 
-[Max Supplies]
+[Max Supplies (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651278,extended,0098967F
 
-[No Supplies]
+[No Supplies (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651278,extended,00000000
 
-[Max Troops]
+[Max Troops (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065127C,extended,0098967F
 
-[No Troops]
+[No Troops (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065127C,extended,00000000
 
-[Max Gold]
+[Max Gold (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651294,extended,0098967F
 
-[No Gold]
+[No Gold (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651294,extended,00000000
 
-[Max Supplies]
+[Max Supplies (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651298,extended,0098967F
 
-[No Supplies]
+[No Supplies (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651298,extended,00000000
 
-[Max Troops]
+[Max Troops (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065129C,extended,0098967F
 
-[No Troops]
+[No Troops (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065129C,extended,00000000
 
-[Max Gold]
+[Max Gold (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206512B4,extended,0098967F
 
-[No Gold]
+[No Gold (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206512B4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206512B8,extended,0098967F
 
-[No Supplies]
+[No Supplies (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206512B8,extended,00000000
 
-[Max Troops]
+[Max Troops (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206512BC,extended,0098967F
 
-[No Troops]
+[No Troops (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206512BC,extended,00000000
 
-[Max Gold]
+[Max Gold (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206512D4,extended,0098967F
 
-[No Gold]
+[No Gold (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206512D4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206512D8,extended,0098967F
 
-[No Supplies]
+[No Supplies (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206512D8,extended,00000000
 
-[Max Troops]
+[Max Troops (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206512DC,extended,0098967F
 
-[No Troops]
+[No Troops (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206512DC,extended,00000000
 
-[Max Gold]
+[Max Gold (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206512F4,extended,0098967F
 
-[No Gold]
+[No Gold (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206512F4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206512F8,extended,0098967F
 
-[No Supplies]
+[No Supplies (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206512F8,extended,00000000
 
-[Max Troops]
+[Max Troops (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206512FC,extended,0098967F
 
-[No Troops]
+[No Troops (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206512FC,extended,00000000
 
-[Max Gold]
+[Max Gold (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651314,extended,0098967F
 
-[No Gold]
+[No Gold (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651314,extended,00000000
 
-[Max Supplies]
+[Max Supplies (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651318,extended,0098967F
 
-[No Supplies]
+[No Supplies (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651318,extended,00000000
 
-[Max Troops]
+[Max Troops (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065131C,extended,0098967F
 
-[No Troops]
+[No Troops (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065131C,extended,00000000
 
-[Max Gold]
+[Max Gold (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651334,extended,0098967F
 
-[No Gold]
+[No Gold (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651334,extended,00000000
 
-[Max Supplies]
+[Max Supplies (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651338,extended,0098967F
 
-[No Supplies]
+[No Supplies (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651338,extended,00000000
 
-[Max Troops]
+[Max Troops (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065133C,extended,0098967F
 
-[No Troops]
+[No Troops (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065133C,extended,00000000
 
-[Max Gold]
+[Max Gold (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651354,extended,0098967F
 
-[No Gold]
+[No Gold (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651354,extended,00000000
 
-[Max Supplies]
+[Max Supplies (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651358,extended,0098967F
 
-[No Supplies]
+[No Supplies (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651358,extended,00000000
 
-[Max Troops]
+[Max Troops (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065135C,extended,0098967F
 
-[No Troops]
+[No Troops (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065135C,extended,00000000
 
-[Max Gold]
+[Max Gold (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651374,extended,0098967F
 
-[No Gold]
+[No Gold (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651374,extended,00000000
 
-[Max Supplies]
+[Max Supplies (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651378,extended,0098967F
 
-[No Supplies]
+[No Supplies (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651378,extended,00000000
 
-[Max Troops]
+[Max Troops (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065137C,extended,0098967F
 
-[No Troops]
+[No Troops (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065137C,extended,00000000
 
-[Max Gold]
+[Max Gold (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651394,extended,0098967F
 
-[No Gold]
+[No Gold (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651394,extended,00000000
 
-[Max Supplies]
+[Max Supplies (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651398,extended,0098967F
 
-[No Supplies]
+[No Supplies (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651398,extended,00000000
 
-[Max Troops]
+[Max Troops (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065139C,extended,0098967F
 
-[No Troops]
+[No Troops (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065139C,extended,00000000
 
-[Max Gold]
+[Max Gold (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206513B4,extended,0098967F
 
-[No Gold]
+[No Gold (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206513B4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206513B8,extended,0098967F
 
-[No Supplies]
+[No Supplies (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206513B8,extended,00000000
 
-[Max Troops]
+[Max Troops (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206513BC,extended,0098967F
 
-[No Troops]
+[No Troops (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206513BC,extended,00000000
 
-[Max Gold]
+[Max Gold (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206513D4,extended,0098967F
 
-[No Gold]
+[No Gold (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206513D4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206513D8,extended,0098967F
 
-[No Supplies]
+[No Supplies (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206513D8,extended,00000000
 
-[Max Troops]
+[Max Troops (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206513DC,extended,0098967F
 
-[No Troops]
+[No Troops (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206513DC,extended,00000000
 
-[Max Gold]
+[Max Gold (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206513F4,extended,0098967F
 
-[No Gold]
+[No Gold (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206513F4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206513F8,extended,0098967F
 
-[No Supplies]
+[No Supplies (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206513F8,extended,00000000
 
-[Max Troops]
+[Max Troops (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206513FC,extended,0098967F
 
-[No Troops]
+[No Troops (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206513FC,extended,00000000
 
-[Max Gold]
+[Max Gold (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651414,extended,0098967F
 
-[No Gold]
+[No Gold (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651414,extended,00000000
 
-[Max Supplies]
+[Max Supplies (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651418,extended,0098967F
 
-[No Supplies]
+[No Supplies (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651418,extended,00000000
 
-[Max Troops]
+[Max Troops (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065141C,extended,0098967F
 
-[No Troops]
+[No Troops (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065141C,extended,00000000
 
-[Max Gold]
+[Max Gold (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651434,extended,0098967F
 
-[No Gold]
+[No Gold (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651434,extended,00000000
 
-[Max Supplies]
+[Max Supplies (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651438,extended,0098967F
 
-[No Supplies]
+[No Supplies (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651438,extended,00000000
 
-[Max Troops]
+[Max Troops (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065143C,extended,0098967F
 
-[No Troops]
+[No Troops (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065143C,extended,00000000
 
-[Max Gold]
+[Max Gold (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651454,extended,0098967F
 
-[No Gold]
+[No Gold (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651454,extended,00000000
 
-[Max Supplies]
+[Max Supplies (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651458,extended,0098967F
 
-[No Supplies]
+[No Supplies (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651458,extended,00000000
 
-[Max Troops]
+[Max Troops (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065145C,extended,0098967F
 
-[No Troops]
+[No Troops (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065145C,extended,00000000
 
-[Max Gold]
+[Max Gold (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651474,extended,0098967F
 
-[No Gold]
+[No Gold (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651474,extended,00000000
 
-[Max Supplies]
+[Max Supplies (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651478,extended,0098967F
 
-[No Supplies]
+[No Supplies (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651478,extended,00000000
 
-[Max Troops]
+[Max Troops (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065147C,extended,0098967F
 
-[No Troops]
+[No Troops (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065147C,extended,00000000
 
-[Max Gold]
+[Max Gold (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651494,extended,0098967F
 
-[No Gold]
+[No Gold (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651494,extended,00000000
 
-[Max Supplies]
+[Max Supplies (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651498,extended,0098967F
 
-[No Supplies]
+[No Supplies (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651498,extended,00000000
 
-[Max Troops]
+[Max Troops (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065149C,extended,0098967F
 
-[No Troops]
+[No Troops (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065149C,extended,00000000
 
-[Max Gold]
+[Max Gold (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206514B4,extended,0098967F
 
-[No Gold]
+[No Gold (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206514B4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206514B8,extended,0098967F
 
-[No Supplies]
+[No Supplies (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206514B8,extended,00000000
 
-[Max Troops]
+[Max Troops (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206514BC,extended,0098967F
 
-[No Troops]
+[No Troops (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206514BC,extended,00000000
 
-[Max Gold]
+[Max Gold (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206514D4,extended,0098967F
 
-[No Gold]
+[No Gold (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206514D4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206514D8,extended,0098967F
 
-[No Supplies]
+[No Supplies (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206514D8,extended,00000000
 
-[Max Troops]
+[Max Troops (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206514DC,extended,0098967F
 
-[No Troops]
+[No Troops (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206514DC,extended,00000000
 
-[Max Gold]
+[Max Gold (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206514F4,extended,0098967F
 
-[No Gold]
+[No Gold (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206514F4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206514F8,extended,0098967F
 
-[No Supplies]
+[No Supplies (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206514F8,extended,00000000
 
-[Max Troops]
+[Max Troops (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206514FC,extended,0098967F
 
-[No Troops]
+[No Troops (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206514FC,extended,00000000
 
-[Max Gold]
+[Max Gold (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651514,extended,0098967F
 
-[No Gold]
+[No Gold (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651514,extended,00000000
 
-[Max Supplies]
+[Max Supplies (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651518,extended,0098967F
 
-[No Supplies]
+[No Supplies (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651518,extended,00000000
 
-[Max Troops]
+[Max Troops (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065151C,extended,0098967F
 
-[No Troops]
+[No Troops (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065151C,extended,00000000
 
-[Max Gold]
+[Max Gold (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651534,extended,0098967F
 
-[No Gold]
+[No Gold (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651534,extended,00000000
 
-[Max Supplies]
+[Max Supplies (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651538,extended,0098967F
 
-[No Supplies]
+[No Supplies (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651538,extended,00000000
 
-[Max Troops]
+[Max Troops (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065153C,extended,0098967F
 
-[No Troops]
+[No Troops (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065153C,extended,00000000
 
-[Max Gold]
+[Max Gold (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651554,extended,0098967F
 
-[No Gold]
+[No Gold (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651554,extended,00000000
 
-[Max Supplies]
+[Max Supplies (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651558,extended,0098967F
 
-[No Supplies]
+[No Supplies (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651558,extended,00000000
 
-[Max Troops]
+[Max Troops (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065155C,extended,0098967F
 
-[No Troops]
+[No Troops (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065155C,extended,00000000
 
-[Max Gold]
+[Max Gold (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651574,extended,0098967F
 
-[No Gold]
+[No Gold (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651574,extended,00000000
 
-[Max Supplies]
+[Max Supplies (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651578,extended,0098967F
 
-[No Supplies]
+[No Supplies (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651578,extended,00000000
 
-[Max Troops]
+[Max Troops (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065157C,extended,0098967F
 
-[No Troops]
+[No Troops (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065157C,extended,00000000
 
-[Max Gold]
+[Max Gold (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,20651594,extended,0098967F
 
-[No Gold]
+[No Gold (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,20651594,extended,00000000
 
-[Max Supplies]
+[Max Supplies (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,20651598,extended,0098967F
 
-[No Supplies]
+[No Supplies (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,20651598,extended,00000000
 
-[Max Troops]
+[Max Troops (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,2065159C,extended,0098967F
 
-[No Troops]
+[No Troops (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,2065159C,extended,00000000
 
-[Max Gold]
+[Max Gold (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206515B4,extended,0098967F
 
-[No Gold]
+[No Gold (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206515B4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206515B8,extended,0098967F
 
-[No Supplies]
+[No Supplies (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206515B8,extended,00000000
 
-[Max Troops]
+[Max Troops (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206515BC,extended,0098967F
 
-[No Troops]
+[No Troops (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206515BC,extended,00000000
 
-[Max Gold]
+[Max Gold (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gold
 // Max Gold
 patch=1,EE,206515D4,extended,0098967F
 
-[No Gold]
+[No Gold (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Gold
 // No Gold
 patch=1,EE,206515D4,extended,00000000
 
-[Max Supplies]
+[Max Supplies (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supplies
 // Max Supplies
 patch=1,EE,206515D8,extended,0098967F
 
-[No Supplies]
+[No Supplies (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Supplies
 // No Supplies
 patch=1,EE,206515D8,extended,00000000
 
-[Max Troops]
+[Max Troops (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Troops
 // Max Troops
 patch=1,EE,206515DC,extended,0098967F
 
-[No Troops]
+[No Troops (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Troops
 // No Troops
 patch=1,EE,206515DC,extended,00000000
+
+[Cheats\Create New Office Max WAR]
+patch=1,EE,21E56940,extended,00000064
+patch=1,EE,21E56950,extended,00000064
+
+[Cheats\Create New Office Max INT]
+patch=1,EE,21E56944,extended,00000064
+patch=1,EE,21E56954,extended,00000064
+
+[Cheats\Create New Office Max POL]
+patch=1,EE,21E56948,extended,00000064
+patch=1,EE,21E56958,extended,00000064
+
+[Cheats\Create New Office Max CHA]
+patch=1,EE,21E5694C,extended,00000064
+patch=1,EE,21E5695C,extended,00000064
+
+[Cheats\Create New Office Max Bonus]
+patch=1,EE,21E56960,extended,00000064
+patch=1,EE,21E56964,extended,00000064
+
+[Cheats\Unlock Have All Item Collections]
+patch=1,EE,21E52AC8,extended,FFFFFFFF
+patch=1,EE,21E52ACC,extended,FFFFFFFF
+patch=1,EE,21E52AD0,extended,FFFFFFFF
+
+[Cheats\Unlock Have All Event Collections]
+patch=1,EE,21E52AD4,extended,FFFFFFFF
+patch=1,EE,21E52AD8,extended,FFFFFFFF
+patch=1,EE,21E52ADC,extended,FFFFFFFF

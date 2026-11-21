@@ -132,13 +132,13 @@ description=Human Baron
 // Human Baron
 patch=1,EE,21FFD058,extended,00000001
 
-[Traci Torpedoes]
+[Traci Torpedoes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Traci Torpedoes
 // Traci Torpedoes
 patch=1,EE,21FFD05C,extended,00000001
 
-[Mick Bungadoo]
+[Mick Bungadoo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mick Bungadoo
 // Mick Bungadoo
@@ -156,19 +156,19 @@ description=La Diabla Chiquita
 // La Diabla Chiquita
 patch=1,EE,21FFD068,extended,00000001
 
-[Pauli Atchi]
+[Pauli Atchi (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pauli Atchi
 // Pauli Atchi
 patch=1,EE,21FFD06C,extended,00000001
 
-[Johnny Turbine]
+[Johnny Turbine (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Johnny Turbine
 // Johnny Turbine
 patch=1,EE,21FFD070,extended,00000001
 
-[Myrna Bookbottom]
+[Myrna Bookbottom (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Myrna Bookbottom
 // Myrna Bookbottom
@@ -180,7 +180,7 @@ description=Chicken Hut Sheik
 // Chicken Hut Sheik
 patch=1,EE,21FFD078,extended,00000001
 
-[Island Jack]
+[Island Jack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Island Jack
 // Island Jack
@@ -210,19 +210,19 @@ description=Chef Mick
 // Chef Mick
 patch=1,EE,21FFD08C,extended,00000001
 
-[Sammy Wasabi]
+[Sammy Wasabi (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sammy Wasabi
 // Sammy Wasabi
 patch=1,EE,21FFD090,extended,00000001
 
-[Cactus Rose]
+[Cactus Rose (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cactus Rose
 // Cactus Rose
 patch=1,EE,21FFD094,extended,00000001
 
-[Marcels Moreso]
+[Marcels Moreso (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Marcels Moreso
 // Marcels Moreso
@@ -240,13 +240,13 @@ description=The Marcel Clowns
 // The Marcel Clowns
 patch=1,EE,21FFD0A0,extended,00000001
 
-[Baron Von Slaughter]
+[Baron Von Slaughter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Baron Von Slaughter
 // Baron Von Slaughter
 patch=1,EE,21FFD0A4,extended,00000001
 
-[Sheik Abdul]
+[Sheik Abdul (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sheik Abdul
 // Sheik Abdul

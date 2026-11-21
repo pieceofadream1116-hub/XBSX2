@@ -12,13 +12,13 @@ description=Infinite Time To Answer
 // Infinite Time To Answer
 patch=1,EE,20119CE0,extended,00000000
 
-[Infinite Time To Answer]
+[Infinite Time To Answer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Time To Answer
 // Infinite Time To Answer
 patch=1,EE,2011D2C4,extended,00000000
 
-[Infinite Time To Answer]
+[Infinite Time To Answer (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Time To Answer
 // Infinite Time To Answer
@@ -30,7 +30,7 @@ description=Infinite Time To Answer Fast Money
 // Infinite Time To Answer Fast Money
 patch=1,EE,2012553C,extended,00000000
 
-[Infinite Time To Answer Fast Money]
+[Infinite Time To Answer Fast Money (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Time To Answer Fast Money
 // Infinite Time To Answer Fast Money
@@ -42,37 +42,37 @@ description=Family 1 Starts With 275
 // Family 1 Starts With 275
 patch=1,EE,200C0220,extended,24020113
 
-[Family 1 Starts With 275]
+[Family 1 Starts With 275 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 1 Starts With 275
 // Family 1 Starts With 275
 patch=1,EE,200C0224,extended,8E010034
 
-[Family 1 Starts With 275]
+[Family 1 Starts With 275 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 1 Starts With 275
 // Family 1 Starts With 275
 patch=1,EE,200C0228,extended,50200001
 
-[Family 1 Starts With 275]
+[Family 1 Starts With 275 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 1 Starts With 275
 // Family 1 Starts With 275
 patch=1,EE,200C022C,extended,AE020034
 
-[Family 1 Starts With 275]
+[Family 1 Starts With 275 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 1 Starts With 275
 // Family 1 Starts With 275
 patch=1,EE,200C0230,extended,03E00008
 
-[Family 1 Starts With 275]
+[Family 1 Starts With 275 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 1 Starts With 275
 // Family 1 Starts With 275
 patch=1,EE,200C0234,extended,C6020034
 
-[Family 1 Starts With 275]
+[Family 1 Starts With 275 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 1 Starts With 275
 // Family 1 Starts With 275
@@ -84,83 +84,11 @@ description=Family 1 Starts With 250
 // Family 1 Starts With 250
 patch=1,EE,200C0220,extended,240200FA
 
-[Family 1 Starts With 250]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 250
-// Family 1 Starts With 250
-patch=1,EE,200C0224,extended,8E010034
-
-[Family 1 Starts With 250]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 250
-// Family 1 Starts With 250
-patch=1,EE,200C0228,extended,50200001
-
-[Family 1 Starts With 250]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 250
-// Family 1 Starts With 250
-patch=1,EE,200C022C,extended,AE020034
-
-[Family 1 Starts With 250]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 250
-// Family 1 Starts With 250
-patch=1,EE,200C0230,extended,03E00008
-
-[Family 1 Starts With 250]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 250
-// Family 1 Starts With 250
-patch=1,EE,200C0234,extended,C6020034
-
-[Family 1 Starts With 250]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 250
-// Family 1 Starts With 250
-patch=1,EE,20112814,extended,0C030088
-
 [Family 1 Starts With 200]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 1 Starts With 200
 // Family 1 Starts With 200
 patch=1,EE,200C0220,extended,240200C8
-
-[Family 1 Starts With 200]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 200
-// Family 1 Starts With 200
-patch=1,EE,200C0224,extended,8E010034
-
-[Family 1 Starts With 200]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 200
-// Family 1 Starts With 200
-patch=1,EE,200C0228,extended,50200001
-
-[Family 1 Starts With 200]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 200
-// Family 1 Starts With 200
-patch=1,EE,200C022C,extended,AE020034
-
-[Family 1 Starts With 200]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 200
-// Family 1 Starts With 200
-patch=1,EE,200C0230,extended,03E00008
-
-[Family 1 Starts With 200]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 200
-// Family 1 Starts With 200
-patch=1,EE,200C0234,extended,C6020034
-
-[Family 1 Starts With 200]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 200
-// Family 1 Starts With 200
-patch=1,EE,20112814,extended,0C030088
 
 [Family 1 Starts With 100]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -168,83 +96,11 @@ description=Family 1 Starts With 100
 // Family 1 Starts With 100
 patch=1,EE,200C0220,extended,24020064
 
-[Family 1 Starts With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 100
-// Family 1 Starts With 100
-patch=1,EE,200C0224,extended,8E010034
-
-[Family 1 Starts With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 100
-// Family 1 Starts With 100
-patch=1,EE,200C0228,extended,50200001
-
-[Family 1 Starts With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 100
-// Family 1 Starts With 100
-patch=1,EE,200C022C,extended,AE020034
-
-[Family 1 Starts With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 100
-// Family 1 Starts With 100
-patch=1,EE,200C0230,extended,03E00008
-
-[Family 1 Starts With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 100
-// Family 1 Starts With 100
-patch=1,EE,200C0234,extended,C6020034
-
-[Family 1 Starts With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 100
-// Family 1 Starts With 100
-patch=1,EE,20112814,extended,0C030088
-
 [Family 1 Starts With 50]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 1 Starts With 50
 // Family 1 Starts With 50
 patch=1,EE,200C0220,extended,24020032
-
-[Family 1 Starts With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 50
-// Family 1 Starts With 50
-patch=1,EE,200C0224,extended,8E010034
-
-[Family 1 Starts With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 50
-// Family 1 Starts With 50
-patch=1,EE,200C0228,extended,50200001
-
-[Family 1 Starts With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 50
-// Family 1 Starts With 50
-patch=1,EE,200C022C,extended,AE020034
-
-[Family 1 Starts With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 50
-// Family 1 Starts With 50
-patch=1,EE,200C0230,extended,03E00008
-
-[Family 1 Starts With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 50
-// Family 1 Starts With 50
-patch=1,EE,200C0234,extended,C6020034
-
-[Family 1 Starts With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 1 Starts With 50
-// Family 1 Starts With 50
-patch=1,EE,20112814,extended,0C030088
 
 [Family 2 Starts With 275]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -252,37 +108,37 @@ description=Family 2 Starts With 275
 // Family 2 Starts With 275
 patch=1,EE,200C0240,extended,24020113
 
-[Family 2 Starts With 275]
+[Family 2 Starts With 275 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 2 Starts With 275
 // Family 2 Starts With 275
 patch=1,EE,200C0244,extended,8E010038
 
-[Family 2 Starts With 275]
+[Family 2 Starts With 275 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 2 Starts With 275
 // Family 2 Starts With 275
 patch=1,EE,200C0248,extended,50200001
 
-[Family 2 Starts With 275]
+[Family 2 Starts With 275 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 2 Starts With 275
 // Family 2 Starts With 275
 patch=1,EE,200C024C,extended,AE020038
 
-[Family 2 Starts With 275]
+[Family 2 Starts With 275 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 2 Starts With 275
 // Family 2 Starts With 275
 patch=1,EE,200C0250,extended,03E00008
 
-[Family 2 Starts With 275]
+[Family 2 Starts With 275 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 2 Starts With 275
 // Family 2 Starts With 275
 patch=1,EE,200C0254,extended,46020836
 
-[Family 2 Starts With 275]
+[Family 2 Starts With 275 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 2 Starts With 275
 // Family 2 Starts With 275
@@ -294,83 +150,11 @@ description=Family 2 Starts With 250
 // Family 2 Starts With 250
 patch=1,EE,200C0240,extended,240200FA
 
-[Family 2 Starts With 250]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 250
-// Family 2 Starts With 250
-patch=1,EE,200C0244,extended,8E010038
-
-[Family 2 Starts With 250]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 250
-// Family 2 Starts With 250
-patch=1,EE,200C0248,extended,50200001
-
-[Family 2 Starts With 250]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 250
-// Family 2 Starts With 250
-patch=1,EE,200C024C,extended,AE020038
-
-[Family 2 Starts With 250]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 250
-// Family 2 Starts With 250
-patch=1,EE,200C0250,extended,03E00008
-
-[Family 2 Starts With 250]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 250
-// Family 2 Starts With 250
-patch=1,EE,200C0254,extended,46020836
-
-[Family 2 Starts With 250]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 250
-// Family 2 Starts With 250
-patch=1,EE,20112828,extended,0C030090
-
 [Family 2 Starts With 200]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 2 Starts With 200
 // Family 2 Starts With 200
 patch=1,EE,200C0240,extended,240200C8
-
-[Family 2 Starts With 200]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 200
-// Family 2 Starts With 200
-patch=1,EE,200C0244,extended,8E010038
-
-[Family 2 Starts With 200]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 200
-// Family 2 Starts With 200
-patch=1,EE,200C0248,extended,50200001
-
-[Family 2 Starts With 200]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 200
-// Family 2 Starts With 200
-patch=1,EE,200C024C,extended,AE020038
-
-[Family 2 Starts With 200]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 200
-// Family 2 Starts With 200
-patch=1,EE,200C0250,extended,03E00008
-
-[Family 2 Starts With 200]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 200
-// Family 2 Starts With 200
-patch=1,EE,200C0254,extended,46020836
-
-[Family 2 Starts With 200]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 200
-// Family 2 Starts With 200
-patch=1,EE,20112828,extended,0C030090
 
 [Family 2 Starts With 100]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -378,80 +162,26 @@ description=Family 2 Starts With 100
 // Family 2 Starts With 100
 patch=1,EE,200C0240,extended,24020064
 
-[Family 2 Starts With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 100
-// Family 2 Starts With 100
-patch=1,EE,200C0244,extended,8E010038
-
-[Family 2 Starts With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 100
-// Family 2 Starts With 100
-patch=1,EE,200C0248,extended,50200001
-
-[Family 2 Starts With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 100
-// Family 2 Starts With 100
-patch=1,EE,200C024C,extended,AE020038
-
-[Family 2 Starts With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 100
-// Family 2 Starts With 100
-patch=1,EE,200C0250,extended,03E00008
-
-[Family 2 Starts With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 100
-// Family 2 Starts With 100
-patch=1,EE,200C0254,extended,46020836
-
-[Family 2 Starts With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 100
-// Family 2 Starts With 100
-patch=1,EE,20112828,extended,0C030090
-
 [Family 2 Starts With 50]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Family 2 Starts With 50
 // Family 2 Starts With 50
 patch=1,EE,200C0240,extended,24020032
 
-[Family 2 Starts With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 50
-// Family 2 Starts With 50
-patch=1,EE,200C0244,extended,8E010038
+[Cheats\Infinite Time To Answer]
+patch=1,EE,20119CE0,extended,00000000
+patch=1,EE,2011D2C4,extended,00000000
+patch=1,EE,201230EC,extended,00000000
 
-[Family 2 Starts With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 50
-// Family 2 Starts With 50
-patch=1,EE,200C0248,extended,50200001
+[Cheats\Infinite Time To Answer Fast Money]
+patch=1,EE,2012553C,extended,00000000
+patch=1,EE,20125670,extended,00000000
 
-[Family 2 Starts With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 50
-// Family 2 Starts With 50
-patch=1,EE,200C024C,extended,AE020038
-
-[Family 2 Starts With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 50
-// Family 2 Starts With 50
-patch=1,EE,200C0250,extended,03E00008
-
-[Family 2 Starts With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 50
-// Family 2 Starts With 50
-patch=1,EE,200C0254,extended,46020836
-
-[Family 2 Starts With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Family 2 Starts With 50
-// Family 2 Starts With 50
-patch=1,EE,20112828,extended,0C030090
+[Cheats\Family 1 Starts With 275]
+patch=1,EE,200C0220,extended,24020113
+patch=1,EE,200C0224,extended,8E010034
+patch=1,EE,200C0228,extended,50200001
+patch=1,EE,200C022C,extended,AE020034
+patch=1,EE,200C0230,extended,03E00008
+patch=1,EE,200C0234,extended,C6020034
+patch=1,EE,20112814,extended,0C030088

@@ -36,7 +36,7 @@ description=Start On Lap 3
 // Start On Lap 3
 patch=1,EE,D177ADEA,extended,00000000
 
-[Start On Lap 3]
+[Start On Lap 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 3
 // Start On Lap 3
@@ -54,13 +54,13 @@ description=Have All Choro Q Coins
 // Have All Choro Q Coins
 patch=1,EE,4178FCA8,extended,00030001
 
-[Have All Choro Q Coins]
+[Have All Choro Q Coins (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Choro Q Coins
 // Have All Choro Q Coins
 patch=1,EE,00000000,extended,00000000
 
-[Have All Choro Q Coins]
+[Have All Choro Q Coins (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Choro Q Coins
 // Have All Choro Q Coins
@@ -221,3 +221,18 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tin Raceway
 // Tin Raceway
 patch=1,EE,01780769,extended,00000000
+
+[Cheats\Start On Lap 3]
+patch=1,EE,D177ADEA,extended,00000000
+patch=1,EE,0177ADEB,extended,00000002
+
+[Cheats\Have All Choro Q Coins]
+patch=1,EE,4178FCA8,extended,00030001
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,0178FCB4,extended,00000000
+
+[Cheats\Debug Menu coad Choose New Game]
+patch=1,EE,20205200,extended,24A5B848
+
+[Cheats\Debug Mode]
+patch=1,EE,0033590B,extended,00000001

@@ -1,0 +1,7 @@
+gametitle=オレたちゲーセン族 悪魔城ドラキュラ [SLPM-62729] [806EC1EB]
+
+[Cheats\Infinite Lives]
+patch=1,EE,002F607D,extended,00000099
+
+[Cheats\Infinite Hearts]
+patch=1,EE,002F6089,extended,00000099

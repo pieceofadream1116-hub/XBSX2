@@ -1,0 +1,4 @@
+gametitle=Crazy Frog Racer [SLES-53869] [96767BAD]
+
+[Cheats\God Mode]
+patch=1,EE,0060D147,extended,00000001

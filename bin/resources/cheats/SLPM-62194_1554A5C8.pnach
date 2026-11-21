@@ -1,0 +1,11 @@
+gametitle=日本相撲協會公認 日本大相撲 激闘本場所編 [SLPM-62194] [1554A5C8]
+
+[Cheats\Achieved Without 100 People]
+patch=1,EE,20266D38,extended,00640064
+
+[Cheats\Max Number of Charts Possessed]
+patch=1,EE,10266CA8,extended,0000270F
+
+[Cheats\Full Power can be Selected]
+patch=1,EE,20266C90,extended,FFFFFFFF
+patch=1,EE,20266C94,extended,FFFFFFFF

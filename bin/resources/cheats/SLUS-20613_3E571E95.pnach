@@ -12,49 +12,49 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,8EA10458
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,902100B7
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,14200002
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C022C,extended,00000000
 
-[Infinite Health]
+[Infinite Health (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0230,extended,080F5815
 
-[Infinite Health]
+[Infinite Health (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0234,extended,00000000
 
-[Infinite Health]
+[Infinite Health (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0238,extended,080F8924
 
-[Infinite Health]
+[Infinite Health (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C023C,extended,00000000
 
-[Infinite Health]
+[Infinite Health (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -66,7 +66,7 @@ description=Never Wounded
 // Never Wounded
 patch=1,EE,203E24B4,extended,00000000
 
-[Never Wounded]
+[Never Wounded (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Wounded
 // Never Wounded
@@ -78,7 +78,7 @@ description=Idiot AI-Ground Vehicles
 // Idiot AI-Ground Vehicles
 patch=1,EE,20192910,extended,03E00008
 
-[Idiot AI-Ground Vehicles]
+[Idiot AI-Ground Vehicles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI-Ground Vehicles
 // Idiot AI-Ground Vehicles
@@ -90,7 +90,7 @@ description=Enemy Awareness Never Updated
 // Enemy Awareness Never Updated
 patch=1,EE,203F3830,extended,03E00008
 
-[Enemy Awareness Never Updated]
+[Enemy Awareness Never Updated (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemy Awareness Never Updated
 // Enemy Awareness Never Updated
@@ -126,7 +126,7 @@ description=God Mode For Your Team
 // God Mode For Your Team
 patch=1,EE,2017FC94,extended,24020001
 
-[Infinite Ammo]
+[Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
@@ -156,7 +156,7 @@ description=Zoom Further
 // Zoom Further
 patch=1,EE,20220D00,extended,3C014200
 
-[Zoom Further]
+[Zoom Further (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zoom Further
 // Zoom Further
@@ -167,12 +167,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zoom Even Further
 // Zoom Even Further
 patch=1,EE,20220D00,extended,3C014300
-
-[Zoom Even Further]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Zoom Even Further
-// Zoom Even Further
-patch=1,EE,20220D28,extended,44810000
 
 [Max Infinite Ammo/No Reload]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -204,7 +198,7 @@ description=Quick Characters
 // Quick Characters
 patch=1,EE,20364FC0,extended,3C013E00
 
-[Quick Characters]
+[Quick Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Characters
 // Quick Characters
@@ -228,13 +222,13 @@ description=P1 Press {L1}+{R2} To Enable Team Shadow
 // P1 Press {L1}+{R2} To Enable Team Shadow
 patch=1,EE,E002EFFD,extended,005DF002
 
-[P1 Press {L1}+{R2} To Enable Team Shadow]
+[P1 Press {L1}+{R2} To Enable Team Shadow (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{R2} To Enable Team Shadow
 // P1 Press {L1}+{R2} To Enable Team Shadow
 patch=1,EE,2017FC44,extended,24020001
 
-[P1 Press {L1}+{R2} To Enable Team Shadow]
+[P1 Press {L1}+{R2} To Enable Team Shadow (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{R2} To Enable Team Shadow
 // P1 Press {L1}+{R2} To Enable Team Shadow
@@ -246,13 +240,13 @@ description=P1 Press {L1}+{R1} To Disable Team Shadow
 // P1 Press {L1}+{R1} To Disable Team Shadow
 patch=1,EE,E002BFFD,extended,005DF002
 
-[P1 Press {L1}+{R1} To Disable Team Shadow]
+[P1 Press {L1}+{R1} To Disable Team Shadow (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{R1} To Disable Team Shadow
 // P1 Press {L1}+{R1} To Disable Team Shadow
 patch=1,EE,2017FC44,extended,90820358
 
-[P1 Press {L1}+{R1} To Disable Team Shadow]
+[P1 Press {L1}+{R1} To Disable Team Shadow (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{R1} To Disable Team Shadow
 // P1 Press {L1}+{R1} To Disable Team Shadow
@@ -264,7 +258,7 @@ description=P1 Press Up+{SELECT} To Enable Walk Through Walls
 // P1 Press Up+{SELECT} To Enable Walk Through Walls
 patch=1,EE,D05DF002,extended,0000FFEE
 
-[P1 Press Up+{SELECT} To Enable Walk Through Walls]
+[P1 Press Up+{SELECT} To Enable Walk Through Walls (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press Up+{SELECT} To Enable Walk Through Walls
 // P1 Press Up+{SELECT} To Enable Walk Through Walls
@@ -276,7 +270,7 @@ description=P1 Press Down+{SELECT} To Disable Walk Through Walls
 // P1 Press Down+{SELECT} To Disable Walk Through Walls
 patch=1,EE,D05DF002,extended,0000FFBE
 
-[P1 Press Down+{SELECT} To Disable Walk Through Walls]
+[P1 Press Down+{SELECT} To Disable Walk Through Walls (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press Down+{SELECT} To Disable Walk Through Walls
 // P1 Press Down+{SELECT} To Disable Walk Through Walls
@@ -286,15 +280,9 @@ patch=1,EE,203CD9F8,extended,7080AE28
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3}+{TRIANGLE} To Become Invisible
 // P1 Press {L3}+{TRIANGLE} To Become Invisible
-patch=1,EE,E002EFFD,extended,005DF002
-
-[P1 Press {L3}+{TRIANGLE} To Become Invisible]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L3}+{TRIANGLE} To Become Invisible
-// P1 Press {L3}+{TRIANGLE} To Become Invisible
 patch=1,EE,203F37DC,extended,AE00002C
 
-[P1 Press {L3}+{TRIANGLE} To Become Invisible]
+[P1 Press {L3}+{TRIANGLE} To Become Invisible (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3}+{TRIANGLE} To Become Invisible
 // P1 Press {L3}+{TRIANGLE} To Become Invisible
@@ -304,16 +292,25 @@ patch=1,EE,203F3800,extended,AE00002C
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3}+{CROSS} To Become Visible Again
 // P1 Press {L3}+{CROSS} To Become Visible Again
-patch=1,EE,E002BFFD,extended,005DF002
-
-[P1 Press {L3}+{CROSS} To Become Visible Again]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L3}+{CROSS} To Become Visible Again
-// P1 Press {L3}+{CROSS} To Become Visible Again
 patch=1,EE,203F37DC,extended,0C0FCE0C
 
-[P1 Press {L3}+{CROSS} To Become Visible Again]
+[P1 Press {L3}+{CROSS} To Become Visible Again (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3}+{CROSS} To Become Visible Again
 // P1 Press {L3}+{CROSS} To Become Visible Again
 patch=1,EE,203F3800,extended,E6140028
+
+[Cheats\Infinite Health]
+patch=1,EE,200C0220,extended,8EA10458
+patch=1,EE,200C0224,extended,902100B7
+patch=1,EE,200C0228,extended,14200002
+patch=1,EE,200C022C,extended,00000000
+patch=1,EE,200C0230,extended,080F5815
+patch=1,EE,200C0234,extended,00000000
+patch=1,EE,200C0238,extended,080F8924
+patch=1,EE,200C023C,extended,00000000
+patch=1,EE,203D5518,extended,0C030088
+
+[Cheats\Never Wounded]
+patch=1,EE,203E24B4,extended,00000000
+patch=1,EE,203E24DC,extended,00000000

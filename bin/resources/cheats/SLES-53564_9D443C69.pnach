@@ -1,0 +1,243 @@
+gametitle=Darkwatch [UNKNOWN] [9D443C69]
+
+[Infinite grenades]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite grenades
+// Infinite grenades
+patch=1,EE,202A5C78,extended,00000000
+
+[Infinite reload]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite reload
+// Infinite reload
+patch=1,EE,202A7944,extended,00000000
+
+[Infinite health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,200FFE00,extended,3C0142C8
+
+[Infinite health (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,200FFE0C,extended,AE210098
+
+[Infinite health (3)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,200FFE10,extended,AE21002C
+
+[Infinite health (4)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,200FFE14,extended,03E00008
+
+[Infinite health (5)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,2021F4F0,extended,0C03FF80
+
+[Infinite shield]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite shield
+// Infinite shield
+patch=1,EE,200FFE04,extended,AE2100A0
+
+[Infinite shield (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite shield
+// Infinite shield
+patch=1,EE,200FFE08,extended,AE2100A4
+
+[Level - 01 .Canyonshoot]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 01 .Canyonshoot
+// Level - 01 .Canyonshoot
+patch=1,EE,20320908,extended,24040001
+
+[Level - 02. Cemetery]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 02. Cemetery
+// Level - 02. Cemetery
+patch=1,EE,20320908,extended,24040002
+
+[Level - 03. DevilsBelly]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 03. DevilsBelly
+// Level - 03. DevilsBelly
+patch=1,EE,20320908,extended,24040003
+
+[Level - 04. DWOutPost]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 04. DWOutPost
+// Level - 04. DWOutPost
+patch=1,EE,20320908,extended,24040004
+
+[Level - 05. WarTrain]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 05. WarTrain
+// Level - 05. WarTrain
+patch=1,EE,20320908,extended,24040005
+
+[Level - 06. TortureMaze]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 06. TortureMaze
+// Level - 06. TortureMaze
+patch=1,EE,20320908,extended,24040006
+
+[Level - 07. TradingPost]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 07. TradingPost
+// Level - 07. TradingPost
+patch=1,EE,20320908,extended,24040007
+
+[Level - 08. Citadel_Launch]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 08. Citadel_Launch
+// Level - 08. Citadel_Launch
+patch=1,EE,20320908,extended,24040008
+
+[Level - 09. SplittingPaths]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 09. SplittingPaths
+// Level - 09. SplittingPaths
+patch=1,EE,20320908,extended,24040009
+
+[Level - 10. Regulator]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 10. Regulator
+// Level - 10. Regulator
+patch=1,EE,20320908,extended,2404000A
+
+[Level - 11. Invasion]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 11. Invasion
+// Level - 11. Invasion
+patch=1,EE,20320908,extended,2404000B
+
+[Level - 12. HangTown]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 12. HangTown
+// Level - 12. HangTown
+patch=1,EE,20320908,extended,2404000C
+
+[Level - 13. Citadel Under attack]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 13. Citadel Under attack
+// Level - 13. Citadel Under attack
+patch=1,EE,20320908,extended,2404000D
+
+[Level - 14. Fall of Citadel]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 14. Fall of Citadel
+// Level - 14. Fall of Citadel
+patch=1,EE,20320908,extended,2404000E
+
+[Level - 15. Ride to Dead Fall]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 15. Ride to Dead Fall
+// Level - 15. Ride to Dead Fall
+patch=1,EE,20320908,extended,2404000F
+
+[Level - 16. Penetrating Dead Fall]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 16. Penetrating Dead Fall
+// Level - 16. Penetrating Dead Fall
+patch=1,EE,20320908,extended,24040010
+
+[Level - 17. Ground Zero]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 17. Ground Zero
+// Level - 17. Ground Zero
+patch=1,EE,20320908,extended,24040011
+
+[Cheats\Infinite Health]
+patch=1,EE,200FFE00,extended,3C0142C8
+patch=1,EE,200FFE0C,extended,AE210098
+patch=1,EE,200FFE10,extended,AE21002C
+patch=1,EE,200FFE14,extended,03E00008
+patch=1,EE,2021F4F0,extended,0C03FF80
+
+[Cheats\Infinite Lore]
+patch=1,EE,200FFE00,extended,3C0142C8
+patch=1,EE,200FFE04,extended,AE2100A0
+patch=1,EE,200FFE08,extended,AE2100A4
+patch=1,EE,200FFE14,extended,03E00008
+patch=1,EE,2021F4F0,extended,0C03FF80
+
+[Cheats\Infinite Blood Shield]
+patch=1,EE,200C0240,extended,8C81000C
+patch=1,EE,200C0244,extended,8C210090
+patch=1,EE,200C0248,extended,30210006
+patch=1,EE,200C024C,extended,10200002
+patch=1,EE,200C0250,extended,8C8100A4
+patch=1,EE,200C0254,extended,AC8100A0
+patch=1,EE,200C0258,extended,08087A55
+patch=1,EE,200C025C,extended,C48000A0
+patch=1,EE,2021E950,extended,08030090
+
+[Cheats\Infinite Ammo]
+patch=1,EE,202A7948,extended,00000000
+
+[Cheats\Infinite Blood Bar]
+patch=1,EE,2021F684,extended,00000000
+
+[Cheats\Infinite Power Usage press Right+Select=ON Left+Select=OFF]
+patch=1,EE,D073E182,extended,0000FFDE
+patch=1,EE,202693A8,extended,00000000
+patch=1,EE,D073E182,extended,0000FF7E
+patch=1,EE,202693A8,extended,E60100FC
+patch=1,EE,202A7944,extended,00000000
+
+[Cheats\Level Modifiers Canyon Shoot - Ride Like The Devil]
+patch=0,EE,20320908,extended,24040001
+
+[Cheats\Level Modifiers Cemetery - Boneyard]
+patch=0,EE,20320908,extended,24040002
+
+[Cheats\Level Modifiers Devil's Belly Mine]
+patch=0,EE,20320908,extended,24040003
+
+[Cheats\Level Modifiers Darkwatch Outpost]
+patch=0,EE,20320908,extended,24040004
+
+[Cheats\Level Modifiers War Train]
+patch=0,EE,20320908,extended,24040005
+
+[Cheats\Level Modifiers Torture Maze]
+patch=0,EE,20320908,extended,24040006
+
+[Cheats\Level Modifiers Trading Post - Baptism Of Fire]
+patch=0,EE,20320908,extended,24040007
+
+[Cheats\Level Modifiers Citadel]
+patch=0,EE,20320908,extended,24040008
+
+[Cheats\Level Modifiers Regulator - Rescue]
+patch=0,EE,20320908,extended,2404000A
+
+[Cheats\Level Modifiers Splitting Paths - The Deadlight Prism]
+patch=0,EE,20320908,extended,24040009
+
+[Cheats\Level Modifiers Invasion]
+patch=0,EE,20320908,extended,2404000B
+
+[Cheats\Level Modifiers Hangtown]
+patch=0,EE,20320908,extended,2404000C
+
+[Cheats\Level Modifiers Citadel Under Attack - The Morning After]
+patch=0,EE,20320908,extended,2404000D
+
+[Cheats\Level Modifiers Fall Of Citadel - Showdown]
+patch=0,EE,20320908,extended,2404000E
+
+[Cheats\Level Modifiers Ride To Deadfall - The Right Train]
+patch=0,EE,20320908,extended,2404000F
+
+[Cheats\Level Modifiers Penetrating Deadfall - Deadfall]
+patch=0,EE,20320908,extended,24040010

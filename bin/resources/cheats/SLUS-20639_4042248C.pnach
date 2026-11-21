@@ -12,7 +12,7 @@ description=Unlock All Characters (All User Slots)
 // Unlock All Characters (All User Slots)
 patch=1,EE,201570E0,extended,24030001
 
-[Unlock All Characters (All User Slots)]
+[Unlock All Characters (All User Slots) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters (All User Slots)
 // Unlock All Characters (All User Slots)
@@ -24,13 +24,13 @@ description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,202301B0,extended,43FA0000
 
-[Infinite Health P1]
+[Infinite Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,202301B4,extended,43FA0000
 
-[Infinite Health P1]
+[Infinite Health P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1
 // Infinite Health P1
@@ -126,13 +126,13 @@ description=Infinite Health P2
 // Infinite Health P2
 patch=1,EE,20230E88,extended,43FA0000
 
-[Infinite Health P2]
+[Infinite Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P2
 // Infinite Health P2
 patch=1,EE,20230E8C,extended,43FA0000
 
-[Infinite Health P2]
+[Infinite Health P2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P2
 // Infinite Health P2
@@ -228,13 +228,13 @@ description=Infinite Health P3
 // Infinite Health P3
 patch=1,EE,20231B60,extended,43FA0000
 
-[Infinite Health P3]
+[Infinite Health P3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P3
 // Infinite Health P3
 patch=1,EE,20231B64,extended,43FA0000
 
-[Infinite Health P3]
+[Infinite Health P3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P3
 // Infinite Health P3
@@ -330,13 +330,13 @@ description=Infinite Health P4
 // Infinite Health P4
 patch=1,EE,20232838,extended,43FA0000
 
-[Infinite Health P4]
+[Infinite Health P4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P4
 // Infinite Health P4
 patch=1,EE,2023283C,extended,43FA0000
 
-[Infinite Health P4]
+[Infinite Health P4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P4
 // Infinite Health P4
@@ -522,109 +522,109 @@ description=Max Charisma
 // Max Charisma
 patch=1,EE,2029E5F0,extended,0000001E
 
-[Max Power]
+[Max Power (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power
 // Max Power
 patch=1,EE,2029E734,extended,0000001E
 
-[Max Speed]
+[Max Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2029E738,extended,0000001E
 
-[Max Grapple]
+[Max Grapple (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grapple
 // Max Grapple
 patch=1,EE,2029E73C,extended,0000001E
 
-[Max Defense]
+[Max Defense (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,2029E740,extended,0000001E
 
-[Max Stamina]
+[Max Stamina (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Stamina
 // Max Stamina
 patch=1,EE,2029E744,extended,0000001E
 
-[Max Charisma]
+[Max Charisma (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Charisma
 // Max Charisma
 patch=1,EE,2029E748,extended,0000001E
 
-[Max Power]
+[Max Power (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power
 // Max Power
 patch=1,EE,2029E7E0,extended,0000001E
 
-[Max Speed]
+[Max Speed (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2029E7E4,extended,0000001E
 
-[Max Grapple]
+[Max Grapple (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grapple
 // Max Grapple
 patch=1,EE,2029E7E8,extended,0000001E
 
-[Max Defense]
+[Max Defense (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,2029E7EC,extended,0000001E
 
-[Max Stamina]
+[Max Stamina (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Stamina
 // Max Stamina
 patch=1,EE,2029E7F0,extended,0000001E
 
-[Max Charisma]
+[Max Charisma (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Charisma
 // Max Charisma
 patch=1,EE,2029E7F4,extended,0000001E
 
-[Max Power]
+[Max Power (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power
 // Max Power
 patch=1,EE,2029E688,extended,0000001E
 
-[Max Speed]
+[Max Speed (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed
 // Max Speed
 patch=1,EE,2029E68C,extended,0000001E
 
-[Max Grapple]
+[Max Grapple (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Grapple
 // Max Grapple
 patch=1,EE,2029E690,extended,0000001E
 
-[Max Defense]
+[Max Defense (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,2029E694,extended,0000001E
 
-[Max Stamina]
+[Max Stamina (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Stamina
 // Max Stamina
 patch=1,EE,2029E698,extended,0000001E
 
-[Max Charisma]
+[Max Charisma (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Charisma
 // Max Charisma
@@ -636,7 +636,7 @@ description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,40241108,extended,000B0001
 
-[Unlock All Characters]
+[Unlock All Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
@@ -648,19 +648,13 @@ description=Unlock All Stages
 // Unlock All Stages
 patch=1,EE,40241138,extended,00030001
 
-[Unlock All Stages]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Stages
-// Unlock All Stages
-patch=1,EE,01010101,extended,00000000
-
 [Unlock All Deja Pics]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,40241144,extended,00060001
 
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
@@ -672,23 +666,11 @@ description=Unlock All T'ai Pics
 // Unlock All T'ai Pics
 patch=1,EE,4024115C,extended,00060001
 
-[Unlock All T'ai Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All T'ai Pics
-// Unlock All T'ai Pics
-patch=1,EE,0100F0A1,extended,00000000
-
 [Unlock All Opal Pics]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Opal Pics
 // Unlock All Opal Pics
 patch=1,EE,40241174,extended,00060001
-
-[Unlock All Opal Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Opal Pics
-// Unlock All Opal Pics
-patch=1,EE,0100F0A1,extended,00000000
 
 [Unlock All Penny Pics]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -696,692 +678,398 @@ description=Unlock All Penny Pics
 // Unlock All Penny Pics
 patch=1,EE,4024118C,extended,00060001
 
-[Unlock All Penny Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Penny Pics
-// Unlock All Penny Pics
-patch=1,EE,0100F0A1,extended,00000000
-
 [Unlock All Angel Pics]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Angel Pics
 // Unlock All Angel Pics
 patch=1,EE,402411A4,extended,00060001
 
-[Unlock All Angel Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Angel Pics
-// Unlock All Angel Pics
-patch=1,EE,0100F0A1,extended,00000000
-
-[Unlock All Characters]
+[Unlock All Characters (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,40241314,extended,000B0001
 
-[Unlock All Characters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Characters
-// Unlock All Characters
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Stages]
+[Unlock All Stages (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Stages
 // Unlock All Stages
 patch=1,EE,40241344,extended,00030001
 
-[Unlock All Stages]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Stages
-// Unlock All Stages
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,40241350,extended,00060001
 
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,0100F2AD,extended,00000000
 
-[Unlock All T'ai Pics]
+[Unlock All T'ai Pics (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All T'ai Pics
 // Unlock All T'ai Pics
 patch=1,EE,40241368,extended,00060001
 
-[Unlock All T'ai Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All T'ai Pics
-// Unlock All T'ai Pics
-patch=1,EE,0100F2AD,extended,00000000
-
-[Unlock All Opal Pics]
+[Unlock All Opal Pics (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Opal Pics
 // Unlock All Opal Pics
 patch=1,EE,40241380,extended,00060001
 
-[Unlock All Opal Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Opal Pics
-// Unlock All Opal Pics
-patch=1,EE,0100F2AD,extended,00000000
-
-[Unlock All Penny Pics]
+[Unlock All Penny Pics (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Penny Pics
 // Unlock All Penny Pics
 patch=1,EE,40241398,extended,00060001
 
-[Unlock All Penny Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Penny Pics
-// Unlock All Penny Pics
-patch=1,EE,0100F2AD,extended,00000000
-
-[Unlock All Angel Pics]
+[Unlock All Angel Pics (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Angel Pics
 // Unlock All Angel Pics
 patch=1,EE,402413B0,extended,00060001
 
-[Unlock All Angel Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Angel Pics
-// Unlock All Angel Pics
-patch=1,EE,0100F2AD,extended,00000000
-
-[Unlock All Characters]
+[Unlock All Characters (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,40241520,extended,000B0001
 
-[Unlock All Characters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Characters
-// Unlock All Characters
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Stages]
+[Unlock All Stages (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Stages
 // Unlock All Stages
 patch=1,EE,40241550,extended,00030001
 
-[Unlock All Stages]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Stages
-// Unlock All Stages
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,4024155C,extended,00060001
 
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,0100F4B9,extended,00000000
 
-[Unlock All T'ai Pics]
+[Unlock All T'ai Pics (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All T'ai Pics
 // Unlock All T'ai Pics
 patch=1,EE,40241574,extended,00060001
 
-[Unlock All T'ai Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All T'ai Pics
-// Unlock All T'ai Pics
-patch=1,EE,0100F4B9,extended,00000000
-
-[Unlock All Opal Pics]
+[Unlock All Opal Pics (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Opal Pics
 // Unlock All Opal Pics
 patch=1,EE,4024158C,extended,00060001
 
-[Unlock All Opal Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Opal Pics
-// Unlock All Opal Pics
-patch=1,EE,0100F4B9,extended,00000000
-
-[Unlock All Penny Pics]
+[Unlock All Penny Pics (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Penny Pics
 // Unlock All Penny Pics
 patch=1,EE,402415A4,extended,00060001
 
-[Unlock All Penny Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Penny Pics
-// Unlock All Penny Pics
-patch=1,EE,0100F4B9,extended,00000000
-
-[Unlock All Angel Pics]
+[Unlock All Angel Pics (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Angel Pics
 // Unlock All Angel Pics
 patch=1,EE,402415BC,extended,00060001
 
-[Unlock All Angel Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Angel Pics
-// Unlock All Angel Pics
-patch=1,EE,0100F4B9,extended,00000000
-
-[Unlock All Characters]
+[Unlock All Characters (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,4024172C,extended,000B0001
 
-[Unlock All Characters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Characters
-// Unlock All Characters
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Stages]
+[Unlock All Stages (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Stages
 // Unlock All Stages
 patch=1,EE,4024175C,extended,00030001
 
-[Unlock All Stages]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Stages
-// Unlock All Stages
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,40241768,extended,00060001
 
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,0100F6C5,extended,00000000
 
-[Unlock All T'ai Pics]
+[Unlock All T'ai Pics (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All T'ai Pics
 // Unlock All T'ai Pics
 patch=1,EE,40241780,extended,00060001
 
-[Unlock All T'ai Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All T'ai Pics
-// Unlock All T'ai Pics
-patch=1,EE,0100F6C5,extended,00000000
-
-[Unlock All Opal Pics]
+[Unlock All Opal Pics (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Opal Pics
 // Unlock All Opal Pics
 patch=1,EE,40241798,extended,00060001
 
-[Unlock All Opal Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Opal Pics
-// Unlock All Opal Pics
-patch=1,EE,0100F6C5,extended,00000000
-
-[Unlock All Penny Pics]
+[Unlock All Penny Pics (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Penny Pics
 // Unlock All Penny Pics
 patch=1,EE,402417B0,extended,00060001
 
-[Unlock All Penny Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Penny Pics
-// Unlock All Penny Pics
-patch=1,EE,0100F6C5,extended,00000000
-
-[Unlock All Angel Pics]
+[Unlock All Angel Pics (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Angel Pics
 // Unlock All Angel Pics
 patch=1,EE,402417C8,extended,00060001
 
-[Unlock All Angel Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Angel Pics
-// Unlock All Angel Pics
-patch=1,EE,0100F6C5,extended,00000000
-
-[Unlock All Characters]
+[Unlock All Characters (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,40241938,extended,000B0001
 
-[Unlock All Characters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Characters
-// Unlock All Characters
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Stages]
+[Unlock All Stages (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Stages
 // Unlock All Stages
 patch=1,EE,40241968,extended,00030001
 
-[Unlock All Stages]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Stages
-// Unlock All Stages
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,40241974,extended,00060001
 
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,0100F8D1,extended,00000000
 
-[Unlock All T'ai Pics]
+[Unlock All T'ai Pics (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All T'ai Pics
 // Unlock All T'ai Pics
 patch=1,EE,4024198C,extended,00060001
 
-[Unlock All T'ai Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All T'ai Pics
-// Unlock All T'ai Pics
-patch=1,EE,0100F8D1,extended,00000000
-
-[Unlock All Opal Pics]
+[Unlock All Opal Pics (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Opal Pics
 // Unlock All Opal Pics
 patch=1,EE,402419A4,extended,00060001
 
-[Unlock All Opal Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Opal Pics
-// Unlock All Opal Pics
-patch=1,EE,0100F8D1,extended,00000000
-
-[Unlock All Penny Pics]
+[Unlock All Penny Pics (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Penny Pics
 // Unlock All Penny Pics
 patch=1,EE,402419BC,extended,00060001
 
-[Unlock All Penny Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Penny Pics
-// Unlock All Penny Pics
-patch=1,EE,0100F8D1,extended,00000000
-
-[Unlock All Angel Pics]
+[Unlock All Angel Pics (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Angel Pics
 // Unlock All Angel Pics
 patch=1,EE,402419D4,extended,00060001
 
-[Unlock All Angel Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Angel Pics
-// Unlock All Angel Pics
-patch=1,EE,0100F8D1,extended,00000000
-
-[Unlock All Characters]
+[Unlock All Characters (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,40241B44,extended,000B0001
 
-[Unlock All Characters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Characters
-// Unlock All Characters
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Stages]
+[Unlock All Stages (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Stages
 // Unlock All Stages
 patch=1,EE,40241B74,extended,00030001
 
-[Unlock All Stages]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Stages
-// Unlock All Stages
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,40241B80,extended,00060001
 
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,0100FADD,extended,00000000
 
-[Unlock All T'ai Pics]
+[Unlock All T'ai Pics (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All T'ai Pics
 // Unlock All T'ai Pics
 patch=1,EE,40241B98,extended,00060001
 
-[Unlock All T'ai Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All T'ai Pics
-// Unlock All T'ai Pics
-patch=1,EE,0100FADD,extended,00000000
-
-[Unlock All Opal Pics]
+[Unlock All Opal Pics (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Opal Pics
 // Unlock All Opal Pics
 patch=1,EE,40241BB0,extended,00060001
 
-[Unlock All Opal Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Opal Pics
-// Unlock All Opal Pics
-patch=1,EE,0100FADD,extended,00000000
-
-[Unlock All Penny Pics]
+[Unlock All Penny Pics (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Penny Pics
 // Unlock All Penny Pics
 patch=1,EE,40241BC8,extended,00060001
 
-[Unlock All Penny Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Penny Pics
-// Unlock All Penny Pics
-patch=1,EE,0100FADD,extended,00000000
-
-[Unlock All Angel Pics]
+[Unlock All Angel Pics (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Angel Pics
 // Unlock All Angel Pics
 patch=1,EE,40241BE0,extended,00060001
 
-[Unlock All Angel Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Angel Pics
-// Unlock All Angel Pics
-patch=1,EE,0100FADD,extended,00000000
-
-[Unlock All Characters]
+[Unlock All Characters (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,40241D50,extended,000B0001
 
-[Unlock All Characters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Characters
-// Unlock All Characters
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Stages]
+[Unlock All Stages (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Stages
 // Unlock All Stages
 patch=1,EE,40241D80,extended,00030001
 
-[Unlock All Stages]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Stages
-// Unlock All Stages
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,40241D8C,extended,00060001
 
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,0100FCE9,extended,00000000
 
-[Unlock All T'ai Pics]
+[Unlock All T'ai Pics (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All T'ai Pics
 // Unlock All T'ai Pics
 patch=1,EE,40241DA4,extended,00060001
 
-[Unlock All T'ai Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All T'ai Pics
-// Unlock All T'ai Pics
-patch=1,EE,0100FCE9,extended,00000000
-
-[Unlock All Opal Pics]
+[Unlock All Opal Pics (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Opal Pics
 // Unlock All Opal Pics
 patch=1,EE,40241DBC,extended,00060001
 
-[Unlock All Opal Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Opal Pics
-// Unlock All Opal Pics
-patch=1,EE,0100FCE9,extended,00000000
-
-[Unlock All Penny Pics]
+[Unlock All Penny Pics (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Penny Pics
 // Unlock All Penny Pics
 patch=1,EE,40241DD4,extended,00060001
 
-[Unlock All Penny Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Penny Pics
-// Unlock All Penny Pics
-patch=1,EE,0100FCE9,extended,00000000
-
-[Unlock All Angel Pics]
+[Unlock All Angel Pics (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Angel Pics
 // Unlock All Angel Pics
 patch=1,EE,40241DEC,extended,00060001
 
-[Unlock All Angel Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Angel Pics
-// Unlock All Angel Pics
-patch=1,EE,0100FCE9,extended,00000000
-
-[Unlock All Characters]
+[Unlock All Characters (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,40241F5C,extended,000B0001
 
-[Unlock All Characters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Characters
-// Unlock All Characters
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Stages]
+[Unlock All Stages (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Stages
 // Unlock All Stages
 patch=1,EE,40241F8C,extended,00030001
 
-[Unlock All Stages]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Stages
-// Unlock All Stages
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,40241F98,extended,00060001
 
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,0100FEF5,extended,00000000
 
-[Unlock All T'ai Pics]
+[Unlock All T'ai Pics (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All T'ai Pics
 // Unlock All T'ai Pics
 patch=1,EE,40241FB0,extended,00060001
 
-[Unlock All T'ai Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All T'ai Pics
-// Unlock All T'ai Pics
-patch=1,EE,0100FEF5,extended,00000000
-
-[Unlock All Opal Pics]
+[Unlock All Opal Pics (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Opal Pics
 // Unlock All Opal Pics
 patch=1,EE,40241FC8,extended,00060001
 
-[Unlock All Opal Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Opal Pics
-// Unlock All Opal Pics
-patch=1,EE,0100FEF5,extended,00000000
-
-[Unlock All Penny Pics]
+[Unlock All Penny Pics (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Penny Pics
 // Unlock All Penny Pics
 patch=1,EE,40241FE0,extended,00060001
 
-[Unlock All Penny Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Penny Pics
-// Unlock All Penny Pics
-patch=1,EE,0100FEF5,extended,00000000
-
-[Unlock All Angel Pics]
+[Unlock All Angel Pics (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Angel Pics
 // Unlock All Angel Pics
 patch=1,EE,40241FF8,extended,00060001
 
-[Unlock All Angel Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Angel Pics
-// Unlock All Angel Pics
-patch=1,EE,0100FEF5,extended,00000000
-
-[Unlock All Characters]
+[Unlock All Characters (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,40242168,extended,000B0001
 
-[Unlock All Characters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Characters
-// Unlock All Characters
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Stages]
+[Unlock All Stages (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Stages
 // Unlock All Stages
 patch=1,EE,40242198,extended,00030001
 
-[Unlock All Stages]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Stages
-// Unlock All Stages
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Deja Pics]
+[Unlock All Deja Pics (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Deja Pics
 // Unlock All Deja Pics
 patch=1,EE,402421A4,extended,00060001
 
-[Unlock All Deja Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Deja Pics
-// Unlock All Deja Pics
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All T'ai Pics]
+[Unlock All T'ai Pics (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All T'ai Pics
 // Unlock All T'ai Pics
 patch=1,EE,402421BC,extended,00060001
 
-[Unlock All T'ai Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All T'ai Pics
-// Unlock All T'ai Pics
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Opal Pics]
+[Unlock All Opal Pics (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Opal Pics
 // Unlock All Opal Pics
 patch=1,EE,402421D4,extended,00060001
 
-[Unlock All Opal Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Opal Pics
-// Unlock All Opal Pics
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Penny Pics]
+[Unlock All Penny Pics (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Penny Pics
 // Unlock All Penny Pics
 patch=1,EE,402421EC,extended,00060001
 
-[Unlock All Penny Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Penny Pics
-// Unlock All Penny Pics
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Angel Pics]
+[Unlock All Angel Pics (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Angel Pics
 // Unlock All Angel Pics
 patch=1,EE,40242204,extended,00060001
 
-[Unlock All Angel Pics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Angel Pics
-// Unlock All Angel Pics
-patch=1,EE,01010101,extended,00000000
+[Cheats\Infinite Health Player 1]
+patch=1,EE,202301B0,extended,43FA0000
+patch=1,EE,202301B4,extended,43FA0000
+patch=1,EE,202301B8,extended,43FA0000
+
+[Cheats\Story Mode = Debug Story Mode to access this screen. You can choose the event scene, funds, and language here.]
+patch=1,EE,0016FF84,extended,00000001
+
+[Cheats\Unlock All Characters All User Slots]
+patch=1,EE,201570E0,extended,24030001
+patch=1,EE,201570E4,extended,A0430000

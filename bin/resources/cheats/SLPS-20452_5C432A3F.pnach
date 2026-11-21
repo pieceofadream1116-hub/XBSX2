@@ -1,0 +1,14 @@
+gametitle=SIMPLE2000シリーズ Ultimate Vol.30 降臨！族車ゴッド～仏恥義理★愛羅武勇～ [SLPS-20452] [5C432A3F]
+
+[Cheats\Max KP]
+patch=1,EE,201F3FA4,extended,05F5E0FF
+
+[Cheats\Unlock All Battle Characters In Story Mode]
+patch=1,EE,001F40B0,extended,00000001
+patch=1,EE,001F40F6,extended,00000001
+
+[Cheats\Infinite boost]
+patch=1,EE,20130CFC,extended,00401023
+
+[Cheats\Enemy Car Does Not Move]
+patch=1,EE,2012D3EC,extended,00000000

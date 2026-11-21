@@ -36,25 +36,25 @@ description=Infinite Armor
 // Infinite Armor
 patch=1,EE,200C0230,extended,3C0142C8
 
-[Infinite Armor]
+[Infinite Armor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Armor
 // Infinite Armor
 patch=1,EE,200C0234,extended,AE210108
 
-[Infinite Armor]
+[Infinite Armor (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Armor
 // Infinite Armor
 patch=1,EE,200C0238,extended,03E00008
 
-[Infinite Armor]
+[Infinite Armor (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Armor
 // Infinite Armor
 patch=1,EE,200C023C,extended,46140036
 
-[Infinite Armor]
+[Infinite Armor (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Armor
 // Infinite Armor
@@ -66,19 +66,19 @@ description=View Goodies To Unlock All
 // View Goodies To Unlock All
 patch=1,EE,200C0220,extended,24020003
 
-[View Goodies To Unlock All]
+[View Goodies To Unlock All (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Goodies To Unlock All
 // View Goodies To Unlock All
 patch=1,EE,200C0224,extended,03E00008
 
-[View Goodies To Unlock All]
+[View Goodies To Unlock All (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Goodies To Unlock All
 // View Goodies To Unlock All
 patch=1,EE,200C0228,extended,AC621F44
 
-[View Goodies To Unlock All]
+[View Goodies To Unlock All (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Goodies To Unlock All
 // View Goodies To Unlock All
@@ -342,253 +342,253 @@ description=1.00-Training Level
 // 1.00-Training Level
 patch=1,EE,2038A1E0,extended,3F800000
 
-[1.10-Blackout]
+[1.10-Blackout (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1.10-Blackout
 // 1.10-Blackout
 patch=1,EE,2038A220,extended,3F800000
 
-[2.00-Interception]
+[2.00-Interception (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=2.00-Interception
 // 2.00-Interception
 patch=1,EE,2038A260,extended,3F800000
 
-[2.11-Assault On Apollo]
+[2.11-Assault On Apollo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=2.11-Assault On Apollo
 // 2.11-Assault On Apollo
 patch=1,EE,2038A2A0,extended,3F800000
 
-[2.12-Assault On Apollo (Evo)]
+[2.12-Assault On Apollo (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=2.12-Assault On Apollo (Evo)
 // 2.12-Assault On Apollo (Evo)
 patch=1,EE,2038A2E0,extended,3F800000
 
-[2.21-Escort Duty]
+[2.21-Escort Duty (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=2.21-Escort Duty
 // 2.21-Escort Duty
 patch=1,EE,2038A320,extended,3F800000
 
-[2.22-Escort Duty (Evo)]
+[2.22-Escort Duty (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=2.22-Escort Duty (Evo)
 // 2.22-Escort Duty (Evo)
 patch=1,EE,2038A360,extended,3F800000
 
-[2.31-Counterstrike]
+[2.31-Counterstrike (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=2.31-Counterstrike
 // 2.31-Counterstrike
 patch=1,EE,2038A3A0,extended,3F800000
 
-[2.32-Counterstrike (Evo)]
+[2.32-Counterstrike (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=2.32-Counterstrike (Evo)
 // 2.32-Counterstrike (Evo)
 patch=1,EE,2038A3E0,extended,3F800000
 
-[3.00-Liberation Of Russo]
+[3.00-Liberation Of Russo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=3.00-Liberation Of Russo
 // 3.00-Liberation Of Russo
 patch=1,EE,2038A420,extended,3F800000
 
-[3.11-Muspell Counterattack]
+[3.11-Muspell Counterattack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=3.11-Muspell Counterattack
 // 3.11-Muspell Counterattack
 patch=1,EE,2038A460,extended,3F800000
 
-[3.12-Muspell Counterattack (Evo)]
+[3.12-Muspell Counterattack (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=3.12-Muspell Counterattack (Evo)
 // 3.12-Muspell Counterattack (Evo)
 patch=1,EE,2038A4A0,extended,3F800000
 
-[3.21-The Wake Of The Venturer]
+[3.21-The Wake Of The Venturer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=3.21-The Wake Of The Venturer
 // 3.21-The Wake Of The Venturer
 patch=1,EE,2038A4E0,extended,3F800000
 
-[3.22-The Wake Of The Venturer (Evo)]
+[3.22-The Wake Of The Venturer (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=3.22-The Wake Of The Venturer (Evo)
 // 3.22-The Wake Of The Venturer (Evo)
 patch=1,EE,2038A520,extended,3F800000
 
-[3.31-Thunderhead!]
+[3.31-Thunderhead! (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=3.31-Thunderhead!
 // 3.31-Thunderhead!
 patch=1,EE,2038A560,extended,3F800000
 
-[3.32-Thunderhead! (Evo)]
+[3.32-Thunderhead! (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=3.32-Thunderhead! (Evo)
 // 3.32-Thunderhead! (Evo)
 patch=1,EE,2038A5A0,extended,3F800000
 
-[4.00-Beach Head]
+[4.00-Beach Head (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=4.00-Beach Head
 // 4.00-Beach Head
 patch=1,EE,2038A5E0,extended,3F800000
 
-[4.11-Weathering The Storm]
+[4.11-Weathering The Storm (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=4.11-Weathering The Storm
 // 4.11-Weathering The Storm
 patch=1,EE,2038A620,extended,3F800000
 
-[4.12-Weathering The Storm (Evo)]
+[4.12-Weathering The Storm (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=4.12-Weathering The Storm (Evo)
 // 4.12-Weathering The Storm (Evo)
 patch=1,EE,2038A660,extended,3F800000
 
-[4.21-Naval Ambush]
+[4.21-Naval Ambush (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=4.21-Naval Ambush
 // 4.21-Naval Ambush
 patch=1,EE,2038A6A0,extended,3F800000
 
-[4.22-Naval Ambush (Evo)]
+[4.22-Naval Ambush (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=4.22-Naval Ambush (Evo)
 // 4.22-Naval Ambush (Evo)
 patch=1,EE,2038A6E0,extended,3F800000
 
-[4.31-Battle For Yenya]
+[4.31-Battle For Yenya (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=4.31-Battle For Yenya
 // 4.31-Battle For Yenya
 patch=1,EE,2038A720,extended,3F800000
 
-[4.32-Battle For Yenya (Evo)]
+[4.32-Battle For Yenya (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=4.32-Battle For Yenya (Evo)
 // 4.32-Battle For Yenya (Evo)
 patch=1,EE,2038A760,extended,3F800000
 
-[5.00-Split Second]
+[5.00-Split Second (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=5.00-Split Second
 // 5.00-Split Second
 patch=1,EE,2038A7A0,extended,3F800000
 
-[5.11-Death From Above]
+[5.11-Death From Above (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=5.11-Death From Above
 // 5.11-Death From Above
 patch=1,EE,2038A7E0,extended,3F800000
 
-[5.12-Death From Above (Evo)]
+[5.12-Death From Above (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=5.12-Death From Above (Evo)
 // 5.12-Death From Above (Evo)
 patch=1,EE,2038A820,extended,3F800000
 
-[5.21-Versus The Hive]
+[5.21-Versus The Hive (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=5.21-Versus The Hive
 // 5.21-Versus The Hive
 patch=1,EE,2038A860,extended,3F800000
 
-[5.22-Versus The Hive (Evo)]
+[5.22-Versus The Hive (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=5.22-Versus The Hive (Evo)
 // 5.22-Versus The Hive (Evo)
 patch=1,EE,2038A8A0,extended,3F800000
 
-[5.23-Enter The Gill-M]
+[5.23-Enter The Gill-M (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=5.23-Enter The Gill-M
 // 5.23-Enter The Gill-M
 patch=1,EE,2038A8E0,extended,3F800000
 
-[5.24-Enter The Gill-M (Evo)]
+[5.24-Enter The Gill-M (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=5.24-Enter The Gill-M (Evo)
 // 5.24-Enter The Gill-M (Evo)
 patch=1,EE,2038A920,extended,3F800000
 
-[6.00-Back To Castellian]
+[6.00-Back To Castellian (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=6.00-Back To Castellian
 // 6.00-Back To Castellian
 patch=1,EE,2038A960,extended,3F800000
 
-[6.11-Castellian Assault]
+[6.11-Castellian Assault (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=6.11-Castellian Assault
 // 6.11-Castellian Assault
 patch=1,EE,2038A9A0,extended,3F800000
 
-[6.12-Castellian Assault (Evo)]
+[6.12-Castellian Assault (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=6.12-Castellian Assault (Evo)
 // 6.12-Castellian Assault (Evo)
 patch=1,EE,2038A9E0,extended,3F800000
 
-[6.21-Air Raid]
+[6.21-Air Raid (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=6.21-Air Raid
 // 6.21-Air Raid
 patch=1,EE,2038AA20,extended,3F800000
 
-[6.22-Air Raid (Evo)]
+[6.22-Air Raid (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=6.22-Air Raid (Evo)
 // 6.22-Air Raid (Evo)
 patch=1,EE,2038AA60,extended,3F800000
 
-[7.00-Crushing Blow]
+[7.00-Crushing Blow (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=7.00-Crushing Blow
 // 7.00-Crushing Blow
 patch=1,EE,2038AAA0,extended,3F800000
 
-[7.10-Blinding The Enemy]
+[7.10-Blinding The Enemy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=7.10-Blinding The Enemy
 // 7.10-Blinding The Enemy
 patch=1,EE,2038AAE0,extended,3F800000
 
-[7.20-Rescue Attempt]
+[7.20-Rescue Attempt (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=7.20-Rescue Attempt
 // 7.20-Rescue Attempt
 patch=1,EE,2038AB20,extended,3F800000
 
-[7.31-Assault Force Fenrir]
+[7.31-Assault Force Fenrir (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=7.31-Assault Force Fenrir
 // 7.31-Assault Force Fenrir
 patch=1,EE,2038AB60,extended,3F800000
 
-[7.32-Assault Force Fenrir (Evo)]
+[7.32-Assault Force Fenrir (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=7.32-Assault Force Fenrir (Evo)
 // 7.32-Assault Force Fenrir (Evo)
 patch=1,EE,2038ABA0,extended,3F800000
 
-[7.41-The Fall Of The Fenrir]
+[7.41-The Fall Of The Fenrir (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=7.41-The Fall Of The Fenrir
 // 7.41-The Fall Of The Fenrir
 patch=1,EE,2038ABE0,extended,3F800000
 
-[7.42-The Fall Of The Fenrir (Evo)]
+[7.42-The Fall Of The Fenrir (Evo) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=7.42-The Fall Of The Fenrir (Evo)
 // 7.42-The Fall Of The Fenrir (Evo)
 patch=1,EE,2038AC20,extended,3F800000
 
-[8.00-The Sentinel Awakes]
+[8.00-The Sentinel Awakes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=8.00-The Sentinel Awakes
 // 8.00-The Sentinel Awakes
@@ -930,7 +930,7 @@ description=Machine Gun Turret
 // Machine Gun Turret
 patch=1,EE,2038C1C0,extended,00000003
 
-[Artillery Emplacement]
+[Artillery Emplacement (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Artillery Emplacement
 // Artillery Emplacement
@@ -1949,3 +1949,16 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Row 3-Col 28
 // Row 3-Col 28
 patch=1,EE,2038C474,extended,00000003
+
+[Cheats\Infinite Armor]
+patch=1,EE,200C0230,extended,3C0142C8
+patch=1,EE,200C0234,extended,AE210108
+patch=1,EE,200C0238,extended,03E00008
+patch=1,EE,200C023C,extended,46140036
+patch=1,EE,2010A230,extended,0C03008C
+
+[Cheats\Unlock All]
+patch=1,EE,200C0220,extended,24020003
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,AC621F44
+patch=1,EE,2018B3C0,extended,08030088

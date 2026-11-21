@@ -1,0 +1,4 @@
+gametitle=エアロビクスレボリューション [SLPM-62301] [C2A80B56]
+
+[Cheats\Unlock Debug Menus]
+patch=1,EE,202B58DC,extended,00000001

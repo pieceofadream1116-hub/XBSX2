@@ -12,7 +12,7 @@ description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,109557F6,extended,00000100
 
-[Infinite Health P1]
+[Infinite Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1
 // Infinite Health P1
@@ -54,7 +54,7 @@ description=Infinite Health P2
 // Infinite Health P2
 patch=1,EE,10955846,extended,00000100
 
-[Infinite Health P2]
+[Infinite Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P2
 // Infinite Health P2
@@ -168,7 +168,7 @@ description=P1 Press {SELECT} For Instant Win
 // P1 Press {SELECT} For Instant Win
 patch=1,EE,D071EB02,extended,0000FFFE
 
-[P1 Press {SELECT} For Instant Win]
+[P1 Press {SELECT} For Instant Win (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {SELECT} For Instant Win
 // P1 Press {SELECT} For Instant Win
@@ -192,20 +192,33 @@ description=Have All Missions Completed
 // Have All Missions Completed
 patch=1,EE,1095BEF2,extended,00000101
 
-[Have All Missions Completed]
+[Have All Missions Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Missions Completed
 // Have All Missions Completed
 patch=1,EE,4095BEF4,extended,00070001
 
-[Have All Missions Completed]
+[Have All Missions Completed (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Missions Completed
 // Have All Missions Completed
 patch=1,EE,01010101,extended,00000000
 
-[Have All Missions Completed]
+[Have All Missions Completed (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Missions Completed
 // Have All Missions Completed
 patch=1,EE,1095BF10,extended,00000101
+
+[Cheats\Infinite Health Player 1]
+patch=1,EE,109557F6,extended,00000100
+patch=1,EE,109557F8,extended,00000100
+
+[Cheats\Infinite Health Player 2]
+patch=1,EE,10955846,extended,00000100
+patch=1,EE,10955848,extended,00000100
+
+[Disable aim-lock]
+// Disable aim-lock
+patch=1,EE,00121070,word,00000000
+patch=1,EE,00121080,word,00000000

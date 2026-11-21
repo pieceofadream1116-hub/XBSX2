@@ -1,0 +1,196 @@
+gametitle=Persona 4 [UNKNOWN] [DEDC3B71]
+
+[EXP Multi X8 (Main Character)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,200A0000,extended,001188C0
+
+[EXP Multi X8 (Main Character) (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,200A0004,extended,08087895
+
+[EXP Multi X8 (Main Character) (3)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,200A0008,extended,02222021
+
+[EXP Multi X8 (Main Character) (4)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,2021E250,extended,08028000
+
+[EXP Multi X8 (Main Character) (5)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,2021E254,extended,00000000
+
+[EXP Multi X8 (Main Character) (6)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,2021E258,extended,0C041678
+
+[EXP Multi X8 (Main Character) (7)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,2021E25C,extended,00000000
+
+[EXP Multi X8 (Main Character) (8)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,2021E260,extended,304200FF
+
+[EXP Multi X8 (Main Character) (9)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,2021E264,extended,12020003
+
+[Infinite Yen]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Yen
+// Infinite Yen
+patch=1,EE,2079B68C,extended,05F5E0FF
+
+[Exp Multi X8 (Other Characters)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Exp Multi X8 (Other Characters)
+// Exp Multi X8 (Other Characters)
+patch=1,EE,200A0010,extended,001088C0
+
+[Exp Multi X8 (Other Characters) (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Exp Multi X8 (Other Characters)
+// Exp Multi X8 (Other Characters)
+patch=1,EE,200A0014,extended,00701821
+
+[Exp Multi X8 (Other Characters) (3)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Exp Multi X8 (Other Characters)
+// Exp Multi X8 (Other Characters)
+patch=1,EE,200A0018,extended,0804326F
+
+[Exp Multi X8 (Other Characters) (4)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Exp Multi X8 (Other Characters)
+// Exp Multi X8 (Other Characters)
+patch=1,EE,200A001C,extended,AE230008
+
+[Exp Multi X8 (Other Characters) (5)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Exp Multi X8 (Other Characters)
+// Exp Multi X8 (Other Characters)
+patch=1,EE,2010C9B8,extended,08028004
+
+[Exp Multi X8 (Other Characters) (6)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Exp Multi X8 (Other Characters)
+// Exp Multi X8 (Other Characters)
+patch=1,EE,2010C9BC,extended,00000000
+
+[MAX HP SP ME]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=MAX HP SP ME
+// MAX HP SP ME
+patch=1,EE,405DD874,extended,0063000B
+
+[MAX HP SP ME (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=MAX HP SP ME
+// MAX HP SP ME
+patch=1,EE,03E703E7,extended,00000000
+
+[Cheats\Main Character Quick Level Up]
+patch=1,EE,10797400,extended,0000FFFF
+
+[Cheats\Main Character Infinite Health Points In Battle]
+patch=1,EE,107973CC,extended,000003E7
+
+[Cheats\Main Character Infinite Spirit Points In Battle]
+patch=1,EE,107973CE,extended,000003E7
+
+[Cheats\Main Character Max Courage]
+patch=1,EE,007973F4,extended,000000FF
+
+[Cheats\Main Character Max Knowledge]
+patch=1,EE,007973F6,extended,000000FF
+
+[Cheats\Main Character Max Expression]
+patch=1,EE,007973FC,extended,000000FF
+
+[Cheats\Main Character Max Understanding]
+patch=1,EE,007973FA,extended,000000FF
+
+[Cheats\Main Character Max Diligence]
+patch=1,EE,007973F8,extended,000000FF
+
+[Cheats\Max Sooial Link Rank Investigation Team]
+patch=1,EE,00797426,extended,0000000A
+
+[Cheats\Max Sooial Link Rank Yosuke Hanamura]
+patch=1,EE,00797416,extended,0000000A
+
+[Cheats\Max Sooial Link Rank Chie Satonaka]
+patch=1,EE,00797436,extended,0000000A
+
+[Cheats\Max Sooial Link Rank Fellow Athletes]
+patch=1,EE,00797446,extended,0000000A
+
+[Cheats\Max Sooial Link Rank Ayane Matsunaga]
+patch=1,EE,00797456,extended,0000000A
+
+[Cheats\Yosuke Hanamura Quick Level Up]
+patch=1,EE,10796EAC,extended,0000FFFF
+
+[Cheats\Yosuke Hanamura Infinite Health Points In Battle]
+patch=1,EE,10796E5C,extended,000003E7
+
+[Cheats\Yosuke Hanamura Infinite Spirit Points In Battle]
+patch=1,EE,10796E5E,extended,000003E7
+
+[Cheats\Chie Satonaka Quick Level Up]
+patch=1,EE,10796F34,extended,0000FFFF
+
+[Cheats\Chie Satonaka Infinite Health Points In Battle]
+patch=1,EE,10796EE4,extended,000003E7
+
+[Cheats\Chie Satonaka Infinite Spirit Points In Battle]
+patch=1,EE,10796EE6,extended,000003E7
+
+[Cheats\Yukiko Amagi Quick Level Up]
+patch=1,EE,10796FBC,extended,0000FFFF
+
+[Cheats\Yukiko Amagi Infinite Health Points In Battle]
+patch=1,EE,10796F6C,extended,000003E7
+
+[Cheats\Yukiko Amagi Infinite Spirit Points In Battle]
+patch=1,EE,10796F6E,extended,000003E7
+
+[Cheats\Persona 1 Max Stats]
+patch=1,EE,20798218,extended,63636363
+patch=1,EE,2079821C,extended,63636363
+patch=1,EE,10798220,extended,00006363
+
+[Cheats\Have All Persona in Compendium Book]
+patch=1,EE,407981FC,extended,00BF000C
+patch=1,EE,00010001,extended,00010000
+
+[Cheats\All Persona Level Max in Compendium Book]
+patch=1,EE,40798200,extended,00BF000C
+patch=1,EE,00000063,extended,00000000
+
+[Cheats\All Persona Max Stats in Compendium Book]
+patch=1,EE,40798218,extended,00BF000C
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,4079821C,extended,00BF000C
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,40798220,extended,00BF000C
+patch=1,EE,00006363,extended,00000000

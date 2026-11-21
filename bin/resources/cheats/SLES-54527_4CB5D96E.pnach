@@ -1,0 +1,4 @@
+gametitle=DreamWorks & Aardman Flushed Away [SLES-54527] [4CB5D96E]
+
+[Cheats\Infinite Heakth]
+patch=1,EE,21C54740,extended,40A00000

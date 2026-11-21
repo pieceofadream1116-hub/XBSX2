@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,20190F64,extended,C4A001AC
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -24,7 +24,7 @@ description=Always Max Eyeballs
 // Always Max Eyeballs
 patch=1,EE,2024CA30,extended,C780E358
 
-[Always Max Eyeballs]
+[Always Max Eyeballs (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Eyeballs
 // Always Max Eyeballs
@@ -42,7 +42,7 @@ description=Always Have Max Gingerbread Man's Cookie Toss
 // Always Have Max Gingerbread Man's Cookie Toss
 patch=1,EE,201C2A94,extended,2402000A
 
-[Always Have Max Gingerbread Man's Cookie Toss]
+[Always Have Max Gingerbread Man's Cookie Toss (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Have Max Gingerbread Man's Cookie Toss
 // Always Have Max Gingerbread Man's Cookie Toss
@@ -54,7 +54,7 @@ description=Always Have Max Fiona's Slow Time
 // Always Have Max Fiona's Slow Time
 patch=1,EE,201C1540,extended,2402000A
 
-[Always Have Max Fiona's Slow Time]
+[Always Have Max Fiona's Slow Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Have Max Fiona's Slow Time
 // Always Have Max Fiona's Slow Time
@@ -66,7 +66,7 @@ description=Always Have Max Lil Red's Rottle Apple Bomb
 // Always Have Max Lil Red's Rottle Apple Bomb
 patch=1,EE,201C84F0,extended,2402000A
 
-[Always Have Max Lil Red's Rottle Apple Bomb]
+[Always Have Max Lil Red's Rottle Apple Bomb (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Have Max Lil Red's Rottle Apple Bomb
 // Always Have Max Lil Red's Rottle Apple Bomb
@@ -216,8 +216,28 @@ description=All Upgrades
 // All Upgrades
 patch=1,EE,40379BF8,extended,00090001
 
-[All Upgrades]
+[All Upgrades (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Upgrades
 // All Upgrades
 patch=1,EE,00000001,extended,00000000
+
+[Cheats\Infinite Health]
+patch=1,EE,20190F64,extended,C4A001AC
+patch=1,EE,20190F6C,extended,E4A001A8
+
+[Cheats\Always Max Eyeballs]
+patch=1,EE,2024CA30,extended,C780E358
+patch=1,EE,2024CA3C,extended,E780E35C
+
+[Cheats\Always Have Max Gingerbread Man's Cookie Toss]
+patch=1,EE,201C2A94,extended,2402000A
+patch=1,EE,201C2A98,extended,ACC20344
+
+[Cheats\Always Have Max Fiona's Slow Time]
+patch=1,EE,201C1540,extended,2402000A
+patch=1,EE,201C1544,extended,AC820344
+
+[Cheats\Always Have Max Lil Red's Rottle Apple Bomb]
+patch=1,EE,201C84F0,extended,2402000A
+patch=1,EE,201C84F4,extended,AE020344

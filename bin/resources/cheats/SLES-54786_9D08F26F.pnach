@@ -1,0 +1,4 @@
+gametitle=Heracles - Chariot Racing [SLES-54786] [9D08F26F]
+
+[Cheats\Opponents Don't Move]
+patch=1,EE,20494F10,extended,13C00003

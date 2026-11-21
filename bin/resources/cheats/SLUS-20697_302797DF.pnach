@@ -78,7 +78,7 @@ description=P1 Hold X For Infinite Double Jumps
 // P1 Hold X For Infinite Double Jumps
 patch=1,EE,D0396902,extended,0000BFFF
 
-[P1 Hold X For Infinite Double Jumps]
+[P1 Hold X For Infinite Double Jumps (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Hold X For Infinite Double Jumps
 // P1 Hold X For Infinite Double Jumps
@@ -210,7 +210,7 @@ description=DBS1010
 // DBS1010
 patch=1,EE,0041D761,extended,00000001
 
-[Shockgun]
+[Shockgun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shockgun
 // Shockgun
@@ -222,13 +222,13 @@ description=HG15/MP2100/A699
 // HG15/MP2100/A699
 patch=1,EE,1041D778,extended,000003E7
 
-[Maggy Hammer]
+[Maggy Hammer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maggy Hammer
 // Maggy Hammer
 patch=1,EE,1041D77A,extended,000003E7
 
-[Flip-Lip]
+[Flip-Lip (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Flip-Lip
 // Flip-Lip
@@ -240,13 +240,13 @@ description=Space Gun/Pegasus 8
 // Space Gun/Pegasus 8
 patch=1,EE,1041D77E,extended,000003E7
 
-[DBS1010]
+[DBS1010 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=DBS1010
 // DBS1010
 patch=1,EE,1041D780,extended,000003E7
 
-[MML229]
+[MML229 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=MML229
 // MML229
@@ -258,49 +258,49 @@ description=AR100/R33V
 // AR100/R33V
 patch=1,EE,1041D784,extended,000003E7
 
-[SP700]
+[SP700 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=SP700
 // SP700
 patch=1,EE,1041D786,extended,000003E7
 
-[GR2]
+[GR2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=GR2
 // GR2
 patch=1,EE,1041D788,extended,000003E7
 
-[Overdose]
+[Overdose (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Overdose
 // Overdose
 patch=1,EE,1041D78A,extended,000003E7
 
-[HM6400]
+[HM6400 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=HM6400
 // HM6400
 patch=1,EE,1041D78C,extended,000003E7
 
-[RAM-630B]
+[RAM-630B (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=RAM-630B
 // RAM-630B
 patch=1,EE,1041D78E,extended,000003E7
 
-[Infinite Vital]
+[Infinite Vital (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Vital
 // Infinite Vital
 patch=1,EE,104A6F9C,extended,000003E7
 
-[Max Vital]
+[Max Vital (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Vital
 // Max Vital
 patch=1,EE,104A6F9E,extended,000003E7
 
-[Max Infinite Vital]
+[Max Infinite Vital (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Vital
 // Max Infinite Vital
@@ -318,8 +318,16 @@ description=Max Kunai (On Pickup)
 // Max Kunai (On Pickup)
 patch=1,EE,005008DC,extended,00000063
 
-[Max Bio-Charge (On Pickup)]
+[Max Bio-Charge (On Pickup) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Bio-Charge (On Pickup)
 // Max Bio-Charge (On Pickup)
 patch=1,EE,0050090C,extended,00000063
+
+[Cheats\Ice Infinite Health]
+patch=1,EE,103C3F8C,extended,000003E7
+patch=1,EE,103C3F8E,extended,000003E7
+
+[Cheats\Aska Infinite Health]
+patch=1,EE,104A6F9C,extended,000003E7
+patch=1,EE,104A6F9E,extended,000003E7

@@ -6,19 +6,19 @@ description=Spear-Mermaid's Feast-Undine's Sigh
 // Spear-Mermaid's Feast-Undine's Sigh
 patch=1,EE,9037FFB0,extended,0C0E8EDD
 
-[Spear-Mermaid's Feast-Undine's Sigh]
+[Spear-Mermaid's Feast-Undine's Sigh (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Mermaid's Feast-Undine's Sigh
 // Spear-Mermaid's Feast-Undine's Sigh
 patch=1,EE,200C0278,extended,03E00008
 
-[Spear-Mermaid's Feast-Undine's Sigh]
+[Spear-Mermaid's Feast-Undine's Sigh (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Mermaid's Feast-Undine's Sigh
 // Spear-Mermaid's Feast-Undine's Sigh
 patch=1,EE,200C027C,extended,46800020
 
-[Spear-Mermaid's Feast-Undine's Sigh]
+[Spear-Mermaid's Feast-Undine's Sigh (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Mermaid's Feast-Undine's Sigh
 // Spear-Mermaid's Feast-Undine's Sigh
@@ -30,7 +30,7 @@ description=Max HP
 // Max HP
 patch=1,EE,200C0220,extended,240303E7
 
-[Max HP]
+[Max HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
@@ -42,7 +42,7 @@ description=Max STR
 // Max STR
 patch=1,EE,200C0228,extended,3C07447A
 
-[Max STR]
+[Max STR (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max STR
 // Max STR
@@ -54,7 +54,7 @@ description=Max DEF
 // Max DEF
 patch=1,EE,200C0230,extended,2407270F
 
-[Max DEF]
+[Max DEF (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
@@ -66,7 +66,7 @@ description=Max INT
 // Max INT
 patch=1,EE,200C0238,extended,3C0743FA
 
-[Max INT]
+[Max INT (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max INT
 // Max INT
@@ -168,55 +168,55 @@ description=Max EXP
 // Max EXP
 patch=1,EE,204C3B88,extended,05F5E0FF
 
-[Level 99]
+[Level 99 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,204C3B78,extended,00000062
 
-[Quick Exp Gain]
+[Quick Exp Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,104C3B8C,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
 patch=1,EE,204C3B8C,extended,05F5E0FF
 
-[Level 99]
+[Level 99 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,204C3B7C,extended,00000062
 
-[Quick Exp Gain]
+[Quick Exp Gain (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,104C3B90,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
 patch=1,EE,204C3B90,extended,05F5E0FF
 
-[Level 99]
+[Level 99 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,204C3B80,extended,00000062
 
-[Quick Exp Gain]
+[Quick Exp Gain (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,104C3B94,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
@@ -228,19 +228,19 @@ description=Have Legna
 // Have Legna
 patch=1,EE,204C37A4,extended,00000001
 
-[Level 99]
+[Level 99 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,204C3B84,extended,00000062
 
-[Quick Exp Gain]
+[Quick Exp Gain (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,104C3B98,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
@@ -678,883 +678,883 @@ description=All Weapons
 // All Weapons
 patch=1,EE,404C3BA8,extended,00470003
 
-[All Weapons]
+[All Weapons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Weapons
 // All Weapons
 patch=1,EE,00000001,extended,00000000
 
-[Light Sword-Nowe's Sword]
+[Light Sword-Nowe's Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Nowe's Sword
 // Light Sword-Nowe's Sword
 patch=1,EE,204C3BAC,extended,0098967F
 
-[Light Sword-Oror's Falconblade]
+[Light Sword-Oror's Falconblade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Oror's Falconblade
 // Light Sword-Oror's Falconblade
 patch=1,EE,204C3BB8,extended,0098967F
 
-[Light Sword-Oror's Lionblade]
+[Light Sword-Oror's Lionblade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Oror's Lionblade
 // Light Sword-Oror's Lionblade
 patch=1,EE,204C3BC4,extended,0098967F
 
-[Light Sword-Savior Blade]
+[Light Sword-Savior Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Savior Blade
 // Light Sword-Savior Blade
 patch=1,EE,204C3BD0,extended,0098967F
 
-[Light Sword-Evil's Bronze Blade]
+[Light Sword-Evil's Bronze Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Evil's Bronze Blade
 // Light Sword-Evil's Bronze Blade
 patch=1,EE,204C3BDC,extended,0098967F
 
-[Light Sword-Thief's Secret]
+[Light Sword-Thief's Secret (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Thief's Secret
 // Light Sword-Thief's Secret
 patch=1,EE,204C3BE8,extended,0098967F
 
-[Light Sword-Moonlit Beauty]
+[Light Sword-Moonlit Beauty (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Moonlit Beauty
 // Light Sword-Moonlit Beauty
 patch=1,EE,204C3BF4,extended,0098967F
 
-[Light Sword-Sealknife]
+[Light Sword-Sealknife (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Sealknife
 // Light Sword-Sealknife
 patch=1,EE,204C3C00,extended,0098967F
 
-[Light Sword-Mage's Promise]
+[Light Sword-Mage's Promise (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Mage's Promise
 // Light Sword-Mage's Promise
 patch=1,EE,204C3C0C,extended,0098967F
 
-[Light Sword-Kingsblood]
+[Light Sword-Kingsblood (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Kingsblood
 // Light Sword-Kingsblood
 patch=1,EE,204C3C18,extended,0098967F
 
-[Light Sword-Carrion-Maker]
+[Light Sword-Carrion-Maker (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Carrion-Maker
 // Light Sword-Carrion-Maker
 patch=1,EE,204C3C24,extended,0098967F
 
-[Light Sword-Deathdance]
+[Light Sword-Deathdance (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Deathdance
 // Light Sword-Deathdance
 patch=1,EE,204C3C30,extended,0098967F
 
-[Light Sword-Maiden's Kris]
+[Light Sword-Maiden's Kris (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Maiden's Kris
 // Light Sword-Maiden's Kris
 patch=1,EE,204C3C3C,extended,0098967F
 
-[Light Sword-Glory's Bane]
+[Light Sword-Glory's Bane (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Glory's Bane
 // Light Sword-Glory's Bane
 patch=1,EE,204C3C48,extended,0098967F
 
-[Light Sword-Writheheart]
+[Light Sword-Writheheart (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Writheheart
 // Light Sword-Writheheart
 patch=1,EE,204C3C54,extended,0098967F
 
-[Light Sword-Hunter's Joy]
+[Light Sword-Hunter's Joy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Hunter's Joy
 // Light Sword-Hunter's Joy
 patch=1,EE,204C3C60,extended,0098967F
 
-[Light Sword-Flamberge]
+[Light Sword-Flamberge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Flamberge
 // Light Sword-Flamberge
 patch=1,EE,204C3C6C,extended,0098967F
 
-[Light Sword-Scream]
+[Light Sword-Scream (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Scream
 // Light Sword-Scream
 patch=1,EE,204C3C78,extended,0098967F
 
-[Light Sword-Hero's Knife]
+[Light Sword-Hero's Knife (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Hero's Knife
 // Light Sword-Hero's Knife
 patch=1,EE,204C3C84,extended,0098967F
 
-[Heavy Sword-Nowe's Long Sword]
+[Heavy Sword-Nowe's Long Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Nowe's Long Sword
 // Heavy Sword-Nowe's Long Sword
 patch=1,EE,204C3C90,extended,0098967F
 
-[Heavy Sword-Sealblade]
+[Heavy Sword-Sealblade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Sealblade
 // Heavy Sword-Sealblade
 patch=1,EE,204C3C9C,extended,0098967F
 
-[Heavy Sword-Pitch Black]
+[Heavy Sword-Pitch Black (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Pitch Black
 // Heavy Sword-Pitch Black
 patch=1,EE,204C3CA8,extended,0098967F
 
-[Heavy Sword-Call-Carver]
+[Heavy Sword-Call-Carver (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Call-Carver
 // Heavy Sword-Call-Carver
 patch=1,EE,204C3CB4,extended,0098967F
 
-[Heavy Sword-Bloody Fang]
+[Heavy Sword-Bloody Fang (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Bloody Fang
 // Heavy Sword-Bloody Fang
 patch=1,EE,204C3CC0,extended,0098967F
 
-[Heavy Sword-Silver Butterfly]
+[Heavy Sword-Silver Butterfly (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Silver Butterfly
 // Heavy Sword-Silver Butterfly
 patch=1,EE,204C3CCC,extended,0098967F
 
-[Heavy Sword-Sealblade 2]
+[Heavy Sword-Sealblade 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Sealblade 2
 // Heavy Sword-Sealblade 2
 patch=1,EE,204C3CD8,extended,0098967F
 
-[Heavy Sword-Union]
+[Heavy Sword-Union (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Union
 // Heavy Sword-Union
 patch=1,EE,204C3CE4,extended,0098967F
 
-[Heavy Sword-Injustice]
+[Heavy Sword-Injustice (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Injustice
 // Heavy Sword-Injustice
 patch=1,EE,204C3CF0,extended,0098967F
 
-[Heavy Sword-Caim's Sword]
+[Heavy Sword-Caim's Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Caim's Sword
 // Heavy Sword-Caim's Sword
 patch=1,EE,204C3CFC,extended,0098967F
 
-[Heavy Sword-Moonfire]
+[Heavy Sword-Moonfire (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Moonfire
 // Heavy Sword-Moonfire
 patch=1,EE,204C3D08,extended,0098967F
 
-[Heavy Sword-Takamasa]
+[Heavy Sword-Takamasa (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Takamasa
 // Heavy Sword-Takamasa
 patch=1,EE,204C3D14,extended,0098967F
 
-[Heavy Sword-Skald's Song]
+[Heavy Sword-Skald's Song (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Skald's Song
 // Heavy Sword-Skald's Song
 patch=1,EE,204C3D20,extended,0098967F
 
-[Heavy Sword-Nobuyoshi]
+[Heavy Sword-Nobuyoshi (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Nobuyoshi
 // Heavy Sword-Nobuyoshi
 patch=1,EE,204C3D2C,extended,0098967F
 
-[Heavy Sword-Slaughterism]
+[Heavy Sword-Slaughterism (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Slaughterism
 // Heavy Sword-Slaughterism
 patch=1,EE,204C3D38,extended,0098967F
 
-[Heavy Sword-Soldier's Sword]
+[Heavy Sword-Soldier's Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Soldier's Sword
 // Heavy Sword-Soldier's Sword
 patch=1,EE,204C3D44,extended,0098967F
 
-[Heavy Sword-Guard's Sword]
+[Heavy Sword-Guard's Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Guard's Sword
 // Heavy Sword-Guard's Sword
 patch=1,EE,204C3D50,extended,0098967F
 
-[Heavy Sword-Sealaze-Calamitous Rhythm]
+[Heavy Sword-Sealaze-Calamitous Rhythm (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Sealaze-Calamitous Rhythm
 // Heavy Sword-Sealaze-Calamitous Rhythm
 patch=1,EE,204C3D5C,extended,0098967F
 
-[Heavy Sword-Captured Goddess]
+[Heavy Sword-Captured Goddess (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Captured Goddess
 // Heavy Sword-Captured Goddess
 patch=1,EE,204C3D68,extended,0098967F
 
-[Heavy Sword-Inuart's Long Sword]
+[Heavy Sword-Inuart's Long Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Inuart's Long Sword
 // Heavy Sword-Inuart's Long Sword
 patch=1,EE,204C3D74,extended,0098967F
 
-[Staff-Manah's Staff]
+[Staff-Manah's Staff (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Manah's Staff
 // Staff-Manah's Staff
 patch=1,EE,204C3D80,extended,0098967F
 
-[Staff-Knights Of The Seal's]
+[Staff-Knights Of The Seal's (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Knights Of The Seal's
 // Staff-Knights Of The Seal's
 patch=1,EE,204C3D8C,extended,0098967F
 
-[Staff-Sealstaff]
+[Staff-Sealstaff (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Sealstaff
 // Staff-Sealstaff
 patch=1,EE,204C3D98,extended,0098967F
 
-[Staff-Monk's Red Staff]
+[Staff-Monk's Red Staff (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Monk's Red Staff
 // Staff-Monk's Red Staff
 patch=1,EE,204C3DA4,extended,0098967F
 
-[Staff-Phoenix Curse]
+[Staff-Phoenix Curse (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Phoenix Curse
 // Staff-Phoenix Curse
 patch=1,EE,204C3DB0,extended,0098967F
 
-[Staff-Northern Siren]
+[Staff-Northern Siren (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Northern Siren
 // Staff-Northern Siren
 patch=1,EE,204C3DBC,extended,0098967F
 
-[Staff-Yaha's Staff]
+[Staff-Yaha's Staff (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Yaha's Staff
 // Staff-Yaha's Staff
 patch=1,EE,204C3DC8,extended,0098967F
 
-[Staff-Dream Blossom]
+[Staff-Dream Blossom (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Dream Blossom
 // Staff-Dream Blossom
 patch=1,EE,204C3DD4,extended,0098967F
 
-[Staff-Wisdom]
+[Staff-Wisdom (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Wisdom
 // Staff-Wisdom
 patch=1,EE,204C3DE0,extended,0098967F
 
-[Staff-Magi's Sorrow]
+[Staff-Magi's Sorrow (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Magi's Sorrow
 // Staff-Magi's Sorrow
 patch=1,EE,204C3DEC,extended,0098967F
 
-[Staff-Edacious]
+[Staff-Edacious (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Edacious
 // Staff-Edacious
 patch=1,EE,204C3DF8,extended,0098967F
 
-[Staff-Philosopher's Staff]
+[Staff-Philosopher's Staff (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Philosopher's Staff
 // Staff-Philosopher's Staff
 patch=1,EE,204C3E04,extended,0098967F
 
-[Spear-Eris's Spear]
+[Spear-Eris's Spear (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Eris's Spear
 // Spear-Eris's Spear
 patch=1,EE,204C3E10,extended,0098967F
 
-[Spear-Sealspear]
+[Spear-Sealspear (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Sealspear
 // Spear-Sealspear
 patch=1,EE,204C3E1C,extended,0098967F
 
-[Spear-Falcon's Pinion]
+[Spear-Falcon's Pinion (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Falcon's Pinion
 // Spear-Falcon's Pinion
 patch=1,EE,204C3E28,extended,0098967F
 
-[Spear-Hanch's Spear]
+[Spear-Hanch's Spear (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Hanch's Spear
 // Spear-Hanch's Spear
 patch=1,EE,204C3E34,extended,0098967F
 
-[Spear-Robber King]
+[Spear-Robber King (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Robber King
 // Spear-Robber King
 patch=1,EE,204C3E40,extended,0098967F
 
-[Spear-Widow's Death]
+[Spear-Widow's Death (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Widow's Death
 // Spear-Widow's Death
 patch=1,EE,204C3E4C,extended,0098967F
 
-[Spear-Victor's Spoils]
+[Spear-Victor's Spoils (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Victor's Spoils
 // Spear-Victor's Spoils
 patch=1,EE,204C3E58,extended,0098967F
 
-[Spear-Apostate's Misery]
+[Spear-Apostate's Misery (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Apostate's Misery
 // Spear-Apostate's Misery
 patch=1,EE,204C3E64,extended,0098967F
 
-[Spear-Sorrowborn]
+[Spear-Sorrowborn (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Sorrowborn
 // Spear-Sorrowborn
 patch=1,EE,204C3E70,extended,0098967F
 
-[Spear-Ozymandia's Might]
+[Spear-Ozymandia's Might (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Ozymandia's Might
 // Spear-Ozymandia's Might
 patch=1,EE,204C3E7C,extended,0098967F
 
-[Spear-Tower Of Warning]
+[Spear-Tower Of Warning (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Tower Of Warning
 // Spear-Tower Of Warning
 patch=1,EE,204C3E88,extended,0098967F
 
-[Axe-Urick's Axe]
+[Axe-Urick's Axe (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Urick's Axe
 // Axe-Urick's Axe
 patch=1,EE,204C3E94,extended,0098967F
 
-[Axe-Sealaxe]
+[Axe-Sealaxe (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Sealaxe
 // Axe-Sealaxe
 patch=1,EE,204C3EA0,extended,0098967F
 
-[Axe-Zhangpo's Aze]
+[Axe-Zhangpo's Aze (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Zhangpo's Aze
 // Axe-Zhangpo's Aze
 patch=1,EE,204C3EAC,extended,0098967F
 
-[Axe-Broken Iron]
+[Axe-Broken Iron (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Broken Iron
 // Axe-Broken Iron
 patch=1,EE,204C3EB8,extended,0098967F
 
-[Axe-Crimson Hood]
+[Axe-Crimson Hood (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Crimson Hood
 // Axe-Crimson Hood
 patch=1,EE,204C3EC4,extended,0098967F
 
-[Axe-Poisontongue]
+[Axe-Poisontongue (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Poisontongue
 // Axe-Poisontongue
 patch=1,EE,204C3ED0,extended,0098967F
 
-[Axe-Executioner's song]
+[Axe-Executioner's song (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Executioner's song
 // Axe-Executioner's song
 patch=1,EE,204C3EDC,extended,0098967F
 
-[Axe-Foul Blade]
+[Axe-Foul Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Foul Blade
 // Axe-Foul Blade
 patch=1,EE,204C3EE8,extended,0098967F
 
-[Axe-Mourning Thorn]
+[Axe-Mourning Thorn (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Mourning Thorn
 // Axe-Mourning Thorn
 patch=1,EE,204C3EF4,extended,0098967F
 
-[All Weapons]
+[All Weapons (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Weapons
 // All Weapons
 patch=1,EE,404C3BAC,extended,00470003
 
-[All Weapons]
+[All Weapons (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Weapons
 // All Weapons
 patch=1,EE,0098967F,extended,00000000
 
-[Light Sword-Nowe's Sword]
+[Light Sword-Nowe's Sword (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Nowe's Sword
 // Light Sword-Nowe's Sword
 patch=1,EE,204C3BB0,extended,00000003
 
-[Light Sword-Oror's Falconblade]
+[Light Sword-Oror's Falconblade (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Oror's Falconblade
 // Light Sword-Oror's Falconblade
 patch=1,EE,204C3BBC,extended,00000003
 
-[Light Sword-Oror's Lionblade]
+[Light Sword-Oror's Lionblade (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Oror's Lionblade
 // Light Sword-Oror's Lionblade
 patch=1,EE,204C3BC8,extended,00000003
 
-[Light Sword-Savior Blade]
+[Light Sword-Savior Blade (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Savior Blade
 // Light Sword-Savior Blade
 patch=1,EE,204C3BD4,extended,00000003
 
-[Light Sword-Evil's Bronze Blade]
+[Light Sword-Evil's Bronze Blade (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Evil's Bronze Blade
 // Light Sword-Evil's Bronze Blade
 patch=1,EE,204C3BE0,extended,00000003
 
-[Light Sword-Thief's Secret]
+[Light Sword-Thief's Secret (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Thief's Secret
 // Light Sword-Thief's Secret
 patch=1,EE,204C3BEC,extended,00000003
 
-[Light Sword-Moonlit Beauty]
+[Light Sword-Moonlit Beauty (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Moonlit Beauty
 // Light Sword-Moonlit Beauty
 patch=1,EE,204C3BF8,extended,00000003
 
-[Light Sword-Sealknife]
+[Light Sword-Sealknife (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Sealknife
 // Light Sword-Sealknife
 patch=1,EE,204C3C04,extended,00000003
 
-[Light Sword-Mage's Promise]
+[Light Sword-Mage's Promise (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Mage's Promise
 // Light Sword-Mage's Promise
 patch=1,EE,204C3C10,extended,00000003
 
-[Light Sword-Kingsblood]
+[Light Sword-Kingsblood (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Kingsblood
 // Light Sword-Kingsblood
 patch=1,EE,204C3C1C,extended,00000003
 
-[Light Sword-Carrion-Maker]
+[Light Sword-Carrion-Maker (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Carrion-Maker
 // Light Sword-Carrion-Maker
 patch=1,EE,204C3C28,extended,00000003
 
-[Light Sword-Deathdance]
+[Light Sword-Deathdance (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Deathdance
 // Light Sword-Deathdance
 patch=1,EE,204C3C34,extended,00000003
 
-[Light Sword-Maiden's Kris]
+[Light Sword-Maiden's Kris (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Maiden's Kris
 // Light Sword-Maiden's Kris
 patch=1,EE,204C3C40,extended,00000003
 
-[Light Sword-Glory's Bane]
+[Light Sword-Glory's Bane (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Glory's Bane
 // Light Sword-Glory's Bane
 patch=1,EE,204C3C4C,extended,00000003
 
-[Light Sword-Writheheart]
+[Light Sword-Writheheart (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Writheheart
 // Light Sword-Writheheart
 patch=1,EE,204C3C58,extended,00000003
 
-[Light Sword-Hunter's Joy]
+[Light Sword-Hunter's Joy (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Hunter's Joy
 // Light Sword-Hunter's Joy
 patch=1,EE,204C3C64,extended,00000003
 
-[Light Sword-Flamberge]
+[Light Sword-Flamberge (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Flamberge
 // Light Sword-Flamberge
 patch=1,EE,204C3C70,extended,00000003
 
-[Light Sword-Scream]
+[Light Sword-Scream (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Scream
 // Light Sword-Scream
 patch=1,EE,204C3C7C,extended,00000003
 
-[Light Sword-Hero's Knife]
+[Light Sword-Hero's Knife (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Light Sword-Hero's Knife
 // Light Sword-Hero's Knife
 patch=1,EE,204C3C88,extended,00000003
 
-[Heavy Sword-Nowe's Long Sword]
+[Heavy Sword-Nowe's Long Sword (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Nowe's Long Sword
 // Heavy Sword-Nowe's Long Sword
 patch=1,EE,204C3C94,extended,00000003
 
-[Heavy Sword-Sealblade]
+[Heavy Sword-Sealblade (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Sealblade
 // Heavy Sword-Sealblade
 patch=1,EE,204C3CA0,extended,00000003
 
-[Heavy Sword-Pitch Black]
+[Heavy Sword-Pitch Black (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Pitch Black
 // Heavy Sword-Pitch Black
 patch=1,EE,204C3CAC,extended,00000003
 
-[Heavy Sword-Call-Carver]
+[Heavy Sword-Call-Carver (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Call-Carver
 // Heavy Sword-Call-Carver
 patch=1,EE,204C3CB8,extended,00000003
 
-[Heavy Sword-Bloody Fang]
+[Heavy Sword-Bloody Fang (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Bloody Fang
 // Heavy Sword-Bloody Fang
 patch=1,EE,204C3CC4,extended,00000003
 
-[Heavy Sword-Silver Butterfly]
+[Heavy Sword-Silver Butterfly (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Silver Butterfly
 // Heavy Sword-Silver Butterfly
 patch=1,EE,204C3CD0,extended,00000003
 
-[Heavy Sword-Sealblade 2]
+[Heavy Sword-Sealblade 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Sealblade 2
 // Heavy Sword-Sealblade 2
 patch=1,EE,204C3CDC,extended,00000003
 
-[Heavy Sword-Union]
+[Heavy Sword-Union (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Union
 // Heavy Sword-Union
 patch=1,EE,204C3CE8,extended,00000003
 
-[Heavy Sword-Injustice]
+[Heavy Sword-Injustice (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Injustice
 // Heavy Sword-Injustice
 patch=1,EE,204C3CF4,extended,00000003
 
-[Heavy Sword-Caim's Sword]
+[Heavy Sword-Caim's Sword (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Caim's Sword
 // Heavy Sword-Caim's Sword
 patch=1,EE,204C3D00,extended,00000003
 
-[Heavy Sword-Moonfire]
+[Heavy Sword-Moonfire (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Moonfire
 // Heavy Sword-Moonfire
 patch=1,EE,204C3D0C,extended,00000003
 
-[Heavy Sword-Takamasa]
+[Heavy Sword-Takamasa (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Takamasa
 // Heavy Sword-Takamasa
 patch=1,EE,204C3D18,extended,00000003
 
-[Heavy Sword-Skald's Song]
+[Heavy Sword-Skald's Song (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Skald's Song
 // Heavy Sword-Skald's Song
 patch=1,EE,204C3D24,extended,00000003
 
-[Heavy Sword-Nobuyoshi]
+[Heavy Sword-Nobuyoshi (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Nobuyoshi
 // Heavy Sword-Nobuyoshi
 patch=1,EE,204C3D30,extended,00000003
 
-[Heavy Sword-Slaughterism]
+[Heavy Sword-Slaughterism (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Slaughterism
 // Heavy Sword-Slaughterism
 patch=1,EE,204C3D3C,extended,00000003
 
-[Heavy Sword-Soldier's Sword]
+[Heavy Sword-Soldier's Sword (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Soldier's Sword
 // Heavy Sword-Soldier's Sword
 patch=1,EE,204C3D48,extended,00000003
 
-[Heavy Sword-Guard's Sword]
+[Heavy Sword-Guard's Sword (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Guard's Sword
 // Heavy Sword-Guard's Sword
 patch=1,EE,204C3D54,extended,00000003
 
-[Heavy Sword-Sealaze-Calamitous Rhythm]
+[Heavy Sword-Sealaze-Calamitous Rhythm (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Sealaze-Calamitous Rhythm
 // Heavy Sword-Sealaze-Calamitous Rhythm
 patch=1,EE,204C3D60,extended,00000003
 
-[Heavy Sword-Captured Goddess]
+[Heavy Sword-Captured Goddess (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Captured Goddess
 // Heavy Sword-Captured Goddess
 patch=1,EE,204C3D6C,extended,00000003
 
-[Heavy Sword-Inuart's Long Sword]
+[Heavy Sword-Inuart's Long Sword (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heavy Sword-Inuart's Long Sword
 // Heavy Sword-Inuart's Long Sword
 patch=1,EE,204C3D78,extended,00000003
 
-[Staff-Manah's Staff]
+[Staff-Manah's Staff (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Manah's Staff
 // Staff-Manah's Staff
 patch=1,EE,204C3D84,extended,00000003
 
-[Staff-Knights Of The Seal's]
+[Staff-Knights Of The Seal's (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Knights Of The Seal's
 // Staff-Knights Of The Seal's
 patch=1,EE,204C3D90,extended,00000003
 
-[Staff-Sealstaff]
+[Staff-Sealstaff (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Sealstaff
 // Staff-Sealstaff
 patch=1,EE,204C3D9C,extended,00000003
 
-[Staff-Monk's Red Staff]
+[Staff-Monk's Red Staff (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Monk's Red Staff
 // Staff-Monk's Red Staff
 patch=1,EE,204C3DA8,extended,00000003
 
-[Staff-Phoenix Curse]
+[Staff-Phoenix Curse (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Phoenix Curse
 // Staff-Phoenix Curse
 patch=1,EE,204C3DB4,extended,00000003
 
-[Staff-Northern Siren]
+[Staff-Northern Siren (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Northern Siren
 // Staff-Northern Siren
 patch=1,EE,204C3DC0,extended,00000003
 
-[Staff-Yaha's Staff]
+[Staff-Yaha's Staff (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Yaha's Staff
 // Staff-Yaha's Staff
 patch=1,EE,204C3DCC,extended,00000003
 
-[Staff-Dream Blossom]
+[Staff-Dream Blossom (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Dream Blossom
 // Staff-Dream Blossom
 patch=1,EE,204C3DD8,extended,00000003
 
-[Staff-Wisdom]
+[Staff-Wisdom (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Wisdom
 // Staff-Wisdom
 patch=1,EE,204C3DE4,extended,00000003
 
-[Staff-Magi's Sorrow]
+[Staff-Magi's Sorrow (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Magi's Sorrow
 // Staff-Magi's Sorrow
 patch=1,EE,204C3DF0,extended,00000003
 
-[Staff-Edacious]
+[Staff-Edacious (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Edacious
 // Staff-Edacious
 patch=1,EE,204C3DFC,extended,00000003
 
-[Staff-Philosopher's Staff]
+[Staff-Philosopher's Staff (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Staff-Philosopher's Staff
 // Staff-Philosopher's Staff
 patch=1,EE,204C3E08,extended,00000003
 
-[Spear-Eris's Spear]
+[Spear-Eris's Spear (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Eris's Spear
 // Spear-Eris's Spear
 patch=1,EE,204C3E14,extended,00000003
 
-[Spear-Sealspear]
+[Spear-Sealspear (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Sealspear
 // Spear-Sealspear
 patch=1,EE,204C3E20,extended,00000003
 
-[Spear-Falcon's Pinion]
+[Spear-Falcon's Pinion (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Falcon's Pinion
 // Spear-Falcon's Pinion
 patch=1,EE,204C3E2C,extended,00000003
 
-[Spear-Hanch's Spear]
+[Spear-Hanch's Spear (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Hanch's Spear
 // Spear-Hanch's Spear
 patch=1,EE,204C3E38,extended,00000003
 
-[Spear-Robber King]
+[Spear-Robber King (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Robber King
 // Spear-Robber King
 patch=1,EE,204C3E44,extended,00000003
 
-[Spear-Widow's Death]
+[Spear-Widow's Death (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Widow's Death
 // Spear-Widow's Death
 patch=1,EE,204C3E50,extended,00000003
 
-[Spear-Victor's Spoils]
+[Spear-Victor's Spoils (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Victor's Spoils
 // Spear-Victor's Spoils
 patch=1,EE,204C3E5C,extended,00000003
 
-[Spear-Apostate's Misery]
+[Spear-Apostate's Misery (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Apostate's Misery
 // Spear-Apostate's Misery
 patch=1,EE,204C3E68,extended,00000003
 
-[Spear-Sorrowborn]
+[Spear-Sorrowborn (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Sorrowborn
 // Spear-Sorrowborn
 patch=1,EE,204C3E74,extended,00000003
 
-[Spear-Ozymandia's Might]
+[Spear-Ozymandia's Might (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Ozymandia's Might
 // Spear-Ozymandia's Might
 patch=1,EE,204C3E80,extended,00000003
 
-[Spear-Tower Of Warning]
+[Spear-Tower Of Warning (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear-Tower Of Warning
 // Spear-Tower Of Warning
 patch=1,EE,204C3E8C,extended,00000003
 
-[Axe-Urick's Axe]
+[Axe-Urick's Axe (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Urick's Axe
 // Axe-Urick's Axe
 patch=1,EE,204C3E98,extended,00000003
 
-[Axe-Sealaxe]
+[Axe-Sealaxe (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Sealaxe
 // Axe-Sealaxe
 patch=1,EE,204C3EA4,extended,00000003
 
-[Axe-Zhangpo's Aze]
+[Axe-Zhangpo's Aze (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Zhangpo's Aze
 // Axe-Zhangpo's Aze
 patch=1,EE,204C3EB0,extended,00000003
 
-[Axe-Broken Iron]
+[Axe-Broken Iron (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Broken Iron
 // Axe-Broken Iron
 patch=1,EE,204C3EBC,extended,00000003
 
-[Axe-Crimson Hood]
+[Axe-Crimson Hood (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Crimson Hood
 // Axe-Crimson Hood
 patch=1,EE,204C3EC8,extended,00000003
 
-[Axe-Poisontongue]
+[Axe-Poisontongue (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Poisontongue
 // Axe-Poisontongue
 patch=1,EE,204C3ED4,extended,00000003
 
-[Axe-Executioner's song]
+[Axe-Executioner's song (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Executioner's song
 // Axe-Executioner's song
 patch=1,EE,204C3EE0,extended,00000003
 
-[Axe-Foul Blade]
+[Axe-Foul Blade (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Foul Blade
 // Axe-Foul Blade
 patch=1,EE,204C3EEC,extended,00000003
 
-[Axe-Mourning Thorn]
+[Axe-Mourning Thorn (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe-Mourning Thorn
 // Axe-Mourning Thorn
 patch=1,EE,204C3EF8,extended,00000003
 
-[All Weapons]
+[All Weapons (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Weapons
 // All Weapons
 patch=1,EE,404C3BB0,extended,00470003
 
-[All Weapons]
+[All Weapons (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Weapons
 // All Weapons
@@ -1566,7 +1566,7 @@ description=Have All Items
 // Have All Items
 patch=1,EE,40572E9C,extended,000B0001
 
-[Have All Items]
+[Have All Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
@@ -1644,721 +1644,721 @@ description=Brilliant Crystal 2
 // Brilliant Crystal 2
 patch=1,EE,20572E9C,extended,0000000A
 
-[Nothing]
+[Nothing (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EA0,extended,FFFFFFFF
 
-[Recovery Powder]
+[Recovery Powder (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Recovery Powder
 // Recovery Powder
 patch=1,EE,20572EA0,extended,00000000
 
-[Restorative Phial]
+[Restorative Phial (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Restorative Phial
 // Restorative Phial
 patch=1,EE,20572EA0,extended,00000001
 
-[Vitality Crystal]
+[Vitality Crystal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Vitality Crystal
 // Vitality Crystal
 patch=1,EE,20572EA0,extended,00000002
 
-[Magic Powder]
+[Magic Powder (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Powder
 // Magic Powder
 patch=1,EE,20572EA0,extended,00000003
 
-[Enchanted Phial]
+[Enchanted Phial (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enchanted Phial
 // Enchanted Phial
 patch=1,EE,20572EA0,extended,00000004
 
-[Mystical Crystal]
+[Mystical Crystal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mystical Crystal
 // Mystical Crystal
 patch=1,EE,20572EA0,extended,00000005
 
-[Refreshing Powder]
+[Refreshing Powder (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Refreshing Powder
 // Refreshing Powder
 patch=1,EE,20572EA0,extended,00000006
 
-[Fortifying Phial]
+[Fortifying Phial (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fortifying Phial
 // Fortifying Phial
 patch=1,EE,20572EA0,extended,00000007
 
-[Infinity Crystal]
+[Infinity Crystal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity Crystal
 // Infinity Crystal
 patch=1,EE,20572EA0,extended,00000008
 
-[Brilliant Crystal]
+[Brilliant Crystal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal
 // Brilliant Crystal
 patch=1,EE,20572EA0,extended,00000009
 
-[Brilliant Crystal 2]
+[Brilliant Crystal 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal 2
 // Brilliant Crystal 2
 patch=1,EE,20572EA0,extended,0000000A
 
-[Nothing]
+[Nothing (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EA4,extended,FFFFFFFF
 
-[Recovery Powder]
+[Recovery Powder (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Recovery Powder
 // Recovery Powder
 patch=1,EE,20572EA4,extended,00000000
 
-[Restorative Phial]
+[Restorative Phial (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Restorative Phial
 // Restorative Phial
 patch=1,EE,20572EA4,extended,00000001
 
-[Vitality Crystal]
+[Vitality Crystal (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Vitality Crystal
 // Vitality Crystal
 patch=1,EE,20572EA4,extended,00000002
 
-[Magic Powder]
+[Magic Powder (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Powder
 // Magic Powder
 patch=1,EE,20572EA4,extended,00000003
 
-[Enchanted Phial]
+[Enchanted Phial (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enchanted Phial
 // Enchanted Phial
 patch=1,EE,20572EA4,extended,00000004
 
-[Mystical Crystal]
+[Mystical Crystal (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mystical Crystal
 // Mystical Crystal
 patch=1,EE,20572EA4,extended,00000005
 
-[Refreshing Powder]
+[Refreshing Powder (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Refreshing Powder
 // Refreshing Powder
 patch=1,EE,20572EA4,extended,00000006
 
-[Fortifying Phial]
+[Fortifying Phial (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fortifying Phial
 // Fortifying Phial
 patch=1,EE,20572EA4,extended,00000007
 
-[Infinity Crystal]
+[Infinity Crystal (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity Crystal
 // Infinity Crystal
 patch=1,EE,20572EA4,extended,00000008
 
-[Brilliant Crystal]
+[Brilliant Crystal (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal
 // Brilliant Crystal
 patch=1,EE,20572EA4,extended,00000009
 
-[Brilliant Crystal 2]
+[Brilliant Crystal 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal 2
 // Brilliant Crystal 2
 patch=1,EE,20572EA4,extended,0000000A
 
-[Nothing]
+[Nothing (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EA8,extended,FFFFFFFF
 
-[Recovery Powder]
+[Recovery Powder (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Recovery Powder
 // Recovery Powder
 patch=1,EE,20572EA8,extended,00000000
 
-[Restorative Phial]
+[Restorative Phial (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Restorative Phial
 // Restorative Phial
 patch=1,EE,20572EA8,extended,00000001
 
-[Vitality Crystal]
+[Vitality Crystal (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Vitality Crystal
 // Vitality Crystal
 patch=1,EE,20572EA8,extended,00000002
 
-[Magic Powder]
+[Magic Powder (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Powder
 // Magic Powder
 patch=1,EE,20572EA8,extended,00000003
 
-[Enchanted Phial]
+[Enchanted Phial (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enchanted Phial
 // Enchanted Phial
 patch=1,EE,20572EA8,extended,00000004
 
-[Mystical Crystal]
+[Mystical Crystal (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mystical Crystal
 // Mystical Crystal
 patch=1,EE,20572EA8,extended,00000005
 
-[Refreshing Powder]
+[Refreshing Powder (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Refreshing Powder
 // Refreshing Powder
 patch=1,EE,20572EA8,extended,00000006
 
-[Fortifying Phial]
+[Fortifying Phial (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fortifying Phial
 // Fortifying Phial
 patch=1,EE,20572EA8,extended,00000007
 
-[Infinity Crystal]
+[Infinity Crystal (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity Crystal
 // Infinity Crystal
 patch=1,EE,20572EA8,extended,00000008
 
-[Brilliant Crystal]
+[Brilliant Crystal (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal
 // Brilliant Crystal
 patch=1,EE,20572EA8,extended,00000009
 
-[Brilliant Crystal 2]
+[Brilliant Crystal 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal 2
 // Brilliant Crystal 2
 patch=1,EE,20572EA8,extended,0000000A
 
-[Nothing]
+[Nothing (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EAC,extended,FFFFFFFF
 
-[Recovery Powder]
+[Recovery Powder (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Recovery Powder
 // Recovery Powder
 patch=1,EE,20572EAC,extended,00000000
 
-[Restorative Phial]
+[Restorative Phial (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Restorative Phial
 // Restorative Phial
 patch=1,EE,20572EAC,extended,00000001
 
-[Vitality Crystal]
+[Vitality Crystal (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Vitality Crystal
 // Vitality Crystal
 patch=1,EE,20572EAC,extended,00000002
 
-[Magic Powder]
+[Magic Powder (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Powder
 // Magic Powder
 patch=1,EE,20572EAC,extended,00000003
 
-[Enchanted Phial]
+[Enchanted Phial (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enchanted Phial
 // Enchanted Phial
 patch=1,EE,20572EAC,extended,00000004
 
-[Mystical Crystal]
+[Mystical Crystal (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mystical Crystal
 // Mystical Crystal
 patch=1,EE,20572EAC,extended,00000005
 
-[Refreshing Powder]
+[Refreshing Powder (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Refreshing Powder
 // Refreshing Powder
 patch=1,EE,20572EAC,extended,00000006
 
-[Fortifying Phial]
+[Fortifying Phial (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fortifying Phial
 // Fortifying Phial
 patch=1,EE,20572EAC,extended,00000007
 
-[Infinity Crystal]
+[Infinity Crystal (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity Crystal
 // Infinity Crystal
 patch=1,EE,20572EAC,extended,00000008
 
-[Brilliant Crystal]
+[Brilliant Crystal (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal
 // Brilliant Crystal
 patch=1,EE,20572EAC,extended,00000009
 
-[Brilliant Crystal 2]
+[Brilliant Crystal 2 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal 2
 // Brilliant Crystal 2
 patch=1,EE,20572EAC,extended,0000000A
 
-[Nothing]
+[Nothing (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EB0,extended,FFFFFFFF
 
-[Recovery Powder]
+[Recovery Powder (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Recovery Powder
 // Recovery Powder
 patch=1,EE,20572EB0,extended,00000000
 
-[Restorative Phial]
+[Restorative Phial (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Restorative Phial
 // Restorative Phial
 patch=1,EE,20572EB0,extended,00000001
 
-[Vitality Crystal]
+[Vitality Crystal (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Vitality Crystal
 // Vitality Crystal
 patch=1,EE,20572EB0,extended,00000002
 
-[Magic Powder]
+[Magic Powder (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Powder
 // Magic Powder
 patch=1,EE,20572EB0,extended,00000003
 
-[Enchanted Phial]
+[Enchanted Phial (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enchanted Phial
 // Enchanted Phial
 patch=1,EE,20572EB0,extended,00000004
 
-[Mystical Crystal]
+[Mystical Crystal (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mystical Crystal
 // Mystical Crystal
 patch=1,EE,20572EB0,extended,00000005
 
-[Refreshing Powder]
+[Refreshing Powder (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Refreshing Powder
 // Refreshing Powder
 patch=1,EE,20572EB0,extended,00000006
 
-[Fortifying Phial]
+[Fortifying Phial (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fortifying Phial
 // Fortifying Phial
 patch=1,EE,20572EB0,extended,00000007
 
-[Infinity Crystal]
+[Infinity Crystal (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity Crystal
 // Infinity Crystal
 patch=1,EE,20572EB0,extended,00000008
 
-[Brilliant Crystal]
+[Brilliant Crystal (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal
 // Brilliant Crystal
 patch=1,EE,20572EB0,extended,00000009
 
-[Brilliant Crystal 2]
+[Brilliant Crystal 2 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal 2
 // Brilliant Crystal 2
 patch=1,EE,20572EB0,extended,0000000A
 
-[Nothing]
+[Nothing (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EB4,extended,FFFFFFFF
 
-[Recovery Powder]
+[Recovery Powder (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Recovery Powder
 // Recovery Powder
 patch=1,EE,20572EB4,extended,00000000
 
-[Restorative Phial]
+[Restorative Phial (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Restorative Phial
 // Restorative Phial
 patch=1,EE,20572EB4,extended,00000001
 
-[Vitality Crystal]
+[Vitality Crystal (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Vitality Crystal
 // Vitality Crystal
 patch=1,EE,20572EB4,extended,00000002
 
-[Magic Powder]
+[Magic Powder (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Powder
 // Magic Powder
 patch=1,EE,20572EB4,extended,00000003
 
-[Enchanted Phial]
+[Enchanted Phial (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enchanted Phial
 // Enchanted Phial
 patch=1,EE,20572EB4,extended,00000004
 
-[Mystical Crystal]
+[Mystical Crystal (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mystical Crystal
 // Mystical Crystal
 patch=1,EE,20572EB4,extended,00000005
 
-[Refreshing Powder]
+[Refreshing Powder (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Refreshing Powder
 // Refreshing Powder
 patch=1,EE,20572EB4,extended,00000006
 
-[Fortifying Phial]
+[Fortifying Phial (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fortifying Phial
 // Fortifying Phial
 patch=1,EE,20572EB4,extended,00000007
 
-[Infinity Crystal]
+[Infinity Crystal (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity Crystal
 // Infinity Crystal
 patch=1,EE,20572EB4,extended,00000008
 
-[Brilliant Crystal]
+[Brilliant Crystal (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal
 // Brilliant Crystal
 patch=1,EE,20572EB4,extended,00000009
 
-[Brilliant Crystal 2]
+[Brilliant Crystal 2 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal 2
 // Brilliant Crystal 2
 patch=1,EE,20572EB4,extended,0000000A
 
-[Nothing]
+[Nothing (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EB8,extended,FFFFFFFF
 
-[Recovery Powder]
+[Recovery Powder (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Recovery Powder
 // Recovery Powder
 patch=1,EE,20572EB8,extended,00000000
 
-[Restorative Phial]
+[Restorative Phial (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Restorative Phial
 // Restorative Phial
 patch=1,EE,20572EB8,extended,00000001
 
-[Vitality Crystal]
+[Vitality Crystal (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Vitality Crystal
 // Vitality Crystal
 patch=1,EE,20572EB8,extended,00000002
 
-[Magic Powder]
+[Magic Powder (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Powder
 // Magic Powder
 patch=1,EE,20572EB8,extended,00000003
 
-[Enchanted Phial]
+[Enchanted Phial (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enchanted Phial
 // Enchanted Phial
 patch=1,EE,20572EB8,extended,00000004
 
-[Mystical Crystal]
+[Mystical Crystal (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mystical Crystal
 // Mystical Crystal
 patch=1,EE,20572EB8,extended,00000005
 
-[Refreshing Powder]
+[Refreshing Powder (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Refreshing Powder
 // Refreshing Powder
 patch=1,EE,20572EB8,extended,00000006
 
-[Fortifying Phial]
+[Fortifying Phial (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fortifying Phial
 // Fortifying Phial
 patch=1,EE,20572EB8,extended,00000007
 
-[Infinity Crystal]
+[Infinity Crystal (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity Crystal
 // Infinity Crystal
 patch=1,EE,20572EB8,extended,00000008
 
-[Brilliant Crystal]
+[Brilliant Crystal (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal
 // Brilliant Crystal
 patch=1,EE,20572EB8,extended,00000009
 
-[Brilliant Crystal 2]
+[Brilliant Crystal 2 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal 2
 // Brilliant Crystal 2
 patch=1,EE,20572EB8,extended,0000000A
 
-[Nothing]
+[Nothing (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EBC,extended,FFFFFFFF
 
-[Recovery Powder]
+[Recovery Powder (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Recovery Powder
 // Recovery Powder
 patch=1,EE,20572EBC,extended,00000000
 
-[Restorative Phial]
+[Restorative Phial (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Restorative Phial
 // Restorative Phial
 patch=1,EE,20572EBC,extended,00000001
 
-[Vitality Crystal]
+[Vitality Crystal (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Vitality Crystal
 // Vitality Crystal
 patch=1,EE,20572EBC,extended,00000002
 
-[Magic Powder]
+[Magic Powder (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Powder
 // Magic Powder
 patch=1,EE,20572EBC,extended,00000003
 
-[Enchanted Phial]
+[Enchanted Phial (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enchanted Phial
 // Enchanted Phial
 patch=1,EE,20572EBC,extended,00000004
 
-[Mystical Crystal]
+[Mystical Crystal (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mystical Crystal
 // Mystical Crystal
 patch=1,EE,20572EBC,extended,00000005
 
-[Refreshing Powder]
+[Refreshing Powder (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Refreshing Powder
 // Refreshing Powder
 patch=1,EE,20572EBC,extended,00000006
 
-[Fortifying Phial]
+[Fortifying Phial (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fortifying Phial
 // Fortifying Phial
 patch=1,EE,20572EBC,extended,00000007
 
-[Infinity Crystal]
+[Infinity Crystal (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity Crystal
 // Infinity Crystal
 patch=1,EE,20572EBC,extended,00000008
 
-[Brilliant Crystal]
+[Brilliant Crystal (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal
 // Brilliant Crystal
 patch=1,EE,20572EBC,extended,00000009
 
-[Brilliant Crystal 2]
+[Brilliant Crystal 2 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal 2
 // Brilliant Crystal 2
 patch=1,EE,20572EBC,extended,0000000A
 
-[Nothing]
+[Nothing (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EC0,extended,FFFFFFFF
 
-[Recovery Powder]
+[Recovery Powder (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Recovery Powder
 // Recovery Powder
 patch=1,EE,20572EC0,extended,00000000
 
-[Restorative Phial]
+[Restorative Phial (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Restorative Phial
 // Restorative Phial
 patch=1,EE,20572EC0,extended,00000001
 
-[Vitality Crystal]
+[Vitality Crystal (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Vitality Crystal
 // Vitality Crystal
 patch=1,EE,20572EC0,extended,00000002
 
-[Magic Powder]
+[Magic Powder (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Powder
 // Magic Powder
 patch=1,EE,20572EC0,extended,00000003
 
-[Enchanted Phial]
+[Enchanted Phial (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enchanted Phial
 // Enchanted Phial
 patch=1,EE,20572EC0,extended,00000004
 
-[Mystical Crystal]
+[Mystical Crystal (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mystical Crystal
 // Mystical Crystal
 patch=1,EE,20572EC0,extended,00000005
 
-[Refreshing Powder]
+[Refreshing Powder (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Refreshing Powder
 // Refreshing Powder
 patch=1,EE,20572EC0,extended,00000006
 
-[Fortifying Phial]
+[Fortifying Phial (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fortifying Phial
 // Fortifying Phial
 patch=1,EE,20572EC0,extended,00000007
 
-[Infinity Crystal]
+[Infinity Crystal (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity Crystal
 // Infinity Crystal
 patch=1,EE,20572EC0,extended,00000008
 
-[Brilliant Crystal]
+[Brilliant Crystal (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal
 // Brilliant Crystal
 patch=1,EE,20572EC0,extended,00000009
 
-[Brilliant Crystal 2]
+[Brilliant Crystal 2 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal 2
 // Brilliant Crystal 2
 patch=1,EE,20572EC0,extended,0000000A
 
-[Nothing]
+[Nothing (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EC4,extended,FFFFFFFF
 
-[Recovery Powder]
+[Recovery Powder (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Recovery Powder
 // Recovery Powder
 patch=1,EE,20572EC4,extended,00000000
 
-[Restorative Phial]
+[Restorative Phial (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Restorative Phial
 // Restorative Phial
 patch=1,EE,20572EC4,extended,00000001
 
-[Vitality Crystal]
+[Vitality Crystal (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Vitality Crystal
 // Vitality Crystal
 patch=1,EE,20572EC4,extended,00000002
 
-[Magic Powder]
+[Magic Powder (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Powder
 // Magic Powder
 patch=1,EE,20572EC4,extended,00000003
 
-[Enchanted Phial]
+[Enchanted Phial (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enchanted Phial
 // Enchanted Phial
 patch=1,EE,20572EC4,extended,00000004
 
-[Mystical Crystal]
+[Mystical Crystal (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mystical Crystal
 // Mystical Crystal
 patch=1,EE,20572EC4,extended,00000005
 
-[Refreshing Powder]
+[Refreshing Powder (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Refreshing Powder
 // Refreshing Powder
 patch=1,EE,20572EC4,extended,00000006
 
-[Fortifying Phial]
+[Fortifying Phial (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fortifying Phial
 // Fortifying Phial
 patch=1,EE,20572EC4,extended,00000007
 
-[Infinity Crystal]
+[Infinity Crystal (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinity Crystal
 // Infinity Crystal
 patch=1,EE,20572EC4,extended,00000008
 
-[Brilliant Crystal]
+[Brilliant Crystal (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal
 // Brilliant Crystal
 patch=1,EE,20572EC4,extended,00000009
 
-[Brilliant Crystal 2]
+[Brilliant Crystal 2 (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brilliant Crystal 2
 // Brilliant Crystal 2
@@ -2370,13 +2370,7 @@ description=Have All Accessories
 // Have All Accessories
 patch=1,EE,40572EE0,extended,00130001
 
-[Have All Accessories]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Accessories
-// Have All Accessories
-patch=1,EE,00000000,extended,00000001
-
-[Nothing]
+[Nothing (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
@@ -2496,2162 +2490,2173 @@ description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572EE0,extended,00000012
 
-[Nothing]
+[Nothing (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EE4,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572EE4,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572EE4,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572EE4,extended,00000002
 
-[Power Ring]
+[Power Ring (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572EE4,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572EE4,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572EE4,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572EE4,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572EE4,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572EE4,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572EE4,extended,00000009
 
-[Glory Orb]
+[Glory Orb (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572EE4,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572EE4,extended,0000000B
 
-[Life Orb]
+[Life Orb (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572EE4,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572EE4,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572EE4,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572EE4,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572EE4,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572EE4,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572EE4,extended,00000012
 
-[Nothing]
+[Nothing (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EE8,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572EE8,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572EE8,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572EE8,extended,00000002
 
-[Power Ring]
+[Power Ring (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572EE8,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572EE8,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572EE8,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572EE8,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572EE8,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572EE8,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572EE8,extended,00000009
 
-[Glory Orb]
+[Glory Orb (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572EE8,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572EE8,extended,0000000B
 
-[Life Orb]
+[Life Orb (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572EE8,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572EE8,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572EE8,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572EE8,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572EE8,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572EE8,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572EE8,extended,00000012
 
-[Nothing]
+[Nothing (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EEC,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572EEC,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572EEC,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572EEC,extended,00000002
 
-[Power Ring]
+[Power Ring (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572EEC,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572EEC,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572EEC,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572EEC,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572EEC,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572EEC,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572EEC,extended,00000009
 
-[Glory Orb]
+[Glory Orb (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572EEC,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572EEC,extended,0000000B
 
-[Life Orb]
+[Life Orb (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572EEC,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572EEC,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572EEC,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572EEC,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572EEC,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572EEC,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572EEC,extended,00000012
 
-[Nothing]
+[Nothing (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EF0,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572EF0,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572EF0,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572EF0,extended,00000002
 
-[Power Ring]
+[Power Ring (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572EF0,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572EF0,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572EF0,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572EF0,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572EF0,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572EF0,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572EF0,extended,00000009
 
-[Glory Orb]
+[Glory Orb (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572EF0,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572EF0,extended,0000000B
 
-[Life Orb]
+[Life Orb (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572EF0,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572EF0,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572EF0,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572EF0,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572EF0,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572EF0,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572EF0,extended,00000012
 
-[Nothing]
+[Nothing (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EF4,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572EF4,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572EF4,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572EF4,extended,00000002
 
-[Power Ring]
+[Power Ring (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572EF4,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572EF4,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572EF4,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572EF4,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572EF4,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572EF4,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572EF4,extended,00000009
 
-[Glory Orb]
+[Glory Orb (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572EF4,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572EF4,extended,0000000B
 
-[Life Orb]
+[Life Orb (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572EF4,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572EF4,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572EF4,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572EF4,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572EF4,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572EF4,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572EF4,extended,00000012
 
-[Nothing]
+[Nothing (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EF8,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572EF8,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572EF8,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572EF8,extended,00000002
 
-[Power Ring]
+[Power Ring (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572EF8,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572EF8,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572EF8,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572EF8,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572EF8,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572EF8,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572EF8,extended,00000009
 
-[Glory Orb]
+[Glory Orb (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572EF8,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572EF8,extended,0000000B
 
-[Life Orb]
+[Life Orb (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572EF8,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572EF8,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572EF8,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572EF8,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572EF8,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572EF8,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572EF8,extended,00000012
 
-[Nothing]
+[Nothing (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572EFC,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572EFC,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572EFC,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572EFC,extended,00000002
 
-[Power Ring]
+[Power Ring (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572EFC,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572EFC,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572EFC,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572EFC,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572EFC,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572EFC,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572EFC,extended,00000009
 
-[Glory Orb]
+[Glory Orb (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572EFC,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572EFC,extended,0000000B
 
-[Life Orb]
+[Life Orb (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572EFC,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572EFC,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572EFC,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572EFC,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572EFC,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572EFC,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572EFC,extended,00000012
 
-[Nothing]
+[Nothing (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572F00,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572F00,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572F00,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572F00,extended,00000002
 
-[Power Ring]
+[Power Ring (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572F00,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572F00,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572F00,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572F00,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572F00,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572F00,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572F00,extended,00000009
 
-[Glory Orb]
+[Glory Orb (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572F00,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572F00,extended,0000000B
 
-[Life Orb]
+[Life Orb (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572F00,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572F00,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572F00,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572F00,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572F00,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572F00,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572F00,extended,00000012
 
-[Nothing]
+[Nothing (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572F04,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572F04,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572F04,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572F04,extended,00000002
 
-[Power Ring]
+[Power Ring (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572F04,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572F04,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572F04,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572F04,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572F04,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572F04,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572F04,extended,00000009
 
-[Glory Orb]
+[Glory Orb (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572F04,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572F04,extended,0000000B
 
-[Life Orb]
+[Life Orb (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572F04,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572F04,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572F04,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572F04,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572F04,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572F04,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572F04,extended,00000012
 
-[Nothing]
+[Nothing (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572F08,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572F08,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572F08,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572F08,extended,00000002
 
-[Power Ring]
+[Power Ring (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572F08,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572F08,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572F08,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572F08,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572F08,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572F08,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572F08,extended,00000009
 
-[Glory Orb]
+[Glory Orb (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572F08,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572F08,extended,0000000B
 
-[Life Orb]
+[Life Orb (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572F08,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572F08,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572F08,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572F08,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572F08,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572F08,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572F08,extended,00000012
 
-[Nothing]
+[Nothing (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572F0C,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572F0C,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572F0C,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572F0C,extended,00000002
 
-[Power Ring]
+[Power Ring (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572F0C,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572F0C,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572F0C,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572F0C,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572F0C,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572F0C,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572F0C,extended,00000009
 
-[Glory Orb]
+[Glory Orb (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572F0C,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572F0C,extended,0000000B
 
-[Life Orb]
+[Life Orb (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572F0C,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572F0C,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572F0C,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572F0C,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572F0C,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572F0C,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572F0C,extended,00000012
 
-[Nothing]
+[Nothing (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572F10,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572F10,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572F10,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572F10,extended,00000002
 
-[Power Ring]
+[Power Ring (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572F10,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572F10,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572F10,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572F10,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572F10,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572F10,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572F10,extended,00000009
 
-[Glory Orb]
+[Glory Orb (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572F10,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572F10,extended,0000000B
 
-[Life Orb]
+[Life Orb (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572F10,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572F10,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572F10,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572F10,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572F10,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572F10,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572F10,extended,00000012
 
-[Nothing]
+[Nothing (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572F14,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572F14,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572F14,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572F14,extended,00000002
 
-[Power Ring]
+[Power Ring (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572F14,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572F14,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572F14,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572F14,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572F14,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572F14,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572F14,extended,00000009
 
-[Glory Orb]
+[Glory Orb (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572F14,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572F14,extended,0000000B
 
-[Life Orb]
+[Life Orb (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572F14,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572F14,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572F14,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572F14,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572F14,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572F14,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572F14,extended,00000012
 
-[Nothing]
+[Nothing (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572F18,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572F18,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572F18,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572F18,extended,00000002
 
-[Power Ring]
+[Power Ring (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572F18,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572F18,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572F18,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572F18,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572F18,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572F18,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572F18,extended,00000009
 
-[Glory Orb]
+[Glory Orb (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572F18,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572F18,extended,0000000B
 
-[Life Orb]
+[Life Orb (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572F18,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572F18,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572F18,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572F18,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572F18,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572F18,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572F18,extended,00000012
 
-[Nothing]
+[Nothing (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572F1C,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572F1C,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572F1C,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572F1C,extended,00000002
 
-[Power Ring]
+[Power Ring (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572F1C,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572F1C,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572F1C,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572F1C,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572F1C,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572F1C,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572F1C,extended,00000009
 
-[Glory Orb]
+[Glory Orb (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572F1C,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572F1C,extended,0000000B
 
-[Life Orb]
+[Life Orb (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572F1C,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572F1C,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572F1C,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572F1C,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572F1C,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572F1C,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572F1C,extended,00000012
 
-[Nothing]
+[Nothing (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572F20,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572F20,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572F20,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572F20,extended,00000002
 
-[Power Ring]
+[Power Ring (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572F20,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572F20,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572F20,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572F20,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572F20,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572F20,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572F20,extended,00000009
 
-[Glory Orb]
+[Glory Orb (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572F20,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572F20,extended,0000000B
 
-[Life Orb]
+[Life Orb (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572F20,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572F20,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572F20,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572F20,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572F20,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572F20,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572F20,extended,00000012
 
-[Nothing]
+[Nothing (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572F24,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572F24,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572F24,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572F24,extended,00000002
 
-[Power Ring]
+[Power Ring (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572F24,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572F24,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572F24,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572F24,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572F24,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572F24,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572F24,extended,00000009
 
-[Glory Orb]
+[Glory Orb (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572F24,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572F24,extended,0000000B
 
-[Life Orb]
+[Life Orb (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572F24,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572F24,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572F24,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572F24,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572F24,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572F24,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572F24,extended,00000012
 
-[Nothing]
+[Nothing (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nothing
 // Nothing
 patch=1,EE,20572F28,extended,FFFFFFFF
 
-[Magic Ring]
+[Magic Ring (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring
 // Magic Ring
 patch=1,EE,20572F28,extended,00000000
 
-[Magic Ring +1]
+[Magic Ring +1 (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +1
 // Magic Ring +1
 patch=1,EE,20572F28,extended,00000001
 
-[Magic Ring +2]
+[Magic Ring +2 (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Ring +2
 // Magic Ring +2
 patch=1,EE,20572F28,extended,00000002
 
-[Power Ring]
+[Power Ring (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring
 // Power Ring
 patch=1,EE,20572F28,extended,00000003
 
-[Power Ring +1]
+[Power Ring +1 (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Power Ring +1
 // Power Ring +1
 patch=1,EE,20572F28,extended,00000004
 
-[Guard Earrings]
+[Guard Earrings (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings
 // Guard Earrings
 patch=1,EE,20572F28,extended,00000005
 
-[Guard Earrings +1]
+[Guard Earrings +1 (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guard Earrings +1
 // Guard Earrings +1
 patch=1,EE,20572F28,extended,00000006
 
-[Protective Earrings]
+[Protective Earrings (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Protective Earrings
 // Protective Earrings
 patch=1,EE,20572F28,extended,00000007
 
-[Shell Earrings]
+[Shell Earrings (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings
 // Shell Earrings
 patch=1,EE,20572F28,extended,00000008
 
-[Shell Earrings +1]
+[Shell Earrings +1 (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shell Earrings +1
 // Shell Earrings +1
 patch=1,EE,20572F28,extended,00000009
 
-[Glory Orb]
+[Glory Orb (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Glory Orb
 // Glory Orb
 patch=1,EE,20572F28,extended,0000000A
 
-[Mind Orb]
+[Mind Orb (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mind Orb
 // Mind Orb
 patch=1,EE,20572F28,extended,0000000B
 
-[Life Orb]
+[Life Orb (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Orb
 // Life Orb
 patch=1,EE,20572F28,extended,0000000C
 
-[Old Earrings]
+[Old Earrings (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Old Earrings
 // Old Earrings
 patch=1,EE,20572F28,extended,0000000D
 
-[Nowe's Knight Orb]
+[Nowe's Knight Orb (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Knight Orb
 // Nowe's Knight Orb
 patch=1,EE,20572F28,extended,0000000E
 
-[Nowe's Super Orb]
+[Nowe's Super Orb (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nowe's Super Orb
 // Nowe's Super Orb
 patch=1,EE,20572F28,extended,0000000F
 
-[Eris's Holy Orb]
+[Eris's Holy Orb (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Eris's Holy Orb
 // Eris's Holy Orb
 patch=1,EE,20572F28,extended,00000010
 
-[Maskless Orb]
+[Maskless Orb (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maskless Orb
 // Maskless Orb
 patch=1,EE,20572F28,extended,00000011
 
-[Nice-Guy Orb]
+[Nice-Guy Orb (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nice-Guy Orb
 // Nice-Guy Orb
 patch=1,EE,20572F28,extended,00000012
+
+[Cheats\Infinite HP]
+patch=1,EE,204959F0,extended,00000190
+patch=1,EE,204914B0,extended,00000190
+
+[Cheats\Infinite MP]
+patch=1,EE,204959F4,extended,000003E8
+patch=1,EE,204914B4,extended,000003E8
+
+[Cheats\100 Chain]
+patch=1,EE,20495EA0,extended,00000064

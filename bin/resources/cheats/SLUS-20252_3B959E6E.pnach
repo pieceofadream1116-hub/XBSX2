@@ -54,13 +54,13 @@ description=Max Speed
 // Max Speed
 patch=1,EE,204AA988,extended,00000024
 
-[Ass Kickin' Machine]
+[Ass Kickin' Machine (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ass Kickin' Machine
 // Ass Kickin' Machine
 patch=1,EE,404AA974,extended,00060001
 
-[Ass Kickin' Machine]
+[Ass Kickin' Machine (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ass Kickin' Machine
 // Ass Kickin' Machine
@@ -72,8 +72,16 @@ description=Complete Skill Challenges Easier
 // Complete Skill Challenges Easier
 patch=1,EE,404AC414,extended,000F0019
 
-[Complete Skill Challenges Easier]
+[Complete Skill Challenges Easier (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Complete Skill Challenges Easier
 // Complete Skill Challenges Easier
+patch=1,EE,00000002,extended,00000000
+
+[Cheats\New Fighter Creation All stats max]
+patch=1,EE,404AA974,extended,00060001
+patch=1,EE,0000270F,extended,00000000
+
+[Cheats\Complete Skill Challenges Easier]
+patch=1,EE,404AC414,extended,000F0019
 patch=1,EE,00000002,extended,00000000

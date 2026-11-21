@@ -1,0 +1,4 @@
+gametitle=Fitness Fun [SLES-52983] [E8761BDA]
+
+[Cheats\Bar Is Always Full Perfect]
+patch=1,EE,201D9FE4,extended,00001000

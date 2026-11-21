@@ -30,7 +30,7 @@ description=75% Health P1
 // 75% Health P1
 patch=1,EE,D0279042,extended,00003F80
 
-[75% Health P1]
+[75% Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P1
 // 75% Health P1
@@ -40,19 +40,7 @@ patch=1,EE,20279040,extended,3F400000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P1
 // 50% Health P1
-patch=1,EE,D0279042,extended,00003F80
-
-[50% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=50% Health P1
-// 50% Health P1
 patch=1,EE,20279040,extended,3F000000
-
-[25% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=25% Health P1
-// 25% Health P1
-patch=1,EE,D0279042,extended,00003F80
 
 [25% Health P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -108,7 +96,7 @@ description=75% Health P2
 // 75% Health P2
 patch=1,EE,D0279902,extended,00003F80
 
-[75% Health P2]
+[75% Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P2
 // 75% Health P2
@@ -118,19 +106,7 @@ patch=1,EE,20279900,extended,3F400000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P2
 // 50% Health P2
-patch=1,EE,D0279902,extended,00003F80
-
-[50% Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=50% Health P2
-// 50% Health P2
 patch=1,EE,20279900,extended,3F000000
-
-[25% Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=25% Health P2
-// 25% Health P2
-patch=1,EE,D0279902,extended,00003F80
 
 [25% Health P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -186,7 +162,7 @@ description=Start With 1 Knockdown P1
 // Start With 1 Knockdown P1
 patch=1,EE,D0278EC4,extended,00000000
 
-[Start With 1 Knockdown P1]
+[Start With 1 Knockdown P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With 1 Knockdown P1
 // Start With 1 Knockdown P1
@@ -196,19 +172,7 @@ patch=1,EE,20278EC4,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With 2 Knockdowns P1
 // Start With 2 Knockdowns P1
-patch=1,EE,D0278EC4,extended,00000000
-
-[Start With 2 Knockdowns P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start With 2 Knockdowns P1
-// Start With 2 Knockdowns P1
 patch=1,EE,20278EC4,extended,00000002
-
-[Start With 3 Knockdowns P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start With 3 Knockdowns P1
-// Start With 3 Knockdowns P1
-patch=1,EE,D0278EC4,extended,00000000
 
 [Start With 3 Knockdowns P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -228,7 +192,7 @@ description=Start With 1 Knockdown P2
 // Start With 1 Knockdown P2
 patch=1,EE,D0279784,extended,00000000
 
-[Start With 1 Knockdown P2]
+[Start With 1 Knockdown P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With 1 Knockdown P2
 // Start With 1 Knockdown P2
@@ -238,19 +202,7 @@ patch=1,EE,20279784,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With 2 Knockdowns P2
 // Start With 2 Knockdowns P2
-patch=1,EE,D0279784,extended,00000000
-
-[Start With 2 Knockdowns P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start With 2 Knockdowns P2
-// Start With 2 Knockdowns P2
 patch=1,EE,20279784,extended,00000002
-
-[Start With 3 Knockdowns P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start With 3 Knockdowns P2
-// Start With 3 Knockdowns P2
-patch=1,EE,D0279784,extended,00000000
 
 [Start With 3 Knockdowns P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -264,7 +216,7 @@ description=Round 2
 // Round 2
 patch=1,EE,D024457C,extended,00000000
 
-[Round 2]
+[Round 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Round 2
 // Round 2
@@ -274,19 +226,7 @@ patch=1,EE,1024457C,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Round 3
 // Round 3
-patch=1,EE,D024457C,extended,00000000
-
-[Round 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Round 3
-// Round 3
 patch=1,EE,1024457C,extended,00000002
-
-[Round 4]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Round 4
-// Round 4
-patch=1,EE,D024457C,extended,00000000
 
 [Round 4]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -330,17 +270,11 @@ description=Fight 2
 // Fight 2
 patch=1,EE,D02DD110,extended,00000000
 
-[Fight 2]
+[Fight 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fight 2
 // Fight 2
 patch=1,EE,102DD110,extended,00000001
-
-[Fight 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Fight 3
-// Fight 3
-patch=1,EE,D02DD110,extended,00000000
 
 [Fight 3]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -352,19 +286,7 @@ patch=1,EE,102DD110,extended,00000002
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fight 4
 // Fight 4
-patch=1,EE,D02DD110,extended,00000000
-
-[Fight 4]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Fight 4
-// Fight 4
 patch=1,EE,102DD110,extended,00000003
-
-[Fight 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Fight 5
-// Fight 5
-patch=1,EE,D02DD110,extended,00000000
 
 [Fight 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -376,19 +298,7 @@ patch=1,EE,102DD110,extended,00000004
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fight 6
 // Fight 6
-patch=1,EE,D02DD110,extended,00000000
-
-[Fight 6]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Fight 6
-// Fight 6
 patch=1,EE,102DD110,extended,00000005
-
-[Fight 7]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Fight 7
-// Fight 7
-patch=1,EE,D02DD110,extended,00000000
 
 [Fight 7]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -400,19 +310,7 @@ patch=1,EE,102DD110,extended,00000006
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fight 8
 // Fight 8
-patch=1,EE,D02DD110,extended,00000000
-
-[Fight 8]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Fight 8
-// Fight 8
 patch=1,EE,102DD110,extended,00000007
-
-[Fight 9]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Fight 9
-// Fight 9
-patch=1,EE,D02DD110,extended,00000000
 
 [Fight 9]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -424,10 +322,8 @@ patch=1,EE,102DD110,extended,00000008
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fight 10
 // Fight 10
-patch=1,EE,D02DD110,extended,00000000
-
-[Fight 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Fight 10
-// Fight 10
 patch=1,EE,102DD110,extended,00000009
+
+[Cheats\Press Select No Health Player 2]
+patch=1,EE,D0AC6A82,extended,0010FFFE
+patch=1,EE,20279900,extended,00000000

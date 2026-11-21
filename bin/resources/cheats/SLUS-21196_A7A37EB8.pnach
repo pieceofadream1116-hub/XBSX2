@@ -6,37 +6,37 @@ description=Access All Levels
 // Access All Levels
 patch=1,EE,9038F5D0,extended,00832021
 
-[Access All Levels]
+[Access All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Levels
 // Access All Levels
 patch=1,EE,200C0200,extended,3C030087
 
-[Access All Levels]
+[Access All Levels (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Levels
 // Access All Levels
 patch=1,EE,200C0204,extended,8C63F1BC
 
-[Access All Levels]
+[Access All Levels (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Levels
 // Access All Levels
 patch=1,EE,200C0208,extended,1060007B
 
-[Access All Levels]
+[Access All Levels (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Levels
 // Access All Levels
 patch=1,EE,200C020C,extended,24040001
 
-[Access All Levels]
+[Access All Levels (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Levels
 // Access All Levels
 patch=1,EE,200C03F8,extended,03E00008
 
-[Access All Levels]
+[Access All Levels (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Levels
 // Access All Levels
@@ -48,7 +48,7 @@ description=Max Mental Status (Tyler Miles)
 // Max Mental Status (Tyler Miles)
 patch=1,EE,200C0210,extended,24010064
 
-[Max Mental Status (Tyler Miles)]
+[Max Mental Status (Tyler Miles) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Mental Status (Tyler Miles)
 // Max Mental Status (Tyler Miles)
@@ -60,7 +60,7 @@ description=Max Mental Status (Carla Valenti)
 // Max Mental Status (Carla Valenti)
 patch=1,EE,200C0218,extended,24010064
 
-[Max Mental Status (Carla Valenti)]
+[Max Mental Status (Carla Valenti) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Mental Status (Carla Valenti)
 // Max Mental Status (Carla Valenti)
@@ -72,7 +72,7 @@ description=Max Mental Status (Lucas Kane)
 // Max Mental Status (Lucas Kane)
 patch=1,EE,200C0220,extended,24010064
 
-[Max Mental Status (Lucas Kane)]
+[Max Mental Status (Lucas Kane) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Mental Status (Lucas Kane)
 // Max Mental Status (Lucas Kane)
@@ -84,13 +84,13 @@ description=Max Bonus Points
 // Max Bonus Points
 patch=1,EE,200C0228,extended,3C010001
 
-[Max Bonus Points]
+[Max Bonus Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Bonus Points
 // Max Bonus Points
 patch=1,EE,200C022C,extended,3421869F
 
-[Max Bonus Points]
+[Max Bonus Points (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Bonus Points
 // Max Bonus Points
@@ -102,7 +102,7 @@ description=Infinite Lives
 // Infinite Lives
 patch=1,EE,200C0234,extended,24010006
 
-[Infinite Lives]
+[Infinite Lives (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
@@ -749,3 +749,8 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Martina Topley-Bird-Sandpaper Kisses
 // Martina Topley-Bird-Sandpaper Kisses
 patch=1,EE,200C03F4,extended,A0640889
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,00209688,word,10400004 //14400004

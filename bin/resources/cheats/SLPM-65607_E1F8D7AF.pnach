@@ -1,0 +1,7 @@
+gametitle=3LDK ～幸せになろうよ～ [初回限定版] [SLPM-65607] [E1F8D7AF]
+
+[Cheats\Unlock All Bonus]
+patch=1,EE,401703C8,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,401705C0,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000

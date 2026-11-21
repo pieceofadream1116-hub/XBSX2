@@ -1,0 +1,5 @@
+gametitle=メタルウルフREV [初回限定版] [SLPM-65552] [1EF2A240]
+
+[Cheats\Unlock All CG & Endings]
+patch=1,EE,40193504,extended,000D0001
+patch=1,EE,FFFFFFFF,extended,00000000

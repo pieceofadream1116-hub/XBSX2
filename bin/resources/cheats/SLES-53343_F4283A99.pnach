@@ -1,0 +1,4 @@
+gametitle=City Soccer Challenge [SLES-53343] [F4283A99]
+
+[Cheats\99 Goals Player 1]
+patch=1,EE,0078706c,extended,00000063

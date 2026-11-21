@@ -12,19 +12,19 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,20222344,extended,3C0242C8
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,20222348,extended,44826000
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,20222380,extended,E44C0010
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -36,19 +36,19 @@ description=Infinite Lore
 // Infinite Lore
 patch=1,EE,202220EC,extended,3C0242C8
 
-[Infinite Lore]
+[Infinite Lore (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lore
 // Infinite Lore
 patch=1,EE,202220F0,extended,44826000
 
-[Infinite Lore]
+[Infinite Lore (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lore
 // Infinite Lore
 patch=1,EE,20222128,extended,E44C0004
 
-[Infinite Lore]
+[Infinite Lore (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lore
 // Infinite Lore
@@ -60,7 +60,7 @@ description=Infinite Health (Alternate)
 // Infinite Health (Alternate)
 patch=1,EE,2021AAC8,extended,3C014400
 
-[Infinite Health (Alternate)]
+[Infinite Health (Alternate) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Alternate)
 // Infinite Health (Alternate)
@@ -72,7 +72,7 @@ description=Max Health
 // Max Health
 patch=1,EE,2021ACA4,extended,3C014400
 
-[Max Health]
+[Max Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
@@ -84,7 +84,7 @@ description=Infinite RAGE
 // Infinite RAGE
 patch=1,EE,2022D174,extended,3C01447A
 
-[Infinite RAGE]
+[Infinite RAGE (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite RAGE
 // Infinite RAGE
@@ -96,7 +96,7 @@ description=Max RAGE
 // Max RAGE
 patch=1,EE,2022D170,extended,3C01447A
 
-[Max RAGE]
+[Max RAGE (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max RAGE
 // Max RAGE
@@ -108,25 +108,25 @@ description=Have All Dark Gifts
 // Have All Dark Gifts
 patch=1,EE,200C0220,extended,24010001
 
-[Have All Dark Gifts]
+[Have All Dark Gifts (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Dark Gifts
 // Have All Dark Gifts
 patch=1,EE,200C0224,extended,AC81000C
 
-[Have All Dark Gifts]
+[Have All Dark Gifts (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Dark Gifts
 // Have All Dark Gifts
 patch=1,EE,200C0228,extended,03E00008
 
-[Have All Dark Gifts]
+[Have All Dark Gifts (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Dark Gifts
 // Have All Dark Gifts
 patch=1,EE,200C022C,extended,8C82000C
 
-[Have All Dark Gifts]
+[Have All Dark Gifts (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Dark Gifts
 // Have All Dark Gifts
@@ -419,3 +419,30 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Debug Conversation Stuff
 // Debug Conversation Stuff
 patch=1,EE,204955FC,extended,00000001
+
+[Cheats\Infinite Health]
+patch=1,EE,20222344,extended,3C0242C8
+patch=1,EE,20222348,extended,44826000
+patch=1,EE,20222380,extended,E44C0010
+patch=1,EE,20222394,extended,E44C0018
+
+[Cheats\Infinite Health Alternate]
+patch=1,EE,2021AAC8,extended,3C014400
+patch=1,EE,2021AAD0,extended,AC810010
+
+[Cheats\Infinite Lore]
+patch=1,EE,202220EC,extended,3C0242C8
+patch=1,EE,202220F0,extended,44826000
+patch=1,EE,20222128,extended,E44C0004
+patch=1,EE,2022213C,extended,E44C000C
+
+[Cheats\Infinite RAGE]
+patch=1,EE,2022D174,extended,3C01447A
+patch=1,EE,2022D178,extended,44810800
+
+[Cheats\Have All Dark Gifts]
+patch=1,EE,200C0220,extended,24010001
+patch=1,EE,200C0224,extended,AC81000C
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,8C82000C
+patch=1,EE,20254F60,extended,08030088

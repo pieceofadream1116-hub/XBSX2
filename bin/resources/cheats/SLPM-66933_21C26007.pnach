@@ -1,0 +1,5 @@
+gametitle=君が主で執事が俺で～お仕え日記～ [初回限定版] [SLPM-66933] [21C26007]
+
+[Cheats\Unlock All CG & Ending]
+patch=1,EE,41CDA728,extended,000B0001
+patch=1,EE,FFFFFFFF,extended,00000000

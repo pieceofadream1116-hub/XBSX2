@@ -1,0 +1,5 @@
+gametitle=カナリア～この想いを歌に乗せて～ [SLPS-25219] [CB8D487A]
+
+[Cheats\Unlock All CG]
+patch=1,EE,401F3800,extended,00190001
+patch=1,EE,01010101,extended,00000000

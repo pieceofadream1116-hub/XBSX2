@@ -1,0 +1,4 @@
+gametitle=オレたちゲーセン族 クレイジー・クライマー [SLPM-62627] [AF111168]
+
+[Cheats\Infinite Lives]
+patch=1,EE,0015DE68,extended,00000009

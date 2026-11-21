@@ -12,7 +12,7 @@ description=Infinite Time
 // Infinite Time
 patch=1,EE,20219B98,extended,00000000
 
-[Infinite Time]
+[Infinite Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Time
 // Infinite Time
@@ -71,3 +71,7 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Tachyon
 // Max Tachyon
 patch=1,EE,202F208C,extended,0000270F
+
+[Cheats\Infinite Time]
+patch=1,EE,20219B98,extended,00000000
+patch=1,EE,20219BA0,extended,00000000

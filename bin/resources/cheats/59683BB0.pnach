@@ -1,0 +1,4107 @@
+gametitle=Death By Degrees [SCES-52586] [59683BB0]
+
+[All Weapon Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapon Cheats
+// All Weapon Cheats
+patch=1,EE,901174A4,extended,0C048BBC
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20109C80,extended,24020001
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,E0016900,extended,00535F10
+
+[Max HP (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,20ED691C,extended,00001400
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,20ED6920,extended,00001400
+
+[Max Focus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Focus
+// Max Focus
+patch=1,EE,20ED6924,extended,00001400
+
+[Infinite Focus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Focus
+// Infinite Focus
+patch=1,EE,20ED6928,extended,00001400
+
+[Max Air]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Air
+// Max Air
+patch=1,EE,20ED692C,extended,00001400
+
+[Infinite Air]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Air
+// Infinite Air
+patch=1,EE,20ED6930,extended,00001400
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,20ED693C,extended,0000270F
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,20ED6940,extended,000F423F
+
+[Max Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Combo
+// Max Combo
+patch=1,EE,20ED6948,extended,000003E7
+
+[Meal Kit S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meal Kit S
+// Meal Kit S
+patch=1,EE,00ED6978,extended,00000063
+
+[Meal Kit M]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meal Kit M
+// Meal Kit M
+patch=1,EE,00ED6979,extended,00000063
+
+[Meal Kit L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meal Kit L
+// Meal Kit L
+patch=1,EE,00ED697A,extended,00000063
+
+[Meal Kit XL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meal Kit XL
+// Meal Kit XL
+patch=1,EE,00ED697B,extended,00000063
+
+[Bottle Water S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottle Water S
+// Bottle Water S
+patch=1,EE,00ED697C,extended,00000063
+
+[Bottle Water M]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottle Water M
+// Bottle Water M
+patch=1,EE,00ED697D,extended,00000063
+
+[Bottle Water L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottle Water L
+// Bottle Water L
+patch=1,EE,00ED697E,extended,00000063
+
+[Bottle Water XL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottle Water XL
+// Bottle Water XL
+patch=1,EE,00ED697F,extended,00000063
+
+[Arnica EO S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arnica EO S
+// Arnica EO S
+patch=1,EE,00ED6980,extended,00000063
+
+[Arnica EO M]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arnica EO M
+// Arnica EO M
+patch=1,EE,00ED6981,extended,00000063
+
+[Arnica EO L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arnica EO L
+// Arnica EO L
+patch=1,EE,00ED6982,extended,00000063
+
+[Arnica EO XL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arnica EO XL
+// Arnica EO XL
+patch=1,EE,00ED6983,extended,00000063
+
+[Rosemary EO S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rosemary EO S
+// Rosemary EO S
+patch=1,EE,00ED6984,extended,00000063
+
+[Rosemary EO M]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rosemary EO M
+// Rosemary EO M
+patch=1,EE,00ED6985,extended,00000063
+
+[Rosemary EO L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rosemary EO L
+// Rosemary EO L
+patch=1,EE,00ED6986,extended,00000063
+
+[Rosemary EO XL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rosemary EO XL
+// Rosemary EO XL
+patch=1,EE,00ED6987,extended,00000063
+
+[Peppermint EO S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peppermint EO S
+// Peppermint EO S
+patch=1,EE,00ED6988,extended,00000063
+
+[Peppermint EO M]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peppermint EO M
+// Peppermint EO M
+patch=1,EE,00ED6989,extended,00000063
+
+[Peppermint EO L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peppermint EO L
+// Peppermint EO L
+patch=1,EE,00ED698A,extended,00000063
+
+[Peppermint EO XL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peppermint EO XL
+// Peppermint EO XL
+patch=1,EE,00ED698B,extended,00000063
+
+[Eucalyptus EO S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eucalyptus EO S
+// Eucalyptus EO S
+patch=1,EE,00ED698C,extended,00000063
+
+[Eucalyptus EO M]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eucalyptus EO M
+// Eucalyptus EO M
+patch=1,EE,00ED698D,extended,00000063
+
+[Eucalyptus EO L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eucalyptus EO L
+// Eucalyptus EO L
+patch=1,EE,00ED698E,extended,00000063
+
+[Eucalyptus EO XL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eucalyptus EO XL
+// Eucalyptus EO XL
+patch=1,EE,00ED698F,extended,00000063
+
+[Data Card]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Data Card
+// Data Card
+patch=1,EE,00ED69A9,extended,00000063
+
+[Defibrillator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Defibrillator
+// Defibrillator
+patch=1,EE,00ED69B3,extended,00000063
+
+[Gold Coin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Coin
+// Gold Coin
+patch=1,EE,00ED69B4,extended,00000063
+
+[Crank Handle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crank Handle
+// Crank Handle
+patch=1,EE,00ED6990,extended,00000001
+
+[Blue Tag Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Tag Key
+// Blue Tag Key
+patch=1,EE,00ED6991,extended,00000001
+
+[Bronze Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze Key
+// Bronze Key
+patch=1,EE,00ED6992,extended,00000001
+
+[Black Tag Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Tag Key
+// Black Tag Key
+patch=1,EE,00ED6993,extended,00000001
+
+[Crowbar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crowbar
+// Crowbar
+patch=1,EE,00ED6994,extended,00000001
+
+[Chemical Agent]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chemical Agent
+// Chemical Agent
+patch=1,EE,00ED6995,extended,00000001
+
+[Detergent]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Detergent
+// Detergent
+patch=1,EE,00ED6996,extended,00000001
+
+[Blank Card]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blank Card
+// Blank Card
+patch=1,EE,00ED6997,extended,00000001
+
+[Blue Card]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Card
+// Blue Card
+patch=1,EE,00ED6998,extended,00000001
+
+[Yellow Card]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Card
+// Yellow Card
+patch=1,EE,00ED6999,extended,00000001
+
+[Red Card]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Card
+// Red Card
+patch=1,EE,00ED699A,extended,00000001
+
+[Medallion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Medallion
+// Medallion
+patch=1,EE,00ED699B,extended,00000001
+
+[Unicorn Medallion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unicorn Medallion
+// Unicorn Medallion
+patch=1,EE,00ED699C,extended,00000001
+
+[Chimera Medallion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chimera Medallion
+// Chimera Medallion
+patch=1,EE,00ED699D,extended,00000001
+
+[Unicorn Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unicorn Key
+// Unicorn Key
+patch=1,EE,00ED699E,extended,00000001
+
+[Chimera Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chimera Key
+// Chimera Key
+patch=1,EE,00ED699F,extended,00000001
+
+[Print Scanner]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Print Scanner
+// Print Scanner
+patch=1,EE,00ED69A0,extended,00000001
+
+[GPS Device]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GPS Device
+// GPS Device
+patch=1,EE,00ED69A1,extended,00000001
+
+[Stringray]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stringray
+// Stringray
+patch=1,EE,00ED69A2,extended,00000001
+
+[Yellow Tag Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Tag Key
+// Yellow Tag Key
+patch=1,EE,00ED69A3,extended,00000001
+
+[IC Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=IC Key
+// IC Key
+patch=1,EE,00ED69A4,extended,00000001
+
+[Knight Piece]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Piece
+// Knight Piece
+patch=1,EE,00ED69A5,extended,00000001
+
+[General Piece]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=General Piece
+// General Piece
+patch=1,EE,00ED69A6,extended,00000001
+
+[Soldier Piece]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Soldier Piece
+// Soldier Piece
+patch=1,EE,00ED69A7,extended,00000001
+
+[Garment Bag]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Garment Bag
+// Garment Bag
+patch=1,EE,00ED69A8,extended,00000001
+
+[Infrared Goggles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infrared Goggles
+// Infrared Goggles
+patch=1,EE,00ED69AA,extended,00000001
+
+[Pocket Watch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pocket Watch
+// Pocket Watch
+patch=1,EE,00ED69AB,extended,00000001
+
+[Hunting Kick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunting Kick
+// Hunting Kick
+patch=1,EE,00EDB5C4,extended,00000001
+
+[Hunting Kick Combo (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunting Kick Combo (3)
+// Hunting Kick Combo (3)
+patch=1,EE,00EDB5C5,extended,00000001
+
+[Forward Roll Kick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Forward Roll Kick
+// Forward Roll Kick
+patch=1,EE,00EDB5C6,extended,00000001
+
+[Back Slicer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Slicer
+// Back Slicer
+patch=1,EE,00EDB5C7,extended,00000001
+
+[Geyser Cannon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Geyser Cannon
+// Geyser Cannon
+patch=1,EE,00EDB5C8,extended,00000001
+
+[Rapid Kick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Kick
+// Rapid Kick
+patch=1,EE,00EDB5C9,extended,00000001
+
+[Hunting Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunting Cutter
+// Hunting Cutter
+patch=1,EE,00EDB5CA,extended,00000001
+
+[Ivory Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ivory Cutter
+// Ivory Cutter
+patch=1,EE,00EDB5CB,extended,00000001
+
+[Bad Habit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bad Habit
+// Bad Habit
+patch=1,EE,00EDB5CC,extended,00000001
+
+[Hold Submission Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hold Submission Combo
+// Hold Submission Combo
+patch=1,EE,00EDB5CD,extended,00000001
+
+[Rapid Kick Submission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Kick Submission
+// Rapid Kick Submission
+patch=1,EE,00EDB5CE,extended,00000001
+
+[Killing Viper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killing Viper
+// Killing Viper
+patch=1,EE,00EDB5CF,extended,00000001
+
+[Double Geyser Cannon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Double Geyser Cannon
+// Double Geyser Cannon
+patch=1,EE,00EDB5D0,extended,00000001
+
+[Rapid Kick Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Kick Combo
+// Rapid Kick Combo
+patch=1,EE,00EDB5D1,extended,00000001
+
+[Hunting Slicer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunting Slicer
+// Hunting Slicer
+patch=1,EE,00EDB5D2,extended,00000001
+
+[5-Hit Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5-Hit Combo
+// 5-Hit Combo
+patch=1,EE,00EDB5D3,extended,00000001
+
+[10-Hit Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=10-Hit Combo
+// 10-Hit Combo
+patch=1,EE,00EDB5D4,extended,00000001
+
+[Reversal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reversal
+// Reversal
+patch=1,EE,00EDB5D5,extended,00000001
+
+[Hunting Kick Combo (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunting Kick Combo (5)
+// Hunting Kick Combo (5)
+patch=1,EE,00EDB5D6,extended,00000001
+
+[Hunting Kick Combo (10)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunting Kick Combo (10)
+// Hunting Kick Combo (10)
+patch=1,EE,00EDB5D7,extended,00000001
+
+[Hunting Swan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunting Swan
+// Hunting Swan
+patch=1,EE,00EDB5D8,extended,00000001
+
+[Bone Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bone Cutter
+// Bone Cutter
+patch=1,EE,00EDB5D9,extended,00000001
+
+[Wall Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wall Attack
+// Wall Attack
+patch=1,EE,00EDB5DA,extended,00000001
+
+[Spinning Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spinning Cutter
+// Spinning Cutter
+patch=1,EE,00EDB5DB,extended,00000001
+
+[Breakfall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breakfall
+// Breakfall
+patch=1,EE,00EDB5DC,extended,00000001
+
+[Hammer Throw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammer Throw
+// Hammer Throw
+patch=1,EE,00EDB5DD,extended,00000001
+
+[Surrender Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Surrender Attack
+// Surrender Attack
+patch=1,EE,00EDB5DE,extended,00000001
+
+[Bone Cutter Submission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bone Cutter Submission
+// Bone Cutter Submission
+patch=1,EE,00EDB5DF,extended,00000001
+
+[Evasion Submission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Evasion Submission
+// Evasion Submission
+patch=1,EE,00EDB5E0,extended,00000001
+
+[Head Hunter Twist Throw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Head Hunter Twist Throw
+// Head Hunter Twist Throw
+patch=1,EE,00EDB5E1,extended,00000001
+
+[Silent Kick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silent Kick
+// Silent Kick
+patch=1,EE,00EDB5E2,extended,00000001
+
+[Back Stab Kick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Stab Kick
+// Back Stab Kick
+patch=1,EE,00EDB5E3,extended,00000001
+
+[Accelerated Vision Lv1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Accelerated Vision Lv1
+// Accelerated Vision Lv1
+patch=1,EE,00EDB5E4,extended,00000001
+
+[Accelerated Vision Lv2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Accelerated Vision Lv2
+// Accelerated Vision Lv2
+patch=1,EE,00EDB5E5,extended,00000001
+
+[Accelerated Vision Lv3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Accelerated Vision Lv3
+// Accelerated Vision Lv3
+patch=1,EE,00EDB5E6,extended,00000001
+
+[Disarm & Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disarm & Attack
+// Disarm & Attack
+patch=1,EE,00EDB5E7,extended,00000001
+
+[Focused Breath Lv1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Focused Breath Lv1
+// Focused Breath Lv1
+patch=1,EE,00EDB5E8,extended,00000001
+
+[Focused Breath Lv2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Focused Breath Lv2
+// Focused Breath Lv2
+patch=1,EE,00EDB5E9,extended,00000001
+
+[Focused Breath Lv3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Focused Breath Lv3
+// Focused Breath Lv3
+patch=1,EE,00EDB5EA,extended,00000001
+
+[Twisted Wind]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Twisted Wind
+// Twisted Wind
+patch=1,EE,00EDB5EB,extended,00000001
+
+[Lethal Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lethal Attack
+// Lethal Attack
+patch=1,EE,00EDB5EC,extended,00000001
+
+[Melee Proficiency Lv1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Melee Proficiency Lv1
+// Melee Proficiency Lv1
+patch=1,EE,00EDB5ED,extended,00000001
+
+[Melee Proficiency Lv2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Melee Proficiency Lv2
+// Melee Proficiency Lv2
+patch=1,EE,00EDB5EE,extended,00000001
+
+[Melee Proficiency Lv3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Melee Proficiency Lv3
+// Melee Proficiency Lv3
+patch=1,EE,00EDB5EF,extended,00000001
+
+[Melee Rush Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Melee Rush Attack
+// Melee Rush Attack
+patch=1,EE,00EDB5F0,extended,00000001
+
+[Head Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Head Shot
+// Head Shot
+patch=1,EE,00EDB5F1,extended,00000001
+
+[Rapid Fire Lv1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire Lv1
+// Rapid Fire Lv1
+patch=1,EE,00EDB5F2,extended,00000001
+
+[Rapid Fire Lv2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire Lv2
+// Rapid Fire Lv2
+patch=1,EE,00EDB5F3,extended,00000001
+
+[Rapid Fire Lv3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire Lv3
+// Rapid Fire Lv3
+patch=1,EE,00EDB5F4,extended,00000001
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,20EDB4D8,extended,000003E7
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,20EDB4E0,extended,000003E7
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,20EDB4E8,extended,000003E7
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,20EDB4F0,extended,000003E7
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,20EDB4F8,extended,000003E7
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,20EDB500,extended,000003E7
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,20EDB508,extended,000003E7
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,20EDB510,extended,000003E7
+
+[1 Slot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Slot
+// 1 Slot
+patch=1,EE,20EDB4D0,extended,00000001
+
+[2 Slots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Slots
+// 2 Slots
+patch=1,EE,20EDB4D0,extended,00000002
+
+[3 Slots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Slots
+// 3 Slots
+patch=1,EE,20EDB4D0,extended,00000003
+
+[4 Slots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4 Slots
+// 4 Slots
+patch=1,EE,20EDB4D0,extended,00000004
+
+[5 Slots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5 Slots
+// 5 Slots
+patch=1,EE,20EDB4D0,extended,00000005
+
+[6 Slots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6 Slots
+// 6 Slots
+patch=1,EE,20EDB4D0,extended,00000006
+
+[7 Slots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7 Slots
+// 7 Slots
+patch=1,EE,20EDB4D0,extended,00000007
+
+[8 Slots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8 Slots
+// 8 Slots
+patch=1,EE,20EDB4D0,extended,00000008
+
+[9mm Handgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun
+// 9mm Handgun
+patch=1,EE,20EDB4D4,extended,00020000
+
+[9mm 3rd Handgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rd Handgun
+// 9mm 3rd Handgun
+patch=1,EE,20EDB4D4,extended,00020001
+
+[.44 Magnum]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum
+// .44 Magnum
+patch=1,EE,20EDB4D4,extended,00020002
+
+[Stun Pistol]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol
+// Stun Pistol
+patch=1,EE,20EDB4D4,extended,00020003
+
+[9mm Sub-machinegun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun
+// 9mm Sub-machinegun
+patch=1,EE,20EDB4D4,extended,00020004
+
+[5.56mm Assault Rifle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle
+// 5.56mm Assault Rifle
+patch=1,EE,20EDB4D4,extended,00020005
+
+[12-Gauge Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun
+// 12-Gauge Shotgun
+patch=1,EE,20EDB4D4,extended,00020006
+
+[40mm Grenade Launcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher
+// 40mm Grenade Launcher
+patch=1,EE,20EDB4D4,extended,00020007
+
+[Railgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun
+// Railgun
+patch=1,EE,20EDB4D4,extended,00020008
+
+[Hand Grenade]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade
+// Hand Grenade
+patch=1,EE,20EDB4D4,extended,00020009
+
+[Stun Grenade]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade
+// Stun Grenade
+patch=1,EE,20EDB4D4,extended,0002000A
+
+[Suitcase Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun
+// Suitcase Gun
+patch=1,EE,20EDB4D4,extended,0002000B
+
+[9mm Handgun+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun+
+// 9mm Handgun+
+patch=1,EE,20EDB4D4,extended,0002000C
+
+[9mm 3rb Handgun+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun+
+// 9mm 3rb Handgun+
+patch=1,EE,20EDB4D4,extended,0002000D
+
+[.44 Magnum+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum+
+// .44 Magnum+
+patch=1,EE,20EDB4D4,extended,0002000E
+
+[Stun Pistol+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol+
+// Stun Pistol+
+patch=1,EE,20EDB4D4,extended,0002000F
+
+[9mm Sub-machinegun+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun+
+// 9mm Sub-machinegun+
+patch=1,EE,20EDB4D4,extended,00020010
+
+[5.56mm Assault Rifle+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle+
+// 5.56mm Assault Rifle+
+patch=1,EE,20EDB4D4,extended,00020011
+
+[12-Gauge Shotgun+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun+
+// 12-Gauge Shotgun+
+patch=1,EE,20EDB4D4,extended,00020012
+
+[40mm Grenade Launcher+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher+
+// 40mm Grenade Launcher+
+patch=1,EE,20EDB4D4,extended,00020013
+
+[Railgun+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun+
+// Railgun+
+patch=1,EE,20EDB4D4,extended,00020014
+
+[Hand Grenade+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade+
+// Hand Grenade+
+patch=1,EE,20EDB4D4,extended,00020015
+
+[Stun Grenade+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade+
+// Stun Grenade+
+patch=1,EE,20EDB4D4,extended,00020016
+
+[Suitcase Gun+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun+
+// Suitcase Gun+
+patch=1,EE,20EDB4D4,extended,00020017
+
+[9mm Handgun (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun (Infinity)
+// 9mm Handgun (Infinity)
+patch=1,EE,20EDB4D4,extended,00020018
+
+[9mm 3rb Handgun (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun (Infinity)
+// 9mm 3rb Handgun (Infinity)
+patch=1,EE,20EDB4D4,extended,00020019
+
+[.44 Magnum (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum (Infinity)
+// .44 Magnum (Infinity)
+patch=1,EE,20EDB4D4,extended,0002001A
+
+[Stun Pistol (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol (Infinity)
+// Stun Pistol (Infinity)
+patch=1,EE,20EDB4D4,extended,0002001B
+
+[9mm Sub-machinegun (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun (Infinity)
+// 9mm Sub-machinegun (Infinity)
+patch=1,EE,20EDB4D4,extended,0002001C
+
+[5.56mm Assault Rifle (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle (Infinity)
+// 5.56mm Assault Rifle (Infinity)
+patch=1,EE,20EDB4D4,extended,0002001D
+
+[12-Gauge Shotgun (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun (Infinity)
+// 12-Gauge Shotgun (Infinity)
+patch=1,EE,20EDB4D4,extended,0002001E
+
+[40mm Grenade Launcher (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher (Infinity)
+// 40mm Grenade Launcher (Infinity)
+patch=1,EE,20EDB4D4,extended,0002001F
+
+[Railgun (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun (Infinity)
+// Railgun (Infinity)
+patch=1,EE,20EDB4D4,extended,00020020
+
+[Hand Grenade (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade (Infinity)
+// Hand Grenade (Infinity)
+patch=1,EE,20EDB4D4,extended,00020021
+
+[Stun Grenade (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade (Infinity)
+// Stun Grenade (Infinity)
+patch=1,EE,20EDB4D4,extended,00020022
+
+[Suitcase Gun (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun (Infinity)
+// Suitcase Gun (Infinity)
+patch=1,EE,20EDB4D4,extended,00020023
+
+[9mm Handgun (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun
+// 9mm Handgun
+patch=1,EE,20EDB4DC,extended,00020000
+
+[9mm 3rd Handgun (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rd Handgun
+// 9mm 3rd Handgun
+patch=1,EE,20EDB4DC,extended,00020001
+
+[.44 Magnum (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum
+// .44 Magnum
+patch=1,EE,20EDB4DC,extended,00020002
+
+[Stun Pistol (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol
+// Stun Pistol
+patch=1,EE,20EDB4DC,extended,00020003
+
+[9mm Sub-machinegun (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun
+// 9mm Sub-machinegun
+patch=1,EE,20EDB4DC,extended,00020004
+
+[5.56mm Assault Rifle (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle
+// 5.56mm Assault Rifle
+patch=1,EE,20EDB4DC,extended,00020005
+
+[12-Gauge Shotgun (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun
+// 12-Gauge Shotgun
+patch=1,EE,20EDB4DC,extended,00020006
+
+[40mm Grenade Launcher (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher
+// 40mm Grenade Launcher
+patch=1,EE,20EDB4DC,extended,00020007
+
+[Railgun (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun
+// Railgun
+patch=1,EE,20EDB4DC,extended,00020008
+
+[Hand Grenade (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade
+// Hand Grenade
+patch=1,EE,20EDB4DC,extended,00020009
+
+[Stun Grenade (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade
+// Stun Grenade
+patch=1,EE,20EDB4DC,extended,0002000A
+
+[Suitcase Gun (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun
+// Suitcase Gun
+patch=1,EE,20EDB4DC,extended,0002000B
+
+[9mm Handgun+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun+
+// 9mm Handgun+
+patch=1,EE,20EDB4DC,extended,0002000C
+
+[9mm 3rb Handgun+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun+
+// 9mm 3rb Handgun+
+patch=1,EE,20EDB4DC,extended,0002000D
+
+[.44 Magnum+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum+
+// .44 Magnum+
+patch=1,EE,20EDB4DC,extended,0002000E
+
+[Stun Pistol+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol+
+// Stun Pistol+
+patch=1,EE,20EDB4DC,extended,0002000F
+
+[9mm Sub-machinegun+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun+
+// 9mm Sub-machinegun+
+patch=1,EE,20EDB4DC,extended,00020010
+
+[5.56mm Assault Rifle+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle+
+// 5.56mm Assault Rifle+
+patch=1,EE,20EDB4DC,extended,00020011
+
+[12-Gauge Shotgun+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun+
+// 12-Gauge Shotgun+
+patch=1,EE,20EDB4DC,extended,00020012
+
+[40mm Grenade Launcher+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher+
+// 40mm Grenade Launcher+
+patch=1,EE,20EDB4DC,extended,00020013
+
+[Railgun+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun+
+// Railgun+
+patch=1,EE,20EDB4DC,extended,00020014
+
+[Hand Grenade+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade+
+// Hand Grenade+
+patch=1,EE,20EDB4DC,extended,00020015
+
+[Stun Grenade+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade+
+// Stun Grenade+
+patch=1,EE,20EDB4DC,extended,00020016
+
+[Suitcase Gun+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun+
+// Suitcase Gun+
+patch=1,EE,20EDB4DC,extended,00020017
+
+[9mm Handgun (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun (Infinity)
+// 9mm Handgun (Infinity)
+patch=1,EE,20EDB4DC,extended,00020018
+
+[9mm 3rb Handgun (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun (Infinity)
+// 9mm 3rb Handgun (Infinity)
+patch=1,EE,20EDB4DC,extended,00020019
+
+[.44 Magnum (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum (Infinity)
+// .44 Magnum (Infinity)
+patch=1,EE,20EDB4DC,extended,0002001A
+
+[Stun Pistol (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol (Infinity)
+// Stun Pistol (Infinity)
+patch=1,EE,20EDB4DC,extended,0002001B
+
+[9mm Sub-machinegun (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun (Infinity)
+// 9mm Sub-machinegun (Infinity)
+patch=1,EE,20EDB4DC,extended,0002001C
+
+[5.56mm Assault Rifle (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle (Infinity)
+// 5.56mm Assault Rifle (Infinity)
+patch=1,EE,20EDB4DC,extended,0002001D
+
+[12-Gauge Shotgun (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun (Infinity)
+// 12-Gauge Shotgun (Infinity)
+patch=1,EE,20EDB4DC,extended,0002001E
+
+[40mm Grenade Launcher (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher (Infinity)
+// 40mm Grenade Launcher (Infinity)
+patch=1,EE,20EDB4DC,extended,0002001F
+
+[Railgun (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun (Infinity)
+// Railgun (Infinity)
+patch=1,EE,20EDB4DC,extended,00020020
+
+[Hand Grenade (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade (Infinity)
+// Hand Grenade (Infinity)
+patch=1,EE,20EDB4DC,extended,00020021
+
+[Stun Grenade (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade (Infinity)
+// Stun Grenade (Infinity)
+patch=1,EE,20EDB4DC,extended,00020022
+
+[Suitcase Gun (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun (Infinity)
+// Suitcase Gun (Infinity)
+patch=1,EE,20EDB4DC,extended,00020023
+
+[9mm Handgun (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun
+// 9mm Handgun
+patch=1,EE,20EDB4E4,extended,00020000
+
+[9mm 3rd Handgun (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rd Handgun
+// 9mm 3rd Handgun
+patch=1,EE,20EDB4E4,extended,00020001
+
+[.44 Magnum (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum
+// .44 Magnum
+patch=1,EE,20EDB4E4,extended,00020002
+
+[Stun Pistol (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol
+// Stun Pistol
+patch=1,EE,20EDB4E4,extended,00020003
+
+[9mm Sub-machinegun (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun
+// 9mm Sub-machinegun
+patch=1,EE,20EDB4E4,extended,00020004
+
+[5.56mm Assault Rifle (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle
+// 5.56mm Assault Rifle
+patch=1,EE,20EDB4E4,extended,00020005
+
+[12-Gauge Shotgun (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun
+// 12-Gauge Shotgun
+patch=1,EE,20EDB4E4,extended,00020006
+
+[40mm Grenade Launcher (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher
+// 40mm Grenade Launcher
+patch=1,EE,20EDB4E4,extended,00020007
+
+[Railgun (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun
+// Railgun
+patch=1,EE,20EDB4E4,extended,00020008
+
+[Hand Grenade (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade
+// Hand Grenade
+patch=1,EE,20EDB4E4,extended,00020009
+
+[Stun Grenade (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade
+// Stun Grenade
+patch=1,EE,20EDB4E4,extended,0002000A
+
+[Suitcase Gun (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun
+// Suitcase Gun
+patch=1,EE,20EDB4E4,extended,0002000B
+
+[9mm Handgun+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun+
+// 9mm Handgun+
+patch=1,EE,20EDB4E4,extended,0002000C
+
+[9mm 3rb Handgun+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun+
+// 9mm 3rb Handgun+
+patch=1,EE,20EDB4E4,extended,0002000D
+
+[.44 Magnum+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum+
+// .44 Magnum+
+patch=1,EE,20EDB4E4,extended,0002000E
+
+[Stun Pistol+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol+
+// Stun Pistol+
+patch=1,EE,20EDB4E4,extended,0002000F
+
+[9mm Sub-machinegun+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun+
+// 9mm Sub-machinegun+
+patch=1,EE,20EDB4E4,extended,00020010
+
+[5.56mm Assault Rifle+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle+
+// 5.56mm Assault Rifle+
+patch=1,EE,20EDB4E4,extended,00020011
+
+[12-Gauge Shotgun+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun+
+// 12-Gauge Shotgun+
+patch=1,EE,20EDB4E4,extended,00020012
+
+[40mm Grenade Launcher+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher+
+// 40mm Grenade Launcher+
+patch=1,EE,20EDB4E4,extended,00020013
+
+[Railgun+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun+
+// Railgun+
+patch=1,EE,20EDB4E4,extended,00020014
+
+[Hand Grenade+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade+
+// Hand Grenade+
+patch=1,EE,20EDB4E4,extended,00020015
+
+[Stun Grenade+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade+
+// Stun Grenade+
+patch=1,EE,20EDB4E4,extended,00020016
+
+[Suitcase Gun+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun+
+// Suitcase Gun+
+patch=1,EE,20EDB4E4,extended,00020017
+
+[9mm Handgun (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun (Infinity)
+// 9mm Handgun (Infinity)
+patch=1,EE,20EDB4E4,extended,00020018
+
+[9mm 3rb Handgun (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun (Infinity)
+// 9mm 3rb Handgun (Infinity)
+patch=1,EE,20EDB4E4,extended,00020019
+
+[.44 Magnum (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum (Infinity)
+// .44 Magnum (Infinity)
+patch=1,EE,20EDB4E4,extended,0002001A
+
+[Stun Pistol (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol (Infinity)
+// Stun Pistol (Infinity)
+patch=1,EE,20EDB4E4,extended,0002001B
+
+[9mm Sub-machinegun (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun (Infinity)
+// 9mm Sub-machinegun (Infinity)
+patch=1,EE,20EDB4E4,extended,0002001C
+
+[5.56mm Assault Rifle (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle (Infinity)
+// 5.56mm Assault Rifle (Infinity)
+patch=1,EE,20EDB4E4,extended,0002001D
+
+[12-Gauge Shotgun (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun (Infinity)
+// 12-Gauge Shotgun (Infinity)
+patch=1,EE,20EDB4E4,extended,0002001E
+
+[40mm Grenade Launcher (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher (Infinity)
+// 40mm Grenade Launcher (Infinity)
+patch=1,EE,20EDB4E4,extended,0002001F
+
+[Railgun (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun (Infinity)
+// Railgun (Infinity)
+patch=1,EE,20EDB4E4,extended,00020020
+
+[Hand Grenade (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade (Infinity)
+// Hand Grenade (Infinity)
+patch=1,EE,20EDB4E4,extended,00020021
+
+[Stun Grenade (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade (Infinity)
+// Stun Grenade (Infinity)
+patch=1,EE,20EDB4E4,extended,00020022
+
+[Suitcase Gun (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun (Infinity)
+// Suitcase Gun (Infinity)
+patch=1,EE,20EDB4E4,extended,00020023
+
+[9mm Handgun (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun
+// 9mm Handgun
+patch=1,EE,20EDB4EC,extended,00020000
+
+[9mm 3rd Handgun (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rd Handgun
+// 9mm 3rd Handgun
+patch=1,EE,20EDB4EC,extended,00020001
+
+[.44 Magnum (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum
+// .44 Magnum
+patch=1,EE,20EDB4EC,extended,00020002
+
+[Stun Pistol (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol
+// Stun Pistol
+patch=1,EE,20EDB4EC,extended,00020003
+
+[9mm Sub-machinegun (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun
+// 9mm Sub-machinegun
+patch=1,EE,20EDB4EC,extended,00020004
+
+[5.56mm Assault Rifle (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle
+// 5.56mm Assault Rifle
+patch=1,EE,20EDB4EC,extended,00020005
+
+[12-Gauge Shotgun (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun
+// 12-Gauge Shotgun
+patch=1,EE,20EDB4EC,extended,00020006
+
+[40mm Grenade Launcher (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher
+// 40mm Grenade Launcher
+patch=1,EE,20EDB4EC,extended,00020007
+
+[Railgun (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun
+// Railgun
+patch=1,EE,20EDB4EC,extended,00020008
+
+[Hand Grenade (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade
+// Hand Grenade
+patch=1,EE,20EDB4EC,extended,00020009
+
+[Stun Grenade (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade
+// Stun Grenade
+patch=1,EE,20EDB4EC,extended,0002000A
+
+[Suitcase Gun (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun
+// Suitcase Gun
+patch=1,EE,20EDB4EC,extended,0002000B
+
+[9mm Handgun+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun+
+// 9mm Handgun+
+patch=1,EE,20EDB4EC,extended,0002000C
+
+[9mm 3rb Handgun+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun+
+// 9mm 3rb Handgun+
+patch=1,EE,20EDB4EC,extended,0002000D
+
+[.44 Magnum+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum+
+// .44 Magnum+
+patch=1,EE,20EDB4EC,extended,0002000E
+
+[Stun Pistol+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol+
+// Stun Pistol+
+patch=1,EE,20EDB4EC,extended,0002000F
+
+[9mm Sub-machinegun+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun+
+// 9mm Sub-machinegun+
+patch=1,EE,20EDB4EC,extended,00020010
+
+[5.56mm Assault Rifle+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle+
+// 5.56mm Assault Rifle+
+patch=1,EE,20EDB4EC,extended,00020011
+
+[12-Gauge Shotgun+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun+
+// 12-Gauge Shotgun+
+patch=1,EE,20EDB4EC,extended,00020012
+
+[40mm Grenade Launcher+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher+
+// 40mm Grenade Launcher+
+patch=1,EE,20EDB4EC,extended,00020013
+
+[Railgun+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun+
+// Railgun+
+patch=1,EE,20EDB4EC,extended,00020014
+
+[Hand Grenade+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade+
+// Hand Grenade+
+patch=1,EE,20EDB4EC,extended,00020015
+
+[Stun Grenade+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade+
+// Stun Grenade+
+patch=1,EE,20EDB4EC,extended,00020016
+
+[Suitcase Gun+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun+
+// Suitcase Gun+
+patch=1,EE,20EDB4EC,extended,00020017
+
+[9mm Handgun (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun (Infinity)
+// 9mm Handgun (Infinity)
+patch=1,EE,20EDB4EC,extended,00020018
+
+[9mm 3rb Handgun (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun (Infinity)
+// 9mm 3rb Handgun (Infinity)
+patch=1,EE,20EDB4EC,extended,00020019
+
+[.44 Magnum (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum (Infinity)
+// .44 Magnum (Infinity)
+patch=1,EE,20EDB4EC,extended,0002001A
+
+[Stun Pistol (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol (Infinity)
+// Stun Pistol (Infinity)
+patch=1,EE,20EDB4EC,extended,0002001B
+
+[9mm Sub-machinegun (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun (Infinity)
+// 9mm Sub-machinegun (Infinity)
+patch=1,EE,20EDB4EC,extended,0002001C
+
+[5.56mm Assault Rifle (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle (Infinity)
+// 5.56mm Assault Rifle (Infinity)
+patch=1,EE,20EDB4EC,extended,0002001D
+
+[12-Gauge Shotgun (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun (Infinity)
+// 12-Gauge Shotgun (Infinity)
+patch=1,EE,20EDB4EC,extended,0002001E
+
+[40mm Grenade Launcher (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher (Infinity)
+// 40mm Grenade Launcher (Infinity)
+patch=1,EE,20EDB4EC,extended,0002001F
+
+[Railgun (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun (Infinity)
+// Railgun (Infinity)
+patch=1,EE,20EDB4EC,extended,00020020
+
+[Hand Grenade (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade (Infinity)
+// Hand Grenade (Infinity)
+patch=1,EE,20EDB4EC,extended,00020021
+
+[Stun Grenade (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade (Infinity)
+// Stun Grenade (Infinity)
+patch=1,EE,20EDB4EC,extended,00020022
+
+[Suitcase Gun (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun (Infinity)
+// Suitcase Gun (Infinity)
+patch=1,EE,20EDB4EC,extended,00020023
+
+[9mm Handgun (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun
+// 9mm Handgun
+patch=1,EE,20EDB4F4,extended,00020000
+
+[9mm 3rd Handgun (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rd Handgun
+// 9mm 3rd Handgun
+patch=1,EE,20EDB4F4,extended,00020001
+
+[.44 Magnum (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum
+// .44 Magnum
+patch=1,EE,20EDB4F4,extended,00020002
+
+[Stun Pistol (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol
+// Stun Pistol
+patch=1,EE,20EDB4F4,extended,00020003
+
+[9mm Sub-machinegun (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun
+// 9mm Sub-machinegun
+patch=1,EE,20EDB4F4,extended,00020004
+
+[5.56mm Assault Rifle (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle
+// 5.56mm Assault Rifle
+patch=1,EE,20EDB4F4,extended,00020005
+
+[12-Gauge Shotgun (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun
+// 12-Gauge Shotgun
+patch=1,EE,20EDB4F4,extended,00020006
+
+[40mm Grenade Launcher (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher
+// 40mm Grenade Launcher
+patch=1,EE,20EDB4F4,extended,00020007
+
+[Railgun (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun
+// Railgun
+patch=1,EE,20EDB4F4,extended,00020008
+
+[Hand Grenade (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade
+// Hand Grenade
+patch=1,EE,20EDB4F4,extended,00020009
+
+[Stun Grenade (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade
+// Stun Grenade
+patch=1,EE,20EDB4F4,extended,0002000A
+
+[Suitcase Gun (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun
+// Suitcase Gun
+patch=1,EE,20EDB4F4,extended,0002000B
+
+[9mm Handgun+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun+
+// 9mm Handgun+
+patch=1,EE,20EDB4F4,extended,0002000C
+
+[9mm 3rb Handgun+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun+
+// 9mm 3rb Handgun+
+patch=1,EE,20EDB4F4,extended,0002000D
+
+[.44 Magnum+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum+
+// .44 Magnum+
+patch=1,EE,20EDB4F4,extended,0002000E
+
+[Stun Pistol+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol+
+// Stun Pistol+
+patch=1,EE,20EDB4F4,extended,0002000F
+
+[9mm Sub-machinegun+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun+
+// 9mm Sub-machinegun+
+patch=1,EE,20EDB4F4,extended,00020010
+
+[5.56mm Assault Rifle+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle+
+// 5.56mm Assault Rifle+
+patch=1,EE,20EDB4F4,extended,00020011
+
+[12-Gauge Shotgun+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun+
+// 12-Gauge Shotgun+
+patch=1,EE,20EDB4F4,extended,00020012
+
+[40mm Grenade Launcher+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher+
+// 40mm Grenade Launcher+
+patch=1,EE,20EDB4F4,extended,00020013
+
+[Railgun+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun+
+// Railgun+
+patch=1,EE,20EDB4F4,extended,00020014
+
+[Hand Grenade+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade+
+// Hand Grenade+
+patch=1,EE,20EDB4F4,extended,00020015
+
+[Stun Grenade+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade+
+// Stun Grenade+
+patch=1,EE,20EDB4F4,extended,00020016
+
+[Suitcase Gun+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun+
+// Suitcase Gun+
+patch=1,EE,20EDB4F4,extended,00020017
+
+[9mm Handgun (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun (Infinity)
+// 9mm Handgun (Infinity)
+patch=1,EE,20EDB4F4,extended,00020018
+
+[9mm 3rb Handgun (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun (Infinity)
+// 9mm 3rb Handgun (Infinity)
+patch=1,EE,20EDB4F4,extended,00020019
+
+[.44 Magnum (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum (Infinity)
+// .44 Magnum (Infinity)
+patch=1,EE,20EDB4F4,extended,0002001A
+
+[Stun Pistol (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol (Infinity)
+// Stun Pistol (Infinity)
+patch=1,EE,20EDB4F4,extended,0002001B
+
+[9mm Sub-machinegun (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun (Infinity)
+// 9mm Sub-machinegun (Infinity)
+patch=1,EE,20EDB4F4,extended,0002001C
+
+[5.56mm Assault Rifle (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle (Infinity)
+// 5.56mm Assault Rifle (Infinity)
+patch=1,EE,20EDB4F4,extended,0002001D
+
+[12-Gauge Shotgun (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun (Infinity)
+// 12-Gauge Shotgun (Infinity)
+patch=1,EE,20EDB4F4,extended,0002001E
+
+[40mm Grenade Launcher (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher (Infinity)
+// 40mm Grenade Launcher (Infinity)
+patch=1,EE,20EDB4F4,extended,0002001F
+
+[Railgun (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun (Infinity)
+// Railgun (Infinity)
+patch=1,EE,20EDB4F4,extended,00020020
+
+[Hand Grenade (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade (Infinity)
+// Hand Grenade (Infinity)
+patch=1,EE,20EDB4F4,extended,00020021
+
+[Stun Grenade (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade (Infinity)
+// Stun Grenade (Infinity)
+patch=1,EE,20EDB4F4,extended,00020022
+
+[Suitcase Gun (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun (Infinity)
+// Suitcase Gun (Infinity)
+patch=1,EE,20EDB4F4,extended,00020023
+
+[9mm Handgun (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun
+// 9mm Handgun
+patch=1,EE,20EDB4FC,extended,00020000
+
+[9mm 3rd Handgun (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rd Handgun
+// 9mm 3rd Handgun
+patch=1,EE,20EDB4FC,extended,00020001
+
+[.44 Magnum (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum
+// .44 Magnum
+patch=1,EE,20EDB4FC,extended,00020002
+
+[Stun Pistol (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol
+// Stun Pistol
+patch=1,EE,20EDB4FC,extended,00020003
+
+[9mm Sub-machinegun (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun
+// 9mm Sub-machinegun
+patch=1,EE,20EDB4FC,extended,00020004
+
+[5.56mm Assault Rifle (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle
+// 5.56mm Assault Rifle
+patch=1,EE,20EDB4FC,extended,00020005
+
+[12-Gauge Shotgun (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun
+// 12-Gauge Shotgun
+patch=1,EE,20EDB4FC,extended,00020006
+
+[40mm Grenade Launcher (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher
+// 40mm Grenade Launcher
+patch=1,EE,20EDB4FC,extended,00020007
+
+[Railgun (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun
+// Railgun
+patch=1,EE,20EDB4FC,extended,00020008
+
+[Hand Grenade (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade
+// Hand Grenade
+patch=1,EE,20EDB4FC,extended,00020009
+
+[Stun Grenade (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade
+// Stun Grenade
+patch=1,EE,20EDB4FC,extended,0002000A
+
+[Suitcase Gun (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun
+// Suitcase Gun
+patch=1,EE,20EDB4FC,extended,0002000B
+
+[9mm Handgun+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun+
+// 9mm Handgun+
+patch=1,EE,20EDB4FC,extended,0002000C
+
+[9mm 3rb Handgun+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun+
+// 9mm 3rb Handgun+
+patch=1,EE,20EDB4FC,extended,0002000D
+
+[.44 Magnum+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum+
+// .44 Magnum+
+patch=1,EE,20EDB4FC,extended,0002000E
+
+[Stun Pistol+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol+
+// Stun Pistol+
+patch=1,EE,20EDB4FC,extended,0002000F
+
+[9mm Sub-machinegun+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun+
+// 9mm Sub-machinegun+
+patch=1,EE,20EDB4FC,extended,00020010
+
+[5.56mm Assault Rifle+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle+
+// 5.56mm Assault Rifle+
+patch=1,EE,20EDB4FC,extended,00020011
+
+[12-Gauge Shotgun+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun+
+// 12-Gauge Shotgun+
+patch=1,EE,20EDB4FC,extended,00020012
+
+[40mm Grenade Launcher+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher+
+// 40mm Grenade Launcher+
+patch=1,EE,20EDB4FC,extended,00020013
+
+[Railgun+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun+
+// Railgun+
+patch=1,EE,20EDB4FC,extended,00020014
+
+[Hand Grenade+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade+
+// Hand Grenade+
+patch=1,EE,20EDB4FC,extended,00020015
+
+[Stun Grenade+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade+
+// Stun Grenade+
+patch=1,EE,20EDB4FC,extended,00020016
+
+[Suitcase Gun+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun+
+// Suitcase Gun+
+patch=1,EE,20EDB4FC,extended,00020017
+
+[9mm Handgun (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun (Infinity)
+// 9mm Handgun (Infinity)
+patch=1,EE,20EDB4FC,extended,00020018
+
+[9mm 3rb Handgun (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun (Infinity)
+// 9mm 3rb Handgun (Infinity)
+patch=1,EE,20EDB4FC,extended,00020019
+
+[.44 Magnum (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum (Infinity)
+// .44 Magnum (Infinity)
+patch=1,EE,20EDB4FC,extended,0002001A
+
+[Stun Pistol (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol (Infinity)
+// Stun Pistol (Infinity)
+patch=1,EE,20EDB4FC,extended,0002001B
+
+[9mm Sub-machinegun (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun (Infinity)
+// 9mm Sub-machinegun (Infinity)
+patch=1,EE,20EDB4FC,extended,0002001C
+
+[5.56mm Assault Rifle (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle (Infinity)
+// 5.56mm Assault Rifle (Infinity)
+patch=1,EE,20EDB4FC,extended,0002001D
+
+[12-Gauge Shotgun (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun (Infinity)
+// 12-Gauge Shotgun (Infinity)
+patch=1,EE,20EDB4FC,extended,0002001E
+
+[40mm Grenade Launcher (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher (Infinity)
+// 40mm Grenade Launcher (Infinity)
+patch=1,EE,20EDB4FC,extended,0002001F
+
+[Railgun (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun (Infinity)
+// Railgun (Infinity)
+patch=1,EE,20EDB4FC,extended,00020020
+
+[Hand Grenade (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade (Infinity)
+// Hand Grenade (Infinity)
+patch=1,EE,20EDB4FC,extended,00020021
+
+[Stun Grenade (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade (Infinity)
+// Stun Grenade (Infinity)
+patch=1,EE,20EDB4FC,extended,00020022
+
+[Suitcase Gun (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun (Infinity)
+// Suitcase Gun (Infinity)
+patch=1,EE,20EDB4FC,extended,00020023
+
+[9mm Handgun (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun
+// 9mm Handgun
+patch=1,EE,20EDB504,extended,00020000
+
+[9mm 3rd Handgun (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rd Handgun
+// 9mm 3rd Handgun
+patch=1,EE,20EDB504,extended,00020001
+
+[.44 Magnum (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum
+// .44 Magnum
+patch=1,EE,20EDB504,extended,00020002
+
+[Stun Pistol (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol
+// Stun Pistol
+patch=1,EE,20EDB504,extended,00020003
+
+[9mm Sub-machinegun (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun
+// 9mm Sub-machinegun
+patch=1,EE,20EDB504,extended,00020004
+
+[5.56mm Assault Rifle (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle
+// 5.56mm Assault Rifle
+patch=1,EE,20EDB504,extended,00020005
+
+[12-Gauge Shotgun (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun
+// 12-Gauge Shotgun
+patch=1,EE,20EDB504,extended,00020006
+
+[40mm Grenade Launcher (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher
+// 40mm Grenade Launcher
+patch=1,EE,20EDB504,extended,00020007
+
+[Railgun (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun
+// Railgun
+patch=1,EE,20EDB504,extended,00020008
+
+[Hand Grenade (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade
+// Hand Grenade
+patch=1,EE,20EDB504,extended,00020009
+
+[Stun Grenade (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade
+// Stun Grenade
+patch=1,EE,20EDB504,extended,0002000A
+
+[Suitcase Gun (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun
+// Suitcase Gun
+patch=1,EE,20EDB504,extended,0002000B
+
+[9mm Handgun+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun+
+// 9mm Handgun+
+patch=1,EE,20EDB504,extended,0002000C
+
+[9mm 3rb Handgun+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun+
+// 9mm 3rb Handgun+
+patch=1,EE,20EDB504,extended,0002000D
+
+[.44 Magnum+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum+
+// .44 Magnum+
+patch=1,EE,20EDB504,extended,0002000E
+
+[Stun Pistol+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol+
+// Stun Pistol+
+patch=1,EE,20EDB504,extended,0002000F
+
+[9mm Sub-machinegun+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun+
+// 9mm Sub-machinegun+
+patch=1,EE,20EDB504,extended,00020010
+
+[5.56mm Assault Rifle+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle+
+// 5.56mm Assault Rifle+
+patch=1,EE,20EDB504,extended,00020011
+
+[12-Gauge Shotgun+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun+
+// 12-Gauge Shotgun+
+patch=1,EE,20EDB504,extended,00020012
+
+[40mm Grenade Launcher+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher+
+// 40mm Grenade Launcher+
+patch=1,EE,20EDB504,extended,00020013
+
+[Railgun+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun+
+// Railgun+
+patch=1,EE,20EDB504,extended,00020014
+
+[Hand Grenade+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade+
+// Hand Grenade+
+patch=1,EE,20EDB504,extended,00020015
+
+[Stun Grenade+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade+
+// Stun Grenade+
+patch=1,EE,20EDB504,extended,00020016
+
+[Suitcase Gun+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun+
+// Suitcase Gun+
+patch=1,EE,20EDB504,extended,00020017
+
+[9mm Handgun (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun (Infinity)
+// 9mm Handgun (Infinity)
+patch=1,EE,20EDB504,extended,00020018
+
+[9mm 3rb Handgun (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun (Infinity)
+// 9mm 3rb Handgun (Infinity)
+patch=1,EE,20EDB504,extended,00020019
+
+[.44 Magnum (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum (Infinity)
+// .44 Magnum (Infinity)
+patch=1,EE,20EDB504,extended,0002001A
+
+[Stun Pistol (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol (Infinity)
+// Stun Pistol (Infinity)
+patch=1,EE,20EDB504,extended,0002001B
+
+[9mm Sub-machinegun (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun (Infinity)
+// 9mm Sub-machinegun (Infinity)
+patch=1,EE,20EDB504,extended,0002001C
+
+[5.56mm Assault Rifle (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle (Infinity)
+// 5.56mm Assault Rifle (Infinity)
+patch=1,EE,20EDB504,extended,0002001D
+
+[12-Gauge Shotgun (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun (Infinity)
+// 12-Gauge Shotgun (Infinity)
+patch=1,EE,20EDB504,extended,0002001E
+
+[40mm Grenade Launcher (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher (Infinity)
+// 40mm Grenade Launcher (Infinity)
+patch=1,EE,20EDB504,extended,0002001F
+
+[Railgun (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun (Infinity)
+// Railgun (Infinity)
+patch=1,EE,20EDB504,extended,00020020
+
+[Hand Grenade (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade (Infinity)
+// Hand Grenade (Infinity)
+patch=1,EE,20EDB504,extended,00020021
+
+[Stun Grenade (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade (Infinity)
+// Stun Grenade (Infinity)
+patch=1,EE,20EDB504,extended,00020022
+
+[Suitcase Gun (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun (Infinity)
+// Suitcase Gun (Infinity)
+patch=1,EE,20EDB504,extended,00020023
+
+[9mm Handgun (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun
+// 9mm Handgun
+patch=1,EE,20EDB50C,extended,00020000
+
+[9mm 3rd Handgun (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rd Handgun
+// 9mm 3rd Handgun
+patch=1,EE,20EDB50C,extended,00020001
+
+[.44 Magnum (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum
+// .44 Magnum
+patch=1,EE,20EDB50C,extended,00020002
+
+[Stun Pistol (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol
+// Stun Pistol
+patch=1,EE,20EDB50C,extended,00020003
+
+[9mm Sub-machinegun (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun
+// 9mm Sub-machinegun
+patch=1,EE,20EDB50C,extended,00020004
+
+[5.56mm Assault Rifle (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle
+// 5.56mm Assault Rifle
+patch=1,EE,20EDB50C,extended,00020005
+
+[12-Gauge Shotgun (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun
+// 12-Gauge Shotgun
+patch=1,EE,20EDB50C,extended,00020006
+
+[40mm Grenade Launcher (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher
+// 40mm Grenade Launcher
+patch=1,EE,20EDB50C,extended,00020007
+
+[Railgun (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun
+// Railgun
+patch=1,EE,20EDB50C,extended,00020008
+
+[Hand Grenade (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade
+// Hand Grenade
+patch=1,EE,20EDB50C,extended,00020009
+
+[Stun Grenade (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade
+// Stun Grenade
+patch=1,EE,20EDB50C,extended,0002000A
+
+[Suitcase Gun (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun
+// Suitcase Gun
+patch=1,EE,20EDB50C,extended,0002000B
+
+[9mm Handgun+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun+
+// 9mm Handgun+
+patch=1,EE,20EDB50C,extended,0002000C
+
+[9mm 3rb Handgun+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun+
+// 9mm 3rb Handgun+
+patch=1,EE,20EDB50C,extended,0002000D
+
+[.44 Magnum+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum+
+// .44 Magnum+
+patch=1,EE,20EDB50C,extended,0002000E
+
+[Stun Pistol+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol+
+// Stun Pistol+
+patch=1,EE,20EDB50C,extended,0002000F
+
+[9mm Sub-machinegun+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun+
+// 9mm Sub-machinegun+
+patch=1,EE,20EDB50C,extended,00020010
+
+[5.56mm Assault Rifle+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle+
+// 5.56mm Assault Rifle+
+patch=1,EE,20EDB50C,extended,00020011
+
+[12-Gauge Shotgun+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun+
+// 12-Gauge Shotgun+
+patch=1,EE,20EDB50C,extended,00020012
+
+[40mm Grenade Launcher+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher+
+// 40mm Grenade Launcher+
+patch=1,EE,20EDB50C,extended,00020013
+
+[Railgun+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun+
+// Railgun+
+patch=1,EE,20EDB50C,extended,00020014
+
+[Hand Grenade+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade+
+// Hand Grenade+
+patch=1,EE,20EDB50C,extended,00020015
+
+[Stun Grenade+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade+
+// Stun Grenade+
+patch=1,EE,20EDB50C,extended,00020016
+
+[Suitcase Gun+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun+
+// Suitcase Gun+
+patch=1,EE,20EDB50C,extended,00020017
+
+[9mm Handgun (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Handgun (Infinity)
+// 9mm Handgun (Infinity)
+patch=1,EE,20EDB50C,extended,00020018
+
+[9mm 3rb Handgun (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm 3rb Handgun (Infinity)
+// 9mm 3rb Handgun (Infinity)
+patch=1,EE,20EDB50C,extended,00020019
+
+[.44 Magnum (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=.44 Magnum (Infinity)
+// .44 Magnum (Infinity)
+patch=1,EE,20EDB50C,extended,0002001A
+
+[Stun Pistol (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Pistol (Infinity)
+// Stun Pistol (Infinity)
+patch=1,EE,20EDB50C,extended,0002001B
+
+[9mm Sub-machinegun (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9mm Sub-machinegun (Infinity)
+// 9mm Sub-machinegun (Infinity)
+patch=1,EE,20EDB50C,extended,0002001C
+
+[5.56mm Assault Rifle (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5.56mm Assault Rifle (Infinity)
+// 5.56mm Assault Rifle (Infinity)
+patch=1,EE,20EDB50C,extended,0002001D
+
+[12-Gauge Shotgun (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Gauge Shotgun (Infinity)
+// 12-Gauge Shotgun (Infinity)
+patch=1,EE,20EDB50C,extended,0002001E
+
+[40mm Grenade Launcher (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=40mm Grenade Launcher (Infinity)
+// 40mm Grenade Launcher (Infinity)
+patch=1,EE,20EDB50C,extended,0002001F
+
+[Railgun (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Railgun (Infinity)
+// Railgun (Infinity)
+patch=1,EE,20EDB50C,extended,00020020
+
+[Hand Grenade (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hand Grenade (Infinity)
+// Hand Grenade (Infinity)
+patch=1,EE,20EDB50C,extended,00020021
+
+[Stun Grenade (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade (Infinity)
+// Stun Grenade (Infinity)
+patch=1,EE,20EDB50C,extended,00020022
+
+[Suitcase Gun (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suitcase Gun (Infinity)
+// Suitcase Gun (Infinity)
+patch=1,EE,20EDB50C,extended,00020023
+
+[Slot 1 (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,20EDB51C,extended,000003E8
+
+[Slot 2 (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,20EDB524,extended,000003E8
+
+[Slot 3 (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,20EDB52C,extended,000003E8
+
+[Slot 4 (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,20EDB534,extended,000003E8
+
+[Slot 5 (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,20EDB53C,extended,000003E8
+
+[Slot 6 (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,20EDB544,extended,000003E8
+
+[Slot 7 (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,20EDB54C,extended,000003E8
+
+[Slot 8 (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,20EDB554,extended,000003E8
+
+[1 Slot (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Slot
+// 1 Slot
+patch=1,EE,20EDB514,extended,00000001
+
+[2 Slots (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Slots
+// 2 Slots
+patch=1,EE,20EDB514,extended,00000002
+
+[3 Slots (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Slots
+// 3 Slots
+patch=1,EE,20EDB514,extended,00000003
+
+[4 Slots (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4 Slots
+// 4 Slots
+patch=1,EE,20EDB514,extended,00000004
+
+[5 Slots (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5 Slots
+// 5 Slots
+patch=1,EE,20EDB514,extended,00000005
+
+[6 Slots (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6 Slots
+// 6 Slots
+patch=1,EE,20EDB514,extended,00000006
+
+[7 Slots (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7 Slots
+// 7 Slots
+patch=1,EE,20EDB514,extended,00000007
+
+[8 Slots (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8 Slots
+// 8 Slots
+patch=1,EE,20EDB514,extended,00000008
+
+[Katana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana
+// Katana
+patch=1,EE,20EDB518,extended,00000000
+
+[Dotanuki]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki
+// Dotanuki
+patch=1,EE,20EDB518,extended,00000001
+
+[Ripper Blade]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade
+// Ripper Blade
+patch=1,EE,20EDB518,extended,00000002
+
+[Manji Sword]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword
+// Manji Sword
+patch=1,EE,20EDB518,extended,00000003
+
+[Tonfa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa
+// Tonfa
+patch=1,EE,20EDB518,extended,00000004
+
+[Stun Baton]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton
+// Stun Baton
+patch=1,EE,20EDB518,extended,00000005
+
+[Throwing Knife]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife
+// Throwing Knife
+patch=1,EE,20EDB518,extended,00000006
+
+[Needle Knife]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife
+// Needle Knife
+patch=1,EE,20EDB518,extended,00000007
+
+[Kunai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai
+// Kunai
+patch=1,EE,20EDB518,extended,00000008
+
+[Poison Ampule]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule
+// Poison Ampule
+patch=1,EE,20EDB518,extended,00000009
+
+[Katana+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana+
+// Katana+
+patch=1,EE,20EDB518,extended,0000000A
+
+[Dotanuki+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki+
+// Dotanuki+
+patch=1,EE,20EDB518,extended,0000000B
+
+[Ripper Blade+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade+
+// Ripper Blade+
+patch=1,EE,20EDB518,extended,0000000C
+
+[Manji Sword+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword+
+// Manji Sword+
+patch=1,EE,20EDB518,extended,0000000D
+
+[Tonfa+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa+
+// Tonfa+
+patch=1,EE,20EDB518,extended,0000000E
+
+[Stun Baton+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton+
+// Stun Baton+
+patch=1,EE,20EDB518,extended,0000000F
+
+[Throwing Knife+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife+
+// Throwing Knife+
+patch=1,EE,20EDB518,extended,00000010
+
+[Needle Knife+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife+
+// Needle Knife+
+patch=1,EE,20EDB518,extended,00000011
+
+[Kunai+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai+
+// Kunai+
+patch=1,EE,20EDB518,extended,00000012
+
+[Poison Ampule+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule+
+// Poison Ampule+
+patch=1,EE,20EDB518,extended,00000013
+
+[Katana (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana (Infinity)
+// Katana (Infinity)
+patch=1,EE,20EDB518,extended,00000014
+
+[Dotanuki (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki (Infinity)
+// Dotanuki (Infinity)
+patch=1,EE,20EDB518,extended,00000015
+
+[Ripper Blade (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade (Infinity)
+// Ripper Blade (Infinity)
+patch=1,EE,20EDB518,extended,00000016
+
+[Manji Sword (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword (Infinity)
+// Manji Sword (Infinity)
+patch=1,EE,20EDB518,extended,00000017
+
+[Tonfa (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa (Infinity)
+// Tonfa (Infinity)
+patch=1,EE,20EDB518,extended,00000018
+
+[Stun Baton (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton (Infinity)
+// Stun Baton (Infinity)
+patch=1,EE,20EDB518,extended,00000019
+
+[Throwing Knife (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife (Infinity)
+// Throwing Knife (Infinity)
+patch=1,EE,20EDB518,extended,0000001A
+
+[Needle Knife (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife (Infinity)
+// Needle Knife (Infinity)
+patch=1,EE,20EDB518,extended,0000001B
+
+[Kunai (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai (Infinity)
+// Kunai (Infinity)
+patch=1,EE,20EDB518,extended,0000001C
+
+[Poison Ampule (Infinity)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule (Infinity)
+// Poison Ampule (Infinity)
+patch=1,EE,20EDB518,extended,0000001D
+
+[Katana (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana
+// Katana
+patch=1,EE,20EDB520,extended,00000000
+
+[Dotanuki (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki
+// Dotanuki
+patch=1,EE,20EDB520,extended,00000001
+
+[Ripper Blade (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade
+// Ripper Blade
+patch=1,EE,20EDB520,extended,00000002
+
+[Manji Sword (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword
+// Manji Sword
+patch=1,EE,20EDB520,extended,00000003
+
+[Tonfa (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa
+// Tonfa
+patch=1,EE,20EDB520,extended,00000004
+
+[Stun Baton (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton
+// Stun Baton
+patch=1,EE,20EDB520,extended,00000005
+
+[Throwing Knife (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife
+// Throwing Knife
+patch=1,EE,20EDB520,extended,00000006
+
+[Needle Knife (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife
+// Needle Knife
+patch=1,EE,20EDB520,extended,00000007
+
+[Kunai (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai
+// Kunai
+patch=1,EE,20EDB520,extended,00000008
+
+[Poison Ampule (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule
+// Poison Ampule
+patch=1,EE,20EDB520,extended,00000009
+
+[Katana+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana+
+// Katana+
+patch=1,EE,20EDB520,extended,0000000A
+
+[Dotanuki+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki+
+// Dotanuki+
+patch=1,EE,20EDB520,extended,0000000B
+
+[Ripper Blade+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade+
+// Ripper Blade+
+patch=1,EE,20EDB520,extended,0000000C
+
+[Manji Sword+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword+
+// Manji Sword+
+patch=1,EE,20EDB520,extended,0000000D
+
+[Tonfa+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa+
+// Tonfa+
+patch=1,EE,20EDB520,extended,0000000E
+
+[Stun Baton+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton+
+// Stun Baton+
+patch=1,EE,20EDB520,extended,0000000F
+
+[Throwing Knife+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife+
+// Throwing Knife+
+patch=1,EE,20EDB520,extended,00000010
+
+[Needle Knife+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife+
+// Needle Knife+
+patch=1,EE,20EDB520,extended,00000011
+
+[Kunai+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai+
+// Kunai+
+patch=1,EE,20EDB520,extended,00000012
+
+[Poison Ampule+ (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule+
+// Poison Ampule+
+patch=1,EE,20EDB520,extended,00000013
+
+[Katana (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana (Infinity)
+// Katana (Infinity)
+patch=1,EE,20EDB520,extended,00000014
+
+[Dotanuki (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki (Infinity)
+// Dotanuki (Infinity)
+patch=1,EE,20EDB520,extended,00000015
+
+[Ripper Blade (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade (Infinity)
+// Ripper Blade (Infinity)
+patch=1,EE,20EDB520,extended,00000016
+
+[Manji Sword (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword (Infinity)
+// Manji Sword (Infinity)
+patch=1,EE,20EDB520,extended,00000017
+
+[Tonfa (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa (Infinity)
+// Tonfa (Infinity)
+patch=1,EE,20EDB520,extended,00000018
+
+[Stun Baton (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton (Infinity)
+// Stun Baton (Infinity)
+patch=1,EE,20EDB520,extended,00000019
+
+[Throwing Knife (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife (Infinity)
+// Throwing Knife (Infinity)
+patch=1,EE,20EDB520,extended,0000001A
+
+[Needle Knife (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife (Infinity)
+// Needle Knife (Infinity)
+patch=1,EE,20EDB520,extended,0000001B
+
+[Kunai (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai (Infinity)
+// Kunai (Infinity)
+patch=1,EE,20EDB520,extended,0000001C
+
+[Poison Ampule (Infinity) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule (Infinity)
+// Poison Ampule (Infinity)
+patch=1,EE,20EDB520,extended,0000001D
+
+[Katana (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana
+// Katana
+patch=1,EE,20EDB528,extended,00000000
+
+[Dotanuki (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki
+// Dotanuki
+patch=1,EE,20EDB528,extended,00000001
+
+[Ripper Blade (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade
+// Ripper Blade
+patch=1,EE,20EDB528,extended,00000002
+
+[Manji Sword (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword
+// Manji Sword
+patch=1,EE,20EDB528,extended,00000003
+
+[Tonfa (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa
+// Tonfa
+patch=1,EE,20EDB528,extended,00000004
+
+[Stun Baton (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton
+// Stun Baton
+patch=1,EE,20EDB528,extended,00000005
+
+[Throwing Knife (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife
+// Throwing Knife
+patch=1,EE,20EDB528,extended,00000006
+
+[Needle Knife (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife
+// Needle Knife
+patch=1,EE,20EDB528,extended,00000007
+
+[Kunai (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai
+// Kunai
+patch=1,EE,20EDB528,extended,00000008
+
+[Poison Ampule (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule
+// Poison Ampule
+patch=1,EE,20EDB528,extended,00000009
+
+[Katana+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana+
+// Katana+
+patch=1,EE,20EDB528,extended,0000000A
+
+[Dotanuki+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki+
+// Dotanuki+
+patch=1,EE,20EDB528,extended,0000000B
+
+[Ripper Blade+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade+
+// Ripper Blade+
+patch=1,EE,20EDB528,extended,0000000C
+
+[Manji Sword+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword+
+// Manji Sword+
+patch=1,EE,20EDB528,extended,0000000D
+
+[Tonfa+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa+
+// Tonfa+
+patch=1,EE,20EDB528,extended,0000000E
+
+[Stun Baton+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton+
+// Stun Baton+
+patch=1,EE,20EDB528,extended,0000000F
+
+[Throwing Knife+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife+
+// Throwing Knife+
+patch=1,EE,20EDB528,extended,00000010
+
+[Needle Knife+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife+
+// Needle Knife+
+patch=1,EE,20EDB528,extended,00000011
+
+[Kunai+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai+
+// Kunai+
+patch=1,EE,20EDB528,extended,00000012
+
+[Poison Ampule+ (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule+
+// Poison Ampule+
+patch=1,EE,20EDB528,extended,00000013
+
+[Katana (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana (Infinity)
+// Katana (Infinity)
+patch=1,EE,20EDB528,extended,00000014
+
+[Dotanuki (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki (Infinity)
+// Dotanuki (Infinity)
+patch=1,EE,20EDB528,extended,00000015
+
+[Ripper Blade (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade (Infinity)
+// Ripper Blade (Infinity)
+patch=1,EE,20EDB528,extended,00000016
+
+[Manji Sword (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword (Infinity)
+// Manji Sword (Infinity)
+patch=1,EE,20EDB528,extended,00000017
+
+[Tonfa (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa (Infinity)
+// Tonfa (Infinity)
+patch=1,EE,20EDB528,extended,00000018
+
+[Stun Baton (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton (Infinity)
+// Stun Baton (Infinity)
+patch=1,EE,20EDB528,extended,00000019
+
+[Throwing Knife (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife (Infinity)
+// Throwing Knife (Infinity)
+patch=1,EE,20EDB528,extended,0000001A
+
+[Needle Knife (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife (Infinity)
+// Needle Knife (Infinity)
+patch=1,EE,20EDB528,extended,0000001B
+
+[Kunai (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai (Infinity)
+// Kunai (Infinity)
+patch=1,EE,20EDB528,extended,0000001C
+
+[Poison Ampule (Infinity) (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule (Infinity)
+// Poison Ampule (Infinity)
+patch=1,EE,20EDB528,extended,0000001D
+
+[Katana (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana
+// Katana
+patch=1,EE,20EDB530,extended,00000000
+
+[Dotanuki (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki
+// Dotanuki
+patch=1,EE,20EDB530,extended,00000001
+
+[Ripper Blade (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade
+// Ripper Blade
+patch=1,EE,20EDB530,extended,00000002
+
+[Manji Sword (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword
+// Manji Sword
+patch=1,EE,20EDB530,extended,00000003
+
+[Tonfa (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa
+// Tonfa
+patch=1,EE,20EDB530,extended,00000004
+
+[Stun Baton (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton
+// Stun Baton
+patch=1,EE,20EDB530,extended,00000005
+
+[Throwing Knife (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife
+// Throwing Knife
+patch=1,EE,20EDB530,extended,00000006
+
+[Needle Knife (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife
+// Needle Knife
+patch=1,EE,20EDB530,extended,00000007
+
+[Kunai (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai
+// Kunai
+patch=1,EE,20EDB530,extended,00000008
+
+[Poison Ampule (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule
+// Poison Ampule
+patch=1,EE,20EDB530,extended,00000009
+
+[Katana+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana+
+// Katana+
+patch=1,EE,20EDB530,extended,0000000A
+
+[Dotanuki+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki+
+// Dotanuki+
+patch=1,EE,20EDB530,extended,0000000B
+
+[Ripper Blade+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade+
+// Ripper Blade+
+patch=1,EE,20EDB530,extended,0000000C
+
+[Manji Sword+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword+
+// Manji Sword+
+patch=1,EE,20EDB530,extended,0000000D
+
+[Tonfa+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa+
+// Tonfa+
+patch=1,EE,20EDB530,extended,0000000E
+
+[Stun Baton+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton+
+// Stun Baton+
+patch=1,EE,20EDB530,extended,0000000F
+
+[Throwing Knife+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife+
+// Throwing Knife+
+patch=1,EE,20EDB530,extended,00000010
+
+[Needle Knife+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife+
+// Needle Knife+
+patch=1,EE,20EDB530,extended,00000011
+
+[Kunai+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai+
+// Kunai+
+patch=1,EE,20EDB530,extended,00000012
+
+[Poison Ampule+ (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule+
+// Poison Ampule+
+patch=1,EE,20EDB530,extended,00000013
+
+[Katana (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana (Infinity)
+// Katana (Infinity)
+patch=1,EE,20EDB530,extended,00000014
+
+[Dotanuki (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki (Infinity)
+// Dotanuki (Infinity)
+patch=1,EE,20EDB530,extended,00000015
+
+[Ripper Blade (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade (Infinity)
+// Ripper Blade (Infinity)
+patch=1,EE,20EDB530,extended,00000016
+
+[Manji Sword (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword (Infinity)
+// Manji Sword (Infinity)
+patch=1,EE,20EDB530,extended,00000017
+
+[Tonfa (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa (Infinity)
+// Tonfa (Infinity)
+patch=1,EE,20EDB530,extended,00000018
+
+[Stun Baton (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton (Infinity)
+// Stun Baton (Infinity)
+patch=1,EE,20EDB530,extended,00000019
+
+[Throwing Knife (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife (Infinity)
+// Throwing Knife (Infinity)
+patch=1,EE,20EDB530,extended,0000001A
+
+[Needle Knife (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife (Infinity)
+// Needle Knife (Infinity)
+patch=1,EE,20EDB530,extended,0000001B
+
+[Kunai (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai (Infinity)
+// Kunai (Infinity)
+patch=1,EE,20EDB530,extended,0000001C
+
+[Poison Ampule (Infinity) (4)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule (Infinity)
+// Poison Ampule (Infinity)
+patch=1,EE,20EDB530,extended,0000001D
+
+[Katana (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana
+// Katana
+patch=1,EE,20EDB538,extended,00000000
+
+[Dotanuki (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki
+// Dotanuki
+patch=1,EE,20EDB538,extended,00000001
+
+[Ripper Blade (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade
+// Ripper Blade
+patch=1,EE,20EDB538,extended,00000002
+
+[Manji Sword (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword
+// Manji Sword
+patch=1,EE,20EDB538,extended,00000003
+
+[Tonfa (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa
+// Tonfa
+patch=1,EE,20EDB538,extended,00000004
+
+[Stun Baton (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton
+// Stun Baton
+patch=1,EE,20EDB538,extended,00000005
+
+[Throwing Knife (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife
+// Throwing Knife
+patch=1,EE,20EDB538,extended,00000006
+
+[Needle Knife (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife
+// Needle Knife
+patch=1,EE,20EDB538,extended,00000007
+
+[Kunai (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai
+// Kunai
+patch=1,EE,20EDB538,extended,00000008
+
+[Poison Ampule (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule
+// Poison Ampule
+patch=1,EE,20EDB538,extended,00000009
+
+[Katana+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana+
+// Katana+
+patch=1,EE,20EDB538,extended,0000000A
+
+[Dotanuki+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki+
+// Dotanuki+
+patch=1,EE,20EDB538,extended,0000000B
+
+[Ripper Blade+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade+
+// Ripper Blade+
+patch=1,EE,20EDB538,extended,0000000C
+
+[Manji Sword+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword+
+// Manji Sword+
+patch=1,EE,20EDB538,extended,0000000D
+
+[Tonfa+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa+
+// Tonfa+
+patch=1,EE,20EDB538,extended,0000000E
+
+[Stun Baton+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton+
+// Stun Baton+
+patch=1,EE,20EDB538,extended,0000000F
+
+[Throwing Knife+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife+
+// Throwing Knife+
+patch=1,EE,20EDB538,extended,00000010
+
+[Needle Knife+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife+
+// Needle Knife+
+patch=1,EE,20EDB538,extended,00000011
+
+[Kunai+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai+
+// Kunai+
+patch=1,EE,20EDB538,extended,00000012
+
+[Poison Ampule+ (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule+
+// Poison Ampule+
+patch=1,EE,20EDB538,extended,00000013
+
+[Katana (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana (Infinity)
+// Katana (Infinity)
+patch=1,EE,20EDB538,extended,00000014
+
+[Dotanuki (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki (Infinity)
+// Dotanuki (Infinity)
+patch=1,EE,20EDB538,extended,00000015
+
+[Ripper Blade (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade (Infinity)
+// Ripper Blade (Infinity)
+patch=1,EE,20EDB538,extended,00000016
+
+[Manji Sword (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword (Infinity)
+// Manji Sword (Infinity)
+patch=1,EE,20EDB538,extended,00000017
+
+[Tonfa (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa (Infinity)
+// Tonfa (Infinity)
+patch=1,EE,20EDB538,extended,00000018
+
+[Stun Baton (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton (Infinity)
+// Stun Baton (Infinity)
+patch=1,EE,20EDB538,extended,00000019
+
+[Throwing Knife (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife (Infinity)
+// Throwing Knife (Infinity)
+patch=1,EE,20EDB538,extended,0000001A
+
+[Needle Knife (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife (Infinity)
+// Needle Knife (Infinity)
+patch=1,EE,20EDB538,extended,0000001B
+
+[Kunai (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai (Infinity)
+// Kunai (Infinity)
+patch=1,EE,20EDB538,extended,0000001C
+
+[Poison Ampule (Infinity) (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule (Infinity)
+// Poison Ampule (Infinity)
+patch=1,EE,20EDB538,extended,0000001D
+
+[Katana (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana
+// Katana
+patch=1,EE,20EDB540,extended,00000000
+
+[Dotanuki (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki
+// Dotanuki
+patch=1,EE,20EDB540,extended,00000001
+
+[Ripper Blade (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade
+// Ripper Blade
+patch=1,EE,20EDB540,extended,00000002
+
+[Manji Sword (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword
+// Manji Sword
+patch=1,EE,20EDB540,extended,00000003
+
+[Tonfa (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa
+// Tonfa
+patch=1,EE,20EDB540,extended,00000004
+
+[Stun Baton (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton
+// Stun Baton
+patch=1,EE,20EDB540,extended,00000005
+
+[Throwing Knife (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife
+// Throwing Knife
+patch=1,EE,20EDB540,extended,00000006
+
+[Needle Knife (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife
+// Needle Knife
+patch=1,EE,20EDB540,extended,00000007
+
+[Kunai (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai
+// Kunai
+patch=1,EE,20EDB540,extended,00000008
+
+[Poison Ampule (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule
+// Poison Ampule
+patch=1,EE,20EDB540,extended,00000009
+
+[Katana+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana+
+// Katana+
+patch=1,EE,20EDB540,extended,0000000A
+
+[Dotanuki+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki+
+// Dotanuki+
+patch=1,EE,20EDB540,extended,0000000B
+
+[Ripper Blade+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade+
+// Ripper Blade+
+patch=1,EE,20EDB540,extended,0000000C
+
+[Manji Sword+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword+
+// Manji Sword+
+patch=1,EE,20EDB540,extended,0000000D
+
+[Tonfa+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa+
+// Tonfa+
+patch=1,EE,20EDB540,extended,0000000E
+
+[Stun Baton+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton+
+// Stun Baton+
+patch=1,EE,20EDB540,extended,0000000F
+
+[Throwing Knife+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife+
+// Throwing Knife+
+patch=1,EE,20EDB540,extended,00000010
+
+[Needle Knife+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife+
+// Needle Knife+
+patch=1,EE,20EDB540,extended,00000011
+
+[Kunai+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai+
+// Kunai+
+patch=1,EE,20EDB540,extended,00000012
+
+[Poison Ampule+ (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule+
+// Poison Ampule+
+patch=1,EE,20EDB540,extended,00000013
+
+[Katana (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana (Infinity)
+// Katana (Infinity)
+patch=1,EE,20EDB540,extended,00000014
+
+[Dotanuki (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki (Infinity)
+// Dotanuki (Infinity)
+patch=1,EE,20EDB540,extended,00000015
+
+[Ripper Blade (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade (Infinity)
+// Ripper Blade (Infinity)
+patch=1,EE,20EDB540,extended,00000016
+
+[Manji Sword (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword (Infinity)
+// Manji Sword (Infinity)
+patch=1,EE,20EDB540,extended,00000017
+
+[Tonfa (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa (Infinity)
+// Tonfa (Infinity)
+patch=1,EE,20EDB540,extended,00000018
+
+[Stun Baton (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton (Infinity)
+// Stun Baton (Infinity)
+patch=1,EE,20EDB540,extended,00000019
+
+[Throwing Knife (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife (Infinity)
+// Throwing Knife (Infinity)
+patch=1,EE,20EDB540,extended,0000001A
+
+[Needle Knife (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife (Infinity)
+// Needle Knife (Infinity)
+patch=1,EE,20EDB540,extended,0000001B
+
+[Kunai (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai (Infinity)
+// Kunai (Infinity)
+patch=1,EE,20EDB540,extended,0000001C
+
+[Poison Ampule (Infinity) (6)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule (Infinity)
+// Poison Ampule (Infinity)
+patch=1,EE,20EDB540,extended,0000001D
+
+[Katana (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana
+// Katana
+patch=1,EE,20EDB548,extended,00000000
+
+[Dotanuki (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki
+// Dotanuki
+patch=1,EE,20EDB548,extended,00000001
+
+[Ripper Blade (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade
+// Ripper Blade
+patch=1,EE,20EDB548,extended,00000002
+
+[Manji Sword (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword
+// Manji Sword
+patch=1,EE,20EDB548,extended,00000003
+
+[Tonfa (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa
+// Tonfa
+patch=1,EE,20EDB548,extended,00000004
+
+[Stun Baton (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton
+// Stun Baton
+patch=1,EE,20EDB548,extended,00000005
+
+[Throwing Knife (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife
+// Throwing Knife
+patch=1,EE,20EDB548,extended,00000006
+
+[Needle Knife (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife
+// Needle Knife
+patch=1,EE,20EDB548,extended,00000007
+
+[Kunai (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai
+// Kunai
+patch=1,EE,20EDB548,extended,00000008
+
+[Poison Ampule (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule
+// Poison Ampule
+patch=1,EE,20EDB548,extended,00000009
+
+[Katana+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana+
+// Katana+
+patch=1,EE,20EDB548,extended,0000000A
+
+[Dotanuki+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki+
+// Dotanuki+
+patch=1,EE,20EDB548,extended,0000000B
+
+[Ripper Blade+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade+
+// Ripper Blade+
+patch=1,EE,20EDB548,extended,0000000C
+
+[Manji Sword+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword+
+// Manji Sword+
+patch=1,EE,20EDB548,extended,0000000D
+
+[Tonfa+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa+
+// Tonfa+
+patch=1,EE,20EDB548,extended,0000000E
+
+[Stun Baton+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton+
+// Stun Baton+
+patch=1,EE,20EDB548,extended,0000000F
+
+[Throwing Knife+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife+
+// Throwing Knife+
+patch=1,EE,20EDB548,extended,00000010
+
+[Needle Knife+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife+
+// Needle Knife+
+patch=1,EE,20EDB548,extended,00000011
+
+[Kunai+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai+
+// Kunai+
+patch=1,EE,20EDB548,extended,00000012
+
+[Poison Ampule+ (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule+
+// Poison Ampule+
+patch=1,EE,20EDB548,extended,00000013
+
+[Katana (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana (Infinity)
+// Katana (Infinity)
+patch=1,EE,20EDB548,extended,00000014
+
+[Dotanuki (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki (Infinity)
+// Dotanuki (Infinity)
+patch=1,EE,20EDB548,extended,00000015
+
+[Ripper Blade (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade (Infinity)
+// Ripper Blade (Infinity)
+patch=1,EE,20EDB548,extended,00000016
+
+[Manji Sword (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword (Infinity)
+// Manji Sword (Infinity)
+patch=1,EE,20EDB548,extended,00000017
+
+[Tonfa (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa (Infinity)
+// Tonfa (Infinity)
+patch=1,EE,20EDB548,extended,00000018
+
+[Stun Baton (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton (Infinity)
+// Stun Baton (Infinity)
+patch=1,EE,20EDB548,extended,00000019
+
+[Throwing Knife (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife (Infinity)
+// Throwing Knife (Infinity)
+patch=1,EE,20EDB548,extended,0000001A
+
+[Needle Knife (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife (Infinity)
+// Needle Knife (Infinity)
+patch=1,EE,20EDB548,extended,0000001B
+
+[Kunai (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai (Infinity)
+// Kunai (Infinity)
+patch=1,EE,20EDB548,extended,0000001C
+
+[Poison Ampule (Infinity) (7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule (Infinity)
+// Poison Ampule (Infinity)
+patch=1,EE,20EDB548,extended,0000001D
+
+[Katana (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana
+// Katana
+patch=1,EE,20EDB550,extended,00000000
+
+[Dotanuki (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki
+// Dotanuki
+patch=1,EE,20EDB550,extended,00000001
+
+[Ripper Blade (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade
+// Ripper Blade
+patch=1,EE,20EDB550,extended,00000002
+
+[Manji Sword (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword
+// Manji Sword
+patch=1,EE,20EDB550,extended,00000003
+
+[Tonfa (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa
+// Tonfa
+patch=1,EE,20EDB550,extended,00000004
+
+[Stun Baton (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton
+// Stun Baton
+patch=1,EE,20EDB550,extended,00000005
+
+[Throwing Knife (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife
+// Throwing Knife
+patch=1,EE,20EDB550,extended,00000006
+
+[Needle Knife (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife
+// Needle Knife
+patch=1,EE,20EDB550,extended,00000007
+
+[Kunai (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai
+// Kunai
+patch=1,EE,20EDB550,extended,00000008
+
+[Poison Ampule (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule
+// Poison Ampule
+patch=1,EE,20EDB550,extended,00000009
+
+[Katana+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana+
+// Katana+
+patch=1,EE,20EDB550,extended,0000000A
+
+[Dotanuki+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki+
+// Dotanuki+
+patch=1,EE,20EDB550,extended,0000000B
+
+[Ripper Blade+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade+
+// Ripper Blade+
+patch=1,EE,20EDB550,extended,0000000C
+
+[Manji Sword+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword+
+// Manji Sword+
+patch=1,EE,20EDB550,extended,0000000D
+
+[Tonfa+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa+
+// Tonfa+
+patch=1,EE,20EDB550,extended,0000000E
+
+[Stun Baton+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton+
+// Stun Baton+
+patch=1,EE,20EDB550,extended,0000000F
+
+[Throwing Knife+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife+
+// Throwing Knife+
+patch=1,EE,20EDB550,extended,00000010
+
+[Needle Knife+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife+
+// Needle Knife+
+patch=1,EE,20EDB550,extended,00000011
+
+[Kunai+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai+
+// Kunai+
+patch=1,EE,20EDB550,extended,00000012
+
+[Poison Ampule+ (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule+
+// Poison Ampule+
+patch=1,EE,20EDB550,extended,00000013
+
+[Katana (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana (Infinity)
+// Katana (Infinity)
+patch=1,EE,20EDB550,extended,00000014
+
+[Dotanuki (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dotanuki (Infinity)
+// Dotanuki (Infinity)
+patch=1,EE,20EDB550,extended,00000015
+
+[Ripper Blade (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper Blade (Infinity)
+// Ripper Blade (Infinity)
+patch=1,EE,20EDB550,extended,00000016
+
+[Manji Sword (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manji Sword (Infinity)
+// Manji Sword (Infinity)
+patch=1,EE,20EDB550,extended,00000017
+
+[Tonfa (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa (Infinity)
+// Tonfa (Infinity)
+patch=1,EE,20EDB550,extended,00000018
+
+[Stun Baton (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Baton (Infinity)
+// Stun Baton (Infinity)
+patch=1,EE,20EDB550,extended,00000019
+
+[Throwing Knife (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Knife (Infinity)
+// Throwing Knife (Infinity)
+patch=1,EE,20EDB550,extended,0000001A
+
+[Needle Knife (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Needle Knife (Infinity)
+// Needle Knife (Infinity)
+patch=1,EE,20EDB550,extended,0000001B
+
+[Kunai (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kunai (Infinity)
+// Kunai (Infinity)
+patch=1,EE,20EDB550,extended,0000001C
+
+[Poison Ampule (Infinity) (8)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Ampule (Infinity)
+// Poison Ampule (Infinity)
+patch=1,EE,20EDB550,extended,0000001D
+
+[Cheats\Infinite Health]
+patch=1,EE,20EDA1E0,extended,00000500
+
+[Cheats\Infinite Air]
+patch=1,EE,20EDA1F0,extended,00000500
+
+[Cheats\If Oxygen Runs Out Life Doesn't Drop]
+patch=1,EE,2030E464,extended,1000001A
+
+[Cheats\Invulnerable]
+patch=1,EE,20148744,extended,00000000
+patch=1,EE,20148750,extended,00000000
+patch=1,EE,201362BC,extended,1000003A
+
+[Cheats\1 Hit Kill]
+patch=1,EE,2015DBD0,extended,00000000
+
+[Cheats\Infinite Machine Gun Ammo]
+patch=1,EE,20EDED98,extended,0000001E
+
+[Cheats\Infinite Skill Points]
+patch=1,EE,20EDA200,extended,0000270F
+
+[Cheats\Infinite Focus]
+patch=1,EE,20EDA1E8,extended,00000B40
+patch=1,EE,20EDA1E4,extended,00000B40
+
+[Cheats\99 Meal Kit M]
+patch=1,EE,00EDA239,extended,00000063
+
+[Cheats\Unlock All Fingerprints]
+patch=1,EE,20EDA2AC,extended,FFFFFFFF
+patch=1,EE,00EDA2B0,extended,000000FF
+
+[Cheats\Sniper Mode Invulnerable]
+patch=1,EE,2024D49C,extended,1000005C
+
+[Cheats\Sniper Mode Infinite Health]
+patch=1,EE,20F6B518,extended,00000F00
+
+[Cheats\Sniper Mode Nina Infinite Health]
+patch=1,EE,20F6E498,extended,000005A0
+
+[Cheats\Sniper Mode Frank Infinite Health]
+patch=1,EE,20F6CAE4,extended,00000064
+
+[Cheats\Sniper Mode Infinite Ammo]
+patch=1,EE,20F6B5A0,extended,0000000A
+
+[Cheats\Sniper Mode Infinite Ammo Alt]
+patch=1,EE,20F6E520,extended,0000000A
+
+[Cheats\Sniper Mode 1 Hit Kill]
+patch=1,EE,2024DB40,extended,00000000
+patch=1,EE,2024DB4C,extended,24067FFF

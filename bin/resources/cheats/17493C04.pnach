@@ -1,0 +1,61 @@
+gametitle=Tak And The Power Of Juju [SLUS-20519] [17493C04]
+
+[All Juju Potions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Juju Potions
+// All Juju Potions
+patch=1,EE,F0100008,extended,0036D3BF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201BBBA8,extended,3C013F80
+
+[Infinite Health (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201BBBAC,extended,AE410298
+
+[Infinite Orange Feathers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Orange Feathers
+// Infinite Orange Feathers
+patch=1,EE,20434600,extended,0000270F
+
+[Cheats\Infinite Ammo Cannot Be Reloaded]
+patch=1,EE,20ADA807,extended,D0800000
+patch=1,EE,20106E70,extended,00000000
+patch=1,EE,20106E88,extended,00000000
+
+[Cheats\Infinite Time Limit For Emergency Missions This also applies to the time limit for the main story's friend rescue event]
+patch=1,EE,20247A24,extended,00000000
+
+[Cheats\Infinite Time Limit ALT For Emergency Missions This also applies to the time limit for the main story's friend rescue event]
+patch=1,EE,20247A24,extended,46000840
+
+[Cheats\Infinite Reserve Ammo]
+patch=1,EE,20106BDC,extended,00000000
+
+[Cheats\Even If You Kill A Gang Leader It's Still An Arrest]
+patch=1,EE,20278238,extended,0C06B6DC
+patch=1,EE,2027823C,extended,A0710018
+
+[Cheats\Infinite Health]
+patch=1,EE,20537030,extended,0C03FFC0
+patch=1,EE,200FFF00,extended,3C01447A
+patch=1,EE,200FFF04,extended,AC81008C
+patch=1,EE,200FFF08,extended,03E00008
+patch=1,EE,200FFF0C,extended,44810000
+
+[Cheats\Infinite Ammo]
+patch=1,EE,20106E70,extended,00000000
+patch=1,EE,20106E88,extended,00000000
+
+[Cheats\Unlock All Levels]
+patch=1,EE,2077CE28,extended,FFFFFFFF
+
+[Cheats\Unlock All Medals Play Level To Activate Unlocks]
+patch=1,EE,20150C0C,extended,24020003
+patch=1,EE,20150C10,extended,A0620000

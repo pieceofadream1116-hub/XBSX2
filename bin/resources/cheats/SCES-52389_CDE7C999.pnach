@@ -1,0 +1,4 @@
+gametitle=WRC 4 [SCES-52389] [CDE7C999]
+
+[Cheats\Ultra Slow Timer]
+patch=1,EE,2017D350,extended,0C05889A

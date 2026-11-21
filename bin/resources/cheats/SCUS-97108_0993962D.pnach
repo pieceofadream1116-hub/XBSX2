@@ -12,7 +12,7 @@ description=Gate Misses Dont Count
 // Gate Misses Dont Count
 patch=1,EE,20130430,extended,00000000
 
-[Gate Misses Dont Count]
+[Gate Misses Dont Count (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Gate Misses Dont Count
 // Gate Misses Dont Count
@@ -48,7 +48,7 @@ description=Have All Events
 // Have All Events
 patch=1,EE,4018C544,extended,00060001
 
-[Have All Events]
+[Have All Events (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events
 // Have All Events
@@ -60,17 +60,11 @@ description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,2018A6D0,extended,FFFFFFFF
 
-[Have All Events]
+[Have All Events (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events
 // Have All Events
 patch=1,EE,4018A690,extended,00100001
-
-[Have All Events]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Events
-// Have All Events
-patch=1,EE,01010101,extended,00000000
 
 [Trent-Quick Race-Max All Stats]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -311,3 +305,15 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Todd Richards-Career-Max All Stats
 // Todd Richards-Career-Max All Stats
 patch=1,EE,2018A728,extended,0A0A0A0A
+
+[Cheats\Gate Misses Dont Count]
+patch=1,EE,20130430,extended,00000000
+patch=1,EE,2013114C,extended,00000000
+
+[Cheats\Unlock Quick Race Have All Events]
+patch=1,EE,4018C544,extended,00060001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Unlock Career Have All Events]
+patch=1,EE,4018A690,extended,00100001
+patch=1,EE,01010101,extended,00000000

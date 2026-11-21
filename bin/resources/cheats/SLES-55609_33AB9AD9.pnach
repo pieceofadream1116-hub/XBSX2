@@ -1,0 +1,4 @@
+gametitle=Scooby-Doo! and the Spooky Swamp [SLES-55609] [33AB9AD9]
+
+[Cheats\Max Infinite Snooby Snacks]
+patch=1,EE,2051E56C,extended,00002710

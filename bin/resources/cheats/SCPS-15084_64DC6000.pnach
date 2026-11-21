@@ -1,0 +1,4 @@
+gametitle=ラチェット&クランク3 突撃！ガラクチック★レンジャーズ [SCPS-15084] [64DC6000]
+
+[Cheats\Infinite Health]
+patch=1,EE,201B06B0,extended,00000064

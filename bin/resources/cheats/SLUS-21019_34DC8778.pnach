@@ -306,20 +306,29 @@ description=All Gallery
 // All Gallery
 patch=1,EE,103D7AE2,extended,00000101
 
-[All Gallery]
+[All Gallery (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Gallery
 // All Gallery
 patch=1,EE,403D7AE4,extended,00070001
 
-[All Gallery]
+[All Gallery (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Gallery
 // All Gallery
 patch=1,EE,01010101,extended,00000000
 
-[All Gallery]
+[All Gallery (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Gallery
 // All Gallery
+patch=1,EE,103D7B00,extended,00000101
+
+[Cheats\Unlock All Game Ending and Sudden Death Ending]
+patch=1,EE,003D7B03,extended,00000001
+
+[Cheats\Unlock All Gallery]
+patch=1,EE,103D7AE2,extended,00000101
+patch=1,EE,403D7AE4,extended,00070001
+patch=1,EE,01010101,extended,00000000
 patch=1,EE,103D7B00,extended,00000101

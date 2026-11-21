@@ -36,7 +36,7 @@ description=Always Low Overall Game Timer
 // Always Low Overall Game Timer
 patch=1,EE,20E430EC,extended,00000000
 
-[Always Low Overall Game Timer]
+[Always Low Overall Game Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Overall Game Timer
 // Always Low Overall Game Timer
@@ -48,37 +48,37 @@ description=Have All Characters Selectable
 // Have All Characters Selectable
 patch=1,EE,20E43568,extended,00000004
 
-[Have All Characters Selectable]
+[Have All Characters Selectable (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Characters Selectable
 // Have All Characters Selectable
 patch=1,EE,20E435A4,extended,41100000
 
-[Have All Characters Selectable]
+[Have All Characters Selectable (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Characters Selectable
 // Have All Characters Selectable
 patch=1,EE,20E435CC,extended,42A20000
 
-[Have All Characters Selectable]
+[Have All Characters Selectable (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Characters Selectable
 // Have All Characters Selectable
 patch=1,EE,20E435F4,extended,43190000
 
-[Have All Characters Selectable]
+[Have All Characters Selectable (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Characters Selectable
 // Have All Characters Selectable
 patch=1,EE,20E4361C,extended,43610000
 
-[Have All Characters Selectable]
+[Have All Characters Selectable (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Characters Selectable
 // Have All Characters Selectable
 patch=1,EE,20E43644,extended,43070000
 
-[Have All Characters Selectable]
+[Have All Characters Selectable (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Characters Selectable
 // Have All Characters Selectable
@@ -120,7 +120,7 @@ description=Easy Mission With Num. Targets Left
 // Easy Mission With Num. Targets Left
 patch=1,EE,20294AF4,extended,AC400000
 
-[Easy Mission With Num. Targets Left]
+[Easy Mission With Num. Targets Left (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Easy Mission With Num. Targets Left
 // Easy Mission With Num. Targets Left
@@ -138,19 +138,19 @@ description=Instant Death (Bosses)
 // Instant Death (Bosses)
 patch=1,EE,200C0220,extended,03E00008
 
-[Instant Death (Bosses)]
+[Instant Death (Bosses) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Instant Death (Bosses)
 // Instant Death (Bosses)
 patch=1,EE,200C0224,extended,24020000
 
-[Instant Death (Bosses)]
+[Instant Death (Bosses) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Instant Death (Bosses)
 // Instant Death (Bosses)
 patch=1,EE,2019E778,extended,08030088
 
-[Instant Death (Bosses)]
+[Instant Death (Bosses) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Instant Death (Bosses)
 // Instant Death (Bosses)
@@ -318,13 +318,13 @@ description=Max Special
 // Max Special
 patch=1,EE,104EC72E,extended,00000064
 
-[Max Special]
+[Max Special (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Special
 // Max Special
 patch=1,EE,104EC730,extended,00000064
 
-[Max Special]
+[Max Special (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Special
 // Max Special
@@ -408,43 +408,43 @@ description=Giga Crash
 // Giga Crash
 patch=1,EE,104EC756,extended,00000064
 
-[Rank UH]
+[Rank UH (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank UH
 // Rank UH
 patch=1,EE,00E431E1,extended,00000007
 
-[Max Health]
+[Max Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,204ED974,extended,00000064
 
-[Max Special]
+[Max Special (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Special
 // Max Special
 patch=1,EE,104ED17E,extended,00000064
 
-[Max Special]
+[Max Special (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Special
 // Max Special
 patch=1,EE,104ED180,extended,00000064
 
-[Max Special]
+[Max Special (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Special
 // Max Special
 patch=1,EE,204ED980,extended,00000064
 
-[Have All Special Weapons]
+[Have All Special Weapons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Weapons
 // Have All Special Weapons
 patch=1,EE,204ED170,extended,FFFFFFFF
 
-[Max Power/Speed/Special]
+[Max Power/Speed/Special (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power/Speed/Special
 // Max Power/Speed/Special
@@ -498,49 +498,43 @@ description=Hieijin
 // Hieijin
 patch=1,EE,104ED190,extended,00000064
 
-[Zankourin]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Zankourin
-// Zankourin
-patch=1,EE,104ED182,extended,00000064
-
-[Rank UH]
+[Rank UH (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank UH
 // Rank UH
 patch=1,EE,00E431E2,extended,00000007
 
-[Max Health]
+[Max Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,204EE3C4,extended,00000064
 
-[Max Special]
+[Max Special (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Special
 // Max Special
 patch=1,EE,104EDBCE,extended,00000064
 
-[Max Special]
+[Max Special (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Special
 // Max Special
 patch=1,EE,104EDBD0,extended,00000064
 
-[Max Special]
+[Max Special (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Special
 // Max Special
 patch=1,EE,204EE3D0,extended,00000064
 
-[Have All Special Weapons]
+[Have All Special Weapons (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Weapons
 // Have All Special Weapons
 patch=1,EE,204EDBC0,extended,FFFFFFFF
 
-[Max Power/Speed/Special]
+[Max Power/Speed/Special (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power/Speed/Special
 // Max Power/Speed/Special
@@ -558,49 +552,49 @@ description=Axl Bullet
 // Axl Bullet
 patch=1,EE,104EDBD2,extended,00000064
 
-[Circle Blaze]
+[Circle Blaze (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circle Blaze
 // Circle Blaze
 patch=1,EE,104EDBD4,extended,00000064
 
-[Explosion]
+[Explosion (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Explosion
 // Explosion
 patch=1,EE,104EDBD6,extended,00000064
 
-[Volt Tornado]
+[Volt Tornado (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Volt Tornado
 // Volt Tornado
 patch=1,EE,104EDBD8,extended,00000064
 
-[Splash Laser]
+[Splash Laser (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Splash Laser
 // Splash Laser
 patch=1,EE,104EDBDA,extended,00000064
 
-[Gaea Shield]
+[Gaea Shield (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Gaea Shield
 // Gaea Shield
 patch=1,EE,104EDBDC,extended,00000064
 
-[Wind Cutter]
+[Wind Cutter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wind Cutter
 // Wind Cutter
 patch=1,EE,104EDBDE,extended,00000064
 
-[Sniper Missile]
+[Sniper Missile (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sniper Missile
 // Sniper Missile
 patch=1,EE,104EDBE0,extended,00000064
 
-[Moving Wheel]
+[Moving Wheel (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Moving Wheel
 // Moving Wheel

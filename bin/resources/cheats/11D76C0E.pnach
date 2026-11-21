@@ -1,0 +1,7 @@
+gametitle=Madden NFL 2003 [SLES-51154] [11D76C0E]
+
+[Cheats\Always 4th Down]
+patch=1,EE,1058F280,extended,00000004
+
+[Cheats\Infinite Madden Tokens]
+patch=1,EE,21E39038,extended,0098967F

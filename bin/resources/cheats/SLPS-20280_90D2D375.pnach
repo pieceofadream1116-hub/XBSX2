@@ -1,0 +1,4 @@
+gametitle=魔法のパンプキン ～アンとグレッグの大冒険～ [SLPS-20280] [90D2D375]
+
+[Cheats\Infinite Lives]
+patch=1,EE,20C123E8,extended,00000009

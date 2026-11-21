@@ -18,59 +18,53 @@ description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,200C0220,extended,0211082B
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,200C0224,extended,54200003
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,200C0228,extended,27BDFFC0
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,200C022C,extended,03E00008
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,200C0230,extended,00000000
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,200C0234,extended,0805F3AE
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,200C0238,extended,FFB00000
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,2017CEB0,extended,08030088
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,2017CEB4,extended,00000000
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,200C0220,extended,0211082B
 
 [Infinite Health P2 ONLY]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -78,59 +72,11 @@ description=Infinite Health P2 ONLY
 // Infinite Health P2 ONLY
 patch=1,EE,200C0224,extended,50200003
 
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,200C0228,extended,27BDFFC0
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,200C022C,extended,03E00008
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,200C0230,extended,00000000
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,200C0234,extended,0805F3AE
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,200C0238,extended,FFB00000
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,2017CEB0,extended,08030088
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,2017CEB4,extended,00000000
-
 [Infinite Health P1 & P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 & P2
 // Infinite Health P1 & P2
 patch=1,EE,2017CEB0,extended,03E00008
-
-[Infinite Health P1 & P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P1 & P2
-// Infinite Health P1 & P2
-patch=1,EE,2017CEB4,extended,00000000
 
 [Hit Anywhere (Both Players)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -138,19 +84,19 @@ description=Hit Anywhere (Both Players)
 // Hit Anywhere (Both Players)
 patch=1,EE,2013D9A4,extended,00000000
 
-[Hit Anywhere (Both Players)]
+[Hit Anywhere (Both Players) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Anywhere (Both Players)
 // Hit Anywhere (Both Players)
 patch=1,EE,2013D9B0,extended,00000000
 
-[Hit Anywhere (Both Players)]
+[Hit Anywhere (Both Players) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Anywhere (Both Players)
 // Hit Anywhere (Both Players)
 patch=1,EE,2013D9BC,extended,00000000
 
-[Hit Anywhere (Both Players)]
+[Hit Anywhere (Both Players) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Anywhere (Both Players)
 // Hit Anywhere (Both Players)
@@ -174,7 +120,7 @@ description=Always Full Tension Gauge P1
 // Always Full Tension Gauge P1
 patch=1,EE,10284A90,extended,0000270F
 
-[Always Full Tension Gauge P1]
+[Always Full Tension Gauge P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Full Tension Gauge P1
 // Always Full Tension Gauge P1
@@ -186,7 +132,7 @@ description=Always Empty Tension Gauge P1
 // Always Empty Tension Gauge P1
 patch=1,EE,10284A90,extended,00000000
 
-[Always Empty Tension Gauge P1]
+[Always Empty Tension Gauge P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Empty Tension Gauge P1
 // Always Empty Tension Gauge P1
@@ -228,7 +174,7 @@ description=Always Full Tension Gauge P2
 // Always Full Tension Gauge P2
 patch=1,EE,10284B74,extended,0000270F
 
-[Always Full Tension Gauge P2]
+[Always Full Tension Gauge P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Full Tension Gauge P2
 // Always Full Tension Gauge P2
@@ -240,7 +186,7 @@ description=Always Empty Tension Gauge P2
 // Always Empty Tension Gauge P2
 patch=1,EE,10284B74,extended,00000000
 
-[Always Empty Tension Gauge P2]
+[Always Empty Tension Gauge P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Empty Tension Gauge P2
 // Always Empty Tension Gauge P2
@@ -263,3 +209,34 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Always Has Trails
 // P2 Always Has Trails
 patch=1,EE,10284B7E,extended,00000001
+
+[Cheats\Infinite Health Player 1 ONLY]
+patch=1,EE,200C0220,extended,0211082B
+patch=1,EE,200C0224,extended,54200003
+patch=1,EE,200C0228,extended,27BDFFC0
+patch=1,EE,200C022C,extended,03E00008
+patch=1,EE,200C0230,extended,00000000
+patch=1,EE,200C0234,extended,0805F3AE
+patch=1,EE,200C0238,extended,FFB00000
+patch=1,EE,2017CEB0,extended,08030088
+patch=1,EE,2017CEB4,extended,00000000
+
+[Cheats\Always Full Tension Gauge Player 1]
+patch=1,EE,10284A90,extended,0000270F
+patch=1,EE,10284B5C,extended,0000270F
+
+[Cheats\1 Hit Dead Player 2]
+patch=1,EE,D1E6D11A,extended,000001A4
+patch=1,EE,11E6D11A,extended,00000001
+
+[Cheats\Always On Full Guard Break P1]
+patch=1,EE,10539CAA,extended,00000000
+
+[Cheats\Always On Weak Guard Break P2]
+patch=1,EE,10539D6A,extended,00000080
+
+[Cheats\P1 Always Has Blue Trails]
+patch=1,EE,10539C9A,extended,00000001
+
+[Cheats\Max Level Survivor Mode]
+patch=1,EE,11DF3D00,extended,0000270F

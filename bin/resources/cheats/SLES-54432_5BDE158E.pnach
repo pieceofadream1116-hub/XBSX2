@@ -1,0 +1,4 @@
+gametitle=Mercury Meltdown Remix [SLES-54432] [5BDE158E]
+
+[Cheats\Infinite Time]
+patch=1,EE,20293DD4,extended,420BD70A

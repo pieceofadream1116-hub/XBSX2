@@ -1,0 +1,23 @@
+gametitle=NiGHTS into Dreams... NTSC-J SLPM-66926 BC4F4B5E
+
+[Cheats\Invincible]
+patch=1,EE,20221EDC,extended,10630078
+
+[Cheats\Infinite time]
+patch=1,EE,2064E6D4,extended,00000078
+
+[Cheats\Infinite Time ASM]
+patch=1,EE,202DE13C,extended,00000000
+
+[Cheats\Infinite Thrust]
+patch=1,EE,20205A3C,extended,00000000
+
+[Cheats\Have All 4 Ideya]
+patch=1,EE,2064E6C8,extended,00000004
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (130%).
+patch=0,EE,003E2B1C,word,00000001
+patch=0,EE,003E2B24,word,00000001
+patch=0,EE,00155798,word,00000000

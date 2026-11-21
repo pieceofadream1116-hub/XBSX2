@@ -1,0 +1,4 @@
+gametitle=Spy Hunter [SLUS-20056] [E3ADA82E]
+
+[Cheats\Turn on God mode]
+patch=1,EE,10367D0C,extended,00000001

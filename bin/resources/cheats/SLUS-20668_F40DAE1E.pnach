@@ -18,7 +18,7 @@ description=Unlock All Extras
 // Unlock All Extras
 patch=1,EE,207170E0,extended,FFFFFFFF
 
-[Unlock All Extras]
+[Unlock All Extras (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Extras
 // Unlock All Extras
@@ -30,7 +30,7 @@ description=Unlock All Mini-Cons
 // Unlock All Mini-Cons
 patch=1,EE,207173C0,extended,FFFFFFFF
 
-[Unlock All Mini-Cons]
+[Unlock All Mini-Cons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Mini-Cons
 // Unlock All Mini-Cons
@@ -48,19 +48,19 @@ description=Press {L1} For Moon Jump
 // Press {L1} For Moon Jump
 patch=1,EE,D08FA842,extended,0000FBFF
 
-[Press {L1} For Moon Jump]
+[Press {L1} For Moon Jump (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1} For Moon Jump
 // Press {L1} For Moon Jump
 patch=1,EE,204710A8,extended,00000000
 
-[Press {L1} For Moon Jump]
+[Press {L1} For Moon Jump (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1} For Moon Jump
 // Press {L1} For Moon Jump
 patch=1,EE,D08FA842,extended,0010FBFF
 
-[Press {L1} For Moon Jump]
+[Press {L1} For Moon Jump (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1} For Moon Jump
 // Press {L1} For Moon Jump
@@ -72,7 +72,7 @@ description=Matrix Jumps
 // Matrix Jumps
 patch=1,EE,20717698,extended,C0480000
 
-[Unlock All Mini-Cons]
+[Unlock All Mini-Cons (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Mini-Cons
 // Unlock All Mini-Cons
@@ -168,92 +168,114 @@ description=All Levels
 // All Levels
 patch=1,EE,40717114,extended,00080013
 
-[All Levels]
+[All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Levels
 // All Levels
 patch=1,EE,00000001,extended,00000000
 
-[Amazon]
+[Amazon (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Amazon
 // Amazon
 patch=1,EE,20717158,extended,00000009
 
-[Antarctica]
+[Antarctica (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Antarctica
 // Antarctica
 patch=1,EE,207171A4,extended,0000000A
 
-[Deep Amazon]
+[Deep Amazon (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Deep Amazon
 // Deep Amazon
 patch=1,EE,207171F0,extended,00000008
 
-[Mid-Atlantic]
+[Mid-Atlantic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mid-Atlantic
 // Mid-Atlantic
 patch=1,EE,2071723C,extended,00000001
 
-[Alaska]
+[Alaska (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Alaska
 // Alaska
 patch=1,EE,20717288,extended,00000005
 
-[Starship]
+[Starship (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Starship
 // Starship
 patch=1,EE,207172D4,extended,00000001
 
-[Pacific Island]
+[Pacific Island (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pacific Island
 // Pacific Island
 patch=1,EE,20717320,extended,00000006
 
-[Amazon]
+[Amazon (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Amazon
 // Amazon
 patch=1,EE,2071715C,extended,0000000D
 
-[Antarctica]
+[Antarctica (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Antarctica
 // Antarctica
 patch=1,EE,207171A8,extended,00000006
 
-[Deep Amazon]
+[Deep Amazon (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Deep Amazon
 // Deep Amazon
 patch=1,EE,207171F4,extended,00000007
 
-[Mid-Atlantic]
+[Mid-Atlantic (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mid-Atlantic
 // Mid-Atlantic
 patch=1,EE,20717240,extended,00000001
 
-[Alaska]
+[Alaska (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Alaska
 // Alaska
 patch=1,EE,2071728C,extended,00000009
 
-[Starship]
+[Starship (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Starship
 // Starship
 patch=1,EE,207172D8,extended,0000000A
 
-[Pacific Island]
+[Pacific Island (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pacific Island
 // Pacific Island
 patch=1,EE,20717324,extended,0000000C
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,2025DF98,extended,AF80BDE4
+patch=1,EE,2063d4a8,extended,426FC28F
+patch=1,EE,E0010001,extended,006CF20C
+patch=1,EE,2025DF98,extended,AF82BDE4
+patch=1,EE,E001FFFF,extended,008FA178
+patch=1,EE,2063d4a8,extended,42EFC28F
+
+[Cheats\Unlock All Extras]
+patch=1,EE,207170E0,extended,FFFFFFFF
+patch=1,EE,207170E4,extended,FFFFFFFF
+
+[Cheats\Unlock All MiniCons]
+patch=1,EE,207173C0,extended,FFFFFFFF
+patch=1,EE,107173C4,extended,0000FFFF
+
+[Cheats\Unlock All Levels]
+patch=1,EE,40717114,extended,00080013
+patch=1,EE,00000001,extended,00000000

@@ -1,0 +1,4 @@
+gametitle=Train Simulator 京成・都営浅草・京急線 [SLPM-67007] [034204AB]
+
+[Cheats\Max Points 99999999 When You Return to the Menu Screen]
+patch=1,EE,20824BF4,extended,05F5E0FF

@@ -42,7 +42,7 @@ description=Have All Salvo List (In-Game)
 // Have All Salvo List (In-Game)
 patch=1,EE,40551590,extended,007E0001
 
-[Have All Salvo List (In-Game)]
+[Have All Salvo List (In-Game) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Salvo List (In-Game)
 // Have All Salvo List (In-Game)
@@ -60,7 +60,7 @@ description=Have All Salvos
 // Have All Salvos
 patch=1,EE,40550FD4,extended,00080001
 
-[Have All Salvos]
+[Have All Salvos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Salvos
 // Have All Salvos
@@ -71,12 +71,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Salvos Viewed
 // Have All Salvos Viewed
 patch=1,EE,40550FF4,extended,00080001
-
-[Have All Salvos Viewed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Salvos Viewed
-// Have All Salvos Viewed
-patch=1,EE,FFFFFFFF,extended,00000000
 
 [Max Total Salvo Points-All Games]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -1518,7 +1512,7 @@ description=Northern Arena-Artus Dominus
 // Northern Arena-Artus Dominus
 patch=1,EE,005509FD,extended,00000001
 
-[Northern Arena-Battle Royale]
+[Northern Arena-Battle Royale (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Battle Royale
 // Northern Arena-Battle Royale
@@ -1626,872 +1620,912 @@ description=Great Arena-Decius' Last Stand?
 // Great Arena-Decius' Last Stand?
 patch=1,EE,00550AAD,extended,00000001
 
-[City Arena-Battle Royale]
+[City Arena-Battle Royale (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Battle Royale
 // City Arena-Battle Royale
 patch=1,EE,205509A8,extended,05F5E0FF
 
-[City Arena-Elimination]
+[City Arena-Elimination (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Elimination
 // City Arena-Elimination
 patch=1,EE,205509B0,extended,05F5E0FF
 
-[City Arena-Beast Hunt]
+[City Arena-Beast Hunt (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Beast Hunt
 // City Arena-Beast Hunt
 patch=1,EE,205509B8,extended,05F5E0FF
 
-[City Arena-Team Battle]
+[City Arena-Team Battle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Team Battle
 // City Arena-Team Battle
 patch=1,EE,205509C0,extended,05F5E0FF
 
-[City Arena-Siege]
+[City Arena-Siege (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Siege
 // City Arena-Siege
 patch=1,EE,205509C8,extended,05F5E0FF
 
-[City Arena-Boss Battle]
+[City Arena-Boss Battle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Boss Battle
 // City Arena-Boss Battle
 patch=1,EE,205509D0,extended,05F5E0FF
 
-[Northern Arena-Rescue Mission]
+[Northern Arena-Rescue Mission (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Rescue Mission
 // Northern Arena-Rescue Mission
 patch=1,EE,205509D8,extended,05F5E0FF
 
-[Northern Arena-Elimination]
+[Northern Arena-Elimination (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Elimination
 // Northern Arena-Elimination
 patch=1,EE,205509E0,extended,05F5E0FF
 
-[Northern Arena-Battle Royale]
+[Northern Arena-Battle Royale (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Battle Royale
 // Northern Arena-Battle Royale
 patch=1,EE,205509E8,extended,05F5E0FF
 
-[Northern Arena-Team Battle]
+[Northern Arena-Team Battle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Team Battle
 // Northern Arena-Team Battle
 patch=1,EE,205509F0,extended,05F5E0FF
 
-[Northern Arena-Artus Dominus]
+[Northern Arena-Artus Dominus (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Artus Dominus
 // Northern Arena-Artus Dominus
 patch=1,EE,205509F8,extended,05F5E0FF
 
-[Northern Arena-Battle Royale]
+[Northern Arena-Battle Royale (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Battle Royale
 // Northern Arena-Battle Royale
 patch=1,EE,20550A08,extended,05F5E0FF
 
-[Circus Maximus-1st Race]
+[Circus Maximus-1st Race (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-1st Race
 // Circus Maximus-1st Race
 patch=1,EE,20550A10,extended,05F5E0FF
 
-[Circus Maximus-2nd Race]
+[Circus Maximus-2nd Race (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-2nd Race
 // Circus Maximus-2nd Race
 patch=1,EE,20550A18,extended,05F5E0FF
 
-[Circus Maximus-3rd Race]
+[Circus Maximus-3rd Race (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-3rd Race
 // Circus Maximus-3rd Race
 patch=1,EE,20550A20,extended,05F5E0FF
 
-[Circus Maximus-Last Race]
+[Circus Maximus-Last Race (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-Last Race
 // Circus Maximus-Last Race
 patch=1,EE,20550A30,extended,05F5E0FF
 
-[Desert Arena-Battle Royale]
+[Desert Arena-Battle Royale (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Battle Royale
 // Desert Arena-Battle Royale
 patch=1,EE,20550A38,extended,05F5E0FF
 
-[Desert Arena-Beast Hunt]
+[Desert Arena-Beast Hunt (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Beast Hunt
 // Desert Arena-Beast Hunt
 patch=1,EE,20550A40,extended,05F5E0FF
 
-[Desert Arena-Team Battle]
+[Desert Arena-Team Battle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Team Battle
 // Desert Arena-Team Battle
 patch=1,EE,20550A48,extended,05F5E0FF
 
-[Desert Arena-Artus Dominus]
+[Desert Arena-Artus Dominus (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Artus Dominus
 // Desert Arena-Artus Dominus
 patch=1,EE,20550A50,extended,05F5E0FF
 
-[Desert Arena-Elimination]
+[Desert Arena-Elimination (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Elimination
 // Desert Arena-Elimination
 patch=1,EE,20550A58,extended,05F5E0FF
 
-[Desert Arena-Boss Battle]
+[Desert Arena-Boss Battle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Boss Battle
 // Desert Arena-Boss Battle
 patch=1,EE,20550A60,extended,05F5E0FF
 
-[Great Arena-Rescue Mission]
+[Great Arena-Rescue Mission (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Rescue Mission
 // Great Arena-Rescue Mission
 patch=1,EE,20550A68,extended,05F5E0FF
 
-[Great Arena-Beast Hunt]
+[Great Arena-Beast Hunt (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Beast Hunt
 // Great Arena-Beast Hunt
 patch=1,EE,20550A70,extended,05F5E0FF
 
-[Great Arena-Elimination]
+[Great Arena-Elimination (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Elimination
 // Great Arena-Elimination
 patch=1,EE,20550A78,extended,05F5E0FF
 
-[Great Arena-Team Battle]
+[Great Arena-Team Battle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Team Battle
 // Great Arena-Team Battle
 patch=1,EE,20550A80,extended,05F5E0FF
 
-[Great Arena-Siege]
+[Great Arena-Siege (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Siege
 // Great Arena-Siege
 patch=1,EE,20550A88,extended,05F5E0FF
 
-[Great Arena-Sword Struggle]
+[Great Arena-Sword Struggle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Sword Struggle
 // Great Arena-Sword Struggle
 patch=1,EE,20550A90,extended,05F5E0FF
 
-[Great Arena-Decius' Last Stand?]
+[Great Arena-Decius' Last Stand? (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Decius' Last Stand?
 // Great Arena-Decius' Last Stand?
 patch=1,EE,20550AA8,extended,05F5E0FF
 
-[City Arena-Battle Royale]
+[City Arena-Battle Royale (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Battle Royale
 // City Arena-Battle Royale
 patch=1,EE,00550B2D,extended,00000001
 
-[City Arena-Elimination]
+[City Arena-Elimination (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Elimination
 // City Arena-Elimination
 patch=1,EE,00550B35,extended,00000001
 
-[City Arena-Beast Hunt]
+[City Arena-Beast Hunt (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Beast Hunt
 // City Arena-Beast Hunt
 patch=1,EE,00550B3D,extended,00000001
 
-[City Arena-Team Battle]
+[City Arena-Team Battle (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Team Battle
 // City Arena-Team Battle
 patch=1,EE,00550B45,extended,00000001
 
-[City Arena-Siege]
+[City Arena-Siege (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Siege
 // City Arena-Siege
 patch=1,EE,00550B4D,extended,00000001
 
-[City Arena-Boss Battle]
+[City Arena-Boss Battle (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Boss Battle
 // City Arena-Boss Battle
 patch=1,EE,00550B55,extended,00000001
 
-[Northern Arena-Rescue Mission]
+[Northern Arena-Rescue Mission (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Rescue Mission
 // Northern Arena-Rescue Mission
 patch=1,EE,00550B5D,extended,00000001
 
-[Northern Arena-Elimination]
+[Northern Arena-Elimination (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Elimination
 // Northern Arena-Elimination
 patch=1,EE,00550B65,extended,00000001
 
-[Northern Arena-Battle Royale]
+[Northern Arena-Battle Royale (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Battle Royale
 // Northern Arena-Battle Royale
 patch=1,EE,00550B6D,extended,00000001
 
-[Northern Arena-Team Battle]
+[Northern Arena-Team Battle (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Team Battle
 // Northern Arena-Team Battle
 patch=1,EE,00550B75,extended,00000001
 
-[Northern Arena-Artus Dominus]
+[Northern Arena-Artus Dominus (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Artus Dominus
 // Northern Arena-Artus Dominus
 patch=1,EE,00550B7D,extended,00000001
 
-[Northern Arena-Battle Royale]
+[Northern Arena-Battle Royale (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Battle Royale
 // Northern Arena-Battle Royale
 patch=1,EE,00550B8D,extended,00000001
 
-[Circus Maximus-1st Race]
+[Circus Maximus-1st Race (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-1st Race
 // Circus Maximus-1st Race
 patch=1,EE,00550B95,extended,00000001
 
-[Circus Maximus-2nd Race]
+[Circus Maximus-2nd Race (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-2nd Race
 // Circus Maximus-2nd Race
 patch=1,EE,00550B9D,extended,00000001
 
-[Circus Maximus-3rd Race]
+[Circus Maximus-3rd Race (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-3rd Race
 // Circus Maximus-3rd Race
 patch=1,EE,00550BA5,extended,00000001
 
-[Circus Maximus-Last Race]
+[Circus Maximus-Last Race (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-Last Race
 // Circus Maximus-Last Race
 patch=1,EE,00550BB5,extended,00000001
 
-[Desert Arena-Battle Royale]
+[Desert Arena-Battle Royale (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Battle Royale
 // Desert Arena-Battle Royale
 patch=1,EE,00550BBD,extended,00000001
 
-[Desert Arena-Beast Hunt]
+[Desert Arena-Beast Hunt (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Beast Hunt
 // Desert Arena-Beast Hunt
 patch=1,EE,00550BC5,extended,00000001
 
-[Desert Arena-Team Battle]
+[Desert Arena-Team Battle (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Team Battle
 // Desert Arena-Team Battle
 patch=1,EE,00550BCD,extended,00000001
 
-[Desert Arena-Artus Dominus]
+[Desert Arena-Artus Dominus (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Artus Dominus
 // Desert Arena-Artus Dominus
 patch=1,EE,00550BD5,extended,00000001
 
-[Desert Arena-Elimination]
+[Desert Arena-Elimination (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Elimination
 // Desert Arena-Elimination
 patch=1,EE,00550BDD,extended,00000001
 
-[Desert Arena-Boss Battle]
+[Desert Arena-Boss Battle (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Boss Battle
 // Desert Arena-Boss Battle
 patch=1,EE,00550BE5,extended,00000001
 
-[Great Arena-Rescue Mission]
+[Great Arena-Rescue Mission (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Rescue Mission
 // Great Arena-Rescue Mission
 patch=1,EE,00550BED,extended,00000001
 
-[Great Arena-Beast Hunt]
+[Great Arena-Beast Hunt (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Beast Hunt
 // Great Arena-Beast Hunt
 patch=1,EE,00550BF5,extended,00000001
 
-[Great Arena-Elimination]
+[Great Arena-Elimination (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Elimination
 // Great Arena-Elimination
 patch=1,EE,00550BFD,extended,00000001
 
-[Great Arena-Team Battle]
+[Great Arena-Team Battle (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Team Battle
 // Great Arena-Team Battle
 patch=1,EE,00550C05,extended,00000001
 
-[Great Arena-Siege]
+[Great Arena-Siege (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Siege
 // Great Arena-Siege
 patch=1,EE,00550C0D,extended,00000001
 
-[Great Arena-Sword Struggle]
+[Great Arena-Sword Struggle (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Sword Struggle
 // Great Arena-Sword Struggle
 patch=1,EE,00550C15,extended,00000001
 
-[Great Arena-Decius' Last Stand?]
+[Great Arena-Decius' Last Stand? (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Decius' Last Stand?
 // Great Arena-Decius' Last Stand?
 patch=1,EE,00550C2D,extended,00000001
 
-[City Arena-Battle Royale]
+[City Arena-Battle Royale (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Battle Royale
 // City Arena-Battle Royale
 patch=1,EE,20550B28,extended,05F5E0FF
 
-[City Arena-Elimination]
+[City Arena-Elimination (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Elimination
 // City Arena-Elimination
 patch=1,EE,20550B30,extended,05F5E0FF
 
-[City Arena-Beast Hunt]
+[City Arena-Beast Hunt (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Beast Hunt
 // City Arena-Beast Hunt
 patch=1,EE,20550B38,extended,05F5E0FF
 
-[City Arena-Team Battle]
+[City Arena-Team Battle (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Team Battle
 // City Arena-Team Battle
 patch=1,EE,20550B40,extended,05F5E0FF
 
-[City Arena-Siege]
+[City Arena-Siege (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Siege
 // City Arena-Siege
 patch=1,EE,20550B48,extended,05F5E0FF
 
-[City Arena-Boss Battle]
+[City Arena-Boss Battle (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Boss Battle
 // City Arena-Boss Battle
 patch=1,EE,20550B50,extended,05F5E0FF
 
-[Northern Arena-Rescue Mission]
+[Northern Arena-Rescue Mission (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Rescue Mission
 // Northern Arena-Rescue Mission
 patch=1,EE,20550B58,extended,05F5E0FF
 
-[Northern Arena-Elimination]
+[Northern Arena-Elimination (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Elimination
 // Northern Arena-Elimination
 patch=1,EE,20550B60,extended,05F5E0FF
 
-[Northern Arena-Battle Royale]
+[Northern Arena-Battle Royale (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Battle Royale
 // Northern Arena-Battle Royale
 patch=1,EE,20550B68,extended,05F5E0FF
 
-[Northern Arena-Team Battle]
+[Northern Arena-Team Battle (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Team Battle
 // Northern Arena-Team Battle
 patch=1,EE,20550B70,extended,05F5E0FF
 
-[Northern Arena-Artus Dominus]
+[Northern Arena-Artus Dominus (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Artus Dominus
 // Northern Arena-Artus Dominus
 patch=1,EE,20550B78,extended,05F5E0FF
 
-[Northern Arena-Battle Royale]
+[Northern Arena-Battle Royale (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Battle Royale
 // Northern Arena-Battle Royale
 patch=1,EE,20550B88,extended,05F5E0FF
 
-[Circus Maximus-1st Race]
+[Circus Maximus-1st Race (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-1st Race
 // Circus Maximus-1st Race
 patch=1,EE,20550B90,extended,05F5E0FF
 
-[Circus Maximus-2nd Race]
+[Circus Maximus-2nd Race (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-2nd Race
 // Circus Maximus-2nd Race
 patch=1,EE,20550B98,extended,05F5E0FF
 
-[Circus Maximus-3rd Race]
+[Circus Maximus-3rd Race (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-3rd Race
 // Circus Maximus-3rd Race
 patch=1,EE,20550BA0,extended,05F5E0FF
 
-[Circus Maximus-Last Race]
+[Circus Maximus-Last Race (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-Last Race
 // Circus Maximus-Last Race
 patch=1,EE,20550BB0,extended,05F5E0FF
 
-[Desert Arena-Battle Royale]
+[Desert Arena-Battle Royale (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Battle Royale
 // Desert Arena-Battle Royale
 patch=1,EE,20550BB8,extended,05F5E0FF
 
-[Desert Arena-Beast Hunt]
+[Desert Arena-Beast Hunt (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Beast Hunt
 // Desert Arena-Beast Hunt
 patch=1,EE,20550BC0,extended,05F5E0FF
 
-[Desert Arena-Team Battle]
+[Desert Arena-Team Battle (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Team Battle
 // Desert Arena-Team Battle
 patch=1,EE,20550BC8,extended,05F5E0FF
 
-[Desert Arena-Artus Dominus]
+[Desert Arena-Artus Dominus (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Artus Dominus
 // Desert Arena-Artus Dominus
 patch=1,EE,20550BD0,extended,05F5E0FF
 
-[Desert Arena-Elimination]
+[Desert Arena-Elimination (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Elimination
 // Desert Arena-Elimination
 patch=1,EE,20550BD8,extended,05F5E0FF
 
-[Desert Arena-Boss Battle]
+[Desert Arena-Boss Battle (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Boss Battle
 // Desert Arena-Boss Battle
 patch=1,EE,20550BE0,extended,05F5E0FF
 
-[Great Arena-Rescue Mission]
+[Great Arena-Rescue Mission (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Rescue Mission
 // Great Arena-Rescue Mission
 patch=1,EE,20550BE8,extended,05F5E0FF
 
-[Great Arena-Beast Hunt]
+[Great Arena-Beast Hunt (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Beast Hunt
 // Great Arena-Beast Hunt
 patch=1,EE,20550BF0,extended,05F5E0FF
 
-[Great Arena-Elimination]
+[Great Arena-Elimination (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Elimination
 // Great Arena-Elimination
 patch=1,EE,20550BF8,extended,05F5E0FF
 
-[Great Arena-Team Battle]
+[Great Arena-Team Battle (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Team Battle
 // Great Arena-Team Battle
 patch=1,EE,20550C00,extended,05F5E0FF
 
-[Great Arena-Siege]
+[Great Arena-Siege (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Siege
 // Great Arena-Siege
 patch=1,EE,20550C08,extended,05F5E0FF
 
-[Great Arena-Sword Struggle]
+[Great Arena-Sword Struggle (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Sword Struggle
 // Great Arena-Sword Struggle
 patch=1,EE,20550C10,extended,05F5E0FF
 
-[Great Arena-Decius' Last Stand?]
+[Great Arena-Decius' Last Stand? (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Decius' Last Stand?
 // Great Arena-Decius' Last Stand?
 patch=1,EE,20550C28,extended,05F5E0FF
 
-[City Arena-Battle Royale]
+[City Arena-Battle Royale (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Battle Royale
 // City Arena-Battle Royale
 patch=1,EE,00550CAD,extended,00000001
 
-[City Arena-Elimination]
+[City Arena-Elimination (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Elimination
 // City Arena-Elimination
 patch=1,EE,00550CB5,extended,00000001
 
-[City Arena-Beast Hunt]
+[City Arena-Beast Hunt (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Beast Hunt
 // City Arena-Beast Hunt
 patch=1,EE,00550CBD,extended,00000001
 
-[City Arena-Team Battle]
+[City Arena-Team Battle (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Team Battle
 // City Arena-Team Battle
 patch=1,EE,00550CC5,extended,00000001
 
-[City Arena-Siege]
+[City Arena-Siege (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Siege
 // City Arena-Siege
 patch=1,EE,00550CCD,extended,00000001
 
-[City Arena-Boss Battle]
+[City Arena-Boss Battle (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Boss Battle
 // City Arena-Boss Battle
 patch=1,EE,00550CD5,extended,00000001
 
-[Northern Arena-Rescue Mission]
+[Northern Arena-Rescue Mission (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Rescue Mission
 // Northern Arena-Rescue Mission
 patch=1,EE,00550CDD,extended,00000001
 
-[Northern Arena-Elimination]
+[Northern Arena-Elimination (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Elimination
 // Northern Arena-Elimination
 patch=1,EE,00550CE5,extended,00000001
 
-[Northern Arena-Battle Royale]
+[Northern Arena-Battle Royale (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Battle Royale
 // Northern Arena-Battle Royale
 patch=1,EE,00550CED,extended,00000001
 
-[Northern Arena-Team Battle]
+[Northern Arena-Team Battle (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Team Battle
 // Northern Arena-Team Battle
 patch=1,EE,00550CF5,extended,00000001
 
-[Northern Arena-Artus Dominus]
+[Northern Arena-Artus Dominus (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Artus Dominus
 // Northern Arena-Artus Dominus
 patch=1,EE,00550CFD,extended,00000001
 
-[Northern Arena-Battle Royale]
+[Northern Arena-Battle Royale (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Battle Royale
 // Northern Arena-Battle Royale
 patch=1,EE,00550D0D,extended,00000001
 
-[Circus Maximus-1st Race]
+[Circus Maximus-1st Race (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-1st Race
 // Circus Maximus-1st Race
 patch=1,EE,00550D15,extended,00000001
 
-[Circus Maximus-2nd Race]
+[Circus Maximus-2nd Race (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-2nd Race
 // Circus Maximus-2nd Race
 patch=1,EE,00550D1D,extended,00000001
 
-[Circus Maximus-3rd Race]
+[Circus Maximus-3rd Race (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-3rd Race
 // Circus Maximus-3rd Race
 patch=1,EE,00550D25,extended,00000001
 
-[Circus Maximus-Last Race]
+[Circus Maximus-Last Race (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-Last Race
 // Circus Maximus-Last Race
 patch=1,EE,00550D35,extended,00000001
 
-[Desert Arena-Battle Royale]
+[Desert Arena-Battle Royale (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Battle Royale
 // Desert Arena-Battle Royale
 patch=1,EE,00550D3D,extended,00000001
 
-[Desert Arena-Beast Hunt]
+[Desert Arena-Beast Hunt (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Beast Hunt
 // Desert Arena-Beast Hunt
 patch=1,EE,00550D45,extended,00000001
 
-[Desert Arena-Team Battle]
+[Desert Arena-Team Battle (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Team Battle
 // Desert Arena-Team Battle
 patch=1,EE,00550D4D,extended,00000001
 
-[Desert Arena-Artus Dominus]
+[Desert Arena-Artus Dominus (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Artus Dominus
 // Desert Arena-Artus Dominus
 patch=1,EE,00550D55,extended,00000001
 
-[Desert Arena-Elimination]
+[Desert Arena-Elimination (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Elimination
 // Desert Arena-Elimination
 patch=1,EE,00550D5D,extended,00000001
 
-[Desert Arena-Boss Battle]
+[Desert Arena-Boss Battle (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Boss Battle
 // Desert Arena-Boss Battle
 patch=1,EE,00550D65,extended,00000001
 
-[Great Arena-Rescue Mission]
+[Great Arena-Rescue Mission (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Rescue Mission
 // Great Arena-Rescue Mission
 patch=1,EE,00550D6D,extended,00000001
 
-[Great Arena-Beast Hunt]
+[Great Arena-Beast Hunt (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Beast Hunt
 // Great Arena-Beast Hunt
 patch=1,EE,00550D75,extended,00000001
 
-[Great Arena-Elimination]
+[Great Arena-Elimination (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Elimination
 // Great Arena-Elimination
 patch=1,EE,00550D7D,extended,00000001
 
-[Great Arena-Team Battle]
+[Great Arena-Team Battle (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Team Battle
 // Great Arena-Team Battle
 patch=1,EE,00550D85,extended,00000001
 
-[Great Arena-Siege]
+[Great Arena-Siege (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Siege
 // Great Arena-Siege
 patch=1,EE,00550D8D,extended,00000001
 
-[Great Arena-Sword Struggle]
+[Great Arena-Sword Struggle (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Sword Struggle
 // Great Arena-Sword Struggle
 patch=1,EE,00550D95,extended,00000001
 
-[Great Arena-Decius' Last Stand?]
+[Great Arena-Decius' Last Stand? (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Decius' Last Stand?
 // Great Arena-Decius' Last Stand?
 patch=1,EE,00550DAD,extended,00000001
 
-[City Arena-Battle Royale]
+[City Arena-Battle Royale (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Battle Royale
 // City Arena-Battle Royale
 patch=1,EE,20550CA8,extended,05F5E0FF
 
-[City Arena-Elimination]
+[City Arena-Elimination (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Elimination
 // City Arena-Elimination
 patch=1,EE,20550CB0,extended,05F5E0FF
 
-[City Arena-Beast Hunt]
+[City Arena-Beast Hunt (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Beast Hunt
 // City Arena-Beast Hunt
 patch=1,EE,20550CB8,extended,05F5E0FF
 
-[City Arena-Team Battle]
+[City Arena-Team Battle (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Team Battle
 // City Arena-Team Battle
 patch=1,EE,20550CC0,extended,05F5E0FF
 
-[City Arena-Siege]
+[City Arena-Siege (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Siege
 // City Arena-Siege
 patch=1,EE,20550CC8,extended,05F5E0FF
 
-[City Arena-Boss Battle]
+[City Arena-Boss Battle (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=City Arena-Boss Battle
 // City Arena-Boss Battle
 patch=1,EE,20550CD0,extended,05F5E0FF
 
-[Northern Arena-Rescue Mission]
+[Northern Arena-Rescue Mission (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Rescue Mission
 // Northern Arena-Rescue Mission
 patch=1,EE,20550CD8,extended,05F5E0FF
 
-[Northern Arena-Elimination]
+[Northern Arena-Elimination (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Elimination
 // Northern Arena-Elimination
 patch=1,EE,20550CE0,extended,05F5E0FF
 
-[Northern Arena-Battle Royale]
+[Northern Arena-Battle Royale (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Battle Royale
 // Northern Arena-Battle Royale
 patch=1,EE,20550CE8,extended,05F5E0FF
 
-[Northern Arena-Team Battle]
+[Northern Arena-Team Battle (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Team Battle
 // Northern Arena-Team Battle
 patch=1,EE,20550CF0,extended,05F5E0FF
 
-[Northern Arena-Artus Dominus]
+[Northern Arena-Artus Dominus (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Artus Dominus
 // Northern Arena-Artus Dominus
 patch=1,EE,20550CF8,extended,05F5E0FF
 
-[Northern Arena-Battle Royale]
+[Northern Arena-Battle Royale (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Northern Arena-Battle Royale
 // Northern Arena-Battle Royale
 patch=1,EE,20550D08,extended,05F5E0FF
 
-[Circus Maximus-1st Race]
+[Circus Maximus-1st Race (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-1st Race
 // Circus Maximus-1st Race
 patch=1,EE,20550D10,extended,05F5E0FF
 
-[Circus Maximus-2nd Race]
+[Circus Maximus-2nd Race (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-2nd Race
 // Circus Maximus-2nd Race
 patch=1,EE,20550D18,extended,05F5E0FF
 
-[Circus Maximus-3rd Race]
+[Circus Maximus-3rd Race (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-3rd Race
 // Circus Maximus-3rd Race
 patch=1,EE,20550D20,extended,05F5E0FF
 
-[Circus Maximus-Last Race]
+[Circus Maximus-Last Race (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Circus Maximus-Last Race
 // Circus Maximus-Last Race
 patch=1,EE,20550D30,extended,05F5E0FF
 
-[Desert Arena-Battle Royale]
+[Desert Arena-Battle Royale (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Battle Royale
 // Desert Arena-Battle Royale
 patch=1,EE,20550D38,extended,05F5E0FF
 
-[Desert Arena-Beast Hunt]
+[Desert Arena-Beast Hunt (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Beast Hunt
 // Desert Arena-Beast Hunt
 patch=1,EE,20550D40,extended,05F5E0FF
 
-[Desert Arena-Team Battle]
+[Desert Arena-Team Battle (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Team Battle
 // Desert Arena-Team Battle
 patch=1,EE,20550D48,extended,05F5E0FF
 
-[Desert Arena-Artus Dominus]
+[Desert Arena-Artus Dominus (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Artus Dominus
 // Desert Arena-Artus Dominus
 patch=1,EE,20550D50,extended,05F5E0FF
 
-[Desert Arena-Elimination]
+[Desert Arena-Elimination (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Elimination
 // Desert Arena-Elimination
 patch=1,EE,20550D58,extended,05F5E0FF
 
-[Desert Arena-Boss Battle]
+[Desert Arena-Boss Battle (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Desert Arena-Boss Battle
 // Desert Arena-Boss Battle
 patch=1,EE,20550D60,extended,05F5E0FF
 
-[Great Arena-Rescue Mission]
+[Great Arena-Rescue Mission (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Rescue Mission
 // Great Arena-Rescue Mission
 patch=1,EE,20550D68,extended,05F5E0FF
 
-[Great Arena-Beast Hunt]
+[Great Arena-Beast Hunt (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Beast Hunt
 // Great Arena-Beast Hunt
 patch=1,EE,20550D70,extended,05F5E0FF
 
-[Great Arena-Elimination]
+[Great Arena-Elimination (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Elimination
 // Great Arena-Elimination
 patch=1,EE,20550D78,extended,05F5E0FF
 
-[Great Arena-Team Battle]
+[Great Arena-Team Battle (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Team Battle
 // Great Arena-Team Battle
 patch=1,EE,20550D80,extended,05F5E0FF
 
-[Great Arena-Siege]
+[Great Arena-Siege (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Siege
 // Great Arena-Siege
 patch=1,EE,20550D88,extended,05F5E0FF
 
-[Great Arena-Sword Struggle]
+[Great Arena-Sword Struggle (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Sword Struggle
 // Great Arena-Sword Struggle
 patch=1,EE,20550D90,extended,05F5E0FF
 
-[Great Arena-Decius' Last Stand?]
+[Great Arena-Decius' Last Stand? (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Arena-Decius' Last Stand?
 // Great Arena-Decius' Last Stand?
 patch=1,EE,20550DA8,extended,05F5E0FF
+
+[Disable Post-Processing Effects]
+author=Gabominated
+description=Disable post-processing effects.
+patch=1,EE,002E5258,word,00000000
+
+[Cheats\Infinite Health]
+patch=1,EE,204BD8C8,extended,0F000F00
+
+[Cheats\Infinite Coins]
+patch=1,EE,20551184,extended,0000270F
+
+[Cheats\Infinite Detected Meter]
+patch=1,EE,201d38b8,extended,00000000
+
+[Cheats\Infinite Bow Durability]
+patch=1,EE,2027147C,extended,2403000F
+patch=1,EE,20271480,extended,A26305D6
+
+[Cheats\Infinite Silver Fortune Coins]
+patch=1,EE,20551184,extended,000003E7
+
+[Cheats\1 Hit Boss Kills]
+patch=1,EE,201B8B80,extended,24038001
+patch=1,EE,201B8B84,extended,34030000
+
+[Cheats\Have All Profiles]
+patch=1,EE,105520B0,extended,0000FFFF
+
+[Cheats\Have All Salvo List In Game]
+patch=1,EE,40551590,extended,007E0001
+patch=1,EE,A70FA70F,extended,00000000
+
+[Cheats\Have All Salvos]
+patch=1,EE,40550FD4,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats\Have All Salvos Viewed]
+patch=1,EE,40550FF4,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000

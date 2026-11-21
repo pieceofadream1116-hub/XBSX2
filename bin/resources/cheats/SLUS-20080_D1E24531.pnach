@@ -12,7 +12,7 @@ description=Have All Weapons Systems
 // Have All Weapons Systems
 patch=1,EE,203D9A40,extended,FFFFFFFF
 
-[Have All Weapons Systems]
+[Have All Weapons Systems (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Weapons Systems
 // Have All Weapons Systems
@@ -24,31 +24,31 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,3C014596
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,AE210440
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C022C,extended,C6210440
 
-[Infinite Health]
+[Infinite Health (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,D042D826,extended,00004481
 
-[Infinite Health]
+[Infinite Health (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -60,31 +60,31 @@ description=Infinite Jumps
 // Infinite Jumps
 patch=1,EE,200C0230,extended,3C014396
 
-[Infinite Jumps]
+[Infinite Jumps (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Jumps
 // Infinite Jumps
 patch=1,EE,200C0234,extended,AE410418
 
-[Infinite Jumps]
+[Infinite Jumps (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Jumps
 // Infinite Jumps
 patch=1,EE,200C0238,extended,08081E8E
 
-[Infinite Jumps]
+[Infinite Jumps (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Jumps
 // Infinite Jumps
 patch=1,EE,200C023C,extended,C64C0418
 
-[Infinite Jumps]
+[Infinite Jumps (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Jumps
 // Infinite Jumps
 patch=1,EE,D042E986,extended,0000A222
 
-[Infinite Jumps]
+[Infinite Jumps (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Jumps
 // Infinite Jumps
@@ -96,17 +96,11 @@ description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,D041B9F4,extended,0000202D
 
-[Infinite Ammo]
+[Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2041BA00,extended,00000000
-
-[Max Infinite Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Infinite Ammo
-// Max Infinite Ammo
-patch=1,EE,D041B9F4,extended,0000202D
 
 [Max Infinite Ammo]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -323,3 +317,31 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Hyper Reload
 // Infinite Hyper Reload
 patch=1,EE,104466E0,extended,00000009
+
+[Cheats\Infinite Health]
+patch=1,EE,200C0220,extended,3C014596
+patch=1,EE,200C0224,extended,AE210440
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,C6210440
+patch=1,EE,D042D826,extended,00004481
+patch=1,EE,2042D828,extended,0C030088
+
+[Cheats\Infinite Jumps]
+patch=1,EE,200C0230,extended,3C014396
+patch=1,EE,200C0234,extended,AE410418
+patch=1,EE,200C0238,extended,08081E8E
+patch=1,EE,200C023C,extended,C64C0418
+patch=1,EE,D042E986,extended,0000A222
+patch=1,EE,2042E988,extended,0C03008C
+
+[Cheats\Infinite Ammo]
+patch=1,EE,D041B9F4,extended,0000202D
+patch=1,EE,2041BA00,extended,00000000
+
+[Cheats\Max Infinite Ammo]
+patch=1,EE,D041B9F4,extended,0000202D
+patch=1,EE,2041B9FC,extended,240303E7
+
+[Cheats\Have All Weapons Systems]
+patch=1,EE,203D9A40,extended,FFFFFFFF
+patch=1,EE,103D9A44,extended,0000FFFF

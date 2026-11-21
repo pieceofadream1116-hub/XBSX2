@@ -1,0 +1,4 @@
+gametitle=SIMPLE2000シリーズ Vol.92 THE 呪いのゲーム [SLPS-25581] [CFA9DA2B]
+
+[Cheats\Unlock Movie Player In Title Screen]
+patch=1,EE,203B88C4,extended,00000001

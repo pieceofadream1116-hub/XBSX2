@@ -1,0 +1,7 @@
+gametitle=Yakuza Fury [SLES-53399] [A5DA4B36]
+
+[Cheats\Infinite Money]
+patch=1,EE,201b0418,extended,e6000194
+
+[Cheats\Infinte Health]
+patch=1,EE,20238314,extended,03e703e7

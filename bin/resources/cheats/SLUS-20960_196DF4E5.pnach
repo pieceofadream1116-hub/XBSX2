@@ -18,7 +18,7 @@ description=Infinite Metals
 // Infinite Metals
 patch=1,EE,1064C4C4,extended,0000FFFF
 
-[Infinite Metals]
+[Infinite Metals (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Metals
 // Infinite Metals
@@ -30,7 +30,7 @@ description=Max Metals
 // Max Metals
 patch=1,EE,2064C4C4,extended,0098967F
 
-[Max Metals]
+[Max Metals (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Metals
 // Max Metals
@@ -54,19 +54,19 @@ description=Infinite Health-Character 1
 // Infinite Health-Character 1
 patch=1,EE,200C0220,extended,24020024
 
-[Infinite Health-Character 1]
+[Infinite Health-Character 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health-Character 1
 // Infinite Health-Character 1
 patch=1,EE,200C0224,extended,08065C94
 
-[Infinite Health-Character 1]
+[Infinite Health-Character 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health-Character 1
 // Infinite Health-Character 1
 patch=1,EE,200C0228,extended,ACA2002C
 
-[Infinite Health-Character 1]
+[Infinite Health-Character 1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health-Character 1
 // Infinite Health-Character 1
@@ -78,19 +78,19 @@ description=Max Health-Character 1
 // Max Health-Character 1
 patch=1,EE,200C0240,extended,24020024
 
-[Max Health-Character 1]
+[Max Health-Character 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health-Character 1
 // Max Health-Character 1
 patch=1,EE,200C0244,extended,08065C00
 
-[Max Health-Character 1]
+[Max Health-Character 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health-Character 1
 // Max Health-Character 1
 patch=1,EE,200C0248,extended,ACA20030
 
-[Max Health-Character 1]
+[Max Health-Character 1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health-Character 1
 // Max Health-Character 1
@@ -102,19 +102,19 @@ description=Infinite Health-Character 2
 // Infinite Health-Character 2
 patch=1,EE,200C0230,extended,24020024
 
-[Infinite Health-Character 2]
+[Infinite Health-Character 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health-Character 2
 // Infinite Health-Character 2
 patch=1,EE,200C0234,extended,08065C94
 
-[Infinite Health-Character 2]
+[Infinite Health-Character 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health-Character 2
 // Infinite Health-Character 2
 patch=1,EE,200C0238,extended,ACA2002C
 
-[Infinite Health-Character 2]
+[Infinite Health-Character 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health-Character 2
 // Infinite Health-Character 2
@@ -126,19 +126,19 @@ description=Max Health-Character 2
 // Max Health-Character 2
 patch=1,EE,200C0250,extended,24020024
 
-[Max Health-Character 2]
+[Max Health-Character 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health-Character 2
 // Max Health-Character 2
 patch=1,EE,200C0254,extended,08065C00
 
-[Max Health-Character 2]
+[Max Health-Character 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health-Character 2
 // Max Health-Character 2
 patch=1,EE,200C0258,extended,ACA20030
 
-[Max Health-Character 2]
+[Max Health-Character 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health-Character 2
 // Max Health-Character 2
@@ -222,73 +222,73 @@ description=Weapon Converter
 // Weapon Converter
 patch=1,EE,0064C690,extended,00000001
 
-[Life Up]
+[Life Up (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Up
 // Life Up
 patch=1,EE,0064C6CB,extended,00000001
 
-[Life Up +1]
+[Life Up +1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Up +1
 // Life Up +1
 patch=1,EE,0064C6CC,extended,00000001
 
-[Life Up +2]
+[Life Up +2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Up +2
 // Life Up +2
 patch=1,EE,0064C6CD,extended,00000001
 
-[Weapon Up]
+[Weapon Up (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Weapon Up
 // Weapon Up
 patch=1,EE,0064C6CF,extended,00000001
 
-[Weapon Up +1]
+[Weapon Up +1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Weapon Up +1
 // Weapon Up +1
 patch=1,EE,0064C6D0,extended,00000001
 
-[Weapon Up +2]
+[Weapon Up +2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Weapon Up +2
 // Weapon Up +2
 patch=1,EE,0064C6D1,extended,00000001
 
-[Double Barrier]
+[Double Barrier (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Double Barrier
 // Double Barrier
 patch=1,EE,0064C6D3,extended,00000001
 
-[Speedy Recovery]
+[Speedy Recovery (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Speedy Recovery
 // Speedy Recovery
 patch=1,EE,0064C6D4,extended,00000001
 
-[Chain Combo]
+[Chain Combo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chain Combo
 // Chain Combo
 patch=1,EE,0064C6D5,extended,00000001
 
-[Super Recover]
+[Super Recover (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Recover
 // Super Recover
 patch=1,EE,0064C6D6,extended,00000001
 
-[Spike Walker]
+[Spike Walker (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spike Walker
 // Spike Walker
 patch=1,EE,0064C6D7,extended,00000001
 
-[Weapon Converter]
+[Weapon Converter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Weapon Converter
 // Weapon Converter
@@ -348,80 +348,125 @@ description=Shield Armor
 // Shield Armor
 patch=1,EE,0064C6E1,extended,00000001
 
-[Life Up]
+[Life Up (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Up
 // Life Up
 patch=1,EE,0064C713,extended,00000001
 
-[Life Up +1]
+[Life Up +1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Up +1
 // Life Up +1
 patch=1,EE,0064C714,extended,00000001
 
-[Life Up +2]
+[Life Up +2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Up +2
 // Life Up +2
 patch=1,EE,0064C715,extended,00000001
 
-[Weapon Up]
+[Weapon Up (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Weapon Up
 // Weapon Up
 patch=1,EE,0064C717,extended,00000001
 
-[Weapon Up +1]
+[Weapon Up +1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Weapon Up +1
 // Weapon Up +1
 patch=1,EE,0064C718,extended,00000001
 
-[Weapon Up +2]
+[Weapon Up +2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Weapon Up +2
 // Weapon Up +2
 patch=1,EE,0064C719,extended,00000001
 
-[Double Barrier]
+[Double Barrier (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Double Barrier
 // Double Barrier
 patch=1,EE,0064C71B,extended,00000001
 
-[Speedy Recovery]
+[Speedy Recovery (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Speedy Recovery
 // Speedy Recovery
 patch=1,EE,0064C71C,extended,00000001
 
-[Chain Combo]
+[Chain Combo (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chain Combo
 // Chain Combo
 patch=1,EE,0064C71D,extended,00000001
 
-[Super Recover]
+[Super Recover (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Recover
 // Super Recover
 patch=1,EE,0064C71E,extended,00000001
 
-[Spike Walker]
+[Spike Walker (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spike Walker
 // Spike Walker
 patch=1,EE,0064C71F,extended,00000001
 
-[Shock Absorber]
+[Shock Absorber (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shock Absorber
 // Shock Absorber
 patch=1,EE,0064C721,extended,00000001
 
-[Shield Armor]
+[Shield Armor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shield Armor
 // Shield Armor
 patch=1,EE,0064C729,extended,00000001
+
+[Cheats\Infinite Health Character 1]
+patch=1,EE,200C0220,extended,24020024
+patch=1,EE,200C0224,extended,08065C94
+patch=1,EE,200C0228,extended,ACA2002C
+patch=1,EE,202DC100,extended,0C030088
+
+[Cheats\Infinite Health Character 2]
+patch=1,EE,200C0230,extended,24020024
+patch=1,EE,200C0234,extended,08065C94
+patch=1,EE,200C0238,extended,ACA2002C
+patch=1,EE,202DC150,extended,0C03008C
+
+[Cheats\P1 Press or Hold Sqaure for Invincibility]
+patch=1,EE,E0047FFF,extended,00A04182
+patch=1,EE,2064E160,extended,00000002
+patch=1,EE,2064E370,extended,00000002
+patch=1,EE,2064E580,extended,00000002
+patch=1,EE,2064FA20,extended,00000002
+patch=1,EE,E004FFFF,extended,00A04182
+patch=1,EE,2064E160,extended,00000000
+patch=1,EE,2064E370,extended,00000000
+patch=1,EE,2064E580,extended,00000000
+patch=1,EE,2064FA20,extended,00000000
+
+[Cheats\1 Hit Kill]
+patch=1,EE,201EFC3C,extended,AE20002C
+
+[Cheats\Press L3 Stop Time R3 Resume Timer]
+patch=1,EE,D0A04182,extended,0000FFFD
+patch=1,EE,20540284,extended,24420000
+patch=1,EE,D0A04182,extended,0000FFFB
+patch=1,EE,20540284,extended,2442FFFF
+
+[Cheats\Unlock All Upgrades X]
+patch=1,EE,4064C680,extended,00070001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Unlock All Upgrades Zero]
+patch=1,EE,4064C6C8,extended,00070001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Unlock All Upgrades Pallette]
+patch=1,EE,4064C7E8,extended,00070001
+patch=1,EE,01010101,extended,00000000

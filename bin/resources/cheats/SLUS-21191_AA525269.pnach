@@ -24,7 +24,7 @@ description=Have All Power Crystals
 // Have All Power Crystals
 patch=1,EE,209D484C,extended,0000008E
 
-[Have All Power Crystals]
+[Have All Power Crystals (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Power Crystals
 // Have All Power Crystals
@@ -36,7 +36,7 @@ description=Unlock All Movies
 // Unlock All Movies
 patch=1,EE,20102080,extended,24030001
 
-[Unlock All Movies]
+[Unlock All Movies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Movies
 // Unlock All Movies
@@ -48,7 +48,7 @@ description=View Game Progress For All Missions
 // View Game Progress For All Missions
 patch=1,EE,20102FF4,extended,AC620020
 
-[View Game Progress For All Missions]
+[View Game Progress For All Missions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Game Progress For All Missions
 // View Game Progress For All Missions
@@ -60,19 +60,19 @@ description=View Game Progress For All Minigames
 // View Game Progress For All Minigames
 patch=1,EE,200C0220,extended,24020001
 
-[View Game Progress For All Minigames]
+[View Game Progress For All Minigames (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Game Progress For All Minigames
 // View Game Progress For All Minigames
 patch=1,EE,200C0224,extended,03E00008
 
-[View Game Progress For All Minigames]
+[View Game Progress For All Minigames (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Game Progress For All Minigames
 // View Game Progress For All Minigames
 patch=1,EE,200C0228,extended,AC820088
 
-[View Game Progress For All Minigames]
+[View Game Progress For All Minigames (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Game Progress For All Minigames
 // View Game Progress For All Minigames
@@ -84,7 +84,7 @@ description=View Game Progress For All Chicken Challenges
 // View Game Progress For All Chicken Challenges
 patch=1,EE,20130EE4,extended,24020001
 
-[View Game Progress For All Chicken Challenges]
+[View Game Progress For All Chicken Challenges (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Game Progress For All Chicken Challenges
 // View Game Progress For All Chicken Challenges
@@ -96,7 +96,7 @@ description=View Game Progress For All Track Secrets
 // View Game Progress For All Track Secrets
 patch=1,EE,201D4DF4,extended,24020001
 
-[View Game Progress For All Track Secrets]
+[View Game Progress For All Track Secrets (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Game Progress For All Track Secrets
 // View Game Progress For All Track Secrets
@@ -108,37 +108,37 @@ description=View Game Progress For All Character Outfits
 // View Game Progress For All Character Outfits
 patch=1,EE,200C0230,extended,90830024
 
-[View Game Progress For All Character Outfits]
+[View Game Progress For All Character Outfits (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Game Progress For All Character Outfits
 // View Game Progress For All Character Outfits
 patch=1,EE,200C0234,extended,306300BD
 
-[View Game Progress For All Character Outfits]
+[View Game Progress For All Character Outfits (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Game Progress For All Character Outfits
 // View Game Progress For All Character Outfits
 patch=1,EE,200C0238,extended,34630005
 
-[View Game Progress For All Character Outfits]
+[View Game Progress For All Character Outfits (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Game Progress For All Character Outfits
 // View Game Progress For All Character Outfits
 patch=1,EE,200C023C,extended,A0830024
 
-[View Game Progress For All Character Outfits]
+[View Game Progress For All Character Outfits (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Game Progress For All Character Outfits
 // View Game Progress For All Character Outfits
 patch=1,EE,200C0240,extended,0809E958
 
-[View Game Progress For All Character Outfits]
+[View Game Progress For All Character Outfits (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Game Progress For All Character Outfits
 // View Game Progress For All Character Outfits
 patch=1,EE,200C0244,extended,8C830024
 
-[View Game Progress For All Character Outfits]
+[View Game Progress For All Character Outfits (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Game Progress For All Character Outfits
 // View Game Progress For All Character Outfits
@@ -150,7 +150,7 @@ description=Slot 1
 // Slot 1
 patch=1,EE,205B20A8,extended,05A863A7
 
-[Slot 1]
+[Slot 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 1
 // Slot 1
@@ -162,7 +162,7 @@ description=Slot 2
 // Slot 2
 patch=1,EE,205B20B0,extended,05A863A7
 
-[Slot 2]
+[Slot 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 2
 // Slot 2
@@ -174,7 +174,7 @@ description=Slot 3
 // Slot 3
 patch=1,EE,205B20B8,extended,05A863A7
 
-[Slot 3]
+[Slot 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 3
 // Slot 3
@@ -186,7 +186,7 @@ description=Slot 4
 // Slot 4
 patch=1,EE,205B20C0,extended,05A863A7
 
-[Slot 4]
+[Slot 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 4
 // Slot 4
@@ -198,7 +198,7 @@ description=Slot 5
 // Slot 5
 patch=1,EE,205B20C8,extended,05A863A7
 
-[Slot 5]
+[Slot 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 5
 // Slot 5
@@ -210,7 +210,7 @@ description=Slot 6
 // Slot 6
 patch=1,EE,205B20D0,extended,05A863A7
 
-[Slot 6]
+[Slot 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 6
 // Slot 6
@@ -222,7 +222,7 @@ description=Slot 7
 // Slot 7
 patch=1,EE,205B20D8,extended,05A863A7
 
-[Slot 7]
+[Slot 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 7
 // Slot 7
@@ -234,7 +234,7 @@ description=Slot 8
 // Slot 8
 patch=1,EE,205B20E0,extended,05A863A7
 
-[Slot 8]
+[Slot 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 8
 // Slot 8
@@ -246,19 +246,19 @@ description=All Vehicles
 // All Vehicles
 patch=1,EE,405B20A8,extended,00080001
 
-[All Vehicles]
+[All Vehicles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Vehicles
 // All Vehicles
 patch=1,EE,05A863A7,extended,00000000
 
-[All Vehicles]
+[All Vehicles (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Vehicles
 // All Vehicles
 patch=1,EE,405B20AC,extended,00080001
 
-[All Vehicles]
+[All Vehicles (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Vehicles
 // All Vehicles
@@ -474,7 +474,7 @@ description=All Die-O-Ramas
 // All Die-O-Ramas
 patch=1,EE,405B20F4,extended,00220003
 
-[All Die-O-Ramas]
+[All Die-O-Ramas (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Die-O-Ramas
 // All Die-O-Ramas
@@ -509,12 +509,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Arenas
 // All Arenas
 patch=1,EE,4060D19C,extended,00040001
-
-[All Arenas]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Arenas
-// All Arenas
-patch=1,EE,00000001,extended,00000000
 
 [Track 1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -612,8 +606,55 @@ description=All Tracks
 // All Tracks
 patch=1,EE,4060D1FC,extended,000F0001
 
-[All Tracks]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Tracks
-// All Tracks
-patch=1,EE,00000001,extended,00000000
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0020885C,word,00000000
+
+[Cheats\9999 Coins]
+patch=1,EE,209D4848,extended,0000270F
+
+[Cheats\9999 Crystals]
+patch=1,EE,209D484C,extended,0000270F
+
+[Cheats\Unlock All Vehicles]
+patch=1,EE,205B20A8,extended,05A863A7
+patch=1,EE,205B20AC,extended,00000007
+patch=1,EE,205B20B0,extended,5053A079
+patch=1,EE,205B20B4,extended,00000007
+patch=1,EE,205B20B8,extended,002EADD8
+patch=1,EE,205B20BC,extended,00000007
+patch=1,EE,205B20C0,extended,0033909E
+patch=1,EE,205B20C4,extended,00000007
+patch=1,EE,205B20C8,extended,003398AE
+patch=1,EE,205B20CC,extended,00000007
+patch=1,EE,205B20D0,extended,47834A73
+patch=1,EE,205B20D4,extended,00000007
+patch=1,EE,205B20D8,extended,AF6D15AD
+patch=1,EE,205B20DC,extended,00000007
+patch=1,EE,205B20E0,extended,CC33B442
+patch=1,EE,205B20E4,extended,00000007
+
+[Cheats\Unlock All Arenas]
+patch=1,EE,2060D198,extended,D6A0F710
+patch=1,EE,2060D19C,extended,05CB0DD5
+patch=1,EE,2060D1A0,extended,002F0D06
+patch=1,EE,2060D1A4,extended,05BFEC5B
+patch=1,EE,2060D1A8,extended,0688A5C1
+
+[Cheats\Unlock All Tracks]
+patch=1,EE,2060D1F8,extended,FD7DEB22
+patch=1,EE,2060D1FC,extended,FD7DEB21
+patch=1,EE,2060D200,extended,FD7DEB23
+patch=1,EE,2060D204,extended,B396ACFC
+patch=1,EE,2060D208,extended,B396ACFD
+patch=1,EE,2060D20C,extended,B396ACFE
+patch=1,EE,2060D210,extended,05B293EB
+patch=1,EE,2060D214,extended,05B293EC
+patch=1,EE,2060D218,extended,05B293ED
+patch=1,EE,2060D21C,extended,B23D9F37
+patch=1,EE,2060D220,extended,B23D9F38
+patch=1,EE,2060D224,extended,B23D9F36
+patch=1,EE,2060D228,extended,CA8C1290
+patch=1,EE,2060D22C,extended,CA8C1291
+patch=1,EE,2060D230,extended,CA8C1292

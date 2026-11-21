@@ -180,7 +180,7 @@ description=All Items
 // All Items
 patch=1,EE,40A2FD30,extended,00090001
 
-[All Items]
+[All Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items
 // All Items
@@ -360,7 +360,7 @@ description=All Writings
 // All Writings
 patch=1,EE,40A2FDB2,extended,000F0001
 
-[All Writings]
+[All Writings (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Writings
 // All Writings
@@ -389,3 +389,16 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Equipment
 // All Equipment
 patch=1,EE,20A2FEB0,extended,81818181
+
+[Cheats\Infinite Vessels]
+patch=1,EE,00A2FD4D,extended,0000008F
+
+[Cheats\Infinite Fire Spell]
+patch=1,EE,20A2FE3C,extended,009400CA
+
+[Cheats\Infinite Summoning]
+patch=1,EE,20A2FE4C,extended,00949200
+
+[Cheats\Unlock All Writings]
+patch=1,EE,40A2FDB2,extended,000F0001
+patch=1,EE,C1C1C1C1,extended,00000000

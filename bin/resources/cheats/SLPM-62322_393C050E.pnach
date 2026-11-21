@@ -1,0 +1,4 @@
+gametitle=ザ・コンビニ3 ～あの町を独占せよ～ [SLPM-62322] [393C050E]
+
+[Cheats\Infinite Money 999999999]
+patch=1,EE,202A2550,extended,3B9AC9FF

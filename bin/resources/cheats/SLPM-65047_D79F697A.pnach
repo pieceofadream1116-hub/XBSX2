@@ -24,7 +24,7 @@ description=P1 Infinite Health
 // P1 Infinite Health
 patch=1,EE,204818C4,extended,36003600
 
-[P1 Infinite Health]
+[P1 Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Infinite Health
 // P1 Infinite Health
@@ -36,7 +36,7 @@ description=P1 Super Jumping Ability
 // P1 Super Jumping Ability
 patch=1,EE,D04817C2,extended,00300030
 
-[P1 Super Jumping Ability]
+[P1 Super Jumping Ability (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Super Jumping Ability
 // P1 Super Jumping Ability
@@ -90,7 +90,7 @@ description=P1 Press {L2}+{SELECT} To Warp Left
 // P1 Press {L2}+{SELECT} To Warp Left
 patch=1,EE,D045F852,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} To Warp Left]
+[P1 Press {L2}+{SELECT} To Warp Left (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To Warp Left
 // P1 Press {L2}+{SELECT} To Warp Left
@@ -102,7 +102,7 @@ description=P1 Press {L1}+{SELECT} To Warp Right
 // P1 Press {L1}+{SELECT} To Warp Right
 patch=1,EE,D045F852,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Warp Right]
+[P1 Press {L1}+{SELECT} To Warp Right (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Warp Right
 // P1 Press {L1}+{SELECT} To Warp Right
@@ -114,7 +114,7 @@ description=P1 Press {L1}+{L1}+{SELECT} To Warp Middle
 // P1 Press {L1}+{L1}+{SELECT} To Warp Middle
 patch=1,EE,D045F852,extended,0000FAFE
 
-[P1 Press {L1}+{L1}+{SELECT} To Warp Middle]
+[P1 Press {L1}+{L1}+{SELECT} To Warp Middle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{L1}+{SELECT} To Warp Middle
 // P1 Press {L1}+{L1}+{SELECT} To Warp Middle
@@ -126,7 +126,7 @@ description=P2 Infinite Health
 // P2 Infinite Health
 patch=1,EE,20481E94,extended,36003600
 
-[P2 Infinite Health]
+[P2 Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Infinite Health
 // P2 Infinite Health
@@ -138,7 +138,7 @@ description=P2 Super Jumping Ability
 // P2 Super Jumping Ability
 patch=1,EE,D0481D92,extended,00300030
 
-[P2 Super Jumping Ability]
+[P2 Super Jumping Ability (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Super Jumping Ability
 // P2 Super Jumping Ability
@@ -192,7 +192,7 @@ description=P2 Press {L2}+{SELECT} To Warp Left
 // P2 Press {L2}+{SELECT} To Warp Left
 patch=1,EE,D045F7F2,extended,0000FEFE
 
-[P2 Press {L2}+{SELECT} To Warp Left]
+[P2 Press {L2}+{SELECT} To Warp Left (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {L2}+{SELECT} To Warp Left
 // P2 Press {L2}+{SELECT} To Warp Left
@@ -204,7 +204,7 @@ description=P2 Press {L1}+{SELECT} To Warp Right
 // P2 Press {L1}+{SELECT} To Warp Right
 patch=1,EE,D045F7F2,extended,0000FBFE
 
-[P2 Press {L1}+{SELECT} To Warp Right]
+[P2 Press {L1}+{SELECT} To Warp Right (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {L1}+{SELECT} To Warp Right
 // P2 Press {L1}+{SELECT} To Warp Right
@@ -216,7 +216,7 @@ description=P2 Press {L1}+{L1}+{SELECT} To Warp Middle
 // P2 Press {L1}+{L1}+{SELECT} To Warp Middle
 patch=1,EE,D045F7F2,extended,0000FAFE
 
-[P2 Press {L1}+{L1}+{SELECT} To Warp Middle]
+[P2 Press {L1}+{L1}+{SELECT} To Warp Middle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {L1}+{L1}+{SELECT} To Warp Middle
 // P2 Press {L1}+{L1}+{SELECT} To Warp Middle
@@ -228,17 +228,11 @@ description=P1 Can Throw Anywhere, P2 Cant Throw At All
 // P1 Can Throw Anywhere, P2 Cant Throw At All
 patch=1,EE,202965F0,extended,03E00008
 
-[P1 Can Throw Anywhere, P2 Cant Throw At All]
+[P1 Can Throw Anywhere, P2 Cant Throw At All (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Can Throw Anywhere, P2 Cant Throw At All
 // P1 Can Throw Anywhere, P2 Cant Throw At All
 patch=1,EE,202965F4,extended,0085102B
-
-[P2 Can Throw Anywhere, P1 Cant Throw At All]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Can Throw Anywhere, P1 Cant Throw At All
-// P2 Can Throw Anywhere, P1 Cant Throw At All
-patch=1,EE,202965F0,extended,03E00008
 
 [P2 Can Throw Anywhere, P1 Cant Throw At All]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -252,19 +246,19 @@ description=P1 Can Hit Anywhere, P2 Cant Hit At All
 // P1 Can Hit Anywhere, P2 Cant Hit At All
 patch=1,EE,2014D510,extended,03E00008
 
-[P1 Can Hit Anywhere, P2 Cant Hit At All]
+[P1 Can Hit Anywhere, P2 Cant Hit At All (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Can Hit Anywhere, P2 Cant Hit At All
 // P1 Can Hit Anywhere, P2 Cant Hit At All
 patch=1,EE,2014D514,extended,0085102B
 
-[P1 Can Hit Anywhere, P2 Cant Hit At All]
+[P1 Can Hit Anywhere, P2 Cant Hit At All (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Can Hit Anywhere, P2 Cant Hit At All
 // P1 Can Hit Anywhere, P2 Cant Hit At All
 patch=1,EE,2014D630,extended,03E00008
 
-[P1 Can Hit Anywhere, P2 Cant Hit At All]
+[P1 Can Hit Anywhere, P2 Cant Hit At All (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Can Hit Anywhere, P2 Cant Hit At All
 // P1 Can Hit Anywhere, P2 Cant Hit At All
@@ -274,21 +268,9 @@ patch=1,EE,2014D634,extended,0085102B
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Can Hit Anywhere, P1 Cant Hit At All
 // P2 Can Hit Anywhere, P1 Cant Hit At All
-patch=1,EE,2014D510,extended,03E00008
-
-[P2 Can Hit Anywhere, P1 Cant Hit At All]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Can Hit Anywhere, P1 Cant Hit At All
-// P2 Can Hit Anywhere, P1 Cant Hit At All
 patch=1,EE,2014D514,extended,00A4102B
 
-[P2 Can Hit Anywhere, P1 Cant Hit At All]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Can Hit Anywhere, P1 Cant Hit At All
-// P2 Can Hit Anywhere, P1 Cant Hit At All
-patch=1,EE,2014D630,extended,03E00008
-
-[P2 Can Hit Anywhere, P1 Cant Hit At All]
+[P2 Can Hit Anywhere, P1 Cant Hit At All (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Can Hit Anywhere, P1 Cant Hit At All
 // P2 Can Hit Anywhere, P1 Cant Hit At All
@@ -306,17 +288,11 @@ description=Hit Anywhere (P1 Only)
 // Hit Anywhere (P1 Only)
 patch=1,EE,201464C8,extended,0232102B
 
-[Hit Anywhere (P1 Only)]
+[Hit Anywhere (P1 Only) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Anywhere (P1 Only)
 // Hit Anywhere (P1 Only)
 patch=1,EE,201464CC,extended,14400024
-
-[Hit Anywhere (P2 Only)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Hit Anywhere (P2 Only)
-// Hit Anywhere (P2 Only)
-patch=1,EE,201464C8,extended,0232102B
 
 [Hit Anywhere (P2 Only)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -336,13 +312,13 @@ description=All Attacks Hurt P1
 // All Attacks Hurt P1
 patch=1,EE,2014BB08,extended,3C010048
 
-[All Attacks Hurt P1]
+[All Attacks Hurt P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Attacks Hurt P1
 // All Attacks Hurt P1
 patch=1,EE,2014BB14,extended,842418C4
 
-[All Attacks Hurt P1]
+[All Attacks Hurt P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Attacks Hurt P1
 // All Attacks Hurt P1
@@ -352,15 +328,9 @@ patch=1,EE,2014BB20,extended,A42318C4
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Attacks Hurt P2
 // All Attacks Hurt P2
-patch=1,EE,2014BB08,extended,3C010048
-
-[All Attacks Hurt P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Attacks Hurt P2
-// All Attacks Hurt P2
 patch=1,EE,2014BB14,extended,84241E94
 
-[All Attacks Hurt P2]
+[All Attacks Hurt P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Attacks Hurt P2
 // All Attacks Hurt P2

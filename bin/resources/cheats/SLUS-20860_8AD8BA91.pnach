@@ -1,0 +1,98 @@
+gametitle=Nightmare before Christmas [UNKNOWN] [8AD8BA91]
+
+[Infinite health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,80D97461,extended,7C356497
+
+[Max ! count]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max ! count
+// Max ! count
+patch=1,EE,204F263C,extended,000003E7
+
+[Max blue souls]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max blue souls
+// Max blue souls
+patch=1,EE,2049B4E4,extended,00000009
+
+[Max skulls]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max skulls
+// Max skulls
+patch=1,EE,2049B54C,extended,00000009
+
+[Max souls]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max souls
+// Max souls
+patch=1,EE,2049B4D4,extended,0001869F
+
+[Max combo]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max combo
+// Max combo
+patch=1,EE,104A952E,extended,000003E7
+
+[No damage]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=No damage
+// No damage
+patch=1,EE,204F2638,extended,00000000
+
+[No time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=No time
+// No time
+patch=1,EE,204F2630,extended,3F800000
+
+[Red souls]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Red souls
+// Red souls
+patch=1,EE,2049B534,extended,00000032
+
+[Infinite health (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,201A1E58,extended,8E220DC4
+
+[Infinite health (3)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,201A1E64,extended,00000000
+
+[Cheats\Max Health]
+patch=1,EE,2049B494,extended,0000001E
+
+[Cheats\Infinite Health]
+patch=1,EE,2049B498,extended,0000001E
+
+[Cheats\Max Soul Robber Level]
+patch=1,EE,2049B49C,extended,00000002
+
+[Cheats\Infinite Crystal Skulls]
+patch=1,EE,2049B54C,extended,00000004
+
+[Cheats\Unlock All Chapters]
+patch=1,EE,204F2618,extended,00000018
+
+[Cheats\Have All Collection]
+patch=1,EE,404F28A0,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats\Unlock All Figures]
+patch=1,EE,404F28AC,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats\Unlock All Music Tracks]
+patch=1,EE,204F28B8,extended,FFFFFFFF
+patch=1,EE,204F28BC,extended,FFFFFFFF
+
+[Cheats\Unlock All Movie Clips]
+patch=1,EE,404F28C0,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000

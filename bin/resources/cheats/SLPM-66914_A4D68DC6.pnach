@@ -1,0 +1,7 @@
+gametitle=放課後は白銀の調べ [SLPM-66914] [A4D68DC6]
+
+[Cheats\Unlock All Scenes]
+patch=1,EE,20122FD4,extended,24020001
+
+[Cheats\Unlock All Stills]
+patch=1,EE,20123044,extended,24020001

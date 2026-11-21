@@ -1,0 +1,13 @@
+gametitle=Jim Henson's Muppets Party Cruise [SLUS-20635] [EB933C4B]
+
+[Cheats\Max Points Player 1]
+patch=1,EE,2052A354,extended,0000270F
+
+[Cheats\No Points Player 2]
+patch=1,EE,2052A3E4,extended,00000000
+
+[Cheats\No Points Player 3]
+patch=1,EE,2052A474,extended,00000000
+
+[Cheats\No Points Player 4]
+patch=1,EE,2052A504,extended,00000000

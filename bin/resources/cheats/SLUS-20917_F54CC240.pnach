@@ -66,7 +66,7 @@ description=Always Low Time
 // Always Low Time
 patch=1,EE,00EF4623,extended,00000000
 
-[Always Low Time]
+[Always Low Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Time
 // Always Low Time
@@ -78,7 +78,7 @@ description=Max Score
 // Max Score
 patch=1,EE,10EF4626,extended,00000F00
 
-[Max Score]
+[Max Score (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
@@ -96,103 +96,13 @@ description=Invincible
 // Invincible
 patch=1,EE,00EF462D,extended,00000001
 
-[Infinite Lives]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Lives
-// Infinite Lives
-patch=1,EE,00EF4612,extended,00000063
-
-[Max Rings]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Rings
-// Max Rings
-patch=1,EE,10EF4620,extended,0000E703
-
-[Always Low Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Low Time
-// Always Low Time
-patch=1,EE,00EF4623,extended,00000000
-
-[Always Low Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Low Time
-// Always Low Time
-patch=1,EE,00EF4624,extended,00000000
-
-[Max Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Score
-// Max Score
-patch=1,EE,10EF4626,extended,00000F00
-
-[Max Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Score
-// Max Score
-patch=1,EE,10EF4628,extended,00003F42
-
-[Always Have Shield]
+[Always Have Shield (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Have Shield
 // Always Have Shield
 patch=1,EE,70EEF82B,extended,00000001
 
-[Invincible]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Invincible
-// Invincible
-patch=1,EE,70EEF82B,extended,00000002
-
-[Always Have Shield & Invincible]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Have Shield & Invincible
-// Always Have Shield & Invincible
-patch=1,EE,70EEF82B,extended,00000003
-
-[Infinite Lives]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Lives
-// Infinite Lives
-patch=1,EE,00EF4612,extended,00000063
-
-[Max Rings]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Rings
-// Max Rings
-patch=1,EE,10EF4620,extended,0000E703
-
-[Always Low Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Low Time
-// Always Low Time
-patch=1,EE,00EF4623,extended,00000000
-
-[Always Low Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Low Time
-// Always Low Time
-patch=1,EE,00EF4624,extended,00000000
-
-[Max Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Score
-// Max Score
-patch=1,EE,10EF4626,extended,00000F00
-
-[Max Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Score
-// Max Score
-patch=1,EE,10EF4628,extended,00003F42
-
-[Always Have Shield]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Have Shield
-// Always Have Shield
-patch=1,EE,70EEF82B,extended,00000001
-
-[Invincible]
+[Invincible (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Invincible
 // Invincible
@@ -210,205 +120,25 @@ description=Only Need 1 Blue Sphere
 // Only Need 1 Blue Sphere
 patch=1,EE,10EF2C38,extended,00000100
 
-[Infinite Lives]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Lives
-// Infinite Lives
-patch=1,EE,00EF4612,extended,00000063
-
-[Max Rings]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Rings
-// Max Rings
-patch=1,EE,10EF4620,extended,0000E703
-
-[Always Low Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Low Time
-// Always Low Time
-patch=1,EE,00EF4623,extended,00000000
-
-[Always Low Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Low Time
-// Always Low Time
-patch=1,EE,00EF4624,extended,00000000
-
-[Max Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Score
-// Max Score
-patch=1,EE,10EF4626,extended,00000F00
-
-[Max Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Score
-// Max Score
-patch=1,EE,10EF4628,extended,00003F42
-
-[Always Have Shield]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Have Shield
-// Always Have Shield
-patch=1,EE,70EEF82B,extended,00000001
-
-[Invincible]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Invincible
-// Invincible
-patch=1,EE,70EEF82B,extended,00000002
-
-[Always Have Shield & Invincible]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Have Shield & Invincible
-// Always Have Shield & Invincible
-patch=1,EE,70EEF82B,extended,00000003
-
-[Only Need 1 Blue Sphere]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Only Need 1 Blue Sphere
-// Only Need 1 Blue Sphere
-patch=1,EE,10EF2C38,extended,00000100
-
-[Max Rings]
+[Max Rings (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Rings
 // Max Rings
 patch=1,EE,10EF2C42,extended,0000E703
 
-[Infinite Lives]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Lives
-// Infinite Lives
-patch=1,EE,00EF4612,extended,00000063
-
-[Max Rings]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Rings
-// Max Rings
-patch=1,EE,10EF4620,extended,0000E703
-
-[Always Low Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Low Time
-// Always Low Time
-patch=1,EE,00EF4623,extended,00000000
-
-[Always Low Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Low Time
-// Always Low Time
-patch=1,EE,00EF4624,extended,00000000
-
-[Max Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Score
-// Max Score
-patch=1,EE,10EF4626,extended,00000F00
-
-[Max Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Score
-// Max Score
-patch=1,EE,10EF4628,extended,00003F42
-
-[Always Have Shield]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Have Shield
-// Always Have Shield
-patch=1,EE,70EEF82B,extended,00000001
-
-[Invincible]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Invincible
-// Invincible
-patch=1,EE,70EEF82B,extended,00000002
-
-[Always Have Shield & Invincible]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Have Shield & Invincible
-// Always Have Shield & Invincible
-patch=1,EE,70EEF82B,extended,00000003
-
-[Infinite Lives]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Lives
-// Infinite Lives
-patch=1,EE,00EF4612,extended,00000063
-
-[Max Rings]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Rings
-// Max Rings
-patch=1,EE,10EF4620,extended,0000E703
-
-[Always Low Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Low Time
-// Always Low Time
-patch=1,EE,00EF4623,extended,00000000
-
-[Always Low Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Low Time
-// Always Low Time
-patch=1,EE,00EF4624,extended,00000000
-
-[Max Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Score
-// Max Score
-patch=1,EE,10EF4626,extended,00000F00
-
-[Max Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Score
-// Max Score
-patch=1,EE,10EF4628,extended,00003F42
-
-[Always Have Shield]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Have Shield
-// Always Have Shield
-patch=1,EE,70EEF82B,extended,00000001
-
-[Invincible]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Invincible
-// Invincible
-patch=1,EE,70EEF82B,extended,00000002
-
-[Always Have Shield & Invincible]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Have Shield & Invincible
-// Always Have Shield & Invincible
-patch=1,EE,70EEF82B,extended,00000003
-
-[Only Need 1 Blue Sphere]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Only Need 1 Blue Sphere
-// Only Need 1 Blue Sphere
-patch=1,EE,10EF2C38,extended,00000100
-
-[Max Rings (Blue Sphere Bonus Levels)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Rings (Blue Sphere Bonus Levels)
-// Max Rings (Blue Sphere Bonus Levels)
-patch=1,EE,10EF2C42,extended,0000E703
-
-[Infinite Lives]
+[Infinite Lives (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,00EE4E81,extended,00000009
 
-[Max Rings]
+[Max Rings (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Rings
 // Max Rings
 patch=1,EE,10EE5256,extended,0000E703
 
-[Always Have Shield]
+[Always Have Shield (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Have Shield
 // Always Have Shield
@@ -432,7 +162,7 @@ description=Max Score P1
 // Max Score P1
 patch=1,EE,10EF280A,extended,0000F505
 
-[Max Score P1]
+[Max Score P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score P1
 // Max Score P1
@@ -444,7 +174,7 @@ description=No Score P1
 // No Score P1
 patch=1,EE,10EF280A,extended,00000000
 
-[No Score P1]
+[No Score P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Score P1
 // No Score P1
@@ -462,7 +192,7 @@ description=Max Score P2
 // Max Score P2
 patch=1,EE,10EF284A,extended,0000F505
 
-[Max Score P2]
+[Max Score P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score P2
 // Max Score P2
@@ -474,7 +204,7 @@ description=No Score P2
 // No Score P2
 patch=1,EE,10EF284A,extended,00000000
 
-[No Score P2]
+[No Score P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Score P2
 // No Score P2
@@ -486,19 +216,13 @@ description=Quick Score Gain
 // Quick Score Gain
 patch=1,EE,10EF2080,extended,00009999
 
-[Max Score]
+[Max Score (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,10EF207E,extended,00009909
 
-[Max Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Score
-// Max Score
-patch=1,EE,10EF2080,extended,00009999
-
-[Infinite Lives]
+[Infinite Lives (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
@@ -510,43 +234,43 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,00EF0838,extended,00000004
 
-[Infinite Lives]
+[Infinite Lives (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,00EF2D78,extended,00000063
 
-[Max Score]
+[Max Score (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,00EF2D75,extended,00000098
 
-[Max Score]
+[Max Score (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,10EF2D76,extended,00007F96
 
-[Infinite Lives]
+[Infinite Lives (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,00EF128F,extended,00000009
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,10EF0704,extended,0000FF04
 
-[Infinite Lives]
+[Infinite Lives (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,008EDA40,extended,00000009
 
-[Max Rings]
+[Max Rings (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Rings
 // Max Rings
@@ -558,92 +282,154 @@ description=Infinite Time
 // Infinite Time
 patch=1,EE,008EDACF,extended,00000000
 
-[Infinite Time]
+[Infinite Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Time
 // Infinite Time
 patch=1,EE,008EDAD0,extended,00000000
 
-[Infinite Time]
+[Infinite Time (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Time
 // Infinite Time
 patch=1,EE,008ECD01,extended,00000009
 
-[Infinite Time]
+[Infinite Time (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Time
 // Infinite Time
 patch=1,EE,108ECD02,extended,00000909
 
-[Infinite Lives]
+[Infinite Lives (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,008ECD06,extended,00000009
 
-[Max Rings]
+[Max Rings (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Rings
 // Max Rings
 patch=1,EE,008EE200,extended,00000063
 
-[Infinite Lives]
+[Infinite Lives (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,008EDA9B,extended,00000099
 
-[Max Rings]
+[Max Rings (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Rings
 // Max Rings
 patch=1,EE,008EDA9C,extended,00000099
 
-[Infinite Time]
+[Infinite Time (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Time
 // Infinite Time
 patch=1,EE,008EDAC1,extended,00000000
 
-[Infinite Time]
+[Infinite Time (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Time
 // Infinite Time
 patch=1,EE,008EDAC2,extended,00000000
 
-[Infinite Lives]
+[Infinite Lives (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,008ED978,extended,00000099
 
-[Max Rings]
+[Max Rings (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Rings
 // Max Rings
 patch=1,EE,008EDA5E,extended,00000099
 
-[Max Score P1]
+[Max Score P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score P1
 // Max Score P1
 patch=1,EE,208ED4C0,extended,000F423F
 
-[No Score P1]
+[No Score P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Score P1
 // No Score P1
 patch=1,EE,208ED4C0,extended,00000000
 
-[Max Score P2]
+[Max Score P2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score P2
 // Max Score P2
 patch=1,EE,208ED77C,extended,000F423F
 
-[No Score P2]
+[No Score P2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Score P2
 // No Score P2
 patch=1,EE,208ED77C,extended,00000000
+
+[Cheats\Can Choose Locked Games And Hints]
+patch=1,EE,2011A634,extended,24020001
+patch=1,EE,2011E944,extended,24020001
+
+[Cheats\Unlock All Games]
+patch=1,EE,41FFA740,extended,00140001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Dr. Robotnik's Mean Bean Machine Genesis Max Score P1]
+patch=1,EE,10EF280A,extended,0000F505
+patch=1,EE,10EF280C,extended,0000FFE0
+
+[Cheats\Dr. Robotnik's Mean Bean Machine Genesis No Score P2]
+patch=1,EE,10EF284A,extended,00000000
+patch=1,EE,10EF284C,extended,00000000
+
+[Cheats\Flicky Genesis Max Score]
+patch=1,EE,10EF207E,extended,00009909
+patch=1,EE,10EF2080,extended,00009999
+
+[Cheats\Sonic The Hedgehog Genesis Max Rings]
+patch=1,EE,00EF4620,extended,0000E703
+
+[Cheats\Sonic The Hedgehog Genesis 200 Rings]
+patch=1,EE,00EF4621,extended,000000C8
+
+[Cheats\Sonic The Hedgehog Genesis Infinite Lives]
+patch=1,EE,00EF4612,extended,00000032
+
+[Cheats\Sonic The Hedgehog Genesis Low Game Time]
+patch=1,EE,00EF4624,extended,00000001
+
+[Cheats\Sonic The Hedgehog 2 Always Shielded Invincible]
+patch=1,EE,00EEF82B,extended,00000007
+
+[Cheats\Sonic The Hedgehog 3 AGenesis lways Shielded Invincible]
+patch=1,EE,00EEF82B,extended,00000003
+
+[Cheats\Sonic The Hedgehog 3 Genesis Easy Blue Sphere Challenge]
+patch=1,EE,00EF2C39,extended,00000001
+
+[Cheats\Sonic 3D Blast Genesis Max Rings]
+patch=1,EE,00EE5256,extended,0000E703
+
+[Cheats\Sonic 3D Blast Genesis 200 Rings]
+patch=1,EE,00EE525B,extended,000000C8
+
+[Cheats\Sonic 3D Blast Genesis Infinite Lives]
+patch=1,EE,00EE4E81,extended,00000032
+
+[Cheats\Sonic 3D Blast Genesis Always Shielded]
+patch=1,EE,00EE52C3,extended,000000C0
+
+[Cheats\Sonic Chaos GG Infinite Time]
+patch=1,EE,008EDAC1,extended,00000009
+
+[Cheats\Sonic The Hedgehog GG Infinite Lives]
+patch=1,EE,008EDA40,extended,00000032
+
+[Cheats\Sonic The Hedgehog GG Low Game Time]
+patch=1,EE,008EDAD0,extended,00000001

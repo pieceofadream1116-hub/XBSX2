@@ -18,13 +18,13 @@ description=Infinite Attribute Points
 // Infinite Attribute Points
 patch=1,EE,2032BBE4,extended,2402001E
 
-[Infinite Attribute Points]
+[Infinite Attribute Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Attribute Points
 // Infinite Attribute Points
 patch=1,EE,2032BE80,extended,2402001E
 
-[Infinite Attribute Points]
+[Infinite Attribute Points (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Attribute Points
 // Infinite Attribute Points
@@ -36,8 +36,17 @@ description=Infinite Ability Points
 // Infinite Ability Points
 patch=1,EE,2031F9D8,extended,2402001E
 
-[Infinite Ability Points]
+[Infinite Ability Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ability Points
 // Infinite Ability Points
+patch=1,EE,2031FBB4,extended,2407001E
+
+[Cheats\Infinite Attribute Points]
+patch=1,EE,2032BBE4,extended,2402001E
+patch=1,EE,2032BE80,extended,2402001E
+patch=1,EE,2032C0C8,extended,2407001E
+
+[Cheats\Infinite Ability Points]
+patch=1,EE,2031F9D8,extended,2402001E
 patch=1,EE,2031FBB4,extended,2407001E

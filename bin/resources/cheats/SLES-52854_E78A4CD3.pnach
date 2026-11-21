@@ -1,0 +1,8 @@
+gametitle=Capcom Fighting Jam [SLES-52854] [E78A4CD3]
+
+[Cheats\Infinite Health]
+patch=1,EE,20342F94,extended,35E835E8
+
+[Cheats\P2 1 Hit Kill]
+patch=1,EE,D0343554,extended,00510001
+patch=1,EE,20343554,extended,00010001

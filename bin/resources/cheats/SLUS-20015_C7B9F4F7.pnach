@@ -198,13 +198,13 @@ description=All Weapons
 // All Weapons
 patch=1,EE,4021E730,extended,00040001
 
-[All Weapons]
+[All Weapons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Weapons
 // All Weapons
 patch=1,EE,01010101,extended,00000000
 
-[Unknown? (Japanese)]
+[Unknown? (Japanese) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown? (Japanese)
 // Unknown? (Japanese)
@@ -378,55 +378,25 @@ description=All Items
 // All Items
 patch=1,EE,2021E740,extended,01010101
 
-[All Items]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Items
-// All Items
-patch=1,EE,0021E744,extended,00000001
-
-[All Items]
+[All Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items
 // All Items
 patch=1,EE,1021E746,extended,00000101
 
-[All Items]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Items
-// All Items
-patch=1,EE,0021E748,extended,00000001
-
-[All Items]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Items
-// All Items
-patch=1,EE,0021E773,extended,00000001
-
-[All Items]
+[All Items (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items
 // All Items
 patch=1,EE,4021E774,extended,00040001
 
-[All Items]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Items
-// All Items
-patch=1,EE,01010101,extended,00000000
-
-[All Items]
+[All Items (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items
 // All Items
 patch=1,EE,1021E784,extended,00000101
 
-[All Items]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Items
-// All Items
-patch=1,EE,0021E786,extended,00000001
-
-[Unknown? (Japanese)]
+[Unknown? (Japanese) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown? (Japanese)
 // Unknown? (Japanese)
@@ -1032,7 +1002,7 @@ description=Dark Pact
 // Dark Pact
 patch=1,EE,0021E824,extended,00000001
 
-[Unknown? (Japanese)]
+[Unknown? (Japanese) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown? (Japanese)
 // Unknown? (Japanese)
@@ -1050,31 +1020,13 @@ description=Unknown3? (Japanese)
 // Unknown3? (Japanese)
 patch=1,EE,0021E827,extended,00000001
 
-[Ring Of Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Ring Of Magic
-// Ring Of Magic
-patch=1,EE,0021E83F,extended,00000001
-
 [All Rings]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Rings
 // All Rings
 patch=1,EE,4021E7C0,extended,001A0001
 
-[All Rings]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Rings
-// All Rings
-patch=1,EE,01010101,extended,00000000
-
-[All Rings]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Rings
-// All Rings
-patch=1,EE,0021E83F,extended,00000001
-
-[Unknown? (Japanese)]
+[Unknown? (Japanese) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown? (Japanese)
 // Unknown? (Japanese)
@@ -1242,20 +1194,34 @@ description=All Mag Gems
 // All Mag Gems
 patch=1,EE,4021E840,extended,00060001
 
-[All Mag Gems]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Mag Gems
-// All Mag Gems
-patch=1,EE,01010101,extended,00000000
-
-[All Mag Gems]
+[All Mag Gems (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Mag Gems
 // All Mag Gems
 patch=1,EE,1021E858,extended,00000101
 
-[All Mag Gems]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Mag Gems
-// All Mag Gems
+[Cheats\Have All Weapons]
+patch=1,EE,4021E730,extended,00040001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Have All Items]
+patch=1,EE,2021E740,extended,01010101
+patch=1,EE,0021E744,extended,00000001
+patch=1,EE,1021E746,extended,00000101
+patch=1,EE,0021E748,extended,00000001
+patch=1,EE,0021E773,extended,00000001
+patch=1,EE,4021E774,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,1021E784,extended,00000101
+patch=1,EE,0021E786,extended,00000001
+
+[Cheats\Have All Rings]
+patch=1,EE,4021E7C0,extended,001A0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,0021E83F,extended,00000001
+
+[Cheats\Have All Mag Gems]
+patch=1,EE,4021E840,extended,00060001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,1021E858,extended,00000101
 patch=1,EE,0021E85A,extended,00000001

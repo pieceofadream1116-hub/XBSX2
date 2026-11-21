@@ -1,0 +1,10 @@
+gametitle=てのひらをたいように ～永久の絆～ [初回限定版] [SLPM-65559] [15AFD3F4]
+
+[Cheats\Unlock Everything]
+patch=1,EE,2027EA20,extended,FFFFFFFF
+patch=1,EE,1027EA26,extended,0000FFFF
+patch=1,EE,2027EA28,extended,FFFFFFFF
+patch=1,EE,2027EA2C,extended,FFFFFFFF
+patch=1,EE,2027EA30,extended,FFFFFFFF
+patch=1,EE,1027EA34,extended,0000FFFF
+patch=1,EE,0027EA36,extended,000000FF

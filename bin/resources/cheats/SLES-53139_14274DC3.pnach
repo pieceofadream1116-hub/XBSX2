@@ -6,7 +6,7 @@ description=P1 Press {R3}+{SELECT} For Normal Vision
 // P1 Press {R3}+{SELECT} For Normal Vision
 patch=1,EE,901A8818,extended,0C06BCFA
 
-[P1 Press {R3}+{SELECT} For Normal Vision]
+[P1 Press {R3}+{SELECT} For Normal Vision (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R3}+{SELECT} For Normal Vision
 // P1 Press {R3}+{SELECT} For Normal Vision
@@ -30,31 +30,31 @@ description=Infinite Lives (All Players)
 // Infinite Lives (All Players)
 patch=1,EE,200C0220,extended,24010009
 
-[Infinite Lives (All Players)]
+[Infinite Lives (All Players) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives (All Players)
 // Infinite Lives (All Players)
 patch=1,EE,200C0224,extended,54A00001
 
-[Infinite Lives (All Players)]
+[Infinite Lives (All Players) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives (All Players)
 // Infinite Lives (All Players)
 patch=1,EE,200C0228,extended,ACA10008
 
-[Infinite Lives (All Players)]
+[Infinite Lives (All Players) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives (All Players)
 // Infinite Lives (All Players)
 patch=1,EE,200C022C,extended,03E00008
 
-[Infinite Lives (All Players)]
+[Infinite Lives (All Players) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives (All Players)
 // Infinite Lives (All Players)
 patch=1,EE,200C0230,extended,0040A82D
 
-[Infinite Lives (All Players)]
+[Infinite Lives (All Players) (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives (All Players)
 // Infinite Lives (All Players)
@@ -66,13 +66,13 @@ description=Infinite Credits (All Players)
 // Infinite Credits (All Players)
 patch=1,EE,20145100,extended,24020063
 
-[Infinite Credits (All Players)]
+[Infinite Credits (All Players) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Credits (All Players)
 // Infinite Credits (All Players)
 patch=1,EE,20145104,extended,1000012C
 
-[Infinite Credits (All Players)]
+[Infinite Credits (All Players) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Credits (All Players)
 // Infinite Credits (All Players)
@@ -256,15 +256,9 @@ patch=1,EE,005065EF,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Hats
 // All Hats
-patch=1,EE,005065D3,extended,00000001
-
-[All Hats]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Hats
-// All Hats
 patch=1,EE,405065D4,extended,00070001
 
-[All Hats]
+[All Hats (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Hats
 // All Hats
@@ -304,10 +298,23 @@ patch=1,EE,00506607,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Mini-Games
 // All Mini-Games
-patch=1,EE,00506603,extended,00000001
-
-[All Mini-Games]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Mini-Games
-// All Mini-Games
 patch=1,EE,20506604,extended,01010101
+
+[Cheats\Infinite Lives]
+patch=1,EE,200C2000,extended,27BDFFE0
+patch=1,EE,200C2004,extended,FFBF0010
+patch=1,EE,200C2008,extended,0C047DB4
+patch=1,EE,200C200C,extended,0000802D
+patch=1,EE,200C2010,extended,24100063
+patch=1,EE,200C2014,extended,AC500008
+patch=1,EE,200C2018,extended,00101020
+patch=1,EE,200C201C,extended,DFBF0010
+patch=1,EE,200C2020,extended,03E00008
+patch=1,EE,200C2024,extended,27BD0020
+patch=1,EE,2013CB24,extended,0C030800
+
+[Cheats\Infinite Grenades]
+patch=1,EE,2011EEC0,extended,24030063
+
+[Cheats\Unlock All Hats, MiniGames and Levels]
+patch=1,EE,20166FA4,extended,24050001

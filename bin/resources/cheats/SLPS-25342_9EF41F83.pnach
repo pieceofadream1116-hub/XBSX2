@@ -1,0 +1,4 @@
+gametitle=SNOW [SLPS-25342] [9EF41F83]
+
+[Cheats\Unlock All Configuration Menu]
+patch=1,EE,102D852C,extended,0000FFFF

@@ -1,0 +1,6 @@
+gametitle=放課後のLove Beat [SLPM-65579] [76FACE65]
+
+[Cheats\Unlock All Special]
+patch=1,EE,20862748,extended,FFFFFFFF
+patch=1,EE,2086274C,extended,FFFFFFFF
+patch=1,EE,20862750,extended,FFFFFFFF

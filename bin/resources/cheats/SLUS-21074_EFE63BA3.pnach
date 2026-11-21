@@ -12,19 +12,19 @@ description=Start With Max Money
 // Start With Max Money
 patch=1,EE,200C0220,extended,3C0505F5
 
-[Start With Max Money]
+[Start With Max Money (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With Max Money
 // Start With Max Money
 patch=1,EE,200C0224,extended,03E00008
 
-[Start With Max Money]
+[Start With Max Money (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With Max Money
 // Start With Max Money
 patch=1,EE,200C0228,extended,34A5E0FF
 
-[Start With Max Money]
+[Start With Max Money (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With Max Money
 // Start With Max Money
@@ -156,7 +156,7 @@ description=All Episodes
 // All Episodes
 patch=1,EE,4032B5EC,extended,00140001
 
-[All Episodes]
+[All Episodes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Episodes
 // All Episodes
@@ -210,7 +210,7 @@ description=All Videos
 // All Videos
 patch=1,EE,20111364,extended,24030001
 
-[All Videos]
+[All Videos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Videos
 // All Videos
@@ -252,8 +252,28 @@ description=All Pictures
 // All Pictures
 patch=1,EE,201113A4,extended,24030001
 
-[All Pictures]
+[All Pictures (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Pictures
 // All Pictures
 patch=1,EE,201113A8,extended,A0430F10
+
+[Cheats\Start With Max Money]
+patch=1,EE,200C0220,extended,3C0505F5
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,34A5E0FF
+patch=1,EE,20158B2C,extended,0C030088
+
+[Cheats\Unlock All Videos]
+patch=1,EE,20111364,extended,24030001
+patch=1,EE,20111368,extended,A0430F09
+
+[Cheats\Unlock All Pictures]
+patch=1,EE,201113A4,extended,24030001
+patch=1,EE,201113A8,extended,A0430F10
+
+[Cheats\Unlock All Episodes And Super Stiff Mode]
+patch=1,EE,20148E2C,extended,24020002
+patch=1,EE,20148E30,extended,AC620000
+patch=1,EE,20148E3C,extended,ACE40190
+patch=1,EE,20148E40,extended,00000000

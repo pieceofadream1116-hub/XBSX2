@@ -54,7 +54,7 @@ description=Quick Max Soul
 // Quick Max Soul
 patch=1,EE,D01660D4,extended,003003E8
 
-[Quick Max Soul]
+[Quick Max Soul (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Max Soul
 // Quick Max Soul
@@ -66,7 +66,7 @@ description=Quick Max Technique
 // Quick Max Technique
 patch=1,EE,D01660D8,extended,003003E8
 
-[Quick Max Technique]
+[Quick Max Technique (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Max Technique
 // Quick Max Technique
@@ -78,7 +78,7 @@ description=Quick Max Body
 // Quick Max Body
 patch=1,EE,D01660DC,extended,003003E8
 
-[Quick Max Body]
+[Quick Max Body (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Max Body
 // Quick Max Body
@@ -102,8 +102,16 @@ description=Infinite Weapon Usage
 // Infinite Weapon Usage
 patch=1,EE,D03B6F8C,extended,0000143F
 
-[Infinite Weapon Usage]
+[Infinite Weapon Usage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Weapon Usage
 // Infinite Weapon Usage
+patch=1,EE,203B6F94,extended,00000000
+
+[Cheats\Infinite & Max Health]
+patch=1,EE,101660C8,extended,000004B0
+patch=1,EE,101660CA,extended,000004B0
+
+[Cheats\Infinite Weapon Usage]
+patch=1,EE,D03B6F8C,extended,0000143F
 patch=1,EE,203B6F94,extended,00000000

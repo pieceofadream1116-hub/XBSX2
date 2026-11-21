@@ -138,481 +138,481 @@ description=Max Mentality
 // Max Mentality
 patch=1,EE,11349A52,extended,000003E7
 
-[Level 99]
+[Level 99 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,11349A9E,extended,00000063
 
-[Quick Exp Gain]
+[Quick Exp Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,11349AA0,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,11349AA0,extended,05F5E0FF
 
-[Next Level Always 1]
+[Next Level Always 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Next Level Always 1
 // Next Level Always 1
 patch=1,EE,11349AA4,extended,00000001
 
-[Max HP]
+[Max HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,11349AA8,extended,0000270F
 
-[Infinite HP]
+[Infinite HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,11349AAA,extended,0000270F
 
-[Max MP]
+[Max MP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,11349AAC,extended,000003E7
 
-[Infinite MP]
+[Infinite MP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,11349AAE,extended,000003E7
 
-[Max SP]
+[Max SP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max SP
 // Max SP
 patch=1,EE,11349AB0,extended,000003E7
 
-[Infinite SP]
+[Infinite SP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite SP
 // Infinite SP
 patch=1,EE,11349AB2,extended,000003E7
 
-[Max Attack/Strength]
+[Max Attack/Strength (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Attack/Strength
 // Max Attack/Strength
 patch=1,EE,11349AB4,extended,000003E7
 
-[Max Defense/Vitality]
+[Max Defense/Vitality (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense/Vitality
 // Max Defense/Vitality
 patch=1,EE,11349AB6,extended,000003E7
 
-[Max Agility/Action]
+[Max Agility/Action (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility/Action
 // Max Agility/Action
 patch=1,EE,11349AB8,extended,000003E7
 
-[Max Speed/Movement]
+[Max Speed/Movement (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed/Movement
 // Max Speed/Movement
 patch=1,EE,11349ABA,extended,000003E7
 
-[Max Magic]
+[Max Magic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,11349ABC,extended,000003E7
 
-[Max Mentality]
+[Max Mentality (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Mentality
 // Max Mentality
 patch=1,EE,11349ABE,extended,000003E7
 
-[Level 99]
+[Level 99 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,11349B0A,extended,00000063
 
-[Quick Exp Gain]
+[Quick Exp Gain (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,11349B0C,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,11349B0C,extended,05F5E0FF
 
-[Next Level Always 1]
+[Next Level Always 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Next Level Always 1
 // Next Level Always 1
 patch=1,EE,11349B10,extended,00000001
 
-[Max HP]
+[Max HP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,11349B14,extended,0000270F
 
-[Infinite HP]
+[Infinite HP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,11349B16,extended,0000270F
 
-[Max MP]
+[Max MP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,11349B18,extended,000003E7
 
-[Infinite MP]
+[Infinite MP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,11349B1A,extended,000003E7
 
-[Max SP]
+[Max SP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max SP
 // Max SP
 patch=1,EE,11349B1C,extended,000003E7
 
-[Infinite SP]
+[Infinite SP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite SP
 // Infinite SP
 patch=1,EE,11349B1E,extended,000003E7
 
-[Max Attack/Strength]
+[Max Attack/Strength (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Attack/Strength
 // Max Attack/Strength
 patch=1,EE,11349B20,extended,000003E7
 
-[Max Defense/Vitality]
+[Max Defense/Vitality (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense/Vitality
 // Max Defense/Vitality
 patch=1,EE,11349B22,extended,000003E7
 
-[Max Agility/Action]
+[Max Agility/Action (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility/Action
 // Max Agility/Action
 patch=1,EE,11349B24,extended,000003E7
 
-[Max Speed/Movement]
+[Max Speed/Movement (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed/Movement
 // Max Speed/Movement
 patch=1,EE,11349B26,extended,000003E7
 
-[Max Magic]
+[Max Magic (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,11349B28,extended,000003E7
 
-[Max Mentality]
+[Max Mentality (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Mentality
 // Max Mentality
 patch=1,EE,11349B2A,extended,000003E7
 
-[Level 99]
+[Level 99 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,11349B76,extended,00000063
 
-[Quick Exp Gain]
+[Quick Exp Gain (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,11349B78,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,11349B78,extended,05F5E0FF
 
-[Next Level Always 1]
+[Next Level Always 1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Next Level Always 1
 // Next Level Always 1
 patch=1,EE,11349B7C,extended,00000001
 
-[Max HP]
+[Max HP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,11349B80,extended,0000270F
 
-[Infinite HP]
+[Infinite HP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,11349B82,extended,0000270F
 
-[Max MP]
+[Max MP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,11349B84,extended,000003E7
 
-[Infinite MP]
+[Infinite MP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,11349B86,extended,000003E7
 
-[Max SP]
+[Max SP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max SP
 // Max SP
 patch=1,EE,11349B88,extended,000003E7
 
-[Infinite SP]
+[Infinite SP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite SP
 // Infinite SP
 patch=1,EE,11349B8A,extended,000003E7
 
-[Max Attack/Strength]
+[Max Attack/Strength (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Attack/Strength
 // Max Attack/Strength
 patch=1,EE,11349B8C,extended,000003E7
 
-[Max Defense/Vitality]
+[Max Defense/Vitality (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense/Vitality
 // Max Defense/Vitality
 patch=1,EE,11349B8E,extended,000003E7
 
-[Max Agility/Action]
+[Max Agility/Action (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility/Action
 // Max Agility/Action
 patch=1,EE,11349B90,extended,000003E7
 
-[Max Speed/Movement]
+[Max Speed/Movement (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed/Movement
 // Max Speed/Movement
 patch=1,EE,11349B92,extended,000003E7
 
-[Max Magic]
+[Max Magic (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,11349B94,extended,000003E7
 
-[Max Mentality]
+[Max Mentality (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Mentality
 // Max Mentality
 patch=1,EE,11349B96,extended,000003E7
 
-[Level 99]
+[Level 99 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,11349BE2,extended,00000063
 
-[Quick Exp Gain]
+[Quick Exp Gain (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,11349BE4,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,11349BE4,extended,05F5E0FF
 
-[Next Level Always 1]
+[Next Level Always 1 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Next Level Always 1
 // Next Level Always 1
 patch=1,EE,11349BE8,extended,00000001
 
-[Max HP]
+[Max HP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,11349BEC,extended,0000270F
 
-[Infinite HP]
+[Infinite HP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,11349BEE,extended,0000270F
 
-[Max MP]
+[Max MP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,11349BF0,extended,000003E7
 
-[Infinite MP]
+[Infinite MP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,11349BF2,extended,000003E7
 
-[Max SP]
+[Max SP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max SP
 // Max SP
 patch=1,EE,11349BF4,extended,000003E7
 
-[Infinite SP]
+[Infinite SP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite SP
 // Infinite SP
 patch=1,EE,11349BF6,extended,000003E7
 
-[Max Attack/Strength]
+[Max Attack/Strength (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Attack/Strength
 // Max Attack/Strength
 patch=1,EE,11349BF8,extended,000003E7
 
-[Max Defense/Vitality]
+[Max Defense/Vitality (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense/Vitality
 // Max Defense/Vitality
 patch=1,EE,11349BFA,extended,000003E7
 
-[Max Agility/Action]
+[Max Agility/Action (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility/Action
 // Max Agility/Action
 patch=1,EE,11349BFC,extended,000003E7
 
-[Max Speed/Movement]
+[Max Speed/Movement (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed/Movement
 // Max Speed/Movement
 patch=1,EE,11349BFE,extended,000003E7
 
-[Max Magic]
+[Max Magic (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,11349C00,extended,000003E7
 
-[Max Mentality]
+[Max Mentality (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Mentality
 // Max Mentality
 patch=1,EE,11349C02,extended,000003E7
 
-[Level 99]
+[Level 99 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,11349C4E,extended,00000063
 
-[Quick Exp Gain]
+[Quick Exp Gain (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,11349C50,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,11349C50,extended,05F5E0FF
 
-[Next Level Always 1]
+[Next Level Always 1 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Next Level Always 1
 // Next Level Always 1
 patch=1,EE,11349C54,extended,00000001
 
-[Max HP]
+[Max HP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,11349C58,extended,0000270F
 
-[Infinite HP]
+[Infinite HP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,11349C5A,extended,0000270F
 
-[Max MP]
+[Max MP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,11349C5C,extended,000003E7
 
-[Infinite MP]
+[Infinite MP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,11349C5E,extended,000003E7
 
-[Max SP]
+[Max SP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max SP
 // Max SP
 patch=1,EE,11349C60,extended,000003E7
 
-[Infinite SP]
+[Infinite SP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite SP
 // Infinite SP
 patch=1,EE,11349C62,extended,000003E7
 
-[Max Attack/Strength]
+[Max Attack/Strength (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Attack/Strength
 // Max Attack/Strength
 patch=1,EE,11349C64,extended,000003E7
 
-[Max Defense/Vitality]
+[Max Defense/Vitality (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense/Vitality
 // Max Defense/Vitality
 patch=1,EE,11349C66,extended,000003E7
 
-[Max Agility/Action]
+[Max Agility/Action (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility/Action
 // Max Agility/Action
 patch=1,EE,11349C68,extended,000003E7
 
-[Max Speed/Movement]
+[Max Speed/Movement (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Speed/Movement
 // Max Speed/Movement
 patch=1,EE,11349C6A,extended,000003E7
 
-[Max Magic]
+[Max Magic (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
 patch=1,EE,11349C6C,extended,000003E7
 
-[Max Mentality]
+[Max Mentality (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Mentality
 // Max Mentality
@@ -3101,3 +3101,37 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Friends Necklace
 // Friends Necklace
 patch=1,EE,013496E2,extended,00000063
+
+[Cheats\Infinite Gold]
+patch=1,EE,202B2CB8,extended,0098967F
+
+[Cheats\Infinite Gold alt]
+patch=1,EE,11352BE4,extended,0000FFFF
+
+[Cheats\Ryudo Infinite HP & MP]
+patch=1,EE,202B2D1C,extended,270F270F
+patch=1,EE,202B2D20,extended,03E703E7
+
+[Cheats\Elena Infinite HP & MP]
+patch=1,EE,202B2D88,extended,270F270F
+patch=1,EE,202B2D8C,extended,03E703E7
+
+[Cheats\Ryudo Infinite & Max HP]
+patch=1,EE,1135327C,extended,0000270F
+patch=1,EE,1135327E,extended,0000270F
+
+[Cheats\Elena Infinite & Max HP]
+patch=1,EE,113532E8,extended,0000270F
+patch=1,EE,113532EA,extended,0000270F
+
+[Cheats\Milenia Infinite & Max HP]
+patch=1,EE,11353354,extended,0000270F
+patch=1,EE,11353356,extended,0000270F
+
+[Cheats\Roan Infinite & Max HP]
+patch=1,EE,113533C0,extended,0000270F
+patch=1,EE,113533C2,extended,0000270F
+
+[Cheats\Mareg Infinite & Max HP]
+patch=1,EE,11353498,extended,0000270F
+patch=1,EE,1135349A,extended,0000270F

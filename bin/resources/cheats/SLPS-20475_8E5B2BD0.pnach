@@ -1,0 +1,5 @@
+gametitle=山佐DigiワールドSP ジャイアントパルサー [SLPS-20475] [8E5B2BD0]
+
+[Cheats\Unlock All Museum]
+patch=1,EE,202457DC,extended,FFFFFFFF
+patch=1,EE,202457E0,extended,FFFFFFFF

@@ -84,7 +84,7 @@ description=P1 Press {L1}+{SELECT} For Max Hero Gauge
 // P1 Press {L1}+{SELECT} For Max Hero Gauge
 patch=1,EE,D1D4A05C,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} For Max Hero Gauge]
+[P1 Press {L1}+{SELECT} For Max Hero Gauge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} For Max Hero Gauge
 // P1 Press {L1}+{SELECT} For Max Hero Gauge
@@ -96,35 +96,17 @@ description=P1 Press {L2}+{SELECT} For Empty Hero Gauge
 // P1 Press {L2}+{SELECT} For Empty Hero Gauge
 patch=1,EE,D1D4A05C,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} For Empty Hero Gauge]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L2}+{SELECT} For Empty Hero Gauge
-// P1 Press {L2}+{SELECT} For Empty Hero Gauge
-patch=1,EE,209BFF00,extended,00007530
-
 [P1 Press {R1}+{SELECT} For Max Hero Gauge]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{SELECT} For Max Hero Gauge
 // P1 Press {R1}+{SELECT} For Max Hero Gauge
 patch=1,EE,D1D4A05C,extended,0000F7FE
 
-[P1 Press {R1}+{SELECT} For Max Hero Gauge]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {R1}+{SELECT} For Max Hero Gauge
-// P1 Press {R1}+{SELECT} For Max Hero Gauge
-patch=1,EE,209BFF00,extended,00007530
-
 [P1 Press {R2}+{SELECT} For Empty Hero Gauge]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+{SELECT} For Empty Hero Gauge
 // P1 Press {R2}+{SELECT} For Empty Hero Gauge
 patch=1,EE,D1D4A05C,extended,0000FDFE
-
-[P1 Press {R2}+{SELECT} For Empty Hero Gauge]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {R2}+{SELECT} For Empty Hero Gauge
-// P1 Press {R2}+{SELECT} For Empty Hero Gauge
-patch=1,EE,209BFF00,extended,00007530
 
 [Infinite Ammo P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -198,23 +180,11 @@ description=P2 Press {L1}+{SELECT} For Max Hero Gauge
 // P2 Press {L1}+{SELECT} For Max Hero Gauge
 patch=1,EE,D1D4A15C,extended,0000FBFE
 
-[P2 Press {L1}+{SELECT} For Max Hero Gauge]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L1}+{SELECT} For Max Hero Gauge
-// P2 Press {L1}+{SELECT} For Max Hero Gauge
-patch=1,EE,209BFF00,extended,00007530
-
 [P2 Press {L2}+{SELECT} For Empty Hero Gauge]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {L2}+{SELECT} For Empty Hero Gauge
 // P2 Press {L2}+{SELECT} For Empty Hero Gauge
 patch=1,EE,D1D4A15C,extended,0000FEFE
-
-[P2 Press {L2}+{SELECT} For Empty Hero Gauge]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L2}+{SELECT} For Empty Hero Gauge
-// P2 Press {L2}+{SELECT} For Empty Hero Gauge
-patch=1,EE,209BFF00,extended,00007530
 
 [P2 Press {R1}+{SELECT} For Max Hero Gauge]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -222,23 +192,11 @@ description=P2 Press {R1}+{SELECT} For Max Hero Gauge
 // P2 Press {R1}+{SELECT} For Max Hero Gauge
 patch=1,EE,D1D4A15C,extended,0000F7FE
 
-[P2 Press {R1}+{SELECT} For Max Hero Gauge]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R1}+{SELECT} For Max Hero Gauge
-// P2 Press {R1}+{SELECT} For Max Hero Gauge
-patch=1,EE,209BFF00,extended,00007530
-
 [P2 Press {R2}+{SELECT} For Empty Hero Gauge]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {R2}+{SELECT} For Empty Hero Gauge
 // P2 Press {R2}+{SELECT} For Empty Hero Gauge
 patch=1,EE,D1D4A15C,extended,0000FDFE
-
-[P2 Press {R2}+{SELECT} For Empty Hero Gauge]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R2}+{SELECT} For Empty Hero Gauge
-// P2 Press {R2}+{SELECT} For Empty Hero Gauge
-patch=1,EE,209BFF00,extended,00007530
 
 [Infinite Lives (Both Players)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -276,13 +234,13 @@ description=Start On Last Level
 // Start On Last Level
 patch=1,EE,209BBE84,extended,00000015
 
-[Start On Last Level]
+[Start On Last Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Last Level
 // Start On Last Level
 patch=1,EE,409BBE88,extended,00060001
 
-[Start On Last Level]
+[Start On Last Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Last Level
 // Start On Last Level
@@ -300,13 +258,13 @@ description=Unlock All Library
 // Unlock All Library
 patch=1,EE,409BD218,extended,000A0001
 
-[Unlock All Library]
+[Unlock All Library (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Library
 // Unlock All Library
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Unlock All Library]
+[Unlock All Library (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Library
 // Unlock All Library
@@ -348,7 +306,7 @@ description=All Keys
 // All Keys
 patch=1,EE,409C4CC0,extended,00050001
 
-[All Keys]
+[All Keys (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
@@ -372,7 +330,7 @@ description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC060,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
@@ -384,2912 +342,2805 @@ description=Max Score
 // Max Score
 patch=1,EE,209BC06C,extended,05F5E0FF
 
-[Rank A]
+[Rank A (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC070,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC074,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC078,extended,00000000
 
-[Max Score]
+[Max Score (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC080,extended,05F5E0FF
 
-[Rank A]
+[Rank A (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC084,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC088,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC08C,extended,00000000
 
-[Max Score]
+[Max Score (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC094,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC098,extended,00000000
 
-[Key 2]
+[Key 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC09C,extended,00000000
 
-[Key 3]
+[Key 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC0A0,extended,00000000
 
-[Key 4]
+[Key 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC0A4,extended,00000000
 
-[Key 5]
+[Key 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC0A8,extended,00000000
 
-[All Keys]
+[All Keys (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC098,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC0AC,extended,00000001
 
-[Rank A]
+[Rank A (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC0B0,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC0B4,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC0B8,extended,00000000
 
-[Max Score]
+[Max Score (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC0C0,extended,05F5E0FF
 
-[Rank A]
+[Rank A (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC0C4,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC0C8,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC0CC,extended,00000000
 
-[Max Score]
+[Max Score (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC0D4,extended,05F5E0FF
 
-[Rank A]
+[Rank A (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC0D8,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC0DC,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC0E0,extended,00000000
 
-[Max Score]
+[Max Score (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC0E8,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC0EC,extended,00000000
 
-[Key 2]
+[Key 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC0F0,extended,00000000
 
-[Key 3]
+[Key 3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC0F4,extended,00000000
 
-[Key 4]
+[Key 4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC0F8,extended,00000000
 
-[Key 5]
+[Key 5 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC0FC,extended,00000000
 
-[All Keys]
+[All Keys (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC0EC,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC100,extended,00000001
 
-[Rank A]
+[Rank A (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC104,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC108,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC10C,extended,00000000
 
-[Max Score]
+[Max Score (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC114,extended,05F5E0FF
 
-[Rank A]
+[Rank A (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC118,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC11C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC120,extended,00000000
 
-[Max Score]
+[Max Score (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC128,extended,05F5E0FF
 
-[Rank A]
+[Rank A (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC12C,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC130,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC134,extended,00000000
 
-[Max Score]
+[Max Score (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC13C,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC140,extended,00000000
 
-[Key 2]
+[Key 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC144,extended,00000000
 
-[Key 3]
+[Key 3 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC148,extended,00000000
 
-[Key 4]
+[Key 4 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC14C,extended,00000000
 
-[Key 5]
+[Key 5 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC150,extended,00000000
 
-[All Keys]
+[All Keys (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC140,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC154,extended,00000001
 
-[Rank A]
+[Rank A (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC158,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC15C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC160,extended,00000000
 
-[Max Score]
+[Max Score (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC168,extended,05F5E0FF
 
-[Rank A]
+[Rank A (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC16C,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC170,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC174,extended,00000000
 
-[Max Score]
+[Max Score (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC17C,extended,05F5E0FF
 
-[Rank A]
+[Rank A (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC180,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC184,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC188,extended,00000000
 
-[Max Score]
+[Max Score (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC190,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC194,extended,00000000
 
-[Key 2]
+[Key 2 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC198,extended,00000000
 
-[Key 3]
+[Key 3 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC19C,extended,00000000
 
-[Key 4]
+[Key 4 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC1A0,extended,00000000
 
-[Key 5]
+[Key 5 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC1A4,extended,00000000
 
-[All Keys]
+[All Keys (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC194,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC1A8,extended,00000001
 
-[Rank A]
+[Rank A (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC1AC,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC1B0,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC1B4,extended,00000000
 
-[Max Score]
+[Max Score (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC1BC,extended,05F5E0FF
 
-[Rank A]
+[Rank A (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC1C0,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC1C4,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC1C8,extended,00000000
 
-[Max Score]
+[Max Score (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC1D0,extended,05F5E0FF
 
-[Rank A]
+[Rank A (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC1D4,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC1D8,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC1DC,extended,00000000
 
-[Max Score]
+[Max Score (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC1E4,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC1E8,extended,00000000
 
-[Key 2]
+[Key 2 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC1EC,extended,00000000
 
-[Key 3]
+[Key 3 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC1F0,extended,00000000
 
-[Key 4]
+[Key 4 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC1F4,extended,00000000
 
-[Key 5]
+[Key 5 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC1F8,extended,00000000
 
-[All Keys]
+[All Keys (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC1E8,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC1FC,extended,00000001
 
-[Rank A]
+[Rank A (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC200,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC204,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC208,extended,00000000
 
-[Max Score]
+[Max Score (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC210,extended,05F5E0FF
 
-[Rank A]
+[Rank A (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC214,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC218,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC21C,extended,00000000
 
-[Max Score]
+[Max Score (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC224,extended,05F5E0FF
 
-[Rank A]
+[Rank A (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC228,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC22C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC230,extended,00000000
 
-[Max Score]
+[Max Score (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC238,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC23C,extended,00000000
 
-[Key 2]
+[Key 2 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC240,extended,00000000
 
-[Key 3]
+[Key 3 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC244,extended,00000000
 
-[Key 4]
+[Key 4 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC248,extended,00000000
 
-[Key 5]
+[Key 5 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC24C,extended,00000000
 
-[All Keys]
+[All Keys (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC23C,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC250,extended,00000001
 
-[Rank A]
+[Rank A (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC254,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC258,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC25C,extended,00000000
 
-[Max Score]
+[Max Score (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC264,extended,05F5E0FF
 
-[Rank A]
+[Rank A (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC268,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC26C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC270,extended,00000000
 
-[Max Score]
+[Max Score (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC278,extended,05F5E0FF
 
-[Rank A]
+[Rank A (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC27C,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC280,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC284,extended,00000000
 
-[Max Score]
+[Max Score (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC28C,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC290,extended,00000000
 
-[Key 2]
+[Key 2 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC294,extended,00000000
 
-[Key 3]
+[Key 3 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC298,extended,00000000
 
-[Key 4]
+[Key 4 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC29C,extended,00000000
 
-[Key 5]
+[Key 5 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC2A0,extended,00000000
 
-[All Keys]
+[All Keys (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC290,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC2A4,extended,00000001
 
-[Rank A]
+[Rank A (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC2A8,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC2AC,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC2B0,extended,00000000
 
-[Max Score]
+[Max Score (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC2B8,extended,05F5E0FF
 
-[Rank A]
+[Rank A (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC2BC,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC2C0,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC2C4,extended,00000000
 
-[Max Score]
+[Max Score (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC2CC,extended,05F5E0FF
 
-[Rank A]
+[Rank A (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC2D0,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC2D4,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC2D8,extended,00000000
 
-[Max Score]
+[Max Score (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC2E0,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC2E4,extended,00000000
 
-[Key 2]
+[Key 2 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC2E8,extended,00000000
 
-[Key 3]
+[Key 3 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC2EC,extended,00000000
 
-[Key 4]
+[Key 4 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC2F0,extended,00000000
 
-[Key 5]
+[Key 5 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC2F4,extended,00000000
 
-[All Keys]
+[All Keys (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC2E4,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC2F8,extended,00000001
 
-[Rank A]
+[Rank A (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC2FC,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC300,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC304,extended,00000000
 
-[Max Score]
+[Max Score (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC30C,extended,05F5E0FF
 
-[Rank A]
+[Rank A (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC310,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC314,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC318,extended,00000000
 
-[Max Score]
+[Max Score (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC320,extended,05F5E0FF
 
-[Rank A]
+[Rank A (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC324,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC328,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC32C,extended,00000000
 
-[Max Score]
+[Max Score (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC334,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC338,extended,00000000
 
-[Key 2]
+[Key 2 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC33C,extended,00000000
 
-[Key 3]
+[Key 3 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC340,extended,00000000
 
-[Key 4]
+[Key 4 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC344,extended,00000000
 
-[Key 5]
+[Key 5 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC348,extended,00000000
 
-[All Keys]
+[All Keys (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC338,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC34C,extended,00000001
 
-[Rank A]
+[Rank A (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC350,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (55)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC354,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (56)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC358,extended,00000000
 
-[Max Score]
+[Max Score (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC360,extended,05F5E0FF
 
-[Rank A]
+[Rank A (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC364,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (57)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC368,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (58)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC36C,extended,00000000
 
-[Max Score]
+[Max Score (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC374,extended,05F5E0FF
 
-[Rank A]
+[Rank A (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC378,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (59)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC37C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (60)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC380,extended,00000000
 
-[Max Score]
+[Max Score (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC388,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC38C,extended,00000000
 
-[Key 2]
+[Key 2 (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC390,extended,00000000
 
-[Key 3]
+[Key 3 (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC394,extended,00000000
 
-[Key 4]
+[Key 4 (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC398,extended,00000000
 
-[Key 5]
+[Key 5 (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC39C,extended,00000000
 
-[All Keys]
+[All Keys (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC38C,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC3A0,extended,00000001
 
-[Rank A]
+[Rank A (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC3A4,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (61)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC3A8,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (62)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC3AC,extended,00000000
 
-[Max Score]
+[Max Score (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC3B4,extended,05F5E0FF
 
-[Rank A]
+[Rank A (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC3B8,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (63)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC3BC,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (64)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC3C0,extended,00000000
 
-[Max Score]
+[Max Score (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC3C8,extended,05F5E0FF
 
-[Rank A]
+[Rank A (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC3CC,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (65)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC3D0,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (66)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC3D4,extended,00000000
 
-[Max Score]
+[Max Score (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC3DC,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC3E0,extended,00000000
 
-[Key 2]
+[Key 2 (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC3E4,extended,00000000
 
-[Key 3]
+[Key 3 (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC3E8,extended,00000000
 
-[Key 4]
+[Key 4 (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC3EC,extended,00000000
 
-[Key 5]
+[Key 5 (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC3F0,extended,00000000
 
-[All Keys]
+[All Keys (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC3E0,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC3F4,extended,00000001
 
-[Rank A]
+[Rank A (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC3F8,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (67)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC3FC,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (68)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC400,extended,00000000
 
-[Max Score]
+[Max Score (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC408,extended,05F5E0FF
 
-[Rank A]
+[Rank A (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC40C,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (69)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC410,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (70)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC414,extended,00000000
 
-[Max Score]
+[Max Score (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC41C,extended,05F5E0FF
 
-[Rank A]
+[Rank A (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC420,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (71)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC424,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (72)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC428,extended,00000000
 
-[Max Score]
+[Max Score (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC430,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC434,extended,00000000
 
-[Key 2]
+[Key 2 (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC438,extended,00000000
 
-[Key 3]
+[Key 3 (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC43C,extended,00000000
 
-[Key 4]
+[Key 4 (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC440,extended,00000000
 
-[Key 5]
+[Key 5 (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC444,extended,00000000
 
-[All Keys]
+[All Keys (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC434,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC448,extended,00000001
 
-[Rank A]
+[Rank A (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC44C,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (73)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC450,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (74)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC454,extended,00000000
 
-[Max Score]
+[Max Score (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC45C,extended,05F5E0FF
 
-[Rank A]
+[Rank A (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC460,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (75)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC464,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (76)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC468,extended,00000000
 
-[Max Score]
+[Max Score (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC470,extended,05F5E0FF
 
-[Rank A]
+[Rank A (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC474,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (77)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC478,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (78)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC47C,extended,00000000
 
-[Max Score]
+[Max Score (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC484,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC488,extended,00000000
 
-[Key 2]
+[Key 2 (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC48C,extended,00000000
 
-[Key 3]
+[Key 3 (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC490,extended,00000000
 
-[Key 4]
+[Key 4 (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC494,extended,00000000
 
-[Key 5]
+[Key 5 (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC498,extended,00000000
 
-[All Keys]
+[All Keys (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC488,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC49C,extended,00000001
 
-[Rank A]
+[Rank A (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC4A0,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (79)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC4A4,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (80)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC4A8,extended,00000000
 
-[Max Score]
+[Max Score (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC4B0,extended,05F5E0FF
 
-[Rank A]
+[Rank A (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC4B4,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (81)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC4B8,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (82)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC4BC,extended,00000000
 
-[Max Score]
+[Max Score (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC4C4,extended,05F5E0FF
 
-[Rank A]
+[Rank A (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC4C8,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (83)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC4CC,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (84)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC4D0,extended,00000000
 
-[Max Score]
+[Max Score (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC4D8,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC4DC,extended,00000000
 
-[Key 2]
+[Key 2 (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC4E0,extended,00000000
 
-[Key 3]
+[Key 3 (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC4E4,extended,00000000
 
-[Key 4]
+[Key 4 (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC4E8,extended,00000000
 
-[Key 5]
+[Key 5 (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC4EC,extended,00000000
 
-[All Keys]
+[All Keys (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC4DC,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC4F0,extended,00000001
 
-[Rank A]
+[Rank A (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC4F4,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (85)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC4F8,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (86)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC4FC,extended,00000000
 
-[Max Score]
+[Max Score (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC504,extended,05F5E0FF
 
-[Rank A]
+[Rank A (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC508,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (87)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC50C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (88)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC510,extended,00000000
 
-[Max Score]
+[Max Score (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC518,extended,05F5E0FF
 
-[Rank A]
+[Rank A (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC51C,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (89)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC520,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (90)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC524,extended,00000000
 
-[Max Score]
+[Max Score (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC52C,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC530,extended,00000000
 
-[Key 2]
+[Key 2 (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC534,extended,00000000
 
-[Key 3]
+[Key 3 (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC538,extended,00000000
 
-[Key 4]
+[Key 4 (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC53C,extended,00000000
 
-[Key 5]
+[Key 5 (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC540,extended,00000000
 
-[All Keys]
+[All Keys (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC530,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC544,extended,00000001
 
-[Rank A]
+[Rank A (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC548,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (91)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC54C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (92)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC550,extended,00000000
 
-[Max Score]
+[Max Score (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC558,extended,05F5E0FF
 
-[Rank A]
+[Rank A (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC55C,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (93)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC560,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (94)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC564,extended,00000000
 
-[Max Score]
+[Max Score (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC56C,extended,05F5E0FF
 
-[Rank A]
+[Rank A (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC570,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (95)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC574,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (96)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC578,extended,00000000
 
-[Max Score]
+[Max Score (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC580,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC584,extended,00000000
 
-[Key 2]
+[Key 2 (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC588,extended,00000000
 
-[Key 3]
+[Key 3 (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC58C,extended,00000000
 
-[Key 4]
+[Key 4 (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC590,extended,00000000
 
-[Key 5]
+[Key 5 (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC594,extended,00000000
 
-[All Keys]
+[All Keys (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC584,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC598,extended,00000001
 
-[Rank A]
+[Rank A (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC59C,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (97)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC5A0,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (98)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC5A4,extended,00000000
 
-[Max Score]
+[Max Score (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC5AC,extended,05F5E0FF
 
-[Rank A]
+[Rank A (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC5B0,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (99)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC5B4,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (100)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC5B8,extended,00000000
 
-[Max Score]
+[Max Score (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC5C0,extended,05F5E0FF
 
-[Rank A]
+[Rank A (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC5C4,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (101)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC5C8,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (102)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC5CC,extended,00000000
 
-[Max Score]
+[Max Score (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC5D4,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC5D8,extended,00000000
 
-[Key 2]
+[Key 2 (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC5DC,extended,00000000
 
-[Key 3]
+[Key 3 (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC5E0,extended,00000000
 
-[Key 4]
+[Key 4 (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC5E4,extended,00000000
 
-[Key 5]
+[Key 5 (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC5E8,extended,00000000
 
-[All Keys]
+[All Keys (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC5D8,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC5EC,extended,00000001
 
-[Rank A]
+[Rank A (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC5F0,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (103)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC5F4,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (104)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC5F8,extended,00000000
 
-[Max Score]
+[Max Score (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC600,extended,05F5E0FF
 
-[Rank A]
+[Rank A (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC604,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (105)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC608,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (106)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC60C,extended,00000000
 
-[Max Score]
+[Max Score (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC614,extended,05F5E0FF
 
-[Rank A]
+[Rank A (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC618,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (107)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC61C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (108)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC620,extended,00000000
 
-[Max Score]
+[Max Score (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC628,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC62C,extended,00000000
 
-[Key 2]
+[Key 2 (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC630,extended,00000000
 
-[Key 3]
+[Key 3 (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC634,extended,00000000
 
-[Key 4]
+[Key 4 (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC638,extended,00000000
 
-[Key 5]
+[Key 5 (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC63C,extended,00000000
 
-[All Keys]
+[All Keys (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC62C,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC640,extended,00000001
 
-[Rank A]
+[Rank A (55)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC644,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (109)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC648,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (110)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC64C,extended,00000000
 
-[Max Score]
+[Max Score (55)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC654,extended,05F5E0FF
 
-[Rank A]
+[Rank A (56)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC658,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (111)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC65C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (112)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC660,extended,00000000
 
-[Max Score]
+[Max Score (56)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC668,extended,05F5E0FF
 
-[Rank A]
+[Rank A (57)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC66C,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (113)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC670,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (114)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC674,extended,00000000
 
-[Max Score]
+[Max Score (57)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC67C,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC680,extended,00000000
 
-[Key 2]
+[Key 2 (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC684,extended,00000000
 
-[Key 3]
+[Key 3 (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC688,extended,00000000
 
-[Key 4]
+[Key 4 (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC68C,extended,00000000
 
-[Key 5]
+[Key 5 (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC690,extended,00000000
 
-[All Keys]
+[All Keys (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC680,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC694,extended,00000001
 
-[Rank A]
+[Rank A (58)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC698,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (115)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC69C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (116)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC6A0,extended,00000000
 
-[Max Score]
+[Max Score (58)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC6A8,extended,05F5E0FF
 
-[Rank A]
+[Rank A (59)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC6AC,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (117)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC6B0,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (118)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC6B4,extended,00000000
 
-[Max Score]
+[Max Score (59)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC6BC,extended,05F5E0FF
 
-[Rank A]
+[Rank A (60)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC6C0,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (119)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC6C4,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (120)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC6C8,extended,00000000
 
-[Max Score]
+[Max Score (60)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC6D0,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC6D4,extended,00000000
 
-[Key 2]
+[Key 2 (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC6D8,extended,00000000
 
-[Key 3]
+[Key 3 (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC6DC,extended,00000000
 
-[Key 4]
+[Key 4 (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC6E0,extended,00000000
 
-[Key 5]
+[Key 5 (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC6E4,extended,00000000
 
-[All Keys]
+[All Keys (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC6D4,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC6E8,extended,00000001
 
-[Rank A]
+[Rank A (61)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC6EC,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (121)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC6F0,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (122)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC6F4,extended,00000000
 
-[Max Score]
+[Max Score (61)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC6FC,extended,05F5E0FF
 
-[Rank A]
+[Rank A (62)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC700,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (123)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC704,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (124)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC708,extended,00000000
 
-[Max Score]
+[Max Score (62)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC710,extended,05F5E0FF
 
-[Rank A]
+[Rank A (63)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC714,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (125)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC718,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (126)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC71C,extended,00000000
 
-[Max Score]
+[Max Score (63)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC724,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC728,extended,00000000
 
-[Key 2]
+[Key 2 (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC72C,extended,00000000
 
-[Key 3]
+[Key 3 (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC730,extended,00000000
 
-[Key 4]
+[Key 4 (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC734,extended,00000000
 
-[Key 5]
+[Key 5 (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC738,extended,00000000
 
-[All Keys]
+[All Keys (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC728,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BC73C,extended,00000001
 
-[Rank A]
+[Rank A (64)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC740,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (127)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC744,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (128)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC748,extended,00000000
 
-[Max Score]
+[Max Score (64)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC750,extended,05F5E0FF
 
-[Rank A]
+[Rank A (65)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC754,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (129)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC758,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (130)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC75C,extended,00000000
 
-[Max Score]
+[Max Score (65)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC764,extended,05F5E0FF
 
-[Rank A]
+[Rank A (66)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BC768,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (131)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC76C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (132)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BC770,extended,00000000
 
-[Max Score]
+[Max Score (66)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BC778,extended,05F5E0FF
 
-[Key 1]
+[Key 1 (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 1
 // Key 1
 patch=1,EE,209BC77C,extended,00000000
 
-[Key 2]
+[Key 2 (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 2
 // Key 2
 patch=1,EE,209BC780,extended,00000000
 
-[Key 3]
+[Key 3 (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 3
 // Key 3
 patch=1,EE,209BC784,extended,00000000
 
-[Key 4]
+[Key 4 (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 4
 // Key 4
 patch=1,EE,209BC788,extended,00000000
 
-[Key 5]
+[Key 5 (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Key 5
 // Key 5
 patch=1,EE,209BC78C,extended,00000000
 
-[All Keys]
+[All Keys (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Keys
 // All Keys
 patch=1,EE,409BC77C,extended,00050001
 
-[All Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Keys
-// All Keys
-patch=1,EE,00000000,extended,00000000
-
-[Unlock Level]
+[Unlock Level (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BCA30,extended,00000001
 
-[Rank A]
+[Rank A (67)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BCA48,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (133)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCA4C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (134)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCA50,extended,00000000
 
-[Max Score]
+[Max Score (67)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BCA58,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BCA84,extended,00000001
 
-[Rank A]
+[Rank A (68)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BCA9C,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (135)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCAA0,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (136)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCAA4,extended,00000000
 
-[Max Score]
+[Max Score (68)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BCAAC,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BCAD8,extended,00000001
 
-[Rank A]
+[Rank A (69)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BCAF0,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (137)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCAF4,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (138)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCAF8,extended,00000000
 
-[Max Score]
+[Max Score (69)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BCB00,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BCB2C,extended,00000001
 
-[Rank A]
+[Rank A (70)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BCB44,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (139)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCB48,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (140)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCB4C,extended,00000000
 
-[Max Score]
+[Max Score (70)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BCB54,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BCB80,extended,00000001
 
-[Rank A]
+[Rank A (71)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BCB98,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (141)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCB9C,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (142)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCBA0,extended,00000000
 
-[Max Score]
+[Max Score (71)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BCBA8,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BCBD4,extended,00000001
 
-[Rank A]
+[Rank A (72)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BCBEC,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (143)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCBF0,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (144)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCBF4,extended,00000000
 
-[Max Score]
+[Max Score (72)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BCBFC,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BCC28,extended,00000001
 
-[Rank A]
+[Rank A (73)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BCC40,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (145)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCC44,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (146)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCC48,extended,00000000
 
-[Max Score]
+[Max Score (73)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BCC50,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BCC7C,extended,00000001
 
-[Rank A]
+[Rank A (74)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BCC94,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (147)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCC98,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (148)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCC9C,extended,00000000
 
-[Max Score]
+[Max Score (74)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BCCA4,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BCCD0,extended,00000001
 
-[Rank A]
+[Rank A (75)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BCCE8,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (149)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCCEC,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (150)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCCF0,extended,00000000
 
-[Max Score]
+[Max Score (75)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BCCF8,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,209BCD24,extended,00000001
 
-[Rank A]
+[Rank A (76)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank A
 // Rank A
 patch=1,EE,209BCD3C,extended,00000001
 
-[Low Completed Time]
+[Low Completed Time (151)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCD40,extended,00000000
 
-[Low Completed Time]
+[Low Completed Time (152)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Completed Time
 // Low Completed Time
 patch=1,EE,209BCD44,extended,00000000
 
-[Max Score]
+[Max Score (76)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Score
 // Max Score
 patch=1,EE,209BCD4C,extended,05F5E0FF
+
+[Cheats\Infinite Lives]
+patch=1,EE,209BFF34,extended,00000009
+
+[Cheats\P1 Press L1+Select For Max Hero Gauge]
+patch=1,EE,D1D4A05C,extended,0000FBFE
+patch=1,EE,209BFF00,extended,00007530
+
+[Cheats\Story Mode Start On Last Level]
+patch=1,EE,209BBE84,extended,00000015
+patch=1,EE,409BBE88,extended,00060001
+patch=1,EE,08070605,extended,04040404
+
+[Cheats\Story Mode All Keys]
+patch=1,EE,409C4CC0,extended,00050001
+patch=1,EE,00000000,extended,00000000
+
+[Cheats\Story Mode Unlock All Library]
+patch=1,EE,409BD218,extended,000A0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,009BD240,extended,000000FF
+
+[Cheats\Unlock All Levels]
+patch=1,EE,409BC058,extended,00160015
+patch=1,EE,00000001,extended,00000000

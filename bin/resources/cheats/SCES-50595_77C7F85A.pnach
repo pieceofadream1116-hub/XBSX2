@@ -1,0 +1,4 @@
+gametitle=Disney/Pixar Monsters, Inc. - Scare Island [SCES-50595] [77C7F85A]
+
+[Cheats\Infinite Health]
+patch=1,EE,20856910,extended,280901CE

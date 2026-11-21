@@ -1,0 +1,55 @@
+gametitle=EX人生ゲーム [SLPM-62116] [282410DD]
+
+[Cheats\Player 1 has 99999999 Money]
+patch=1,EE,20D95C40,extended,05F5E0FF
+
+[Cheats\Max 1P Money]
+patch=1,EE,203ADD50,extended,0098967F
+
+[Cheats\Max Intellect]
+patch=1,EE,103ADD48,extended,000003E7
+
+[Cheats\Max Stamina]
+patch=1,EE,103ADD4A,extended,000003E7
+
+[Cheats\Max Sense]
+patch=1,EE,103ADD46,extended,000003E7
+
+[Cheats\Max Morale]
+patch=1,EE,103ADD4C,extended,000003E7
+
+[Cheats\Get All Items]
+patch=1,EE,103ADDFA,extended,00000101
+patch=1,EE,103ADE28,extended,00000101
+patch=1,EE,403ADDFC,extended,000B0001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Acquire All Skills]
+patch=1,EE,003ADD89,extended,00000001
+patch=1,EE,103ADD8A,extended,00000101
+patch=1,EE,003ADDF8,extended,00000001
+patch=1,EE,403ADD8C,extended,001B0001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Master Island Selectable]
+patch=1,EE,203E4108,extended,0000000F
+
+[Cheats\Unlock Expert Mode Available]
+patch=1,EE,003F8BA8,extended,0000000F
+
+[Cheats\Max Intelligence - MAX]
+patch=1,EE,10D95F02,extended,000003E7
+
+[Cheats\Max Stamina (2)]
+patch=1,EE,10D95F04,extended,000003E7
+
+[Cheats\Max Sense (2)]
+patch=1,EE,10D95F06,extended,000003E7
+
+[Cheats\Max Morale (2)]
+patch=1,EE,10D95F08,extended,000003E7
+
+[Cheats\Lottery Numbers Only The Winning Number Will Be Displayed]
+patch=1,EE,01A3A778,extended,00000002
+patch=1,EE,01A3A77A,extended,00000005
+patch=1,EE,01A3A77C,extended,00000008

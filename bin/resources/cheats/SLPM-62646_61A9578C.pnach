@@ -1,0 +1,10 @@
+gametitle=オレたちゲーセン族 ソニックウィングス [SLPM-62646] [61A9578C]
+
+[Cheats\Infinite Lives P1]
+patch=1,EE,0038E0AC,extended,00000009
+
+[Cheats\Invincible P1]
+patch=1,EE,0038E0CC,extended,00000009
+
+[Cheats\Infinite Lives P2]
+patch=1,EE,112F0BD8,extended,000003E7

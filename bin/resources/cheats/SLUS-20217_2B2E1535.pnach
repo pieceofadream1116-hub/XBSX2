@@ -119,3 +119,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Time
 // Infinite Time
 patch=1,EE,202829D8,extended,00000000
+
+[Cheats\Unlock All Hidden Modes]
+patch=1,EE,102815A4,extended,00000001

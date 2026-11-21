@@ -30,7 +30,7 @@ description=Infinite Health (Allies)
 // Infinite Health (Allies)
 patch=1,EE,40CEFCEC,extended,00030001
 
-[Infinite Health (Allies)]
+[Infinite Health (Allies) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Allies)
 // Infinite Health (Allies)
@@ -60,8 +60,14 @@ description=No Enemy Troops
 // No Enemy Troops
 patch=1,EE,40CF0108,extended,00030001
 
-[No Enemy Troops]
+[No Enemy Troops (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Enemy Troops
 // No Enemy Troops
 patch=1,EE,00000000,extended,00000000
+
+[Cheats\Infinite Health]
+patch=1,EE,20CF42DC,extended,0000012C
+
+[Cheats\Always Charged]
+patch=1,EE,20CF4270,extended,00000000

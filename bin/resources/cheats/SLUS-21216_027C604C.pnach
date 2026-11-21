@@ -24,7 +24,7 @@ description=75% Health P1
 // 75% Health P1
 patch=1,EE,D04B5F26,extended,00004370
 
-[75% Health P1]
+[75% Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P1
 // 75% Health P1
@@ -34,19 +34,7 @@ patch=1,EE,204B5F24,extended,43340000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P1
 // 50% Health P1
-patch=1,EE,D04B5F26,extended,00004370
-
-[50% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=50% Health P1
-// 50% Health P1
 patch=1,EE,204B5F24,extended,42F00000
-
-[25% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=25% Health P1
-// 25% Health P1
-patch=1,EE,D04B5F26,extended,00004370
 
 [25% Health P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -59,12 +47,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Health P1
 // No Health P1
 patch=1,EE,204B5F24,extended,00000000
-
-[1-Hit Death P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=1-Hit Death P1
-// 1-Hit Death P1
-patch=1,EE,D04B5F26,extended,00004370
 
 [1-Hit Death P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -84,7 +66,7 @@ description=75% Health P2
 // 75% Health P2
 patch=1,EE,D04D36A6,extended,00004370
 
-[75% Health P2]
+[75% Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P2
 // 75% Health P2
@@ -94,19 +76,7 @@ patch=1,EE,204D36A4,extended,43340000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P2
 // 50% Health P2
-patch=1,EE,D04D36A6,extended,00004370
-
-[50% Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=50% Health P2
-// 50% Health P2
 patch=1,EE,204D36A4,extended,42F00000
-
-[25% Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=25% Health P2
-// 25% Health P2
-patch=1,EE,D04D36A6,extended,00004370
 
 [25% Health P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -124,12 +94,6 @@ patch=1,EE,204D36A4,extended,00000000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death P2
 // 1-Hit Death P2
-patch=1,EE,D04D36A6,extended,00004370
-
-[1-Hit Death P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=1-Hit Death P2
-// 1-Hit Death P2
 patch=1,EE,204D36A4,extended,3F800000
 
 [P1 Starts With 1 Match Win]
@@ -138,17 +102,11 @@ description=P1 Starts With 1 Match Win
 // P1 Starts With 1 Match Win
 patch=1,EE,D04B5EFC,extended,00000000
 
-[P1 Starts With 1 Match Win]
+[P1 Starts With 1 Match Win (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Starts With 1 Match Win
 // P1 Starts With 1 Match Win
 patch=1,EE,104B5EFC,extended,00000001
-
-[P1 Starts With 2 Match Wins]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 2 Match Wins
-// P1 Starts With 2 Match Wins
-patch=1,EE,D04B5EFC,extended,00000000
 
 [P1 Starts With 2 Match Wins]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -168,17 +126,11 @@ description=P2 Starts With 1 Match Win
 // P2 Starts With 1 Match Win
 patch=1,EE,D04D367C,extended,00000000
 
-[P2 Starts With 1 Match Win]
+[P2 Starts With 1 Match Win (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Starts With 1 Match Win
 // P2 Starts With 1 Match Win
 patch=1,EE,104D367C,extended,00000001
-
-[P2 Starts With 2 Match Wins]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 2 Match Wins
-// P2 Starts With 2 Match Wins
-patch=1,EE,D04D367C,extended,00000000
 
 [P2 Starts With 2 Match Wins]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -198,17 +150,11 @@ description=Hit Anywhere P1/P2 Cant Hit P1
 // Hit Anywhere P1/P2 Cant Hit P1
 patch=1,EE,201D89E4,extended,32250080
 
-[Hit Anywhere P1/P2 Cant Hit P1]
+[Hit Anywhere P1/P2 Cant Hit P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Anywhere P1/P2 Cant Hit P1
 // Hit Anywhere P1/P2 Cant Hit P1
 patch=1,EE,201D89E8,extended,10A00064
-
-[Hit Anywhere P2/P1 Cant Hit P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Hit Anywhere P2/P1 Cant Hit P2
-// Hit Anywhere P2/P1 Cant Hit P2
-patch=1,EE,201D89E4,extended,32250080
 
 [Hit Anywhere P2/P1 Cant Hit P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -228,13 +174,13 @@ description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,40504118,extended,00050001
 
-[Unlock All Characters]
+[Unlock All Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,66666666,extended,00000000
 
-[Unlock All Characters]
+[Unlock All Characters (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
@@ -246,25 +192,25 @@ description=Unlock All Modes
 // Unlock All Modes
 patch=1,EE,0050413D,extended,00000066
 
-[Unlock All Modes]
+[Unlock All Modes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Modes
 // Unlock All Modes
 patch=1,EE,1050413E,extended,00006666
 
-[Unlock All Modes]
+[Unlock All Modes (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Modes
 // Unlock All Modes
 patch=1,EE,20504140,extended,66666666
 
-[Unlock All Modes]
+[Unlock All Modes (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Modes
 // Unlock All Modes
 patch=1,EE,20504144,extended,66666666
 
-[Unlock All Modes]
+[Unlock All Modes (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Modes
 // Unlock All Modes
@@ -276,23 +222,17 @@ description=Unlock All Weapons
 // Unlock All Weapons
 patch=1,EE,0050414D,extended,00000066
 
-[Unlock All Weapons]
+[Unlock All Weapons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Weapons
 // Unlock All Weapons
 patch=1,EE,1050414E,extended,00006666
 
-[Unlock All Weapons]
+[Unlock All Weapons (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Weapons
 // Unlock All Weapons
 patch=1,EE,40504150,extended,00260001
-
-[Unlock All Weapons]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Weapons
-// Unlock All Weapons
-patch=1,EE,66666666,extended,00000000
 
 [Unlock All Art Gallery]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -300,19 +240,13 @@ description=Unlock All Art Gallery
 // Unlock All Art Gallery
 patch=1,EE,005041E7,extended,00000066
 
-[Unlock All Art Gallery]
+[Unlock All Art Gallery (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Art Gallery
 // Unlock All Art Gallery
 patch=1,EE,405041E8,extended,00240001
 
-[Unlock All Art Gallery]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Art Gallery
-// Unlock All Art Gallery
-patch=1,EE,66666666,extended,00000000
-
-[Unlock All Art Gallery]
+[Unlock All Art Gallery (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Art Gallery
 // Unlock All Art Gallery
@@ -324,7 +258,7 @@ description=Unlock All Movies
 // Unlock All Movies
 patch=1,EE,1050427A,extended,00006666
 
-[Unlock All Movies]
+[Unlock All Movies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Movies
 // Unlock All Movies
@@ -336,25 +270,25 @@ description=Unlock All Exhibition Theater
 // Unlock All Exhibition Theater
 patch=1,EE,1050427E,extended,00006666
 
-[Unlock All Exhibition Theater]
+[Unlock All Exhibition Theater (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Exhibition Theater
 // Unlock All Exhibition Theater
 patch=1,EE,20504280,extended,66666666
 
-[Unlock All Exhibition Theater]
+[Unlock All Exhibition Theater (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Exhibition Theater
 // Unlock All Exhibition Theater
 patch=1,EE,20504284,extended,66666666
 
-[Unlock All Exhibition Theater]
+[Unlock All Exhibition Theater (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Exhibition Theater
 // Unlock All Exhibition Theater
 patch=1,EE,10504288,extended,00006666
 
-[Unlock All Exhibition Theater]
+[Unlock All Exhibition Theater (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Exhibition Theater
 // Unlock All Exhibition Theater
@@ -366,13 +300,7 @@ description=Unlock All Character Profiles
 // Unlock All Character Profiles
 patch=1,EE,40504290,extended,00030001
 
-[Unlock All Character Profiles]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Character Profiles
-// Unlock All Character Profiles
-patch=1,EE,66666666,extended,00000000
-
-[Unlock All Character Profiles]
+[Unlock All Character Profiles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Character Profiles
 // Unlock All Character Profiles
@@ -384,17 +312,11 @@ description=Unlock All Single Player-Soul Arena Missions
 // Unlock All Single Player-Soul Arena Missions
 patch=1,EE,10504386,extended,00006666
 
-[Unlock All Single Player-Soul Arena Missions]
+[Unlock All Single Player-Soul Arena Missions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Single Player-Soul Arena Missions
 // Unlock All Single Player-Soul Arena Missions
 patch=1,EE,40504388,extended,00060001
-
-[Unlock All Single Player-Soul Arena Missions]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Single Player-Soul Arena Missions
-// Unlock All Single Player-Soul Arena Missions
-patch=1,EE,66666666,extended,00000000
 
 [Unlock All Armor]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -402,23 +324,11 @@ description=Unlock All Armor
 // Unlock All Armor
 patch=1,EE,405043B8,extended,00860001
 
-[Unlock All Armor]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Armor
-// Unlock All Armor
-patch=1,EE,66666666,extended,00000000
-
 [Unlock Everything]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Everything
 // Unlock Everything
 patch=1,EE,40504118,extended,012E0001
-
-[Unlock Everything]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock Everything
-// Unlock Everything
-patch=1,EE,66666666,extended,00000000
 
 [Infinite Gold]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -450,19 +360,19 @@ description=All Items Cost $0
 // All Items Cost $0
 patch=1,EE,200C0220,extended,24060001
 
-[All Items Cost $0]
+[All Items Cost $0 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items Cost $0
 // All Items Cost $0
 patch=1,EE,200C0224,extended,03E00008
 
-[All Items Cost $0]
+[All Items Cost $0 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items Cost $0
 // All Items Cost $0
 patch=1,EE,200C0228,extended,ACE60010
 
-[All Items Cost $0]
+[All Items Cost $0 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items Cost $0
 // All Items Cost $0
@@ -474,7 +384,7 @@ description=Mitsurugi
 // Mitsurugi
 patch=1,EE,70504118,extended,00000006
 
-[Mitsurugi]
+[Mitsurugi (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi
 // Mitsurugi
@@ -486,7 +396,7 @@ description=Seong Mi-Na
 // Seong Mi-Na
 patch=1,EE,70504118,extended,00000060
 
-[Seong Mi-Na]
+[Seong Mi-Na (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na
 // Seong Mi-Na
@@ -498,7 +408,7 @@ description=Taki
 // Taki
 patch=1,EE,70504119,extended,00000006
 
-[Taki]
+[Taki (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki
 // Taki
@@ -510,7 +420,7 @@ description=Maxi
 // Maxi
 patch=1,EE,70504119,extended,00000060
 
-[Maxi]
+[Maxi (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maxi
 // Maxi
@@ -522,7 +432,7 @@ description=Voldo
 // Voldo
 patch=1,EE,7050411A,extended,00000006
 
-[Voldo]
+[Voldo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo
 // Voldo
@@ -534,7 +444,7 @@ description=Sophitia
 // Sophitia
 patch=1,EE,7050411A,extended,00000060
 
-[Sophitia]
+[Sophitia (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia
 // Sophitia
@@ -546,7 +456,7 @@ description=Siegfried
 // Siegfried
 patch=1,EE,7050411B,extended,00000006
 
-[Siegfried]
+[Siegfried (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried
 // Siegfried
@@ -558,7 +468,7 @@ description=Rock
 // Rock
 patch=1,EE,7050411B,extended,00000060
 
-[Rock]
+[Rock (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock
 // Rock
@@ -570,7 +480,7 @@ description=Ivy
 // Ivy
 patch=1,EE,7050411C,extended,00000006
 
-[Ivy]
+[Ivy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy
 // Ivy
@@ -582,7 +492,7 @@ description=Kilik
 // Kilik
 patch=1,EE,7050411C,extended,00000060
 
-[Kilik]
+[Kilik (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik
 // Kilik
@@ -594,7 +504,7 @@ description=Xianghu
 // Xianghu
 patch=1,EE,7050411D,extended,00000006
 
-[Xianghu]
+[Xianghu (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xianghu
 // Xianghu
@@ -606,7 +516,7 @@ description=Lizardman
 // Lizardman
 patch=1,EE,7050411D,extended,00000060
 
-[Lizardman]
+[Lizardman (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman
 // Lizardman
@@ -618,7 +528,7 @@ description=Yoshimitsu
 // Yoshimitsu
 patch=1,EE,7050411E,extended,00000006
 
-[Yoshimitsu]
+[Yoshimitsu (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu
 // Yoshimitsu
@@ -630,7 +540,7 @@ description=Nightmare
 // Nightmare
 patch=1,EE,7050411E,extended,00000060
 
-[Nightmare]
+[Nightmare (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare
 // Nightmare
@@ -642,7 +552,7 @@ description=Astaroth
 // Astaroth
 patch=1,EE,7050411F,extended,00000006
 
-[Astaroth]
+[Astaroth (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth
 // Astaroth
@@ -654,7 +564,7 @@ description=Cervantes
 // Cervantes
 patch=1,EE,7050411F,extended,00000060
 
-[Cervantes]
+[Cervantes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes
 // Cervantes
@@ -666,7 +576,7 @@ description=Raphael
 // Raphael
 patch=1,EE,70504120,extended,00000006
 
-[Raphael]
+[Raphael (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael
 // Raphael
@@ -678,7 +588,7 @@ description=Talim
 // Talim
 patch=1,EE,70504120,extended,00000060
 
-[Talim]
+[Talim (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim
 // Talim
@@ -690,7 +600,7 @@ description=Cassandra
 // Cassandra
 patch=1,EE,70504121,extended,00000006
 
-[Cassandra]
+[Cassandra (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra
 // Cassandra
@@ -702,7 +612,7 @@ description=Yun-Seong
 // Yun-Seong
 patch=1,EE,70504121,extended,00000060
 
-[Yun-Seong]
+[Yun-Seong (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong
 // Yun-Seong
@@ -714,7 +624,7 @@ description=Setsuka
 // Setsuka
 patch=1,EE,70504122,extended,00000060
 
-[Setsuka]
+[Setsuka (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka
 // Setsuka
@@ -726,7 +636,7 @@ description=Tira
 // Tira
 patch=1,EE,70504123,extended,00000006
 
-[Tira]
+[Tira (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira
 // Tira
@@ -738,7 +648,7 @@ description=Zasalamel
 // Zasalamel
 patch=1,EE,70504123,extended,00000060
 
-[Zasalamel]
+[Zasalamel (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel
 // Zasalamel
@@ -750,7 +660,7 @@ description=Olcadan
 // Olcadan
 patch=1,EE,70504124,extended,00000006
 
-[Olcadan]
+[Olcadan (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan
 // Olcadan
@@ -762,7 +672,7 @@ description=Abyss
 // Abyss
 patch=1,EE,70504124,extended,00000060
 
-[Abyss]
+[Abyss (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abyss
 // Abyss
@@ -774,7 +684,7 @@ description=Miser
 // Miser
 patch=1,EE,70504125,extended,00000060
 
-[Miser]
+[Miser (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Miser
 // Miser
@@ -786,7 +696,7 @@ description=Greed
 // Greed
 patch=1,EE,70504126,extended,00000006
 
-[Greed]
+[Greed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Greed
 // Greed
@@ -798,7 +708,7 @@ description=Arthur
 // Arthur
 patch=1,EE,70504126,extended,00000060
 
-[Arthur]
+[Arthur (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Arthur
 // Arthur
@@ -810,7 +720,7 @@ description=Hwang
 // Hwang
 patch=1,EE,70504127,extended,00000006
 
-[Hwang]
+[Hwang (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hwang
 // Hwang
@@ -822,7 +732,7 @@ description=Luna
 // Luna
 patch=1,EE,70504127,extended,00000060
 
-[Luna]
+[Luna (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Luna
 // Luna
@@ -834,7 +744,7 @@ description=Valeria
 // Valeria
 patch=1,EE,70504128,extended,00000006
 
-[Valeria]
+[Valeria (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Valeria
 // Valeria
@@ -846,7 +756,7 @@ description=Hualin
 // Hualin
 patch=1,EE,70504128,extended,00000060
 
-[Hualin]
+[Hualin (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hualin
 // Hualin
@@ -858,7 +768,7 @@ description=Girardot
 // Girardot
 patch=1,EE,70504129,extended,00000006
 
-[Girardot]
+[Girardot (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Girardot
 // Girardot
@@ -870,7 +780,7 @@ description=Demuth
 // Demuth
 patch=1,EE,70504129,extended,00000060
 
-[Demuth]
+[Demuth (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Demuth
 // Demuth
@@ -882,7 +792,7 @@ description=Aurelia
 // Aurelia
 patch=1,EE,7050412A,extended,00000006
 
-[Aurelia]
+[Aurelia (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Aurelia
 // Aurelia
@@ -894,7 +804,7 @@ description=Chester
 // Chester
 patch=1,EE,7050412A,extended,00000060
 
-[Chester]
+[Chester (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chester
 // Chester
@@ -906,7 +816,7 @@ description=Strife
 // Strife
 patch=1,EE,7050412B,extended,00000006
 
-[Strife]
+[Strife (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Strife
 // Strife
@@ -918,7 +828,7 @@ description=Abelia
 // Abelia
 patch=1,EE,7050412B,extended,00000060
 
-[Abelia]
+[Abelia (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abelia
 // Abelia
@@ -930,7 +840,7 @@ description=Lynette
 // Lynette
 patch=1,EE,7050412C,extended,00000006
 
-[Lynette]
+[Lynette (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lynette
 // Lynette
@@ -942,7 +852,7 @@ description=Li Long
 // Li Long
 patch=1,EE,7050412C,extended,00000060
 
-[Li Long]
+[Li Long (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Li Long
 // Li Long
@@ -954,7 +864,7 @@ description=Revenant
 // Revenant
 patch=1,EE,7050412D,extended,00000006
 
-[Revenant]
+[Revenant (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Revenant
 // Revenant
@@ -966,7 +876,7 @@ description=Amy
 // Amy
 patch=1,EE,7050412D,extended,00000060
 
-[Amy]
+[Amy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Amy
 // Amy
@@ -978,7 +888,7 @@ description=Single Player-Tales Of Souls
 // Single Player-Tales Of Souls
 patch=1,EE,7050413D,extended,00000006
 
-[Single Player-Tales Of Souls]
+[Single Player-Tales Of Souls (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Tales Of Souls
 // Single Player-Tales Of Souls
@@ -990,7 +900,7 @@ description=Single Player-Chronicles Of The Sword
 // Single Player-Chronicles Of The Sword
 patch=1,EE,7050413D,extended,00000060
 
-[Single Player-Chronicles Of The Sword]
+[Single Player-Chronicles Of The Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Chronicles Of The Sword
 // Single Player-Chronicles Of The Sword
@@ -1002,7 +912,7 @@ description=Single Player-World Competition
 // Single Player-World Competition
 patch=1,EE,7050413E,extended,00000006
 
-[Single Player-World Competition]
+[Single Player-World Competition (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-World Competition
 // Single Player-World Competition
@@ -1014,7 +924,7 @@ description=Single Player-Soul Arena-Quick Play
 // Single Player-Soul Arena-Quick Play
 patch=1,EE,7050413E,extended,00000060
 
-[Single Player-Soul Arena-Quick Play]
+[Single Player-Soul Arena-Quick Play (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Soul Arena-Quick Play
 // Single Player-Soul Arena-Quick Play
@@ -1026,7 +936,7 @@ description=Single Player-Soul Arena-Mission
 // Single Player-Soul Arena-Mission
 patch=1,EE,7050413F,extended,00000006
 
-[Single Player-Soul Arena-Mission]
+[Single Player-Soul Arena-Mission (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Soul Arena-Mission
 // Single Player-Soul Arena-Mission
@@ -1038,7 +948,7 @@ description=Single Player-Practice-Tutorial
 // Single Player-Practice-Tutorial
 patch=1,EE,70504140,extended,00000006
 
-[Single Player-Practice-Tutorial]
+[Single Player-Practice-Tutorial (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Practice-Tutorial
 // Single Player-Practice-Tutorial
@@ -1050,7 +960,7 @@ description=Single Player-Practice-Free Training
 // Single Player-Practice-Free Training
 patch=1,EE,70504140,extended,00000060
 
-[Single Player-Practice-Free Training]
+[Single Player-Practice-Free Training (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Practice-Free Training
 // Single Player-Practice-Free Training
@@ -1062,7 +972,7 @@ description=Single Player-Practice-Glossary
 // Single Player-Practice-Glossary
 patch=1,EE,70504141,extended,00000006
 
-[Single Player-Practice-Glossary]
+[Single Player-Practice-Glossary (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Practice-Glossary
 // Single Player-Practice-Glossary
@@ -1074,7 +984,7 @@ description=Single Player-Museum-Art Gallery
 // Single Player-Museum-Art Gallery
 patch=1,EE,70504141,extended,00000060
 
-[Single Player-Museum-Art Gallery]
+[Single Player-Museum-Art Gallery (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Museum-Art Gallery
 // Single Player-Museum-Art Gallery
@@ -1086,7 +996,7 @@ description=Single Player-Museum-Battle Theater
 // Single Player-Museum-Battle Theater
 patch=1,EE,70504142,extended,00000006
 
-[Single Player-Museum-Battle Theater]
+[Single Player-Museum-Battle Theater (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Museum-Battle Theater
 // Single Player-Museum-Battle Theater
@@ -1098,7 +1008,7 @@ description=Single Player-Museum-Exhibition Theater
 // Single Player-Museum-Exhibition Theater
 patch=1,EE,70504142,extended,00000060
 
-[Single Player-Museum-Exhibition Theater]
+[Single Player-Museum-Exhibition Theater (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Museum-Exhibition Theater
 // Single Player-Museum-Exhibition Theater
@@ -1110,7 +1020,7 @@ description=Single Player-Museum-Character Profiles
 // Single Player-Museum-Character Profiles
 patch=1,EE,70504143,extended,00000006
 
-[Single Player-Museum-Character Profiles]
+[Single Player-Museum-Character Profiles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Museum-Character Profiles
 // Single Player-Museum-Character Profiles
@@ -1122,7 +1032,7 @@ description=Single Player-Museum-Event Viewer
 // Single Player-Museum-Event Viewer
 patch=1,EE,70504143,extended,00000060
 
-[Single Player-Museum-Event Viewer]
+[Single Player-Museum-Event Viewer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Museum-Event Viewer
 // Single Player-Museum-Event Viewer
@@ -1134,7 +1044,7 @@ description=Single Player-Character Creation-Custom
 // Single Player-Character Creation-Custom
 patch=1,EE,70504145,extended,00000060
 
-[Single Player-Character Creation-Custom]
+[Single Player-Character Creation-Custom (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Character Creation-Custom
 // Single Player-Character Creation-Custom
@@ -1146,7 +1056,7 @@ description=Single Player-Character Creation-Standard
 // Single Player-Character Creation-Standard
 patch=1,EE,70504146,extended,00000006
 
-[Single Player-Character Creation-Standard]
+[Single Player-Character Creation-Standard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Single Player-Character Creation-Standard
 // Single Player-Character Creation-Standard
@@ -1158,7 +1068,7 @@ description=VS-VS Standard
 // VS-VS Standard
 patch=1,EE,70504146,extended,00000060
 
-[VS-VS Standard]
+[VS-VS Standard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=VS-VS Standard
 // VS-VS Standard
@@ -1170,7 +1080,7 @@ description=VS-VS Special
 // VS-VS Special
 patch=1,EE,70504147,extended,00000006
 
-[VS-VS Special]
+[VS-VS Special (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=VS-VS Special
 // VS-VS Special
@@ -1182,7 +1092,7 @@ description=VS-VS Competition
 // VS-VS Competition
 patch=1,EE,70504147,extended,00000060
 
-[VS-VS Competition]
+[VS-VS Competition (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=VS-VS Competition
 // VS-VS Competition
@@ -1194,7 +1104,7 @@ description=Shop-Weapons Shop
 // Shop-Weapons Shop
 patch=1,EE,70504148,extended,00000006
 
-[Shop-Weapons Shop]
+[Shop-Weapons Shop (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shop-Weapons Shop
 // Shop-Weapons Shop
@@ -1206,7 +1116,7 @@ description=Shop-Armor Shop
 // Shop-Armor Shop
 patch=1,EE,70504148,extended,00000060
 
-[Shop-Armor Shop]
+[Shop-Armor Shop (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shop-Armor Shop
 // Shop-Armor Shop
@@ -1218,7 +1128,7 @@ description=Shop-Items Shop
 // Shop-Items Shop
 patch=1,EE,70504149,extended,00000006
 
-[Shop-Items Shop]
+[Shop-Items Shop (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shop-Items Shop
 // Shop-Items Shop
@@ -1230,7 +1140,7 @@ description=Mitsurugi-Na-Shishi-Oh
 // Mitsurugi-Na-Shishi-Oh
 patch=1,EE,7050414D,extended,00000006
 
-[Mitsurugi-Na-Shishi-Oh]
+[Mitsurugi-Na-Shishi-Oh (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi-Na-Shishi-Oh
 // Mitsurugi-Na-Shishi-Oh
@@ -1242,7 +1152,7 @@ description=Mitsurugi-Na-Shishi-Oh 2
 // Mitsurugi-Na-Shishi-Oh 2
 patch=1,EE,7050414D,extended,00000060
 
-[Mitsurugi-Na-Shishi-Oh 2]
+[Mitsurugi-Na-Shishi-Oh 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi-Na-Shishi-Oh 2
 // Mitsurugi-Na-Shishi-Oh 2
@@ -1254,7 +1164,7 @@ description=Mitsurugi-Na-Two-Handed Sword
 // Mitsurugi-Na-Two-Handed Sword
 patch=1,EE,7050414E,extended,00000006
 
-[Mitsurugi-Na-Two-Handed Sword]
+[Mitsurugi-Na-Two-Handed Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi-Na-Two-Handed Sword
 // Mitsurugi-Na-Two-Handed Sword
@@ -1266,7 +1176,7 @@ description=Mitsurugi-Na-Masamune
 // Mitsurugi-Na-Masamune
 patch=1,EE,7050414E,extended,00000060
 
-[Mitsurugi-Na-Masamune]
+[Mitsurugi-Na-Masamune (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi-Na-Masamune
 // Mitsurugi-Na-Masamune
@@ -1278,7 +1188,7 @@ description=Mitsurugi-Na-Damascus Sword
 // Mitsurugi-Na-Damascus Sword
 patch=1,EE,7050414F,extended,00000006
 
-[Mitsurugi-Na-Damascus Sword]
+[Mitsurugi-Na-Damascus Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi-Na-Damascus Sword
 // Mitsurugi-Na-Damascus Sword
@@ -1290,7 +1200,7 @@ description=Mitsurugi-Na-Soul Edge
 // Mitsurugi-Na-Soul Edge
 patch=1,EE,7050414F,extended,00000060
 
-[Mitsurugi-Na-Soul Edge]
+[Mitsurugi-Na-Soul Edge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi-Na-Soul Edge
 // Mitsurugi-Na-Soul Edge
@@ -1302,7 +1212,7 @@ description=Mitsurugi-Na-Souvenir Gift
 // Mitsurugi-Na-Souvenir Gift
 patch=1,EE,70504150,extended,00000006
 
-[Mitsurugi-Na-Souvenir Gift]
+[Mitsurugi-Na-Souvenir Gift (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi-Na-Souvenir Gift
 // Mitsurugi-Na-Souvenir Gift
@@ -1314,7 +1224,7 @@ description=Mitsurugi-Na-The Ancient
 // Mitsurugi-Na-The Ancient
 patch=1,EE,70504150,extended,00000060
 
-[Mitsurugi-Na-The Ancient]
+[Mitsurugi-Na-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi-Na-The Ancient
 // Mitsurugi-Na-The Ancient
@@ -1326,7 +1236,7 @@ description=Seong Mi-Na-Scarlet Thunder
 // Seong Mi-Na-Scarlet Thunder
 patch=1,EE,70504151,extended,00000006
 
-[Seong Mi-Na-Scarlet Thunder]
+[Seong Mi-Na-Scarlet Thunder (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na-Scarlet Thunder
 // Seong Mi-Na-Scarlet Thunder
@@ -1338,7 +1248,7 @@ description=Seong Mi-Na-Scarlet Thunder 2
 // Seong Mi-Na-Scarlet Thunder 2
 patch=1,EE,70504151,extended,00000060
 
-[Seong Mi-Na-Scarlet Thunder 2]
+[Seong Mi-Na-Scarlet Thunder 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na-Scarlet Thunder 2
 // Seong Mi-Na-Scarlet Thunder 2
@@ -1350,7 +1260,7 @@ description=Seong Mi-Na-Defender
 // Seong Mi-Na-Defender
 patch=1,EE,70504152,extended,00000006
 
-[Seong Mi-Na-Defender]
+[Seong Mi-Na-Defender (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na-Defender
 // Seong Mi-Na-Defender
@@ -1362,7 +1272,7 @@ description=Seong Mi-Na-Hyup Do
 // Seong Mi-Na-Hyup Do
 patch=1,EE,70504152,extended,00000060
 
-[Seong Mi-Na-Hyup Do]
+[Seong Mi-Na-Hyup Do (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na-Hyup Do
 // Seong Mi-Na-Hyup Do
@@ -1374,7 +1284,7 @@ description=Seong Mi-Na-Halberd
 // Seong Mi-Na-Halberd
 patch=1,EE,70504153,extended,00000006
 
-[Seong Mi-Na-Halberd]
+[Seong Mi-Na-Halberd (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na-Halberd
 // Seong Mi-Na-Halberd
@@ -1386,7 +1296,7 @@ description=Seong Mi-Na-Hraesvelgr
 // Seong Mi-Na-Hraesvelgr
 patch=1,EE,70504153,extended,00000060
 
-[Seong Mi-Na-Hraesvelgr]
+[Seong Mi-Na-Hraesvelgr (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na-Hraesvelgr
 // Seong Mi-Na-Hraesvelgr
@@ -1398,7 +1308,7 @@ description=Seong Mi-Na-Feather Broom
 // Seong Mi-Na-Feather Broom
 patch=1,EE,70504154,extended,00000006
 
-[Seong Mi-Na-Feather Broom]
+[Seong Mi-Na-Feather Broom (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na-Feather Broom
 // Seong Mi-Na-Feather Broom
@@ -1410,7 +1320,7 @@ description=Seong Mi-Na-The Ancient
 // Seong Mi-Na-The Ancient
 patch=1,EE,70504154,extended,00000060
 
-[Seong Mi-Na-The Ancient]
+[Seong Mi-Na-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na-The Ancient
 // Seong Mi-Na-The Ancient
@@ -1422,7 +1332,7 @@ description=Taki-Rekki-Maru & Mekki-Maru
 // Taki-Rekki-Maru & Mekki-Maru
 patch=1,EE,70504155,extended,00000006
 
-[Taki-Rekki-Maru & Mekki-Maru]
+[Taki-Rekki-Maru & Mekki-Maru (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki-Rekki-Maru & Mekki-Maru
 // Taki-Rekki-Maru & Mekki-Maru
@@ -1434,7 +1344,7 @@ description=Taki-Rekki-Maru & Mekki-Maru 2
 // Taki-Rekki-Maru & Mekki-Maru 2
 patch=1,EE,70504155,extended,00000060
 
-[Taki-Rekki-Maru & Mekki-Maru 2]
+[Taki-Rekki-Maru & Mekki-Maru 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki-Rekki-Maru & Mekki-Maru 2
 // Taki-Rekki-Maru & Mekki-Maru 2
@@ -1446,7 +1356,7 @@ description=Taki-Kagenui
 // Taki-Kagenui
 patch=1,EE,70504156,extended,00000006
 
-[Taki-Kagenui]
+[Taki-Kagenui (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki-Kagenui
 // Taki-Kagenui
@@ -1458,7 +1368,7 @@ description=Taki-Kagekiri
 // Taki-Kagekiri
 patch=1,EE,70504156,extended,00000060
 
-[Taki-Kagekiri]
+[Taki-Kagekiri (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki-Kagekiri
 // Taki-Kagekiri
@@ -1470,7 +1380,7 @@ description=Taki-Fumakugi
 // Taki-Fumakugi
 patch=1,EE,70504157,extended,00000006
 
-[Taki-Fumakugi]
+[Taki-Fumakugi (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki-Fumakugi
 // Taki-Fumakugi
@@ -1482,7 +1392,7 @@ description=Taki-Kris Naga
 // Taki-Kris Naga
 patch=1,EE,70504157,extended,00000060
 
-[Taki-Kris Naga]
+[Taki-Kris Naga (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki-Kris Naga
 // Taki-Kris Naga
@@ -1494,7 +1404,7 @@ description=Taki-Tobacco Pipes
 // Taki-Tobacco Pipes
 patch=1,EE,70504158,extended,00000006
 
-[Taki-Tobacco Pipes]
+[Taki-Tobacco Pipes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki-Tobacco Pipes
 // Taki-Tobacco Pipes
@@ -1506,7 +1416,7 @@ description=Taki-The Ancient
 // Taki-The Ancient
 patch=1,EE,70504158,extended,00000060
 
-[Taki-The Ancient]
+[Taki-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki-The Ancient
 // Taki-The Ancient
@@ -1518,7 +1428,7 @@ description=Maxi-Soryuju
 // Maxi-Soryuju
 patch=1,EE,70504159,extended,00000006
 
-[Maxi-Soryuju]
+[Maxi-Soryuju (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maxi-Soryuju
 // Maxi-Soryuju
@@ -1530,7 +1440,7 @@ description=Maxi-Soryuju 2
 // Maxi-Soryuju 2
 patch=1,EE,70504159,extended,00000060
 
-[Maxi-Soryuju 2]
+[Maxi-Soryuju 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maxi-Soryuju 2
 // Maxi-Soryuju 2
@@ -1542,7 +1452,7 @@ description=Maxi-Tetsuryu
 // Maxi-Tetsuryu
 patch=1,EE,7050415A,extended,00000006
 
-[Maxi-Tetsuryu]
+[Maxi-Tetsuryu (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maxi-Tetsuryu
 // Maxi-Tetsuryu
@@ -1554,7 +1464,7 @@ description=Maxi-Chained Kozuka
 // Maxi-Chained Kozuka
 patch=1,EE,7050415A,extended,00000060
 
-[Maxi-Chained Kozuka]
+[Maxi-Chained Kozuka (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maxi-Chained Kozuka
 // Maxi-Chained Kozuka
@@ -1566,7 +1476,7 @@ description=Maxi-Raimei
 // Maxi-Raimei
 patch=1,EE,7050415B,extended,00000006
 
-[Maxi-Raimei]
+[Maxi-Raimei (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maxi-Raimei
 // Maxi-Raimei
@@ -1578,7 +1488,7 @@ description=Maxi-Vajra
 // Maxi-Vajra
 patch=1,EE,7050415B,extended,00000060
 
-[Maxi-Vajra]
+[Maxi-Vajra (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maxi-Vajra
 // Maxi-Vajra
@@ -1590,23 +1500,11 @@ description=Maxi-Termite Snack
 // Maxi-Termite Snack
 patch=1,EE,7050415C,extended,00000006
 
-[Maxi-Termite Snack]
+[Maxi-Termite Snack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maxi-Termite Snack
 // Maxi-Termite Snack
 patch=1,EE,7050415C,extended,002000F6
-
-[Maxi-The Ancient]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Maxi-The Ancient
-// Maxi-The Ancient
-patch=1,EE,70504159,extended,00000060
-
-[Maxi-The Ancient]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Maxi-The Ancient
-// Maxi-The Ancient
-patch=1,EE,70504159,extended,0020006F
 
 [Voldo-Manas & Ayus]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -1614,7 +1512,7 @@ description=Voldo-Manas & Ayus
 // Voldo-Manas & Ayus
 patch=1,EE,7050415D,extended,00000006
 
-[Voldo-Manas & Ayus]
+[Voldo-Manas & Ayus (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo-Manas & Ayus
 // Voldo-Manas & Ayus
@@ -1626,7 +1524,7 @@ description=Voldo-Manas & Ayus 2
 // Voldo-Manas & Ayus 2
 patch=1,EE,7050415D,extended,00000060
 
-[Voldo-Manas & Ayus 2]
+[Voldo-Manas & Ayus 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo-Manas & Ayus 2
 // Voldo-Manas & Ayus 2
@@ -1638,7 +1536,7 @@ description=Voldo-Cat Claws
 // Voldo-Cat Claws
 patch=1,EE,7050415E,extended,00000006
 
-[Voldo-Cat Claws]
+[Voldo-Cat Claws (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo-Cat Claws
 // Voldo-Cat Claws
@@ -1650,7 +1548,7 @@ description=Voldo-Tofana Scissors
 // Voldo-Tofana Scissors
 patch=1,EE,7050415E,extended,00000060
 
-[Voldo-Tofana Scissors]
+[Voldo-Tofana Scissors (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo-Tofana Scissors
 // Voldo-Tofana Scissors
@@ -1662,7 +1560,7 @@ description=Voldo-Iron Ram
 // Voldo-Iron Ram
 patch=1,EE,7050415F,extended,00000006
 
-[Voldo-Iron Ram]
+[Voldo-Iron Ram (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo-Iron Ram
 // Voldo-Iron Ram
@@ -1674,7 +1572,7 @@ description=Voldo-Guillotine
 // Voldo-Guillotine
 patch=1,EE,7050415F,extended,00000060
 
-[Voldo-Guillotine]
+[Voldo-Guillotine (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo-Guillotine
 // Voldo-Guillotine
@@ -1686,7 +1584,7 @@ description=Voldo-Tamborines
 // Voldo-Tamborines
 patch=1,EE,70504160,extended,00000006
 
-[Voldo-Tamborines]
+[Voldo-Tamborines (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo-Tamborines
 // Voldo-Tamborines
@@ -1698,7 +1596,7 @@ description=Voldo-The Ancient
 // Voldo-The Ancient
 patch=1,EE,70504160,extended,00000060
 
-[Voldo-The Ancient]
+[Voldo-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo-The Ancient
 // Voldo-The Ancient
@@ -1710,7 +1608,7 @@ description=Sophitia-Sword & Elk Shield
 // Sophitia-Sword & Elk Shield
 patch=1,EE,70504161,extended,00000006
 
-[Sophitia-Sword & Elk Shield]
+[Sophitia-Sword & Elk Shield (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia-Sword & Elk Shield
 // Sophitia-Sword & Elk Shield
@@ -1722,7 +1620,7 @@ description=Sophitia-Sword & Elk Shield 2
 // Sophitia-Sword & Elk Shield 2
 patch=1,EE,70504161,extended,00000060
 
-[Sophitia-Sword & Elk Shield 2]
+[Sophitia-Sword & Elk Shield 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia-Sword & Elk Shield 2
 // Sophitia-Sword & Elk Shield 2
@@ -1734,7 +1632,7 @@ description=Sophitia-Fire Blade
 // Sophitia-Fire Blade
 patch=1,EE,70504162,extended,00000006
 
-[Sophitia-Fire Blade]
+[Sophitia-Fire Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia-Fire Blade
 // Sophitia-Fire Blade
@@ -1746,7 +1644,7 @@ description=Sophitia-Blue Crystal Rod
 // Sophitia-Blue Crystal Rod
 patch=1,EE,70504162,extended,00000060
 
-[Sophitia-Blue Crystal Rod]
+[Sophitia-Blue Crystal Rod (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia-Blue Crystal Rod
 // Sophitia-Blue Crystal Rod
@@ -1758,7 +1656,7 @@ description=Sophitia-Orichalcum
 // Sophitia-Orichalcum
 patch=1,EE,70504163,extended,00000006
 
-[Sophitia-Orichalcum]
+[Sophitia-Orichalcum (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia-Orichalcum
 // Sophitia-Orichalcum
@@ -1770,7 +1668,7 @@ description=Sophitia-Soul Calibur
 // Sophitia-Soul Calibur
 patch=1,EE,70504163,extended,00000060
 
-[Sophitia-Soul Calibur]
+[Sophitia-Soul Calibur (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia-Soul Calibur
 // Sophitia-Soul Calibur
@@ -1782,7 +1680,7 @@ description=Sophitia-Memento
 // Sophitia-Memento
 patch=1,EE,70504164,extended,00000006
 
-[Sophitia-Memento]
+[Sophitia-Memento (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia-Memento
 // Sophitia-Memento
@@ -1794,7 +1692,7 @@ description=Sophitia-The Ancient
 // Sophitia-The Ancient
 patch=1,EE,70504164,extended,00000060
 
-[Sophitia-The Ancient]
+[Sophitia-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia-The Ancient
 // Sophitia-The Ancient
@@ -1806,7 +1704,7 @@ description=Siegfried-Requiem
 // Siegfried-Requiem
 patch=1,EE,70504165,extended,00000006
 
-[Siegfried-Requiem]
+[Siegfried-Requiem (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried-Requiem
 // Siegfried-Requiem
@@ -1818,7 +1716,7 @@ description=Siegfried-Requiem 2
 // Siegfried-Requiem 2
 patch=1,EE,70504165,extended,00000060
 
-[Siegfried-Requiem 2]
+[Siegfried-Requiem 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried-Requiem 2
 // Siegfried-Requiem 2
@@ -1830,7 +1728,7 @@ description=Siegfried-Flamberge
 // Siegfried-Flamberge
 patch=1,EE,70504166,extended,00000006
 
-[Siegfried-Flamberge]
+[Siegfried-Flamberge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried-Flamberge
 // Siegfried-Flamberge
@@ -1842,7 +1740,7 @@ description=Siegfried-Glam
 // Siegfried-Glam
 patch=1,EE,70504166,extended,00000060
 
-[Siegfried-Glam]
+[Siegfried-Glam (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried-Glam
 // Siegfried-Glam
@@ -1854,7 +1752,7 @@ description=Siegfried-Faust
 // Siegfried-Faust
 patch=1,EE,70504167,extended,00000006
 
-[Siegfried-Faust]
+[Siegfried-Faust (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried-Faust
 // Siegfried-Faust
@@ -1866,7 +1764,7 @@ description=Siegfried-Soul Calibur
 // Siegfried-Soul Calibur
 patch=1,EE,70504167,extended,00000060
 
-[Siegfried-Soul Calibur]
+[Siegfried-Soul Calibur (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried-Soul Calibur
 // Siegfried-Soul Calibur
@@ -1878,7 +1776,7 @@ description=Siegfried-Galley Oar
 // Siegfried-Galley Oar
 patch=1,EE,70504168,extended,00000006
 
-[Siegfried-Galley Oar]
+[Siegfried-Galley Oar (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried-Galley Oar
 // Siegfried-Galley Oar
@@ -1890,7 +1788,7 @@ description=Siegfried-The Ancient
 // Siegfried-The Ancient
 patch=1,EE,70504168,extended,00000060
 
-[Siegfried-The Ancient]
+[Siegfried-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried-The Ancient
 // Siegfried-The Ancient
@@ -1902,7 +1800,7 @@ description=Rock-Onslaught
 // Rock-Onslaught
 patch=1,EE,70504169,extended,00000006
 
-[Rock-Onslaught]
+[Rock-Onslaught (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock-Onslaught
 // Rock-Onslaught
@@ -1914,7 +1812,7 @@ description=Rock-Onslaught 2
 // Rock-Onslaught 2
 patch=1,EE,70504169,extended,00000060
 
-[Rock-Onslaught 2]
+[Rock-Onslaught 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock-Onslaught 2
 // Rock-Onslaught 2
@@ -1926,7 +1824,7 @@ description=Rock-Giant Mace
 // Rock-Giant Mace
 patch=1,EE,7050416A,extended,00000006
 
-[Rock-Giant Mace]
+[Rock-Giant Mace (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock-Giant Mace
 // Rock-Giant Mace
@@ -1938,7 +1836,7 @@ description=Rock-Ropalon
 // Rock-Ropalon
 patch=1,EE,7050416A,extended,00000060
 
-[Rock-Ropalon]
+[Rock-Ropalon (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock-Ropalon
 // Rock-Ropalon
@@ -1950,7 +1848,7 @@ description=Rock-Juggernaut
 // Rock-Juggernaut
 patch=1,EE,7050416B,extended,00000006
 
-[Rock-Juggernaut]
+[Rock-Juggernaut (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock-Juggernaut
 // Rock-Juggernaut
@@ -1962,7 +1860,7 @@ description=Rock-Wayakin
 // Rock-Wayakin
 patch=1,EE,7050416B,extended,00000060
 
-[Rock-Wayakin]
+[Rock-Wayakin (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock-Wayakin
 // Rock-Wayakin
@@ -1974,7 +1872,7 @@ description=Rock-Iron Fists
 // Rock-Iron Fists
 patch=1,EE,7050416C,extended,00000006
 
-[Rock-Iron Fists]
+[Rock-Iron Fists (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock-Iron Fists
 // Rock-Iron Fists
@@ -1986,7 +1884,7 @@ description=Rock-The Ancient
 // Rock-The Ancient
 patch=1,EE,7050416C,extended,00000060
 
-[Rock-The Ancient]
+[Rock-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock-The Ancient
 // Rock-The Ancient
@@ -1998,7 +1896,7 @@ description=Ivy-Valentine
 // Ivy-Valentine
 patch=1,EE,7050416D,extended,00000006
 
-[Ivy-Valentine]
+[Ivy-Valentine (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy-Valentine
 // Ivy-Valentine
@@ -2010,7 +1908,7 @@ description=Ivy-Valentine 2
 // Ivy-Valentine 2
 patch=1,EE,7050416D,extended,00000060
 
-[Ivy-Valentine 2]
+[Ivy-Valentine 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy-Valentine 2
 // Ivy-Valentine 2
@@ -2022,7 +1920,7 @@ description=Ivy-Viper Edge
 // Ivy-Viper Edge
 patch=1,EE,7050416E,extended,00000006
 
-[Ivy-Viper Edge]
+[Ivy-Viper Edge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy-Viper Edge
 // Ivy-Viper Edge
@@ -2034,7 +1932,7 @@ description=Ivy-Dream Blade
 // Ivy-Dream Blade
 patch=1,EE,7050416E,extended,00000060
 
-[Ivy-Dream Blade]
+[Ivy-Dream Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy-Dream Blade
 // Ivy-Dream Blade
@@ -2046,7 +1944,7 @@ description=Ivy-Alraune
 // Ivy-Alraune
 patch=1,EE,7050416F,extended,00000006
 
-[Ivy-Alraune]
+[Ivy-Alraune (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy-Alraune
 // Ivy-Alraune
@@ -2058,7 +1956,7 @@ description=Ivy-Kaleidoscope
 // Ivy-Kaleidoscope
 patch=1,EE,7050416F,extended,00000060
 
-[Ivy-Kaleidoscope]
+[Ivy-Kaleidoscope (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy-Kaleidoscope
 // Ivy-Kaleidoscope
@@ -2070,7 +1968,7 @@ description=Ivy-Prototype Ivy Blade
 // Ivy-Prototype Ivy Blade
 patch=1,EE,70504170,extended,00000006
 
-[Ivy-Prototype Ivy Blade]
+[Ivy-Prototype Ivy Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy-Prototype Ivy Blade
 // Ivy-Prototype Ivy Blade
@@ -2082,7 +1980,7 @@ description=Ivy-The Ancient
 // Ivy-The Ancient
 patch=1,EE,70504170,extended,00000060
 
-[Ivy-The Ancient]
+[Ivy-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy-The Ancient
 // Ivy-The Ancient
@@ -2094,7 +1992,7 @@ description=Kilik-Kali-Yuga
 // Kilik-Kali-Yuga
 patch=1,EE,70504171,extended,00000006
 
-[Kilik-Kali-Yuga]
+[Kilik-Kali-Yuga (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik-Kali-Yuga
 // Kilik-Kali-Yuga
@@ -2106,7 +2004,7 @@ description=Kilik-Kali-Yuga 2
 // Kilik-Kali-Yuga 2
 patch=1,EE,70504171,extended,00000060
 
-[Kilik-Kali-Yuga 2]
+[Kilik-Kali-Yuga 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik-Kali-Yuga 2
 // Kilik-Kali-Yuga 2
@@ -2118,7 +2016,7 @@ description=Kilik-Ling-Sheng Su Bo
 // Kilik-Ling-Sheng Su Bo
 patch=1,EE,70504172,extended,00000006
 
-[Kilik-Ling-Sheng Su Bo]
+[Kilik-Ling-Sheng Su Bo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik-Ling-Sheng Su Bo
 // Kilik-Ling-Sheng Su Bo
@@ -2130,7 +2028,7 @@ description=Kilik-Amud
 // Kilik-Amud
 patch=1,EE,70504172,extended,00000060
 
-[Kilik-Amud]
+[Kilik-Amud (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik-Amud
 // Kilik-Amud
@@ -2142,7 +2040,7 @@ description=Kilik-Jingu Staff
 // Kilik-Jingu Staff
 patch=1,EE,70504173,extended,00000006
 
-[Kilik-Jingu Staff]
+[Kilik-Jingu Staff (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik-Jingu Staff
 // Kilik-Jingu Staff
@@ -2154,7 +2052,7 @@ description=Kilik-Soul Calibur
 // Kilik-Soul Calibur
 patch=1,EE,70504173,extended,00000060
 
-[Kilik-Soul Calibur]
+[Kilik-Soul Calibur (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik-Soul Calibur
 // Kilik-Soul Calibur
@@ -2166,7 +2064,7 @@ description=Kilik-Bamboo Staff
 // Kilik-Bamboo Staff
 patch=1,EE,70504174,extended,00000006
 
-[Kilik-Bamboo Staff]
+[Kilik-Bamboo Staff (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik-Bamboo Staff
 // Kilik-Bamboo Staff
@@ -2178,7 +2076,7 @@ description=Kilik-The Ancient
 // Kilik-The Ancient
 patch=1,EE,70504174,extended,00000060
 
-[Kilik-The Ancient]
+[Kilik-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik-The Ancient
 // Kilik-The Ancient
@@ -2190,7 +2088,7 @@ description=Xianghu-No Name
 // Xianghu-No Name
 patch=1,EE,70504175,extended,00000006
 
-[Xianghu-No Name]
+[Xianghu-No Name (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xianghu-No Name
 // Xianghu-No Name
@@ -2202,7 +2100,7 @@ description=Xianghu-No Name 2
 // Xianghu-No Name 2
 patch=1,EE,70504175,extended,00000060
 
-[Xianghu-No Name 2]
+[Xianghu-No Name 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xianghu-No Name 2
 // Xianghu-No Name 2
@@ -2214,7 +2112,7 @@ description=Xianghu-Kard
 // Xianghu-Kard
 patch=1,EE,70504176,extended,00000006
 
-[Xianghu-Kard]
+[Xianghu-Kard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xianghu-Kard
 // Xianghu-Kard
@@ -2226,7 +2124,7 @@ description=Xianghu-Northern Star
 // Xianghu-Northern Star
 patch=1,EE,70504176,extended,00000060
 
-[Xianghu-Northern Star]
+[Xianghu-Northern Star (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xianghu-Northern Star
 // Xianghu-Northern Star
@@ -2238,7 +2136,7 @@ description=Xianghu-Kopis
 // Xianghu-Kopis
 patch=1,EE,70504177,extended,00000006
 
-[Xianghu-Kopis]
+[Xianghu-Kopis (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xianghu-Kopis
 // Xianghu-Kopis
@@ -2250,7 +2148,7 @@ description=Xianghu-Soul Calibur
 // Xianghu-Soul Calibur
 patch=1,EE,70504177,extended,00000060
 
-[Xianghu-Soul Calibur]
+[Xianghu-Soul Calibur (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xianghu-Soul Calibur
 // Xianghu-Soul Calibur
@@ -2262,7 +2160,7 @@ description=Xianghu-Calligraphy Brush
 // Xianghu-Calligraphy Brush
 patch=1,EE,70504178,extended,00000006
 
-[Xianghu-Calligraphy Brush]
+[Xianghu-Calligraphy Brush (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xianghu-Calligraphy Brush
 // Xianghu-Calligraphy Brush
@@ -2274,7 +2172,7 @@ description=Xianghu-The Ancient
 // Xianghu-The Ancient
 patch=1,EE,70504178,extended,00000060
 
-[Xianghu-The Ancient]
+[Xianghu-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xianghu-The Ancient
 // Xianghu-The Ancient
@@ -2286,7 +2184,7 @@ description=Lizardman-Grudge Ax & Aya Shield
 // Lizardman-Grudge Ax & Aya Shield
 patch=1,EE,70504179,extended,00000006
 
-[Lizardman-Grudge Ax & Aya Shield]
+[Lizardman-Grudge Ax & Aya Shield (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman-Grudge Ax & Aya Shield
 // Lizardman-Grudge Ax & Aya Shield
@@ -2298,7 +2196,7 @@ description=Lizardman-Grudge Ax & Aya Shield 2
 // Lizardman-Grudge Ax & Aya Shield 2
 patch=1,EE,70504179,extended,00000060
 
-[Lizardman-Grudge Ax & Aya Shield 2]
+[Lizardman-Grudge Ax & Aya Shield 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman-Grudge Ax & Aya Shield 2
 // Lizardman-Grudge Ax & Aya Shield 2
@@ -2310,7 +2208,7 @@ description=Lizardman-Tabarzin
 // Lizardman-Tabarzin
 patch=1,EE,7050417A,extended,00000006
 
-[Lizardman-Tabarzin]
+[Lizardman-Tabarzin (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman-Tabarzin
 // Lizardman-Tabarzin
@@ -2322,7 +2220,7 @@ description=Lizardman-Lunatic
 // Lizardman-Lunatic
 patch=1,EE,7050417A,extended,00000060
 
-[Lizardman-Lunatic]
+[Lizardman-Lunatic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman-Lunatic
 // Lizardman-Lunatic
@@ -2334,7 +2232,7 @@ description=Lizardman-Kora
 // Lizardman-Kora
 patch=1,EE,7050417B,extended,00000006
 
-[Lizardman-Kora]
+[Lizardman-Kora (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman-Kora
 // Lizardman-Kora
@@ -2346,7 +2244,7 @@ description=Lizardman-Soul Edge
 // Lizardman-Soul Edge
 patch=1,EE,7050417B,extended,00000060
 
-[Lizardman-Soul Edge]
+[Lizardman-Soul Edge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman-Soul Edge
 // Lizardman-Soul Edge
@@ -2358,7 +2256,7 @@ description=Lizardman-Boned Meat
 // Lizardman-Boned Meat
 patch=1,EE,7050417C,extended,00000006
 
-[Lizardman-Boned Meat]
+[Lizardman-Boned Meat (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman-Boned Meat
 // Lizardman-Boned Meat
@@ -2370,7 +2268,7 @@ description=Lizardman-The Ancient
 // Lizardman-The Ancient
 patch=1,EE,7050417C,extended,00000060
 
-[Lizardman-The Ancient]
+[Lizardman-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman-The Ancient
 // Lizardman-The Ancient
@@ -2382,7 +2280,7 @@ description=Yoshimitsu-Yoshimitsu
 // Yoshimitsu-Yoshimitsu
 patch=1,EE,7050417D,extended,00000006
 
-[Yoshimitsu-Yoshimitsu]
+[Yoshimitsu-Yoshimitsu (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu-Yoshimitsu
 // Yoshimitsu-Yoshimitsu
@@ -2394,7 +2292,7 @@ description=Yoshimitsu-Yoshimitsu 2
 // Yoshimitsu-Yoshimitsu 2
 patch=1,EE,7050417D,extended,00000060
 
-[Yoshimitsu-Yoshimitsu 2]
+[Yoshimitsu-Yoshimitsu 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu-Yoshimitsu 2
 // Yoshimitsu-Yoshimitsu 2
@@ -2406,7 +2304,7 @@ description=Yoshimitsu-Kastane
 // Yoshimitsu-Kastane
 patch=1,EE,7050417E,extended,00000006
 
-[Yoshimitsu-Kastane]
+[Yoshimitsu-Kastane (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu-Kastane
 // Yoshimitsu-Kastane
@@ -2418,7 +2316,7 @@ description=Yoshimitsu-Pakayun
 // Yoshimitsu-Pakayun
 patch=1,EE,7050417E,extended,00000060
 
-[Yoshimitsu-Pakayun]
+[Yoshimitsu-Pakayun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu-Pakayun
 // Yoshimitsu-Pakayun
@@ -2430,7 +2328,7 @@ description=Yoshimitsu-Kagekiyo
 // Yoshimitsu-Kagekiyo
 patch=1,EE,7050417F,extended,00000006
 
-[Yoshimitsu-Kagekiyo]
+[Yoshimitsu-Kagekiyo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu-Kagekiyo
 // Yoshimitsu-Kagekiyo
@@ -2442,7 +2340,7 @@ description=Yoshimitsu-Hihiirokane
 // Yoshimitsu-Hihiirokane
 patch=1,EE,7050417F,extended,00000060
 
-[Yoshimitsu-Hihiirokane]
+[Yoshimitsu-Hihiirokane (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu-Hihiirokane
 // Yoshimitsu-Hihiirokane
@@ -2454,7 +2352,7 @@ description=Yoshimitsu-Shepherd's Crook
 // Yoshimitsu-Shepherd's Crook
 patch=1,EE,70504180,extended,00000006
 
-[Yoshimitsu-Shepherd's Crook]
+[Yoshimitsu-Shepherd's Crook (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu-Shepherd's Crook
 // Yoshimitsu-Shepherd's Crook
@@ -2466,7 +2364,7 @@ description=Yoshimitsu-The Ancient
 // Yoshimitsu-The Ancient
 patch=1,EE,70504180,extended,00000060
 
-[Yoshimitsu-The Ancient]
+[Yoshimitsu-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu-The Ancient
 // Yoshimitsu-The Ancient
@@ -2478,7 +2376,7 @@ description=Nightmare-Soul Edge (Phantom)
 // Nightmare-Soul Edge (Phantom)
 patch=1,EE,70504181,extended,00000006
 
-[Nightmare-Soul Edge (Phantom)]
+[Nightmare-Soul Edge (Phantom) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare-Soul Edge (Phantom)
 // Nightmare-Soul Edge (Phantom)
@@ -2490,7 +2388,7 @@ description=Nightmare-Soul Edge (Phantom) 2
 // Nightmare-Soul Edge (Phantom) 2
 patch=1,EE,70504181,extended,00000060
 
-[Nightmare-Soul Edge (Phantom) 2]
+[Nightmare-Soul Edge (Phantom) 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare-Soul Edge (Phantom) 2
 // Nightmare-Soul Edge (Phantom) 2
@@ -2502,7 +2400,7 @@ description=Nightmare-Steel Paddle
 // Nightmare-Steel Paddle
 patch=1,EE,70504182,extended,00000006
 
-[Nightmare-Steel Paddle]
+[Nightmare-Steel Paddle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare-Steel Paddle
 // Nightmare-Steel Paddle
@@ -2514,7 +2412,7 @@ description=Nightmare-Soul Edge (Larvae)
 // Nightmare-Soul Edge (Larvae)
 patch=1,EE,70504182,extended,00000060
 
-[Nightmare-Soul Edge (Larvae)]
+[Nightmare-Soul Edge (Larvae) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare-Soul Edge (Larvae)
 // Nightmare-Soul Edge (Larvae)
@@ -2526,7 +2424,7 @@ description=Nightmare-Soul Edge (Cocoon)
 // Nightmare-Soul Edge (Cocoon)
 patch=1,EE,70504183,extended,00000006
 
-[Nightmare-Soul Edge (Cocoon)]
+[Nightmare-Soul Edge (Cocoon) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare-Soul Edge (Cocoon)
 // Nightmare-Soul Edge (Cocoon)
@@ -2538,7 +2436,7 @@ description=Nightmare-Soul Edge
 // Nightmare-Soul Edge
 patch=1,EE,70504183,extended,00000060
 
-[Nightmare-Soul Edge]
+[Nightmare-Soul Edge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare-Soul Edge
 // Nightmare-Soul Edge
@@ -2550,7 +2448,7 @@ description=Nightmare-Giant Squid
 // Nightmare-Giant Squid
 patch=1,EE,70504184,extended,00000006
 
-[Nightmare-Giant Squid]
+[Nightmare-Giant Squid (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare-Giant Squid
 // Nightmare-Giant Squid
@@ -2562,7 +2460,7 @@ description=Nightmare-The Ancient
 // Nightmare-The Ancient
 patch=1,EE,70504184,extended,00000060
 
-[Nightmare-The Ancient]
+[Nightmare-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare-The Ancient
 // Nightmare-The Ancient
@@ -2574,7 +2472,7 @@ description=Astaroth-Kulutues
 // Astaroth-Kulutues
 patch=1,EE,70504185,extended,00000006
 
-[Astaroth-Kulutues]
+[Astaroth-Kulutues (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth-Kulutues
 // Astaroth-Kulutues
@@ -2586,7 +2484,7 @@ description=Astaroth-Kulutues 2
 // Astaroth-Kulutues 2
 patch=1,EE,70504185,extended,00000060
 
-[Astaroth-Kulutues 2]
+[Astaroth-Kulutues 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth-Kulutues 2
 // Astaroth-Kulutues 2
@@ -2598,7 +2496,7 @@ description=Astaroth-Terror Moon
 // Astaroth-Terror Moon
 patch=1,EE,70504186,extended,00000006
 
-[Astaroth-Terror Moon]
+[Astaroth-Terror Moon (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth-Terror Moon
 // Astaroth-Terror Moon
@@ -2610,7 +2508,7 @@ description=Astaroth-Great Maul
 // Astaroth-Great Maul
 patch=1,EE,70504186,extended,00000060
 
-[Astaroth-Great Maul]
+[Astaroth-Great Maul (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth-Great Maul
 // Astaroth-Great Maul
@@ -2622,7 +2520,7 @@ description=Astaroth-Nanbanfu
 // Astaroth-Nanbanfu
 patch=1,EE,70504187,extended,00000006
 
-[Astaroth-Nanbanfu]
+[Astaroth-Nanbanfu (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth-Nanbanfu
 // Astaroth-Nanbanfu
@@ -2634,7 +2532,7 @@ description=Astaroth-Soul Edge
 // Astaroth-Soul Edge
 patch=1,EE,70504187,extended,00000060
 
-[Astaroth-Soul Edge]
+[Astaroth-Soul Edge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth-Soul Edge
 // Astaroth-Soul Edge
@@ -2646,7 +2544,7 @@ description=Astaroth-Stone Slab
 // Astaroth-Stone Slab
 patch=1,EE,70504188,extended,00000006
 
-[Astaroth-Stone Slab]
+[Astaroth-Stone Slab (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth-Stone Slab
 // Astaroth-Stone Slab
@@ -2658,7 +2556,7 @@ description=Astaroth-The Ancient
 // Astaroth-The Ancient
 patch=1,EE,70504188,extended,00000060
 
-[Astaroth-The Ancient]
+[Astaroth-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth-The Ancient
 // Astaroth-The Ancient
@@ -2670,7 +2568,7 @@ description=Cervantes-Soul Edge & Nirvana
 // Cervantes-Soul Edge & Nirvana
 patch=1,EE,70504189,extended,00000006
 
-[Cervantes-Soul Edge & Nirvana]
+[Cervantes-Soul Edge & Nirvana (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes-Soul Edge & Nirvana
 // Cervantes-Soul Edge & Nirvana
@@ -2682,7 +2580,7 @@ description=Cervantes-Soul Edge & Nirvana 2
 // Cervantes-Soul Edge & Nirvana 2
 patch=1,EE,70504189,extended,00000060
 
-[Cervantes-Soul Edge & Nirvana 2]
+[Cervantes-Soul Edge & Nirvana 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes-Soul Edge & Nirvana 2
 // Cervantes-Soul Edge & Nirvana 2
@@ -2694,7 +2592,7 @@ description=Cervantes-Styx
 // Cervantes-Styx
 patch=1,EE,7050418A,extended,00000006
 
-[Cervantes-Styx]
+[Cervantes-Styx (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes-Styx
 // Cervantes-Styx
@@ -2706,7 +2604,7 @@ description=Cervantes-Erlang's Blade
 // Cervantes-Erlang's Blade
 patch=1,EE,7050418A,extended,00000060
 
-[Cervantes-Erlang's Blade]
+[Cervantes-Erlang's Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes-Erlang's Blade
 // Cervantes-Erlang's Blade
@@ -2718,7 +2616,7 @@ description=Cervantes-Phlegethon
 // Cervantes-Phlegethon
 patch=1,EE,7050418B,extended,00000006
 
-[Cervantes-Phlegethon]
+[Cervantes-Phlegethon (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes-Phlegethon
 // Cervantes-Phlegethon
@@ -2730,7 +2628,7 @@ description=Cervantes-Soul Edge
 // Cervantes-Soul Edge
 patch=1,EE,7050418B,extended,00000060
 
-[Cervantes-Soul Edge]
+[Cervantes-Soul Edge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes-Soul Edge
 // Cervantes-Soul Edge
@@ -2742,7 +2640,7 @@ description=Cervantes-Imitation Sword
 // Cervantes-Imitation Sword
 patch=1,EE,7050418C,extended,00000006
 
-[Cervantes-Imitation Sword]
+[Cervantes-Imitation Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes-Imitation Sword
 // Cervantes-Imitation Sword
@@ -2754,7 +2652,7 @@ description=Cervantes-The Ancient
 // Cervantes-The Ancient
 patch=1,EE,7050418C,extended,00000060
 
-[Cervantes-The Ancient]
+[Cervantes-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes-The Ancient
 // Cervantes-The Ancient
@@ -2766,7 +2664,7 @@ description=Raphael-Flambert
 // Raphael-Flambert
 patch=1,EE,7050418D,extended,00000006
 
-[Raphael-Flambert]
+[Raphael-Flambert (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael-Flambert
 // Raphael-Flambert
@@ -2778,7 +2676,7 @@ description=Raphael-Flambert 2
 // Raphael-Flambert 2
 patch=1,EE,7050418D,extended,00000060
 
-[Raphael-Flambert 2]
+[Raphael-Flambert 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael-Flambert 2
 // Raphael-Flambert 2
@@ -2790,7 +2688,7 @@ description=Raphael-Epee
 // Raphael-Epee
 patch=1,EE,7050418E,extended,00000006
 
-[Raphael-Epee]
+[Raphael-Epee (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael-Epee
 // Raphael-Epee
@@ -2802,7 +2700,7 @@ description=Raphael-Holy Antler
 // Raphael-Holy Antler
 patch=1,EE,7050418E,extended,00000060
 
-[Raphael-Holy Antler]
+[Raphael-Holy Antler (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael-Holy Antler
 // Raphael-Holy Antler
@@ -2814,7 +2712,7 @@ description=Raphael-Estoc
 // Raphael-Estoc
 patch=1,EE,7050418F,extended,00000006
 
-[Raphael-Estoc]
+[Raphael-Estoc (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael-Estoc
 // Raphael-Estoc
@@ -2826,7 +2724,7 @@ description=Raphael-Queen's Guard
 // Raphael-Queen's Guard
 patch=1,EE,7050418F,extended,00000060
 
-[Raphael-Queen's Guard]
+[Raphael-Queen's Guard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael-Queen's Guard
 // Raphael-Queen's Guard
@@ -2838,7 +2736,7 @@ description=Raphael-Cane
 // Raphael-Cane
 patch=1,EE,70504190,extended,00000006
 
-[Raphael-Cane]
+[Raphael-Cane (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael-Cane
 // Raphael-Cane
@@ -2850,7 +2748,7 @@ description=Raphael-The Ancient
 // Raphael-The Ancient
 patch=1,EE,70504190,extended,00000060
 
-[Raphael-The Ancient]
+[Raphael-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael-The Ancient
 // Raphael-The Ancient
@@ -2862,7 +2760,7 @@ description=Talim-Syi Salika & Loka Luha
 // Talim-Syi Salika & Loka Luha
 patch=1,EE,70504191,extended,00000006
 
-[Talim-Syi Salika & Loka Luha]
+[Talim-Syi Salika & Loka Luha (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim-Syi Salika & Loka Luha
 // Talim-Syi Salika & Loka Luha
@@ -2874,7 +2772,7 @@ description=Talim-Syi Salika & Loka Luha 2
 // Talim-Syi Salika & Loka Luha 2
 patch=1,EE,70504191,extended,00000060
 
-[Talim-Syi Salika & Loka Luha 2]
+[Talim-Syi Salika & Loka Luha 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim-Syi Salika & Loka Luha 2
 // Talim-Syi Salika & Loka Luha 2
@@ -2886,7 +2784,7 @@ description=Talim-Tonfa
 // Talim-Tonfa
 patch=1,EE,70504192,extended,00000006
 
-[Talim-Tonfa]
+[Talim-Tonfa (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim-Tonfa
 // Talim-Tonfa
@@ -2898,7 +2796,7 @@ description=Talim-Side Harpe
 // Talim-Side Harpe
 patch=1,EE,70504192,extended,00000060
 
-[Talim-Side Harpe]
+[Talim-Side Harpe (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim-Side Harpe
 // Talim-Side Harpe
@@ -2910,7 +2808,7 @@ description=Talim-Double Crescent Blade
 // Talim-Double Crescent Blade
 patch=1,EE,70504193,extended,00000006
 
-[Talim-Double Crescent Blade]
+[Talim-Double Crescent Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim-Double Crescent Blade
 // Talim-Double Crescent Blade
@@ -2922,7 +2820,7 @@ description=Talim-Soul Calibur
 // Talim-Soul Calibur
 patch=1,EE,70504193,extended,00000060
 
-[Talim-Soul Calibur]
+[Talim-Soul Calibur (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim-Soul Calibur
 // Talim-Soul Calibur
@@ -2934,7 +2832,7 @@ description=Talim-Weight
 // Talim-Weight
 patch=1,EE,70504194,extended,00000006
 
-[Talim-Weight]
+[Talim-Weight (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim-Weight
 // Talim-Weight
@@ -2946,7 +2844,7 @@ description=Talim-The Ancient
 // Talim-The Ancient
 patch=1,EE,70504194,extended,00000060
 
-[Talim-The Ancient]
+[Talim-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim-The Ancient
 // Talim-The Ancient
@@ -2958,7 +2856,7 @@ description=Cassandra-Digamma Sword & Nemea Shield
 // Cassandra-Digamma Sword & Nemea Shield
 patch=1,EE,70504195,extended,00000006
 
-[Cassandra-Digamma Sword & Nemea Shield]
+[Cassandra-Digamma Sword & Nemea Shield (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra-Digamma Sword & Nemea Shield
 // Cassandra-Digamma Sword & Nemea Shield
@@ -2970,7 +2868,7 @@ description=Cassandra-Digamma Sword & Nemea Shield 2
 // Cassandra-Digamma Sword & Nemea Shield 2
 patch=1,EE,70504195,extended,00000060
 
-[Cassandra-Digamma Sword & Nemea Shield 2]
+[Cassandra-Digamma Sword & Nemea Shield 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra-Digamma Sword & Nemea Shield 2
 // Cassandra-Digamma Sword & Nemea Shield 2
@@ -2982,7 +2880,7 @@ description=Cassandra-Ivan The Terrible
 // Cassandra-Ivan The Terrible
 patch=1,EE,70504196,extended,00000006
 
-[Cassandra-Ivan The Terrible]
+[Cassandra-Ivan The Terrible (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra-Ivan The Terrible
 // Cassandra-Ivan The Terrible
@@ -2994,7 +2892,7 @@ description=Cassandra-Spine Blade
 // Cassandra-Spine Blade
 patch=1,EE,70504196,extended,00000060
 
-[Cassandra-Spine Blade]
+[Cassandra-Spine Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra-Spine Blade
 // Cassandra-Spine Blade
@@ -3006,7 +2904,7 @@ description=Cassandra-Dark Blade
 // Cassandra-Dark Blade
 patch=1,EE,70504197,extended,00000006
 
-[Cassandra-Dark Blade]
+[Cassandra-Dark Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra-Dark Blade
 // Cassandra-Dark Blade
@@ -3018,7 +2916,7 @@ description=Cassandra-Valkyrie
 // Cassandra-Valkyrie
 patch=1,EE,70504197,extended,00000060
 
-[Cassandra-Valkyrie]
+[Cassandra-Valkyrie (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra-Valkyrie
 // Cassandra-Valkyrie
@@ -3030,7 +2928,7 @@ description=Cassandra-Broken Sword
 // Cassandra-Broken Sword
 patch=1,EE,70504198,extended,00000006
 
-[Cassandra-Broken Sword]
+[Cassandra-Broken Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra-Broken Sword
 // Cassandra-Broken Sword
@@ -3042,7 +2940,7 @@ description=Cassandra-The Ancient
 // Cassandra-The Ancient
 patch=1,EE,70504198,extended,00000060
 
-[Cassandra-The Ancient]
+[Cassandra-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra-The Ancient
 // Cassandra-The Ancient
@@ -3054,7 +2952,7 @@ description=Yun-Seong-White Storm
 // Yun-Seong-White Storm
 patch=1,EE,70504199,extended,00000006
 
-[Yun-Seong-White Storm]
+[Yun-Seong-White Storm (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong-White Storm
 // Yun-Seong-White Storm
@@ -3066,7 +2964,7 @@ description=Yun-Seong-White Storm 2
 // Yun-Seong-White Storm 2
 patch=1,EE,70504199,extended,00000060
 
-[Yun-Seong-White Storm 2]
+[Yun-Seong-White Storm 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong-White Storm 2
 // Yun-Seong-White Storm 2
@@ -3078,7 +2976,7 @@ description=Yun-Seong-Giant Butcher Knife
 // Yun-Seong-Giant Butcher Knife
 patch=1,EE,7050419A,extended,00000006
 
-[Yun-Seong-Giant Butcher Knife]
+[Yun-Seong-Giant Butcher Knife (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong-Giant Butcher Knife
 // Yun-Seong-Giant Butcher Knife
@@ -3090,7 +2988,7 @@ description=Yun-Seong-Cheng Ying
 // Yun-Seong-Cheng Ying
 patch=1,EE,7050419A,extended,00000060
 
-[Yun-Seong-Cheng Ying]
+[Yun-Seong-Cheng Ying (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong-Cheng Ying
 // Yun-Seong-Cheng Ying
@@ -3102,7 +3000,7 @@ description=Yun-Seong-Ramdao
 // Yun-Seong-Ramdao
 patch=1,EE,7050419B,extended,00000006
 
-[Yun-Seong-Ramdao]
+[Yun-Seong-Ramdao (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong-Ramdao
 // Yun-Seong-Ramdao
@@ -3114,7 +3012,7 @@ description=Yun-Seong-Han Guang
 // Yun-Seong-Han Guang
 patch=1,EE,7050419B,extended,00000060
 
-[Yun-Seong-Han Guang]
+[Yun-Seong-Han Guang (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong-Han Guang
 // Yun-Seong-Han Guang
@@ -3126,7 +3024,7 @@ description=Yun-Seong-Child's Sword
 // Yun-Seong-Child's Sword
 patch=1,EE,7050419C,extended,00000006
 
-[Yun-Seong-Child's Sword]
+[Yun-Seong-Child's Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong-Child's Sword
 // Yun-Seong-Child's Sword
@@ -3138,7 +3036,7 @@ description=Yun-Seong-The Ancient
 // Yun-Seong-The Ancient
 patch=1,EE,7050419C,extended,00000060
 
-[Yun-Seong-The Ancient]
+[Yun-Seong-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong-The Ancient
 // Yun-Seong-The Ancient
@@ -3150,7 +3048,7 @@ description=Setsuka-Ugetsu Kageuchi
 // Setsuka-Ugetsu Kageuchi
 patch=1,EE,7050419D,extended,00000006
 
-[Setsuka-Ugetsu Kageuchi]
+[Setsuka-Ugetsu Kageuchi (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka-Ugetsu Kageuchi
 // Setsuka-Ugetsu Kageuchi
@@ -3162,7 +3060,7 @@ description=Setsuka-Ugetsu Kageuchi 2
 // Setsuka-Ugetsu Kageuchi 2
 patch=1,EE,7050419D,extended,00000060
 
-[Setsuka-Ugetsu Kageuchi 2]
+[Setsuka-Ugetsu Kageuchi 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka-Ugetsu Kageuchi 2
 // Setsuka-Ugetsu Kageuchi 2
@@ -3174,7 +3072,7 @@ description=Setsuka-Ridicule
 // Setsuka-Ridicule
 patch=1,EE,7050419E,extended,00000006
 
-[Setsuka-Ridicule]
+[Setsuka-Ridicule (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka-Ridicule
 // Setsuka-Ridicule
@@ -3186,7 +3084,7 @@ description=Setsuka-Shiranamigasumi
 // Setsuka-Shiranamigasumi
 patch=1,EE,7050419E,extended,00000060
 
-[Setsuka-Shiranamigasumi]
+[Setsuka-Shiranamigasumi (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka-Shiranamigasumi
 // Setsuka-Shiranamigasumi
@@ -3198,7 +3096,7 @@ description=Setsuka-Moonlight
 // Setsuka-Moonlight
 patch=1,EE,7050419F,extended,00000006
 
-[Setsuka-Moonlight]
+[Setsuka-Moonlight (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka-Moonlight
 // Setsuka-Moonlight
@@ -3210,7 +3108,7 @@ description=Setsuka-Ugetsu Shinuchi
 // Setsuka-Ugetsu Shinuchi
 patch=1,EE,7050419F,extended,00000060
 
-[Setsuka-Ugetsu Shinuchi]
+[Setsuka-Ugetsu Shinuchi (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka-Ugetsu Shinuchi
 // Setsuka-Ugetsu Shinuchi
@@ -3222,7 +3120,7 @@ description=Setsuka-Broken Bamboo Sword
 // Setsuka-Broken Bamboo Sword
 patch=1,EE,705041A0,extended,00000006
 
-[Setsuka-Broken Bamboo Sword]
+[Setsuka-Broken Bamboo Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka-Broken Bamboo Sword
 // Setsuka-Broken Bamboo Sword
@@ -3234,7 +3132,7 @@ description=Setsuka-The Ancient
 // Setsuka-The Ancient
 patch=1,EE,705041A0,extended,00000060
 
-[Setsuka-The Ancient]
+[Setsuka-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka-The Ancient
 // Setsuka-The Ancient
@@ -3246,7 +3144,7 @@ description=Tira-Aiselne Drossel
 // Tira-Aiselne Drossel
 patch=1,EE,705041A1,extended,00000006
 
-[Tira-Aiselne Drossel]
+[Tira-Aiselne Drossel (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira-Aiselne Drossel
 // Tira-Aiselne Drossel
@@ -3258,7 +3156,7 @@ description=Tira-Aiselne Drossel 2
 // Tira-Aiselne Drossel 2
 patch=1,EE,705041A1,extended,00000060
 
-[Tira-Aiselne Drossel 2]
+[Tira-Aiselne Drossel 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira-Aiselne Drossel 2
 // Tira-Aiselne Drossel 2
@@ -3270,7 +3168,7 @@ description=Tira-Bifrost
 // Tira-Bifrost
 patch=1,EE,705041A2,extended,00000006
 
-[Tira-Bifrost]
+[Tira-Bifrost (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira-Bifrost
 // Tira-Bifrost
@@ -3282,7 +3180,7 @@ description=Tira-Ixion
 // Tira-Ixion
 patch=1,EE,705041A2,extended,00000060
 
-[Tira-Ixion]
+[Tira-Ixion (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira-Ixion
 // Tira-Ixion
@@ -3294,7 +3192,7 @@ description=Tira-Vimana
 // Tira-Vimana
 patch=1,EE,705041A3,extended,00000006
 
-[Tira-Vimana]
+[Tira-Vimana (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira-Vimana
 // Tira-Vimana
@@ -3306,7 +3204,7 @@ description=Tira-Soul Edge
 // Tira-Soul Edge
 patch=1,EE,705041A3,extended,00000060
 
-[Tira-Soul Edge]
+[Tira-Soul Edge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira-Soul Edge
 // Tira-Soul Edge
@@ -3318,7 +3216,7 @@ description=Tira-Cogwheel
 // Tira-Cogwheel
 patch=1,EE,705041A4,extended,00000006
 
-[Tira-Cogwheel]
+[Tira-Cogwheel (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira-Cogwheel
 // Tira-Cogwheel
@@ -3330,7 +3228,7 @@ description=Tira-The Ancient
 // Tira-The Ancient
 patch=1,EE,705041A4,extended,00000060
 
-[Tira-The Ancient]
+[Tira-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira-The Ancient
 // Tira-The Ancient
@@ -3342,7 +3240,7 @@ description=Zasalamel-Kafziel
 // Zasalamel-Kafziel
 patch=1,EE,705041A5,extended,00000006
 
-[Zasalamel-Kafziel]
+[Zasalamel-Kafziel (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel-Kafziel
 // Zasalamel-Kafziel
@@ -3354,7 +3252,7 @@ description=Zasalamel-Kafziel 2
 // Zasalamel-Kafziel 2
 patch=1,EE,705041A5,extended,00000060
 
-[Zasalamel-Kafziel 2]
+[Zasalamel-Kafziel 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel-Kafziel 2
 // Zasalamel-Kafziel 2
@@ -3366,7 +3264,7 @@ description=Zasalamel-Ankou
 // Zasalamel-Ankou
 patch=1,EE,705041A6,extended,00000006
 
-[Zasalamel-Ankou]
+[Zasalamel-Ankou (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel-Ankou
 // Zasalamel-Ankou
@@ -3378,7 +3276,7 @@ description=Zasalamel-Balor
 // Zasalamel-Balor
 patch=1,EE,705041A6,extended,00000060
 
-[Zasalamel-Balor]
+[Zasalamel-Balor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel-Balor
 // Zasalamel-Balor
@@ -3390,7 +3288,7 @@ description=Zasalamel-Mrtyu
 // Zasalamel-Mrtyu
 patch=1,EE,705041A7,extended,00000006
 
-[Zasalamel-Mrtyu]
+[Zasalamel-Mrtyu (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel-Mrtyu
 // Zasalamel-Mrtyu
@@ -3402,7 +3300,7 @@ description=Zasalamel-Irkalla
 // Zasalamel-Irkalla
 patch=1,EE,705041A7,extended,00000060
 
-[Zasalamel-Irkalla]
+[Zasalamel-Irkalla (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel-Irkalla
 // Zasalamel-Irkalla
@@ -3414,7 +3312,7 @@ description=Zasalamel-Beak
 // Zasalamel-Beak
 patch=1,EE,705041A8,extended,00000006
 
-[Zasalamel-Beak]
+[Zasalamel-Beak (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel-Beak
 // Zasalamel-Beak
@@ -3426,7 +3324,7 @@ description=Zasalamel-The Ancient
 // Zasalamel-The Ancient
 patch=1,EE,705041A8,extended,00000060
 
-[Zasalamel-The Ancient]
+[Zasalamel-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel-The Ancient
 // Zasalamel-The Ancient
@@ -3438,7 +3336,7 @@ description=Olcadan-The Silent
 // Olcadan-The Silent
 patch=1,EE,705041A9,extended,00000006
 
-[Olcadan-The Silent]
+[Olcadan-The Silent (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan-The Silent
 // Olcadan-The Silent
@@ -3450,7 +3348,7 @@ description=Olcadan-The Mute
 // Olcadan-The Mute
 patch=1,EE,705041A9,extended,00000060
 
-[Olcadan-The Mute]
+[Olcadan-The Mute (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan-The Mute
 // Olcadan-The Mute
@@ -3462,7 +3360,7 @@ description=Olcadan-The Perceptive
 // Olcadan-The Perceptive
 patch=1,EE,705041AA,extended,00000006
 
-[Olcadan-The Perceptive]
+[Olcadan-The Perceptive (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan-The Perceptive
 // Olcadan-The Perceptive
@@ -3474,7 +3372,7 @@ description=Olcadan-The Fierce
 // Olcadan-The Fierce
 patch=1,EE,705041AA,extended,00000060
 
-[Olcadan-The Fierce]
+[Olcadan-The Fierce (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan-The Fierce
 // Olcadan-The Fierce
@@ -3486,7 +3384,7 @@ description=Olcadan-The Savage
 // Olcadan-The Savage
 patch=1,EE,705041AB,extended,00000006
 
-[Olcadan-The Savage]
+[Olcadan-The Savage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan-The Savage
 // Olcadan-The Savage
@@ -3498,7 +3396,7 @@ description=Olcadan-The Hidden
 // Olcadan-The Hidden
 patch=1,EE,705041AB,extended,00000060
 
-[Olcadan-The Hidden]
+[Olcadan-The Hidden (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan-The Hidden
 // Olcadan-The Hidden
@@ -3510,7 +3408,7 @@ description=Olcadan-The Tease
 // Olcadan-The Tease
 patch=1,EE,705041AC,extended,00000006
 
-[Olcadan-The Tease]
+[Olcadan-The Tease (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan-The Tease
 // Olcadan-The Tease
@@ -3522,7 +3420,7 @@ description=Olcadan-The Ancient
 // Olcadan-The Ancient
 patch=1,EE,705041AC,extended,00000060
 
-[Olcadan-The Ancient]
+[Olcadan-The Ancient (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan-The Ancient
 // Olcadan-The Ancient
@@ -3534,7 +3432,7 @@ description=Abyss-Irkalla
 // Abyss-Irkalla
 patch=1,EE,705041AD,extended,00000006
 
-[Abyss-Irkalla]
+[Abyss-Irkalla (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abyss-Irkalla
 // Abyss-Irkalla
@@ -3546,7 +3444,7 @@ description=Abyss-Irkalla 2
 // Abyss-Irkalla 2
 patch=1,EE,705041AD,extended,00000060
 
-[Abyss-Irkalla 2]
+[Abyss-Irkalla 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abyss-Irkalla 2
 // Abyss-Irkalla 2
@@ -3558,7 +3456,7 @@ description=Miser-Onimaro & Tobikage
 // Miser-Onimaro & Tobikage
 patch=1,EE,705041AE,extended,00000060
 
-[Miser-Onimaro & Tobikage]
+[Miser-Onimaro & Tobikage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Miser-Onimaro & Tobikage
 // Miser-Onimaro & Tobikage
@@ -3570,7 +3468,7 @@ description=Miser-Tsubanari & Ryusei
 // Miser-Tsubanari & Ryusei
 patch=1,EE,705041AF,extended,00000006
 
-[Miser-Tsubanari & Ryusei]
+[Miser-Tsubanari & Ryusei (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Miser-Tsubanari & Ryusei
 // Miser-Tsubanari & Ryusei
@@ -3582,7 +3480,7 @@ description=Miser-Suigetsutou & Ukifune
 // Miser-Suigetsutou & Ukifune
 patch=1,EE,705041AF,extended,00000060
 
-[Miser-Suigetsutou & Ukifune]
+[Miser-Suigetsutou & Ukifune (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Miser-Suigetsutou & Ukifune
 // Miser-Suigetsutou & Ukifune
@@ -3594,7 +3492,7 @@ description=Miser-Genma & Kokuen
 // Miser-Genma & Kokuen
 patch=1,EE,705041B0,extended,00000006
 
-[Miser-Genma & Kokuen]
+[Miser-Genma & Kokuen (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Miser-Genma & Kokuen
 // Miser-Genma & Kokuen
@@ -3606,7 +3504,7 @@ description=Miser-Totsuka & Tatsugashira
 // Miser-Totsuka & Tatsugashira
 patch=1,EE,705041B0,extended,00000060
 
-[Miser-Totsuka & Tatsugashira]
+[Miser-Totsuka & Tatsugashira (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Miser-Totsuka & Tatsugashira
 // Miser-Totsuka & Tatsugashira
@@ -3618,7 +3516,7 @@ description=Miser-Red Crow & Rusty Wing
 // Miser-Red Crow & Rusty Wing
 patch=1,EE,705041B1,extended,00000006
 
-[Miser-Red Crow & Rusty Wing]
+[Miser-Red Crow & Rusty Wing (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Miser-Red Crow & Rusty Wing
 // Miser-Red Crow & Rusty Wing
@@ -3630,7 +3528,7 @@ description=Greed-Kunai
 // Greed-Kunai
 patch=1,EE,705041B1,extended,00000060
 
-[Greed-Kunai]
+[Greed-Kunai (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Greed-Kunai
 // Greed-Kunai
@@ -3642,7 +3540,7 @@ description=Greed-Kaiken
 // Greed-Kaiken
 patch=1,EE,705041B2,extended,00000006
 
-[Greed-Kaiken]
+[Greed-Kaiken (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Greed-Kaiken
 // Greed-Kaiken
@@ -3654,7 +3552,7 @@ description=Greed-Kazekirimaru
 // Greed-Kazekirimaru
 patch=1,EE,705041B2,extended,00000060
 
-[Greed-Kazekirimaru]
+[Greed-Kazekirimaru (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Greed-Kazekirimaru
 // Greed-Kazekirimaru
@@ -3666,7 +3564,7 @@ description=Greed-Nakinue
 // Greed-Nakinue
 patch=1,EE,705041B3,extended,00000006
 
-[Greed-Nakinue]
+[Greed-Nakinue (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Greed-Nakinue
 // Greed-Nakinue
@@ -3678,7 +3576,7 @@ description=Greed-Shutensou
 // Greed-Shutensou
 patch=1,EE,705041B3,extended,00000060
 
-[Greed-Shutensou]
+[Greed-Shutensou (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Greed-Shutensou
 // Greed-Shutensou
@@ -3690,7 +3588,7 @@ description=Greed-Austere & Void
 // Greed-Austere & Void
 patch=1,EE,705041B4,extended,00000006
 
-[Greed-Austere & Void]
+[Greed-Austere & Void (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Greed-Austere & Void
 // Greed-Austere & Void
@@ -3702,7 +3600,7 @@ description=Greed-Galeforce
 // Greed-Galeforce
 patch=1,EE,705041B4,extended,00000060
 
-[Greed-Galeforce]
+[Greed-Galeforce (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Greed-Galeforce
 // Greed-Galeforce
@@ -3714,7 +3612,7 @@ description=Arthur-Zantetsuken
 // Arthur-Zantetsuken
 patch=1,EE,705041B5,extended,00000006
 
-[Arthur-Zantetsuken]
+[Arthur-Zantetsuken (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Arthur-Zantetsuken
 // Arthur-Zantetsuken
@@ -3726,7 +3624,7 @@ description=Arthur-Wo Dao
 // Arthur-Wo Dao
 patch=1,EE,705041B5,extended,00000060
 
-[Arthur-Wo Dao]
+[Arthur-Wo Dao (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Arthur-Wo Dao
 // Arthur-Wo Dao
@@ -3738,7 +3636,7 @@ description=Arthur-Monohoshizao
 // Arthur-Monohoshizao
 patch=1,EE,705041B6,extended,00000006
 
-[Arthur-Monohoshizao]
+[Arthur-Monohoshizao (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Arthur-Monohoshizao
 // Arthur-Monohoshizao
@@ -3750,7 +3648,7 @@ description=Arthur-Shiranui
 // Arthur-Shiranui
 patch=1,EE,705041B6,extended,00000060
 
-[Arthur-Shiranui]
+[Arthur-Shiranui (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Arthur-Shiranui
 // Arthur-Shiranui
@@ -3762,7 +3660,7 @@ description=Arthur-Murasame
 // Arthur-Murasame
 patch=1,EE,705041B7,extended,00000006
 
-[Arthur-Murasame]
+[Arthur-Murasame (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Arthur-Murasame
 // Arthur-Murasame
@@ -3774,7 +3672,7 @@ description=Arthur-Gassan
 // Arthur-Gassan
 patch=1,EE,705041B7,extended,00000060
 
-[Arthur-Gassan]
+[Arthur-Gassan (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Arthur-Gassan
 // Arthur-Gassan
@@ -3786,7 +3684,7 @@ description=Arthur-Kokuenra
 // Arthur-Kokuenra
 patch=1,EE,705041B8,extended,00000006
 
-[Arthur-Kokuenra]
+[Arthur-Kokuenra (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Arthur-Kokuenra
 // Arthur-Kokuenra
@@ -3798,7 +3696,7 @@ description=Hwang-Qing Long
 // Hwang-Qing Long
 patch=1,EE,705041B8,extended,00000060
 
-[Hwang-Qing Long]
+[Hwang-Qing Long (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hwang-Qing Long
 // Hwang-Qing Long
@@ -3810,7 +3708,7 @@ description=Hwang-Po Shan
 // Hwang-Po Shan
 patch=1,EE,705041B9,extended,00000006
 
-[Hwang-Po Shan]
+[Hwang-Po Shan (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hwang-Po Shan
 // Hwang-Po Shan
@@ -3822,7 +3720,7 @@ description=Hwang-Falchion
 // Hwang-Falchion
 patch=1,EE,705041B9,extended,00000060
 
-[Hwang-Falchion]
+[Hwang-Falchion (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hwang-Falchion
 // Hwang-Falchion
@@ -3834,7 +3732,7 @@ description=Hwang-Lei Yan
 // Hwang-Lei Yan
 patch=1,EE,705041BA,extended,00000006
 
-[Hwang-Lei Yan]
+[Hwang-Lei Yan (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hwang-Lei Yan
 // Hwang-Lei Yan
@@ -3846,7 +3744,7 @@ description=Hwang-Bonebreaker Sword
 // Hwang-Bonebreaker Sword
 patch=1,EE,705041BA,extended,00000060
 
-[Hwang-Bonebreaker Sword]
+[Hwang-Bonebreaker Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hwang-Bonebreaker Sword
 // Hwang-Bonebreaker Sword
@@ -3858,7 +3756,7 @@ description=Hwang-Blue Thunder
 // Hwang-Blue Thunder
 patch=1,EE,705041BB,extended,00000006
 
-[Hwang-Blue Thunder]
+[Hwang-Blue Thunder (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hwang-Blue Thunder
 // Hwang-Blue Thunder
@@ -3870,7 +3768,7 @@ description=Hwang-Dragon Sword
 // Hwang-Dragon Sword
 patch=1,EE,705041BB,extended,00000060
 
-[Hwang-Dragon Sword]
+[Hwang-Dragon Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hwang-Dragon Sword
 // Hwang-Dragon Sword
@@ -3882,7 +3780,7 @@ description=Luna-Heisheng Jian
 // Luna-Heisheng Jian
 patch=1,EE,705041BC,extended,00000006
 
-[Luna-Heisheng Jian]
+[Luna-Heisheng Jian (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Luna-Heisheng Jian
 // Luna-Heisheng Jian
@@ -3894,7 +3792,7 @@ description=Luna-Huan Luo
 // Luna-Huan Luo
 patch=1,EE,705041BC,extended,00000060
 
-[Luna-Huan Luo]
+[Luna-Huan Luo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Luna-Huan Luo
 // Luna-Huan Luo
@@ -3906,7 +3804,7 @@ description=Luna-Jiaotu Jian
 // Luna-Jiaotu Jian
 patch=1,EE,705041BD,extended,00000006
 
-[Luna-Jiaotu Jian]
+[Luna-Jiaotu Jian (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Luna-Jiaotu Jian
 // Luna-Jiaotu Jian
@@ -3918,7 +3816,7 @@ description=Luna-Rune Blade
 // Luna-Rune Blade
 patch=1,EE,705041BD,extended,00000060
 
-[Luna-Rune Blade]
+[Luna-Rune Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Luna-Rune Blade
 // Luna-Rune Blade
@@ -3930,7 +3828,7 @@ description=Luna-Dujiao Gui
 // Luna-Dujiao Gui
 patch=1,EE,705041BE,extended,00000006
 
-[Luna-Dujiao Gui]
+[Luna-Dujiao Gui (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Luna-Dujiao Gui
 // Luna-Dujiao Gui
@@ -3942,7 +3840,7 @@ description=Luna-Dystopia
 // Luna-Dystopia
 patch=1,EE,705041BE,extended,00000060
 
-[Luna-Dystopia]
+[Luna-Dystopia (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Luna-Dystopia
 // Luna-Dystopia
@@ -3954,7 +3852,7 @@ description=Luna-Soul Calibur
 // Luna-Soul Calibur
 patch=1,EE,705041BF,extended,00000006
 
-[Luna-Soul Calibur]
+[Luna-Soul Calibur (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Luna-Soul Calibur
 // Luna-Soul Calibur
@@ -3966,7 +3864,7 @@ description=Luna-Midnight
 // Luna-Midnight
 patch=1,EE,705041BF,extended,00000060
 
-[Luna-Midnight]
+[Luna-Midnight (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Luna-Midnight
 // Luna-Midnight
@@ -3978,7 +3876,7 @@ description=Valeria-Kick Edge
 // Valeria-Kick Edge
 patch=1,EE,705041C0,extended,00000006
 
-[Valeria-Kick Edge]
+[Valeria-Kick Edge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Valeria-Kick Edge
 // Valeria-Kick Edge
@@ -3990,7 +3888,7 @@ description=Valeria-Grieve Edge
 // Valeria-Grieve Edge
 patch=1,EE,705041C0,extended,00000060
 
-[Valeria-Grieve Edge]
+[Valeria-Grieve Edge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Valeria-Grieve Edge
 // Valeria-Grieve Edge
@@ -4002,7 +3900,7 @@ description=Valeria-Senjinsoku
 // Valeria-Senjinsoku
 patch=1,EE,705041C1,extended,00000006
 
-[Valeria-Senjinsoku]
+[Valeria-Senjinsoku (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Valeria-Senjinsoku
 // Valeria-Senjinsoku
@@ -4014,7 +3912,7 @@ description=Valeria-Cailleach Bheur
 // Valeria-Cailleach Bheur
 patch=1,EE,705041C1,extended,00000060
 
-[Valeria-Cailleach Bheur]
+[Valeria-Cailleach Bheur (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Valeria-Cailleach Bheur
 // Valeria-Cailleach Bheur
@@ -4026,7 +3924,7 @@ description=Valeria-Svadilfari
 // Valeria-Svadilfari
 patch=1,EE,705041C2,extended,00000006
 
-[Valeria-Svadilfari]
+[Valeria-Svadilfari (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Valeria-Svadilfari
 // Valeria-Svadilfari
@@ -4038,7 +3936,7 @@ description=Valeria-Cepheus Seal
 // Valeria-Cepheus Seal
 patch=1,EE,705041C2,extended,00000060
 
-[Valeria-Cepheus Seal]
+[Valeria-Cepheus Seal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Valeria-Cepheus Seal
 // Valeria-Cepheus Seal
@@ -4050,7 +3948,7 @@ description=Valeria-Hell's Design
 // Valeria-Hell's Design
 patch=1,EE,705041C3,extended,00000006
 
-[Valeria-Hell's Design]
+[Valeria-Hell's Design (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Valeria-Hell's Design
 // Valeria-Hell's Design
@@ -4062,7 +3960,7 @@ description=Hualin-Mushakuboh
 // Hualin-Mushakuboh
 patch=1,EE,705041C3,extended,00000060
 
-[Hualin-Mushakuboh]
+[Hualin-Mushakuboh (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hualin-Mushakuboh
 // Hualin-Mushakuboh
@@ -4074,7 +3972,7 @@ description=Hualin-Quarterstaff
 // Hualin-Quarterstaff
 patch=1,EE,705041C4,extended,00000006
 
-[Hualin-Quarterstaff]
+[Hualin-Quarterstaff (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hualin-Quarterstaff
 // Hualin-Quarterstaff
@@ -4086,7 +3984,7 @@ description=Hualin-Iron Staff
 // Hualin-Iron Staff
 patch=1,EE,705041C4,extended,00000060
 
-[Hualin-Iron Staff]
+[Hualin-Iron Staff (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hualin-Iron Staff
 // Hualin-Iron Staff
@@ -4098,7 +3996,7 @@ description=Hualin-Duel Rod
 // Hualin-Duel Rod
 patch=1,EE,705041C5,extended,00000006
 
-[Hualin-Duel Rod]
+[Hualin-Duel Rod (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hualin-Duel Rod
 // Hualin-Duel Rod
@@ -4110,7 +4008,7 @@ description=Hualin-Kunlun Bamboo
 // Hualin-Kunlun Bamboo
 patch=1,EE,705041C5,extended,00000060
 
-[Hualin-Kunlun Bamboo]
+[Hualin-Kunlun Bamboo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hualin-Kunlun Bamboo
 // Hualin-Kunlun Bamboo
@@ -4122,7 +4020,7 @@ description=Hualin-Cepheus Seal
 // Hualin-Cepheus Seal
 patch=1,EE,705041C6,extended,00000006
 
-[Hualin-Cepheus Seal]
+[Hualin-Cepheus Seal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hualin-Cepheus Seal
 // Hualin-Cepheus Seal
@@ -4134,7 +4032,7 @@ description=Girardot-Heavy Lance
 // Girardot-Heavy Lance
 patch=1,EE,705041C6,extended,00000060
 
-[Girardot-Heavy Lance]
+[Girardot-Heavy Lance (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Girardot-Heavy Lance
 // Girardot-Heavy Lance
@@ -4146,7 +4044,7 @@ description=Girardot-Pilum Muralis
 // Girardot-Pilum Muralis
 patch=1,EE,705041C7,extended,00000006
 
-[Girardot-Pilum Muralis]
+[Girardot-Pilum Muralis (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Girardot-Pilum Muralis
 // Girardot-Pilum Muralis
@@ -4158,7 +4056,7 @@ description=Girardot-Bourdanasse
 // Girardot-Bourdanasse
 patch=1,EE,705041C7,extended,00000060
 
-[Girardot-Bourdanasse]
+[Girardot-Bourdanasse (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Girardot-Bourdanasse
 // Girardot-Bourdanasse
@@ -4170,7 +4068,7 @@ description=Girardot-Ahlspiess
 // Girardot-Ahlspiess
 patch=1,EE,705041C8,extended,00000006
 
-[Girardot-Ahlspiess]
+[Girardot-Ahlspiess (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Girardot-Ahlspiess
 // Girardot-Ahlspiess
@@ -4182,7 +4080,7 @@ description=Girardot-Dreadnought
 // Girardot-Dreadnought
 patch=1,EE,705041C8,extended,00000060
 
-[Girardot-Dreadnought]
+[Girardot-Dreadnought (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Girardot-Dreadnought
 // Girardot-Dreadnought
@@ -4194,7 +4092,7 @@ description=Girardot-Absolution
 // Girardot-Absolution
 patch=1,EE,705041C9,extended,00000006
 
-[Girardot-Absolution]
+[Girardot-Absolution (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Girardot-Absolution
 // Girardot-Absolution
@@ -4206,7 +4104,7 @@ description=Girardot-Blazecleaver
 // Girardot-Blazecleaver
 patch=1,EE,705041C9,extended,00000060
 
-[Girardot-Blazecleaver]
+[Girardot-Blazecleaver (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Girardot-Blazecleaver
 // Girardot-Blazecleaver
@@ -4218,7 +4116,7 @@ description=Girardot-Sacrifice
 // Girardot-Sacrifice
 patch=1,EE,705041CA,extended,00000006
 
-[Girardot-Sacrifice]
+[Girardot-Sacrifice (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Girardot-Sacrifice
 // Girardot-Sacrifice
@@ -4230,7 +4128,7 @@ description=Demuth-Steel Fan
 // Demuth-Steel Fan
 patch=1,EE,705041CA,extended,00000060
 
-[Demuth-Steel Fan]
+[Demuth-Steel Fan (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Demuth-Steel Fan
 // Demuth-Steel Fan
@@ -4242,7 +4140,7 @@ description=Demuth-Kamaitachi
 // Demuth-Kamaitachi
 patch=1,EE,705041CB,extended,00000006
 
-[Demuth-Kamaitachi]
+[Demuth-Kamaitachi (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Demuth-Kamaitachi
 // Demuth-Kamaitachi
@@ -4254,7 +4152,7 @@ description=Demuth-Fujin Fan
 // Demuth-Fujin Fan
 patch=1,EE,705041CB,extended,00000060
 
-[Demuth-Fujin Fan]
+[Demuth-Fujin Fan (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Demuth-Fujin Fan
 // Demuth-Fujin Fan
@@ -4266,7 +4164,7 @@ description=Demuth-Zephyrus
 // Demuth-Zephyrus
 patch=1,EE,705041CC,extended,00000006
 
-[Demuth-Zephyrus]
+[Demuth-Zephyrus (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Demuth-Zephyrus
 // Demuth-Zephyrus
@@ -4278,7 +4176,7 @@ description=Demuth-Basho Fan
 // Demuth-Basho Fan
 patch=1,EE,705041CC,extended,00000060
 
-[Demuth-Basho Fan]
+[Demuth-Basho Fan (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Demuth-Basho Fan
 // Demuth-Basho Fan
@@ -4290,7 +4188,7 @@ description=Demuth-Baindigart
 // Demuth-Baindigart
 patch=1,EE,705041CD,extended,00000006
 
-[Demuth-Baindigart]
+[Demuth-Baindigart (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Demuth-Baindigart
 // Demuth-Baindigart
@@ -4302,7 +4200,7 @@ description=Aurelia-Sickle
 // Aurelia-Sickle
 patch=1,EE,705041CD,extended,00000060
 
-[Aurelia-Sickle]
+[Aurelia-Sickle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Aurelia-Sickle
 // Aurelia-Sickle
@@ -4314,7 +4212,7 @@ description=Aurelia-Kogarashi
 // Aurelia-Kogarashi
 patch=1,EE,705041CE,extended,00000006
 
-[Aurelia-Kogarashi]
+[Aurelia-Kogarashi (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Aurelia-Kogarashi
 // Aurelia-Kogarashi
@@ -4326,7 +4224,7 @@ description=Aurelia-Mizuchi
 // Aurelia-Mizuchi
 patch=1,EE,705041CE,extended,00000060
 
-[Aurelia-Mizuchi]
+[Aurelia-Mizuchi (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Aurelia-Mizuchi
 // Aurelia-Mizuchi
@@ -4338,7 +4236,7 @@ description=Aurelia-Yaesumuji
 // Aurelia-Yaesumuji
 patch=1,EE,705041CF,extended,00000006
 
-[Aurelia-Yaesumuji]
+[Aurelia-Yaesumuji (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Aurelia-Yaesumuji
 // Aurelia-Yaesumuji
@@ -4350,7 +4248,7 @@ description=Aurelia-Chains Of Hades
 // Aurelia-Chains Of Hades
 patch=1,EE,705041CF,extended,00000060
 
-[Aurelia-Chains Of Hades]
+[Aurelia-Chains Of Hades (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Aurelia-Chains Of Hades
 // Aurelia-Chains Of Hades
@@ -4362,7 +4260,7 @@ description=Aurelia-Black Widow
 // Aurelia-Black Widow
 patch=1,EE,705041D0,extended,00000006
 
-[Aurelia-Black Widow]
+[Aurelia-Black Widow (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Aurelia-Black Widow
 // Aurelia-Black Widow
@@ -4374,7 +4272,7 @@ description=Chester-Jambiya
 // Chester-Jambiya
 patch=1,EE,705041D0,extended,00000060
 
-[Chester-Jambiya]
+[Chester-Jambiya (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chester-Jambiya
 // Chester-Jambiya
@@ -4386,7 +4284,7 @@ description=Chester-Assassin Dagger
 // Chester-Assassin Dagger
 patch=1,EE,705041D1,extended,00000006
 
-[Chester-Assassin Dagger]
+[Chester-Assassin Dagger (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chester-Assassin Dagger
 // Chester-Assassin Dagger
@@ -4398,7 +4296,7 @@ description=Chester-Kris
 // Chester-Kris
 patch=1,EE,705041D1,extended,00000060
 
-[Chester-Kris]
+[Chester-Kris (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chester-Kris
 // Chester-Kris
@@ -4410,7 +4308,7 @@ description=Chester-Misericorde
 // Chester-Misericorde
 patch=1,EE,705041D2,extended,00000006
 
-[Chester-Misericorde]
+[Chester-Misericorde (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chester-Misericorde
 // Chester-Misericorde
@@ -4422,7 +4320,7 @@ description=Chester-Tongue Of Tanatiuh
 // Chester-Tongue Of Tanatiuh
 patch=1,EE,705041D2,extended,00000060
 
-[Chester-Tongue Of Tanatiuh]
+[Chester-Tongue Of Tanatiuh (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chester-Tongue Of Tanatiuh
 // Chester-Tongue Of Tanatiuh
@@ -4434,7 +4332,7 @@ description=Chester-Kingslayer
 // Chester-Kingslayer
 patch=1,EE,705041D3,extended,00000006
 
-[Chester-Kingslayer]
+[Chester-Kingslayer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chester-Kingslayer
 // Chester-Kingslayer
@@ -4446,7 +4344,7 @@ description=Strife-Great Sword
 // Strife-Great Sword
 patch=1,EE,705041D3,extended,00000060
 
-[Strife-Great Sword]
+[Strife-Great Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Strife-Great Sword
 // Strife-Great Sword
@@ -4458,7 +4356,7 @@ description=Strife-Claymore
 // Strife-Claymore
 patch=1,EE,705041D4,extended,00000006
 
-[Strife-Claymore]
+[Strife-Claymore (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Strife-Claymore
 // Strife-Claymore
@@ -4470,7 +4368,7 @@ description=Strife-Demon Knife
 // Strife-Demon Knife
 patch=1,EE,705041D4,extended,00000060
 
-[Strife-Demon Knife]
+[Strife-Demon Knife (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Strife-Demon Knife
 // Strife-Demon Knife
@@ -4482,7 +4380,7 @@ description=Strife-Hercules Sword
 // Strife-Hercules Sword
 patch=1,EE,705041D5,extended,00000006
 
-[Strife-Hercules Sword]
+[Strife-Hercules Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Strife-Hercules Sword
 // Strife-Hercules Sword
@@ -4494,7 +4392,7 @@ description=Strife-Alondite
 // Strife-Alondite
 patch=1,EE,705041D5,extended,00000060
 
-[Strife-Alondite]
+[Strife-Alondite (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Strife-Alondite
 // Strife-Alondite
@@ -4506,7 +4404,7 @@ description=Strife-Ambition
 // Strife-Ambition
 patch=1,EE,705041D6,extended,00000006
 
-[Strife-Ambition]
+[Strife-Ambition (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Strife-Ambition
 // Strife-Ambition
@@ -4518,7 +4416,7 @@ description=Strife-Soul Edge
 // Strife-Soul Edge
 patch=1,EE,705041D6,extended,00000060
 
-[Strife-Soul Edge]
+[Strife-Soul Edge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Strife-Soul Edge
 // Strife-Soul Edge
@@ -4530,7 +4428,7 @@ description=Strife-Brutal Terra
 // Strife-Brutal Terra
 patch=1,EE,705041D7,extended,00000006
 
-[Strife-Brutal Terra]
+[Strife-Brutal Terra (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Strife-Brutal Terra
 // Strife-Brutal Terra
@@ -4542,7 +4440,7 @@ description=Abelia-Gladius
 // Abelia-Gladius
 patch=1,EE,705041D7,extended,00000060
 
-[Abelia-Gladius]
+[Abelia-Gladius (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abelia-Gladius
 // Abelia-Gladius
@@ -4554,7 +4452,7 @@ description=Abelia-Ice Blade
 // Abelia-Ice Blade
 patch=1,EE,705041D8,extended,00000006
 
-[Abelia-Ice Blade]
+[Abelia-Ice Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abelia-Ice Blade
 // Abelia-Ice Blade
@@ -4566,7 +4464,7 @@ description=Abelia-Katzbalger
 // Abelia-Katzbalger
 patch=1,EE,705041D8,extended,00000060
 
-[Abelia-Katzbalger]
+[Abelia-Katzbalger (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abelia-Katzbalger
 // Abelia-Katzbalger
@@ -4578,7 +4476,7 @@ description=Abelia-Excalibur
 // Abelia-Excalibur
 patch=1,EE,705041D9,extended,00000006
 
-[Abelia-Excalibur]
+[Abelia-Excalibur (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abelia-Excalibur
 // Abelia-Excalibur
@@ -4590,7 +4488,7 @@ description=Abelia-Valkyrie
 // Abelia-Valkyrie
 patch=1,EE,705041D9,extended,00000060
 
-[Abelia-Valkyrie]
+[Abelia-Valkyrie (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abelia-Valkyrie
 // Abelia-Valkyrie
@@ -4602,7 +4500,7 @@ description=Abelia-Eternal Rest
 // Abelia-Eternal Rest
 patch=1,EE,705041DA,extended,00000006
 
-[Abelia-Eternal Rest]
+[Abelia-Eternal Rest (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abelia-Eternal Rest
 // Abelia-Eternal Rest
@@ -4614,7 +4512,7 @@ description=Abelia-Lilia
 // Abelia-Lilia
 patch=1,EE,705041DA,extended,00000060
 
-[Abelia-Lilia]
+[Abelia-Lilia (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abelia-Lilia
 // Abelia-Lilia
@@ -4626,7 +4524,7 @@ description=Lynette-Melody Ring
 // Lynette-Melody Ring
 patch=1,EE,705041DB,extended,00000006
 
-[Lynette-Melody Ring]
+[Lynette-Melody Ring (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lynette-Melody Ring
 // Lynette-Melody Ring
@@ -4638,7 +4536,7 @@ description=Lynette-Mazurka
 // Lynette-Mazurka
 patch=1,EE,705041DB,extended,00000060
 
-[Lynette-Mazurka]
+[Lynette-Mazurka (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lynette-Mazurka
 // Lynette-Mazurka
@@ -4650,7 +4548,7 @@ description=Lynette-Tarantella
 // Lynette-Tarantella
 patch=1,EE,705041DC,extended,00000006
 
-[Lynette-Tarantella]
+[Lynette-Tarantella (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lynette-Tarantella
 // Lynette-Tarantella
@@ -4662,7 +4560,7 @@ description=Lynette-Menard
 // Lynette-Menard
 patch=1,EE,705041DC,extended,00000060
 
-[Lynette-Menard]
+[Lynette-Menard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lynette-Menard
 // Lynette-Menard
@@ -4674,7 +4572,7 @@ description=Lynette-Terpsichore
 // Lynette-Terpsichore
 patch=1,EE,705041DD,extended,00000006
 
-[Lynette-Terpsichore]
+[Lynette-Terpsichore (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lynette-Terpsichore
 // Lynette-Terpsichore
@@ -4686,7 +4584,7 @@ description=Lynette-Cepheus Seal
 // Lynette-Cepheus Seal
 patch=1,EE,705041DD,extended,00000060
 
-[Lynette-Cepheus Seal]
+[Lynette-Cepheus Seal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lynette-Cepheus Seal
 // Lynette-Cepheus Seal
@@ -4698,7 +4596,7 @@ description=Li Long-Nunchaku
 // Li Long-Nunchaku
 patch=1,EE,705041DE,extended,00000006
 
-[Li Long-Nunchaku]
+[Li Long-Nunchaku (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Li Long-Nunchaku
 // Li Long-Nunchaku
@@ -4710,7 +4608,7 @@ description=Li Long-Gemini Rod
 // Li Long-Gemini Rod
 patch=1,EE,705041DE,extended,00000060
 
-[Li Long-Gemini Rod]
+[Li Long-Gemini Rod (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Li Long-Gemini Rod
 // Li Long-Gemini Rod
@@ -4722,7 +4620,7 @@ description=Li Long-Zhongkui
 // Li Long-Zhongkui
 patch=1,EE,705041DF,extended,00000006
 
-[Li Long-Zhongkui]
+[Li Long-Zhongkui (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Li Long-Zhongkui
 // Li Long-Zhongkui
@@ -4734,7 +4632,7 @@ description=Li Long-Huoshen
 // Li Long-Huoshen
 patch=1,EE,705041DF,extended,00000060
 
-[Li Long-Huoshen]
+[Li Long-Huoshen (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Li Long-Huoshen
 // Li Long-Huoshen
@@ -4746,7 +4644,7 @@ description=Li Long-Shuang Lei
 // Li Long-Shuang Lei
 patch=1,EE,705041E0,extended,00000006
 
-[Li Long-Shuang Lei]
+[Li Long-Shuang Lei (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Li Long-Shuang Lei
 // Li Long-Shuang Lei
@@ -4758,7 +4656,7 @@ description=Li Long-Falcon
 // Li Long-Falcon
 patch=1,EE,705041E0,extended,00000060
 
-[Li Long-Falcon]
+[Li Long-Falcon (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Li Long-Falcon
 // Li Long-Falcon
@@ -4770,7 +4668,7 @@ description=Revenant-Wave Sword
 // Revenant-Wave Sword
 patch=1,EE,705041E1,extended,00000006
 
-[Revenant-Wave Sword]
+[Revenant-Wave Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Revenant-Wave Sword
 // Revenant-Wave Sword
@@ -4782,7 +4680,7 @@ description=Revenant-Mantis Blade
 // Revenant-Mantis Blade
 patch=1,EE,705041E1,extended,00000060
 
-[Revenant-Mantis Blade]
+[Revenant-Mantis Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Revenant-Mantis Blade
 // Revenant-Mantis Blade
@@ -4794,7 +4692,7 @@ description=Revenant-Double Fang
 // Revenant-Double Fang
 patch=1,EE,705041E2,extended,00000006
 
-[Revenant-Double Fang]
+[Revenant-Double Fang (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Revenant-Double Fang
 // Revenant-Double Fang
@@ -4806,7 +4704,7 @@ description=Revenant-Aya & Hongya
 // Revenant-Aya & Hongya
 patch=1,EE,705041E2,extended,00000060
 
-[Revenant-Aya & Hongya]
+[Revenant-Aya & Hongya (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Revenant-Aya & Hongya
 // Revenant-Aya & Hongya
@@ -4818,7 +4716,7 @@ description=Revenant-Atropos
 // Revenant-Atropos
 patch=1,EE,705041E3,extended,00000006
 
-[Revenant-Atropos]
+[Revenant-Atropos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Revenant-Atropos
 // Revenant-Atropos
@@ -4830,7 +4728,7 @@ description=Revenant-Gatekeeper
 // Revenant-Gatekeeper
 patch=1,EE,705041E3,extended,00000060
 
-[Revenant-Gatekeeper]
+[Revenant-Gatekeeper (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Revenant-Gatekeeper
 // Revenant-Gatekeeper
@@ -4842,7 +4740,7 @@ description=Revenant-Leviathan
 // Revenant-Leviathan
 patch=1,EE,705041E4,extended,00000006
 
-[Revenant-Leviathan]
+[Revenant-Leviathan (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Revenant-Leviathan
 // Revenant-Leviathan
@@ -4854,7 +4752,7 @@ description=Amy-Schweitzer
 // Amy-Schweitzer
 patch=1,EE,705041E4,extended,00000060
 
-[Amy-Schweitzer]
+[Amy-Schweitzer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Amy-Schweitzer
 // Amy-Schweitzer
@@ -4866,7 +4764,7 @@ description=Amy-Rapier
 // Amy-Rapier
 patch=1,EE,705041E5,extended,00000006
 
-[Amy-Rapier]
+[Amy-Rapier (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Amy-Rapier
 // Amy-Rapier
@@ -4878,7 +4776,7 @@ description=Amy-Falleng Antler
 // Amy-Falleng Antler
 patch=1,EE,705041E5,extended,00000060
 
-[Amy-Falleng Antler]
+[Amy-Falleng Antler (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Amy-Falleng Antler
 // Amy-Falleng Antler
@@ -4890,7 +4788,7 @@ description=Amy-Tuck
 // Amy-Tuck
 patch=1,EE,705041E6,extended,00000006
 
-[Amy-Tuck]
+[Amy-Tuck (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Amy-Tuck
 // Amy-Tuck
@@ -4902,7 +4800,7 @@ description=Amy-Unicorn
 // Amy-Unicorn
 patch=1,EE,705041E6,extended,00000060
 
-[Amy-Unicorn]
+[Amy-Unicorn (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Amy-Unicorn
 // Amy-Unicorn
@@ -4914,127 +4812,127 @@ description=Amy-Albion
 // Amy-Albion
 patch=1,EE,705041E7,extended,00000006
 
-[Amy-Albion]
+[Amy-Albion (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Amy-Albion
 // Amy-Albion
 patch=1,EE,705041E7,extended,002000F6
 
-[Mitsurugi]
+[Mitsurugi (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi
 // Mitsurugi
 patch=1,EE,7050427E,extended,00000006
 
-[Mitsurugi]
+[Mitsurugi (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi
 // Mitsurugi
 patch=1,EE,7050427E,extended,002000F6
 
-[Seong Mi-Na]
+[Seong Mi-Na (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na
 // Seong Mi-Na
 patch=1,EE,7050427E,extended,00000060
 
-[Seong Mi-Na]
+[Seong Mi-Na (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na
 // Seong Mi-Na
 patch=1,EE,7050427E,extended,0020006F
 
-[Taki]
+[Taki (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki
 // Taki
 patch=1,EE,7050427F,extended,00000006
 
-[Taki]
+[Taki (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki
 // Taki
 patch=1,EE,7050427F,extended,002000F6
 
-[Maxi]
+[Maxi (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maxi
 // Maxi
 patch=1,EE,7050427F,extended,00000060
 
-[Maxi]
+[Maxi (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maxi
 // Maxi
 patch=1,EE,7050427F,extended,0020006F
 
-[Voldo]
+[Voldo (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo
 // Voldo
 patch=1,EE,70504280,extended,00000006
 
-[Voldo]
+[Voldo (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo
 // Voldo
 patch=1,EE,70504280,extended,002000F6
 
-[Sophitia]
+[Sophitia (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia
 // Sophitia
 patch=1,EE,70504280,extended,00000060
 
-[Sophitia]
+[Sophitia (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia
 // Sophitia
 patch=1,EE,70504280,extended,0020006F
 
-[Siegfried]
+[Siegfried (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried
 // Siegfried
 patch=1,EE,70504281,extended,00000006
 
-[Siegfried]
+[Siegfried (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried
 // Siegfried
 patch=1,EE,70504281,extended,002000F6
 
-[Rock]
+[Rock (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock
 // Rock
 patch=1,EE,70504281,extended,00000060
 
-[Rock]
+[Rock (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock
 // Rock
 patch=1,EE,70504281,extended,0020006F
 
-[Ivy]
+[Ivy (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy
 // Ivy
 patch=1,EE,70504282,extended,00000006
 
-[Ivy]
+[Ivy (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy
 // Ivy
 patch=1,EE,70504282,extended,002000F6
 
-[Kilik]
+[Kilik (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik
 // Kilik
 patch=1,EE,70504282,extended,00000060
 
-[Kilik]
+[Kilik (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik
 // Kilik
@@ -5046,475 +4944,475 @@ description=Xianghua
 // Xianghua
 patch=1,EE,70504283,extended,00000006
 
-[Xianghua]
+[Xianghua (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xianghua
 // Xianghua
 patch=1,EE,70504283,extended,002000F6
 
-[Lizardman]
+[Lizardman (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman
 // Lizardman
 patch=1,EE,70504283,extended,00000060
 
-[Lizardman]
+[Lizardman (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman
 // Lizardman
 patch=1,EE,70504283,extended,0020006F
 
-[Yoshimitsu]
+[Yoshimitsu (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu
 // Yoshimitsu
 patch=1,EE,70504284,extended,00000006
 
-[Yoshimitsu]
+[Yoshimitsu (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu
 // Yoshimitsu
 patch=1,EE,70504284,extended,002000F6
 
-[Nightmare]
+[Nightmare (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare
 // Nightmare
 patch=1,EE,70504284,extended,00000060
 
-[Nightmare]
+[Nightmare (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare
 // Nightmare
 patch=1,EE,70504284,extended,0020006F
 
-[Astaroth]
+[Astaroth (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth
 // Astaroth
 patch=1,EE,70504285,extended,00000006
 
-[Astaroth]
+[Astaroth (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth
 // Astaroth
 patch=1,EE,70504285,extended,002000F6
 
-[Cervantes]
+[Cervantes (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes
 // Cervantes
 patch=1,EE,70504285,extended,00000060
 
-[Cervantes]
+[Cervantes (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes
 // Cervantes
 patch=1,EE,70504285,extended,0020006F
 
-[Raphael]
+[Raphael (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael
 // Raphael
 patch=1,EE,70504286,extended,00000006
 
-[Raphael]
+[Raphael (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael
 // Raphael
 patch=1,EE,70504286,extended,002000F6
 
-[Talim]
+[Talim (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim
 // Talim
 patch=1,EE,70504286,extended,00000060
 
-[Talim]
+[Talim (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim
 // Talim
 patch=1,EE,70504286,extended,0020006F
 
-[Cassandra]
+[Cassandra (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra
 // Cassandra
 patch=1,EE,70504287,extended,00000006
 
-[Cassandra]
+[Cassandra (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra
 // Cassandra
 patch=1,EE,70504287,extended,002000F6
 
-[Yun-Seong]
+[Yun-Seong (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong
 // Yun-Seong
 patch=1,EE,70504287,extended,00000060
 
-[Yun-Seong]
+[Yun-Seong (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong
 // Yun-Seong
 patch=1,EE,70504287,extended,0020006F
 
-[Setsuka]
+[Setsuka (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka
 // Setsuka
 patch=1,EE,70504288,extended,00000006
 
-[Setsuka]
+[Setsuka (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka
 // Setsuka
 patch=1,EE,70504288,extended,002000F6
 
-[Tira]
+[Tira (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira
 // Tira
 patch=1,EE,70504288,extended,00000060
 
-[Tira]
+[Tira (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira
 // Tira
 patch=1,EE,70504288,extended,0020006F
 
-[Zasalamel]
+[Zasalamel (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel
 // Zasalamel
 patch=1,EE,70504289,extended,00000006
 
-[Zasalamel]
+[Zasalamel (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel
 // Zasalamel
 patch=1,EE,70504289,extended,002000F6
 
-[Olcadan]
+[Olcadan (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan
 // Olcadan
 patch=1,EE,70504289,extended,00000060
 
-[Olcadan]
+[Olcadan (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan
 // Olcadan
 patch=1,EE,70504289,extended,0020006F
 
-[Abyss]
+[Abyss (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abyss
 // Abyss
 patch=1,EE,7050428A,extended,00000006
 
-[Abyss]
+[Abyss (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abyss
 // Abyss
 patch=1,EE,7050428A,extended,002000F6
 
-[Mitsurugi]
+[Mitsurugi (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi
 // Mitsurugi
 patch=1,EE,70504290,extended,00000060
 
-[Mitsurugi]
+[Mitsurugi (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mitsurugi
 // Mitsurugi
 patch=1,EE,70504290,extended,0020006F
 
-[Seong Mi-Na]
+[Seong Mi-Na (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na
 // Seong Mi-Na
 patch=1,EE,70504291,extended,00000006
 
-[Seong Mi-Na]
+[Seong Mi-Na (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seong Mi-Na
 // Seong Mi-Na
 patch=1,EE,70504291,extended,002000F6
 
-[Taki]
+[Taki (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki
 // Taki
 patch=1,EE,70504291,extended,00000060
 
-[Taki]
+[Taki (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Taki
 // Taki
 patch=1,EE,70504291,extended,0020006F
 
-[Maxi]
+[Maxi (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maxi
 // Maxi
 patch=1,EE,70504292,extended,00000006
 
-[Maxi]
+[Maxi (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Maxi
 // Maxi
 patch=1,EE,70504292,extended,002000F6
 
-[Voldo]
+[Voldo (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo
 // Voldo
 patch=1,EE,70504292,extended,00000060
 
-[Voldo]
+[Voldo (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Voldo
 // Voldo
 patch=1,EE,70504292,extended,0020006F
 
-[Sophitia]
+[Sophitia (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia
 // Sophitia
 patch=1,EE,70504293,extended,00000006
 
-[Sophitia]
+[Sophitia (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sophitia
 // Sophitia
 patch=1,EE,70504293,extended,002000F6
 
-[Siegfried]
+[Siegfried (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried
 // Siegfried
 patch=1,EE,70504293,extended,00000060
 
-[Siegfried]
+[Siegfried (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Siegfried
 // Siegfried
 patch=1,EE,70504293,extended,0020006F
 
-[Rock]
+[Rock (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock
 // Rock
 patch=1,EE,70504294,extended,00000006
 
-[Rock]
+[Rock (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rock
 // Rock
 patch=1,EE,70504294,extended,002000F6
 
-[Ivy]
+[Ivy (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy
 // Ivy
 patch=1,EE,70504294,extended,00000060
 
-[Ivy]
+[Ivy (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ivy
 // Ivy
 patch=1,EE,70504294,extended,0020006F
 
-[Kilik]
+[Kilik (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik
 // Kilik
 patch=1,EE,70504295,extended,00000006
 
-[Kilik]
+[Kilik (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kilik
 // Kilik
 patch=1,EE,70504295,extended,002000F6
 
-[Xianghua]
+[Xianghua (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xianghua
 // Xianghua
 patch=1,EE,70504295,extended,00000060
 
-[Xianghua]
+[Xianghua (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xianghua
 // Xianghua
 patch=1,EE,70504295,extended,0020006F
 
-[Lizardman]
+[Lizardman (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman
 // Lizardman
 patch=1,EE,70504296,extended,00000006
 
-[Lizardman]
+[Lizardman (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lizardman
 // Lizardman
 patch=1,EE,70504296,extended,002000F6
 
-[Yoshimitsu]
+[Yoshimitsu (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu
 // Yoshimitsu
 patch=1,EE,70504296,extended,00000060
 
-[Yoshimitsu]
+[Yoshimitsu (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yoshimitsu
 // Yoshimitsu
 patch=1,EE,70504296,extended,0020006F
 
-[Nightmare]
+[Nightmare (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare
 // Nightmare
 patch=1,EE,70504297,extended,00000006
 
-[Nightmare]
+[Nightmare (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Nightmare
 // Nightmare
 patch=1,EE,70504297,extended,002000F6
 
-[Astaroth]
+[Astaroth (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth
 // Astaroth
 patch=1,EE,70504297,extended,00000060
 
-[Astaroth]
+[Astaroth (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Astaroth
 // Astaroth
 patch=1,EE,70504297,extended,0020006F
 
-[Cervantes]
+[Cervantes (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes
 // Cervantes
 patch=1,EE,70504298,extended,00000006
 
-[Cervantes]
+[Cervantes (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cervantes
 // Cervantes
 patch=1,EE,70504298,extended,002000F6
 
-[Raphael]
+[Raphael (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael
 // Raphael
 patch=1,EE,70504298,extended,00000060
 
-[Raphael]
+[Raphael (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raphael
 // Raphael
 patch=1,EE,70504298,extended,0020006F
 
-[Talim]
+[Talim (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim
 // Talim
 patch=1,EE,70504299,extended,00000006
 
-[Talim]
+[Talim (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Talim
 // Talim
 patch=1,EE,70504299,extended,002000F6
 
-[Cassandra]
+[Cassandra (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra
 // Cassandra
 patch=1,EE,70504299,extended,00000060
 
-[Cassandra]
+[Cassandra (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cassandra
 // Cassandra
 patch=1,EE,70504299,extended,0020006F
 
-[Yun-Seong]
+[Yun-Seong (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong
 // Yun-Seong
 patch=1,EE,7050429A,extended,00000006
 
-[Yun-Seong]
+[Yun-Seong (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yun-Seong
 // Yun-Seong
 patch=1,EE,7050429A,extended,002000F6
 
-[Setsuka]
+[Setsuka (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka
 // Setsuka
 patch=1,EE,7050429A,extended,00000060
 
-[Setsuka]
+[Setsuka (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Setsuka
 // Setsuka
 patch=1,EE,7050429A,extended,0020006F
 
-[Tira]
+[Tira (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira
 // Tira
 patch=1,EE,7050429B,extended,00000006
 
-[Tira]
+[Tira (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tira
 // Tira
 patch=1,EE,7050429B,extended,002000F6
 
-[Zasalamel]
+[Zasalamel (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel
 // Zasalamel
 patch=1,EE,7050429B,extended,00000060
 
-[Zasalamel]
+[Zasalamel (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zasalamel
 // Zasalamel
 patch=1,EE,7050429B,extended,0020006F
 
-[Olcadan]
+[Olcadan (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan
 // Olcadan
 patch=1,EE,7050429C,extended,00000006
 
-[Olcadan]
+[Olcadan (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olcadan
 // Olcadan
 patch=1,EE,7050429C,extended,002000F6
 
-[Abyss]
+[Abyss (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abyss
 // Abyss
 patch=1,EE,7050429C,extended,00000060
 
-[Abyss]
+[Abyss (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abyss
 // Abyss
@@ -5526,7 +5424,7 @@ description=Night Terror
 // Night Terror
 patch=1,EE,7050429D,extended,00000006
 
-[Night Terror]
+[Night Terror (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Night Terror
 // Night Terror
@@ -5538,7 +5436,7 @@ description=Image 1
 // Image 1
 patch=1,EE,705041E7,extended,00000060
 
-[Image 1]
+[Image 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 1
 // Image 1
@@ -5550,7 +5448,7 @@ description=Image 2
 // Image 2
 patch=1,EE,705041E8,extended,00000060
 
-[Image 2]
+[Image 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 2
 // Image 2
@@ -5562,7 +5460,7 @@ description=Image 3
 // Image 3
 patch=1,EE,705041E9,extended,00000060
 
-[Image 3]
+[Image 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 3
 // Image 3
@@ -5574,7 +5472,7 @@ description=Image 4
 // Image 4
 patch=1,EE,705041EA,extended,00000060
 
-[Image 4]
+[Image 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 4
 // Image 4
@@ -5586,7 +5484,7 @@ description=Image 5
 // Image 5
 patch=1,EE,705041EB,extended,00000060
 
-[Image 5]
+[Image 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 5
 // Image 5
@@ -5598,7 +5496,7 @@ description=Image 6
 // Image 6
 patch=1,EE,705041EE,extended,00000006
 
-[Image 6]
+[Image 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 6
 // Image 6
@@ -5610,7 +5508,7 @@ description=Image 7
 // Image 7
 patch=1,EE,705041EE,extended,00000060
 
-[Image 7]
+[Image 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 7
 // Image 7
@@ -5622,7 +5520,7 @@ description=Image 8
 // Image 8
 patch=1,EE,705041F0,extended,00000060
 
-[Image 8]
+[Image 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 8
 // Image 8
@@ -5634,7 +5532,7 @@ description=Image 9
 // Image 9
 patch=1,EE,705041F1,extended,00000060
 
-[Image 9]
+[Image 9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 9
 // Image 9
@@ -5646,7 +5544,7 @@ description=Image 10
 // Image 10
 patch=1,EE,705041F2,extended,00000006
 
-[Image 10]
+[Image 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 10
 // Image 10
@@ -5658,7 +5556,7 @@ description=Image 11
 // Image 11
 patch=1,EE,705041F2,extended,00000060
 
-[Image 11]
+[Image 11 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 11
 // Image 11
@@ -5670,7 +5568,7 @@ description=Image 12
 // Image 12
 patch=1,EE,705041F5,extended,00000006
 
-[Image 12]
+[Image 12 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 12
 // Image 12
@@ -5682,7 +5580,7 @@ description=Image 13
 // Image 13
 patch=1,EE,705041F5,extended,00000060
 
-[Image 13]
+[Image 13 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 13
 // Image 13
@@ -5694,7 +5592,7 @@ description=Image 14
 // Image 14
 patch=1,EE,705041F6,extended,00000006
 
-[Image 14]
+[Image 14 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 14
 // Image 14
@@ -5706,7 +5604,7 @@ description=Image 15
 // Image 15
 patch=1,EE,705041F6,extended,00000060
 
-[Image 15]
+[Image 15 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 15
 // Image 15
@@ -5718,199 +5616,199 @@ description=Image 16
 // Image 16
 patch=1,EE,705041F7,extended,00000006
 
-[Image 16]
+[Image 16 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 16
 // Image 16
 patch=1,EE,705041F7,extended,002000F6
 
-[Image 1]
+[Image 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 1
 // Image 1
 patch=1,EE,705041FC,extended,00000060
 
-[Image 1]
+[Image 1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 1
 // Image 1
 patch=1,EE,705041FC,extended,0020006F
 
-[Image 2]
+[Image 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 2
 // Image 2
 patch=1,EE,705041FD,extended,00000006
 
-[Image 2]
+[Image 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 2
 // Image 2
 patch=1,EE,705041FD,extended,002000F6
 
-[Image 3]
+[Image 3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 3
 // Image 3
 patch=1,EE,705041FD,extended,00000060
 
-[Image 3]
+[Image 3 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 3
 // Image 3
 patch=1,EE,705041FD,extended,0020006F
 
-[Image 4]
+[Image 4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 4
 // Image 4
 patch=1,EE,705041FE,extended,00000006
 
-[Image 4]
+[Image 4 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 4
 // Image 4
 patch=1,EE,705041FE,extended,002000F6
 
-[Image 5]
+[Image 5 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 5
 // Image 5
 patch=1,EE,705041FE,extended,00000060
 
-[Image 5]
+[Image 5 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 5
 // Image 5
 patch=1,EE,705041FE,extended,0020006F
 
-[Image 6]
+[Image 6 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 6
 // Image 6
 patch=1,EE,705041FF,extended,00000006
 
-[Image 6]
+[Image 6 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 6
 // Image 6
 patch=1,EE,705041FF,extended,002000F6
 
-[Image 7]
+[Image 7 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 7
 // Image 7
 patch=1,EE,705041FF,extended,00000060
 
-[Image 7]
+[Image 7 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 7
 // Image 7
 patch=1,EE,705041FF,extended,0020006F
 
-[Image 8]
+[Image 8 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 8
 // Image 8
 patch=1,EE,70504200,extended,00000006
 
-[Image 8]
+[Image 8 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 8
 // Image 8
 patch=1,EE,70504200,extended,002000F6
 
-[Image 9]
+[Image 9 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 9
 // Image 9
 patch=1,EE,70504200,extended,00000060
 
-[Image 9]
+[Image 9 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 9
 // Image 9
 patch=1,EE,70504200,extended,0020006F
 
-[Image 10]
+[Image 10 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 10
 // Image 10
 patch=1,EE,70504201,extended,00000006
 
-[Image 10]
+[Image 10 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 10
 // Image 10
 patch=1,EE,70504201,extended,002000F6
 
-[Image 11]
+[Image 11 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 11
 // Image 11
 patch=1,EE,70504201,extended,00000060
 
-[Image 11]
+[Image 11 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 11
 // Image 11
 patch=1,EE,70504201,extended,0020006F
 
-[Image 12]
+[Image 12 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 12
 // Image 12
 patch=1,EE,70504202,extended,00000006
 
-[Image 12]
+[Image 12 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 12
 // Image 12
 patch=1,EE,70504202,extended,002000F6
 
-[Image 13]
+[Image 13 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 13
 // Image 13
 patch=1,EE,70504202,extended,00000060
 
-[Image 13]
+[Image 13 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 13
 // Image 13
 patch=1,EE,70504202,extended,0020006F
 
-[Image 14]
+[Image 14 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 14
 // Image 14
 patch=1,EE,70504203,extended,00000006
 
-[Image 14]
+[Image 14 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 14
 // Image 14
 patch=1,EE,70504203,extended,002000F6
 
-[Image 15]
+[Image 15 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 15
 // Image 15
 patch=1,EE,70504203,extended,00000060
 
-[Image 15]
+[Image 15 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 15
 // Image 15
 patch=1,EE,70504203,extended,0020006F
 
-[Image 16]
+[Image 16 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 16
 // Image 16
 patch=1,EE,70504204,extended,00000006
 
-[Image 16]
+[Image 16 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 16
 // Image 16
@@ -5922,7 +5820,7 @@ description=Image 17
 // Image 17
 patch=1,EE,70504204,extended,00000060
 
-[Image 17]
+[Image 17 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 17
 // Image 17
@@ -5934,7 +5832,7 @@ description=Image 18
 // Image 18
 patch=1,EE,70504205,extended,00000006
 
-[Image 18]
+[Image 18 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 18
 // Image 18
@@ -5946,7 +5844,7 @@ description=Image 19
 // Image 19
 patch=1,EE,70504205,extended,00000060
 
-[Image 19]
+[Image 19 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 19
 // Image 19
@@ -5958,7 +5856,7 @@ description=Image 20
 // Image 20
 patch=1,EE,70504206,extended,00000006
 
-[Image 20]
+[Image 20 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 20
 // Image 20
@@ -5970,7 +5868,7 @@ description=Image 21
 // Image 21
 patch=1,EE,70504206,extended,00000060
 
-[Image 21]
+[Image 21 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 21
 // Image 21
@@ -5982,7 +5880,7 @@ description=Image 22
 // Image 22
 patch=1,EE,70504207,extended,00000006
 
-[Image 22]
+[Image 22 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 22
 // Image 22
@@ -5994,7 +5892,7 @@ description=Image 23
 // Image 23
 patch=1,EE,70504207,extended,00000060
 
-[Image 23]
+[Image 23 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 23
 // Image 23
@@ -6006,7 +5904,7 @@ description=Image 24
 // Image 24
 patch=1,EE,70504208,extended,00000006
 
-[Image 24]
+[Image 24 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 24
 // Image 24
@@ -6018,7 +5916,7 @@ description=Image 25
 // Image 25
 patch=1,EE,70504208,extended,00000060
 
-[Image 25]
+[Image 25 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 25
 // Image 25
@@ -6030,7 +5928,7 @@ description=Image 26
 // Image 26
 patch=1,EE,70504209,extended,00000006
 
-[Image 26]
+[Image 26 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 26
 // Image 26
@@ -6042,7 +5940,7 @@ description=Image 27
 // Image 27
 patch=1,EE,70504209,extended,00000060
 
-[Image 27]
+[Image 27 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 27
 // Image 27
@@ -6054,7 +5952,7 @@ description=Image 28
 // Image 28
 patch=1,EE,7050420A,extended,00000006
 
-[Image 28]
+[Image 28 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 28
 // Image 28
@@ -6066,7 +5964,7 @@ description=Image 29
 // Image 29
 patch=1,EE,7050420A,extended,00000060
 
-[Image 29]
+[Image 29 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 29
 // Image 29
@@ -6078,7 +5976,7 @@ description=Image 30
 // Image 30
 patch=1,EE,7050420B,extended,00000006
 
-[Image 30]
+[Image 30 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 30
 // Image 30
@@ -6090,7 +5988,7 @@ description=Image 31
 // Image 31
 patch=1,EE,7050420B,extended,00000060
 
-[Image 31]
+[Image 31 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 31
 // Image 31
@@ -6102,7 +6000,7 @@ description=Image 32
 // Image 32
 patch=1,EE,7050420C,extended,00000006
 
-[Image 32]
+[Image 32 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 32
 // Image 32
@@ -6114,7 +6012,7 @@ description=Image 33
 // Image 33
 patch=1,EE,7050420C,extended,00000060
 
-[Image 33]
+[Image 33 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 33
 // Image 33
@@ -6126,7 +6024,7 @@ description=Image 34
 // Image 34
 patch=1,EE,7050420D,extended,00000006
 
-[Image 34]
+[Image 34 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 34
 // Image 34
@@ -6138,7 +6036,7 @@ description=Image 35
 // Image 35
 patch=1,EE,7050420D,extended,00000060
 
-[Image 35]
+[Image 35 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 35
 // Image 35
@@ -6150,7 +6048,7 @@ description=Image 36
 // Image 36
 patch=1,EE,7050420E,extended,00000006
 
-[Image 36]
+[Image 36 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 36
 // Image 36
@@ -6162,7 +6060,7 @@ description=Image 37
 // Image 37
 patch=1,EE,7050420E,extended,00000060
 
-[Image 37]
+[Image 37 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 37
 // Image 37
@@ -6174,7 +6072,7 @@ description=Image 38
 // Image 38
 patch=1,EE,7050420F,extended,00000006
 
-[Image 38]
+[Image 38 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 38
 // Image 38
@@ -6186,7 +6084,7 @@ description=Image 39
 // Image 39
 patch=1,EE,7050420F,extended,00000060
 
-[Image 39]
+[Image 39 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 39
 // Image 39
@@ -6198,7 +6096,7 @@ description=Image 40
 // Image 40
 patch=1,EE,70504210,extended,00000006
 
-[Image 40]
+[Image 40 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 40
 // Image 40
@@ -6210,7 +6108,7 @@ description=Image 41
 // Image 41
 patch=1,EE,70504210,extended,00000060
 
-[Image 41]
+[Image 41 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 41
 // Image 41
@@ -6222,7 +6120,7 @@ description=Image 42
 // Image 42
 patch=1,EE,70504211,extended,00000006
 
-[Image 42]
+[Image 42 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 42
 // Image 42
@@ -6234,7 +6132,7 @@ description=Image 43
 // Image 43
 patch=1,EE,70504211,extended,00000060
 
-[Image 43]
+[Image 43 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 43
 // Image 43
@@ -6246,7 +6144,7 @@ description=Image 44
 // Image 44
 patch=1,EE,70504212,extended,00000006
 
-[Image 44]
+[Image 44 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 44
 // Image 44
@@ -6258,7 +6156,7 @@ description=Image 45
 // Image 45
 patch=1,EE,70504212,extended,00000060
 
-[Image 45]
+[Image 45 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 45
 // Image 45
@@ -6270,7 +6168,7 @@ description=Image 46
 // Image 46
 patch=1,EE,70504213,extended,00000006
 
-[Image 46]
+[Image 46 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 46
 // Image 46
@@ -6282,7 +6180,7 @@ description=Image 47
 // Image 47
 patch=1,EE,70504213,extended,00000060
 
-[Image 47]
+[Image 47 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 47
 // Image 47
@@ -6294,7 +6192,7 @@ description=Image 48
 // Image 48
 patch=1,EE,70504214,extended,00000006
 
-[Image 48]
+[Image 48 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 48
 // Image 48
@@ -6306,7 +6204,7 @@ description=Image 49
 // Image 49
 patch=1,EE,70504214,extended,00000060
 
-[Image 49]
+[Image 49 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 49
 // Image 49
@@ -6318,7 +6216,7 @@ description=Image 50
 // Image 50
 patch=1,EE,70504215,extended,00000006
 
-[Image 50]
+[Image 50 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 50
 // Image 50
@@ -6330,7 +6228,7 @@ description=Image 51
 // Image 51
 patch=1,EE,70504215,extended,00000060
 
-[Image 51]
+[Image 51 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 51
 // Image 51
@@ -6342,7 +6240,7 @@ description=Image 52
 // Image 52
 patch=1,EE,70504216,extended,00000006
 
-[Image 52]
+[Image 52 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 52
 // Image 52
@@ -6354,7 +6252,7 @@ description=Image 53
 // Image 53
 patch=1,EE,70504216,extended,00000060
 
-[Image 53]
+[Image 53 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 53
 // Image 53
@@ -6366,7 +6264,7 @@ description=Image 54
 // Image 54
 patch=1,EE,70504217,extended,00000006
 
-[Image 54]
+[Image 54 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 54
 // Image 54
@@ -6378,7 +6276,7 @@ description=Image 55
 // Image 55
 patch=1,EE,70504217,extended,00000060
 
-[Image 55]
+[Image 55 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 55
 // Image 55
@@ -6390,7 +6288,7 @@ description=Image 56
 // Image 56
 patch=1,EE,70504218,extended,00000006
 
-[Image 56]
+[Image 56 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 56
 // Image 56
@@ -6402,7 +6300,7 @@ description=Image 57
 // Image 57
 patch=1,EE,70504218,extended,00000060
 
-[Image 57]
+[Image 57 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 57
 // Image 57
@@ -6414,7 +6312,7 @@ description=Image 58
 // Image 58
 patch=1,EE,70504219,extended,00000006
 
-[Image 58]
+[Image 58 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 58
 // Image 58
@@ -6426,7 +6324,7 @@ description=Image 59
 // Image 59
 patch=1,EE,70504219,extended,00000060
 
-[Image 59]
+[Image 59 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 59
 // Image 59
@@ -6438,7 +6336,7 @@ description=Image 60
 // Image 60
 patch=1,EE,7050421A,extended,00000006
 
-[Image 60]
+[Image 60 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 60
 // Image 60
@@ -6450,7 +6348,7 @@ description=Image 61
 // Image 61
 patch=1,EE,7050421A,extended,00000060
 
-[Image 61]
+[Image 61 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 61
 // Image 61
@@ -6462,7 +6360,7 @@ description=Image 62
 // Image 62
 patch=1,EE,7050421B,extended,00000006
 
-[Image 62]
+[Image 62 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 62
 // Image 62
@@ -6474,7 +6372,7 @@ description=Image 63
 // Image 63
 patch=1,EE,7050421B,extended,00000060
 
-[Image 63]
+[Image 63 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 63
 // Image 63
@@ -6486,7 +6384,7 @@ description=Image 64
 // Image 64
 patch=1,EE,7050421C,extended,00000006
 
-[Image 64]
+[Image 64 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 64
 // Image 64
@@ -6498,7 +6396,7 @@ description=Image 65
 // Image 65
 patch=1,EE,7050421C,extended,00000060
 
-[Image 65]
+[Image 65 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 65
 // Image 65
@@ -6510,7 +6408,7 @@ description=Image 66
 // Image 66
 patch=1,EE,7050421D,extended,00000006
 
-[Image 66]
+[Image 66 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 66
 // Image 66
@@ -6522,7 +6420,7 @@ description=Image 67
 // Image 67
 patch=1,EE,7050421D,extended,00000060
 
-[Image 67]
+[Image 67 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 67
 // Image 67
@@ -6534,7 +6432,7 @@ description=Image 68
 // Image 68
 patch=1,EE,7050421E,extended,00000006
 
-[Image 68]
+[Image 68 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 68
 // Image 68
@@ -6546,7 +6444,7 @@ description=Image 69
 // Image 69
 patch=1,EE,7050421E,extended,00000060
 
-[Image 69]
+[Image 69 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 69
 // Image 69
@@ -6558,7 +6456,7 @@ description=Image 70
 // Image 70
 patch=1,EE,7050421F,extended,00000006
 
-[Image 70]
+[Image 70 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 70
 // Image 70
@@ -6570,7 +6468,7 @@ description=Image 71
 // Image 71
 patch=1,EE,7050421F,extended,00000060
 
-[Image 71]
+[Image 71 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 71
 // Image 71
@@ -6582,7 +6480,7 @@ description=Image 72
 // Image 72
 patch=1,EE,70504220,extended,00000006
 
-[Image 72]
+[Image 72 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 72
 // Image 72
@@ -6594,7 +6492,7 @@ description=Image 73
 // Image 73
 patch=1,EE,70504220,extended,00000060
 
-[Image 73]
+[Image 73 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 73
 // Image 73
@@ -6606,7 +6504,7 @@ description=Image 74
 // Image 74
 patch=1,EE,70504221,extended,00000006
 
-[Image 74]
+[Image 74 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 74
 // Image 74
@@ -6618,7 +6516,7 @@ description=Image 75
 // Image 75
 patch=1,EE,70504221,extended,00000060
 
-[Image 75]
+[Image 75 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 75
 // Image 75
@@ -6630,7 +6528,7 @@ description=Image 76
 // Image 76
 patch=1,EE,70504222,extended,00000006
 
-[Image 76]
+[Image 76 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 76
 // Image 76
@@ -6642,7 +6540,7 @@ description=Image 77
 // Image 77
 patch=1,EE,70504222,extended,00000060
 
-[Image 77]
+[Image 77 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 77
 // Image 77
@@ -6654,7 +6552,7 @@ description=Image 78
 // Image 78
 patch=1,EE,70504223,extended,00000006
 
-[Image 78]
+[Image 78 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 78
 // Image 78
@@ -6666,7 +6564,7 @@ description=Image 79
 // Image 79
 patch=1,EE,70504223,extended,00000060
 
-[Image 79]
+[Image 79 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 79
 // Image 79
@@ -6678,7 +6576,7 @@ description=Image 80
 // Image 80
 patch=1,EE,70504224,extended,00000006
 
-[Image 80]
+[Image 80 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 80
 // Image 80
@@ -6690,7 +6588,7 @@ description=Image 81
 // Image 81
 patch=1,EE,70504224,extended,00000060
 
-[Image 81]
+[Image 81 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 81
 // Image 81
@@ -6702,7 +6600,7 @@ description=Image 82
 // Image 82
 patch=1,EE,70504225,extended,00000006
 
-[Image 82]
+[Image 82 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 82
 // Image 82
@@ -6714,7 +6612,7 @@ description=Image 83
 // Image 83
 patch=1,EE,70504225,extended,00000060
 
-[Image 83]
+[Image 83 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 83
 // Image 83
@@ -6726,7 +6624,7 @@ description=Image 84
 // Image 84
 patch=1,EE,70504226,extended,00000006
 
-[Image 84]
+[Image 84 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 84
 // Image 84
@@ -6738,7 +6636,7 @@ description=Image 85
 // Image 85
 patch=1,EE,70504226,extended,00000060
 
-[Image 85]
+[Image 85 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 85
 // Image 85
@@ -6750,7 +6648,7 @@ description=Image 86
 // Image 86
 patch=1,EE,70504227,extended,00000006
 
-[Image 86]
+[Image 86 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 86
 // Image 86
@@ -6762,7 +6660,7 @@ description=Image 87
 // Image 87
 patch=1,EE,70504234,extended,00000006
 
-[Image 87]
+[Image 87 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 87
 // Image 87
@@ -6774,7 +6672,7 @@ description=Image 88
 // Image 88
 patch=1,EE,70504234,extended,00000060
 
-[Image 88]
+[Image 88 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 88
 // Image 88
@@ -6786,7 +6684,7 @@ description=Image 89
 // Image 89
 patch=1,EE,70504235,extended,00000006
 
-[Image 89]
+[Image 89 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 89
 // Image 89
@@ -6798,7 +6696,7 @@ description=Image 90
 // Image 90
 patch=1,EE,70504235,extended,00000060
 
-[Image 90]
+[Image 90 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 90
 // Image 90
@@ -6810,7 +6708,7 @@ description=Image 91
 // Image 91
 patch=1,EE,70504236,extended,00000006
 
-[Image 91]
+[Image 91 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 91
 // Image 91
@@ -6822,7 +6720,7 @@ description=Image 92
 // Image 92
 patch=1,EE,70504236,extended,00000060
 
-[Image 92]
+[Image 92 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 92
 // Image 92
@@ -6834,7 +6732,7 @@ description=Image 93
 // Image 93
 patch=1,EE,70504237,extended,00000006
 
-[Image 93]
+[Image 93 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 93
 // Image 93
@@ -6846,7 +6744,7 @@ description=Image 94
 // Image 94
 patch=1,EE,70504237,extended,00000060
 
-[Image 94]
+[Image 94 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 94
 // Image 94
@@ -6858,7 +6756,7 @@ description=Image 95
 // Image 95
 patch=1,EE,70504238,extended,00000006
 
-[Image 95]
+[Image 95 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 95
 // Image 95
@@ -6870,7 +6768,7 @@ description=Image 96
 // Image 96
 patch=1,EE,70504238,extended,00000060
 
-[Image 96]
+[Image 96 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 96
 // Image 96
@@ -6882,7 +6780,7 @@ description=Image 97
 // Image 97
 patch=1,EE,70504239,extended,00000006
 
-[Image 97]
+[Image 97 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 97
 // Image 97
@@ -6894,7 +6792,7 @@ description=Image 98
 // Image 98
 patch=1,EE,70504239,extended,00000060
 
-[Image 98]
+[Image 98 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 98
 // Image 98
@@ -6906,7 +6804,7 @@ description=Image 99
 // Image 99
 patch=1,EE,7050423A,extended,00000006
 
-[Image 99]
+[Image 99 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 99
 // Image 99
@@ -6918,7 +6816,7 @@ description=Image 100
 // Image 100
 patch=1,EE,7050423A,extended,00000060
 
-[Image 100]
+[Image 100 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 100
 // Image 100
@@ -6930,7 +6828,7 @@ description=Image 101
 // Image 101
 patch=1,EE,7050423B,extended,00000006
 
-[Image 101]
+[Image 101 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 101
 // Image 101
@@ -6942,7 +6840,7 @@ description=Image 102
 // Image 102
 patch=1,EE,7050423B,extended,00000060
 
-[Image 102]
+[Image 102 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 102
 // Image 102
@@ -6954,7 +6852,7 @@ description=Image 103
 // Image 103
 patch=1,EE,7050423C,extended,00000006
 
-[Image 103]
+[Image 103 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 103
 // Image 103
@@ -6966,7 +6864,7 @@ description=Image 104
 // Image 104
 patch=1,EE,7050423D,extended,00000060
 
-[Image 104]
+[Image 104 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 104
 // Image 104
@@ -6978,475 +6876,475 @@ description=Image 105
 // Image 105
 patch=1,EE,7050423E,extended,00000006
 
-[Image 105]
+[Image 105 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 105
 // Image 105
 patch=1,EE,7050423E,extended,002000F6
 
-[Image 1]
+[Image 1 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 1
 // Image 1
 patch=1,EE,7050424B,extended,00000060
 
-[Image 1]
+[Image 1 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 1
 // Image 1
 patch=1,EE,7050424B,extended,0020006F
 
-[Image 2]
+[Image 2 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 2
 // Image 2
 patch=1,EE,7050424C,extended,00000006
 
-[Image 2]
+[Image 2 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 2
 // Image 2
 patch=1,EE,7050424C,extended,002000F6
 
-[Image 3]
+[Image 3 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 3
 // Image 3
 patch=1,EE,7050424C,extended,00000060
 
-[Image 3]
+[Image 3 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 3
 // Image 3
 patch=1,EE,7050424C,extended,0020006F
 
-[Image 4]
+[Image 4 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 4
 // Image 4
 patch=1,EE,7050424D,extended,00000006
 
-[Image 4]
+[Image 4 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 4
 // Image 4
 patch=1,EE,7050424D,extended,002000F6
 
-[Image 5]
+[Image 5 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 5
 // Image 5
 patch=1,EE,7050424D,extended,00000060
 
-[Image 5]
+[Image 5 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 5
 // Image 5
 patch=1,EE,7050424D,extended,0020006F
 
-[Image 6]
+[Image 6 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 6
 // Image 6
 patch=1,EE,7050424E,extended,00000006
 
-[Image 6]
+[Image 6 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 6
 // Image 6
 patch=1,EE,7050424E,extended,002000F6
 
-[Image 7]
+[Image 7 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 7
 // Image 7
 patch=1,EE,7050424E,extended,00000060
 
-[Image 7]
+[Image 7 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 7
 // Image 7
 patch=1,EE,7050424E,extended,0020006F
 
-[Image 8]
+[Image 8 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 8
 // Image 8
 patch=1,EE,7050424F,extended,00000006
 
-[Image 8]
+[Image 8 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 8
 // Image 8
 patch=1,EE,7050424F,extended,002000F6
 
-[Image 9]
+[Image 9 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 9
 // Image 9
 patch=1,EE,70504250,extended,00000060
 
-[Image 9]
+[Image 9 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 9
 // Image 9
 patch=1,EE,70504250,extended,0020006F
 
-[Image 10]
+[Image 10 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 10
 // Image 10
 patch=1,EE,70504251,extended,00000006
 
-[Image 10]
+[Image 10 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 10
 // Image 10
 patch=1,EE,70504251,extended,002000F6
 
-[Image 11]
+[Image 11 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 11
 // Image 11
 patch=1,EE,70504251,extended,00000060
 
-[Image 11]
+[Image 11 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 11
 // Image 11
 patch=1,EE,70504251,extended,0020006F
 
-[Image 12]
+[Image 12 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 12
 // Image 12
 patch=1,EE,70504252,extended,00000006
 
-[Image 12]
+[Image 12 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 12
 // Image 12
 patch=1,EE,70504252,extended,002000F6
 
-[Image 13]
+[Image 13 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 13
 // Image 13
 patch=1,EE,70504252,extended,00000060
 
-[Image 13]
+[Image 13 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 13
 // Image 13
 patch=1,EE,70504252,extended,0020006F
 
-[Image 14]
+[Image 14 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 14
 // Image 14
 patch=1,EE,70504255,extended,00000060
 
-[Image 14]
+[Image 14 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 14
 // Image 14
 patch=1,EE,70504255,extended,0020006F
 
-[Image 15]
+[Image 15 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 15
 // Image 15
 patch=1,EE,70504256,extended,00000060
 
-[Image 15]
+[Image 15 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 15
 // Image 15
 patch=1,EE,70504256,extended,0020006F
 
-[Image 1]
+[Image 1 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 1
 // Image 1
 patch=1,EE,70504258,extended,00000006
 
-[Image 1]
+[Image 1 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 1
 // Image 1
 patch=1,EE,70504258,extended,002000F6
 
-[Image 2]
+[Image 2 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 2
 // Image 2
 patch=1,EE,70504258,extended,00000060
 
-[Image 2]
+[Image 2 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 2
 // Image 2
 patch=1,EE,70504258,extended,0020006F
 
-[Image 3]
+[Image 3 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 3
 // Image 3
 patch=1,EE,70504259,extended,00000006
 
-[Image 3]
+[Image 3 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 3
 // Image 3
 patch=1,EE,70504259,extended,002000F6
 
-[Image 4]
+[Image 4 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 4
 // Image 4
 patch=1,EE,7050425A,extended,00000006
 
-[Image 4]
+[Image 4 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 4
 // Image 4
 patch=1,EE,7050425A,extended,002000F6
 
-[Image 5]
+[Image 5 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 5
 // Image 5
 patch=1,EE,7050425A,extended,00000060
 
-[Image 5]
+[Image 5 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 5
 // Image 5
 patch=1,EE,7050425A,extended,0020006F
 
-[Image 6]
+[Image 6 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 6
 // Image 6
 patch=1,EE,7050425B,extended,00000060
 
-[Image 6]
+[Image 6 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 6
 // Image 6
 patch=1,EE,7050425B,extended,0020006F
 
-[Image 7]
+[Image 7 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 7
 // Image 7
 patch=1,EE,7050425C,extended,00000006
 
-[Image 7]
+[Image 7 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 7
 // Image 7
 patch=1,EE,7050425C,extended,002000F6
 
-[Image 8]
+[Image 8 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 8
 // Image 8
 patch=1,EE,7050425C,extended,00000060
 
-[Image 8]
+[Image 8 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 8
 // Image 8
 patch=1,EE,7050425C,extended,0020006F
 
-[Image 9]
+[Image 9 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 9
 // Image 9
 patch=1,EE,7050425E,extended,00000006
 
-[Image 9]
+[Image 9 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 9
 // Image 9
 patch=1,EE,7050425E,extended,002000F6
 
-[Image 10]
+[Image 10 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 10
 // Image 10
 patch=1,EE,70504261,extended,00000060
 
-[Image 10]
+[Image 10 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 10
 // Image 10
 patch=1,EE,70504261,extended,0020006F
 
-[Image 1]
+[Image 1 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 1
 // Image 1
 patch=1,EE,70504262,extended,00000006
 
-[Image 1]
+[Image 1 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 1
 // Image 1
 patch=1,EE,70504262,extended,002000F6
 
-[Image 2]
+[Image 2 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 2
 // Image 2
 patch=1,EE,70504262,extended,00000060
 
-[Image 2]
+[Image 2 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 2
 // Image 2
 patch=1,EE,70504262,extended,0020006F
 
-[Image 3]
+[Image 3 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 3
 // Image 3
 patch=1,EE,70504267,extended,00000006
 
-[Image 3]
+[Image 3 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 3
 // Image 3
 patch=1,EE,70504267,extended,002000F6
 
-[Image 4]
+[Image 4 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 4
 // Image 4
 patch=1,EE,70504267,extended,00000060
 
-[Image 4]
+[Image 4 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 4
 // Image 4
 patch=1,EE,70504267,extended,0020006F
 
-[Image 5]
+[Image 5 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 5
 // Image 5
 patch=1,EE,70504268,extended,00000006
 
-[Image 5]
+[Image 5 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 5
 // Image 5
 patch=1,EE,70504268,extended,002000F6
 
-[Image 6]
+[Image 6 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 6
 // Image 6
 patch=1,EE,7050426D,extended,00000006
 
-[Image 6]
+[Image 6 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 6
 // Image 6
 patch=1,EE,7050426D,extended,002000F6
 
-[Image 7]
+[Image 7 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 7
 // Image 7
 patch=1,EE,7050426D,extended,00000060
 
-[Image 7]
+[Image 7 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 7
 // Image 7
 patch=1,EE,7050426D,extended,0020006F
 
-[Image 8]
+[Image 8 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 8
 // Image 8
 patch=1,EE,7050426E,extended,00000006
 
-[Image 8]
+[Image 8 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 8
 // Image 8
 patch=1,EE,7050426E,extended,002000F6
 
-[Image 9]
+[Image 9 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 9
 // Image 9
 patch=1,EE,70504276,extended,00000060
 
-[Image 9]
+[Image 9 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 9
 // Image 9
 patch=1,EE,70504276,extended,0020006F
 
-[Image 10]
+[Image 10 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 10
 // Image 10
 patch=1,EE,70504277,extended,00000006
 
-[Image 10]
+[Image 10 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 10
 // Image 10
 patch=1,EE,70504277,extended,002000F6
 
-[Image 11]
+[Image 11 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 11
 // Image 11
 patch=1,EE,70504277,extended,00000060
 
-[Image 11]
+[Image 11 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 11
 // Image 11
 patch=1,EE,70504277,extended,0020006F
 
-[Image 12]
+[Image 12 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 12
 // Image 12
 patch=1,EE,70504278,extended,00000060
 
-[Image 12]
+[Image 12 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 12
 // Image 12
 patch=1,EE,70504278,extended,0020006F
 
-[Image 13]
+[Image 13 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 13
 // Image 13
 patch=1,EE,70504279,extended,00000006
 
-[Image 13]
+[Image 13 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 13
 // Image 13
 patch=1,EE,70504279,extended,002000F6
 
-[Image 14]
+[Image 14 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 14
 // Image 14
 patch=1,EE,70504279,extended,00000060
 
-[Image 14]
+[Image 14 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Image 14
 // Image 14
@@ -7458,7 +7356,7 @@ description=Movie 1
 // Movie 1
 patch=1,EE,7050427A,extended,00000006
 
-[Movie 1]
+[Movie 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Movie 1
 // Movie 1
@@ -7470,7 +7368,7 @@ description=Movie 2
 // Movie 2
 patch=1,EE,7050427A,extended,00000060
 
-[Movie 2]
+[Movie 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Movie 2
 // Movie 2
@@ -7482,7 +7380,7 @@ description=Movie 3
 // Movie 3
 patch=1,EE,7050427B,extended,00000060
 
-[Movie 3]
+[Movie 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Movie 3
 // Movie 3
@@ -7494,7 +7392,7 @@ description=Movie 4
 // Movie 4
 patch=1,EE,7050427C,extended,00000006
 
-[Movie 4]
+[Movie 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Movie 4
 // Movie 4
@@ -7506,7 +7404,7 @@ description=Movie 5
 // Movie 5
 patch=1,EE,7050427D,extended,00000060
 
-[Movie 5]
+[Movie 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Movie 5
 // Movie 5
@@ -7518,7 +7416,7 @@ description=Mission 1-Easy
 // Mission 1-Easy
 patch=1,EE,70504386,extended,00000060
 
-[Mission 1-Easy]
+[Mission 1-Easy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 1-Easy
 // Mission 1-Easy
@@ -7530,7 +7428,7 @@ description=Mission 2-Easy
 // Mission 2-Easy
 patch=1,EE,70504388,extended,00000006
 
-[Mission 2-Easy]
+[Mission 2-Easy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 2-Easy
 // Mission 2-Easy
@@ -7542,7 +7440,7 @@ description=Mission 3-Easy
 // Mission 3-Easy
 patch=1,EE,7050439A,extended,00000006
 
-[Mission 3-Easy]
+[Mission 3-Easy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 3-Easy
 // Mission 3-Easy
@@ -7554,7 +7452,7 @@ description=Mission 4-Easy
 // Mission 4-Easy
 patch=1,EE,7050438C,extended,00000060
 
-[Mission 4-Easy]
+[Mission 4-Easy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 4-Easy
 // Mission 4-Easy
@@ -7566,7 +7464,7 @@ description=Mission 5-Easy
 // Mission 5-Easy
 patch=1,EE,7050438B,extended,00000006
 
-[Mission 5-Easy]
+[Mission 5-Easy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 5-Easy
 // Mission 5-Easy
@@ -7578,7 +7476,7 @@ description=Mission 6-Easy
 // Mission 6-Easy
 patch=1,EE,70504389,extended,00000060
 
-[Mission 6-Easy]
+[Mission 6-Easy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 6-Easy
 // Mission 6-Easy
@@ -7590,7 +7488,7 @@ description=Mission 7-Easy
 // Mission 7-Easy
 patch=1,EE,70504395,extended,00000060
 
-[Mission 7-Easy]
+[Mission 7-Easy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 7-Easy
 // Mission 7-Easy
@@ -7602,7 +7500,7 @@ description=Mission 8-Easy
 // Mission 8-Easy
 patch=1,EE,70504397,extended,00000006
 
-[Mission 8-Easy]
+[Mission 8-Easy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 8-Easy
 // Mission 8-Easy
@@ -7614,7 +7512,7 @@ description=Mission 9-Easy
 // Mission 9-Easy
 patch=1,EE,70504398,extended,00000060
 
-[Mission 9-Easy]
+[Mission 9-Easy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 9-Easy
 // Mission 9-Easy
@@ -7626,7 +7524,7 @@ description=Mission 10-Easy
 // Mission 10-Easy
 patch=1,EE,70504385,extended,00000006
 
-[Mission 10-Easy]
+[Mission 10-Easy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 10-Easy
 // Mission 10-Easy
@@ -7638,7 +7536,7 @@ description=Mission 11-Easy
 // Mission 11-Easy
 patch=1,EE,70504391,extended,00000006
 
-[Mission 11-Easy]
+[Mission 11-Easy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 11-Easy
 // Mission 11-Easy
@@ -7650,7 +7548,7 @@ description=Mission 12-Easy
 // Mission 12-Easy
 patch=1,EE,7050439E,extended,00000060
 
-[Mission 12-Easy]
+[Mission 12-Easy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 12-Easy
 // Mission 12-Easy
@@ -7662,7 +7560,7 @@ description=Mission 1-Normal
 // Mission 1-Normal
 patch=1,EE,70504387,extended,00000006
 
-[Mission 1-Normal]
+[Mission 1-Normal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 1-Normal
 // Mission 1-Normal
@@ -7674,7 +7572,7 @@ description=Mission 2-Normal
 // Mission 2-Normal
 patch=1,EE,70504388,extended,00000060
 
-[Mission 2-Normal]
+[Mission 2-Normal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 2-Normal
 // Mission 2-Normal
@@ -7686,7 +7584,7 @@ description=Mission 3-Normal
 // Mission 3-Normal
 patch=1,EE,7050439A,extended,00000060
 
-[Mission 3-Normal]
+[Mission 3-Normal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 3-Normal
 // Mission 3-Normal
@@ -7698,7 +7596,7 @@ description=Mission 4-Normal
 // Mission 4-Normal
 patch=1,EE,7050438D,extended,00000006
 
-[Mission 4-Normal]
+[Mission 4-Normal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 4-Normal
 // Mission 4-Normal
@@ -7710,7 +7608,7 @@ description=Mission 5-Normal
 // Mission 5-Normal
 patch=1,EE,7050438B,extended,00000060
 
-[Mission 5-Normal]
+[Mission 5-Normal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 5-Normal
 // Mission 5-Normal
@@ -7722,7 +7620,7 @@ description=Mission 6-Normal
 // Mission 6-Normal
 patch=1,EE,7050438A,extended,00000006
 
-[Mission 6-Normal]
+[Mission 6-Normal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 6-Normal
 // Mission 6-Normal
@@ -7734,7 +7632,7 @@ description=Mission 7-Normal
 // Mission 7-Normal
 patch=1,EE,70504396,extended,00000006
 
-[Mission 7-Normal]
+[Mission 7-Normal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 7-Normal
 // Mission 7-Normal
@@ -7746,7 +7644,7 @@ description=Mission 8-Normal
 // Mission 8-Normal
 patch=1,EE,70504397,extended,00000060
 
-[Mission 8-Normal]
+[Mission 8-Normal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 8-Normal
 // Mission 8-Normal
@@ -7758,7 +7656,7 @@ description=Mission 9-Normal
 // Mission 9-Normal
 patch=1,EE,70504399,extended,00000006
 
-[Mission 9-Normal]
+[Mission 9-Normal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 9-Normal
 // Mission 9-Normal
@@ -7770,7 +7668,7 @@ description=Mission 10-Normal
 // Mission 10-Normal
 patch=1,EE,70504385,extended,00000060
 
-[Mission 10-Normal]
+[Mission 10-Normal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 10-Normal
 // Mission 10-Normal
@@ -7782,7 +7680,7 @@ description=Mission 11-Normal
 // Mission 11-Normal
 patch=1,EE,70504391,extended,00000060
 
-[Mission 11-Normal]
+[Mission 11-Normal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 11-Normal
 // Mission 11-Normal
@@ -7794,7 +7692,7 @@ description=Mission 12-Normal
 // Mission 12-Normal
 patch=1,EE,7050439F,extended,00000006
 
-[Mission 12-Normal]
+[Mission 12-Normal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 12-Normal
 // Mission 12-Normal
@@ -7806,7 +7704,7 @@ description=Mission 1-Hard
 // Mission 1-Hard
 patch=1,EE,70504387,extended,00000060
 
-[Mission 1-Hard]
+[Mission 1-Hard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 1-Hard
 // Mission 1-Hard
@@ -7818,7 +7716,7 @@ description=Mission 2-Hard
 // Mission 2-Hard
 patch=1,EE,70504389,extended,00000006
 
-[Mission 2-Hard]
+[Mission 2-Hard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 2-Hard
 // Mission 2-Hard
@@ -7830,7 +7728,7 @@ description=Mission 3-Hard
 // Mission 3-Hard
 patch=1,EE,7050439B,extended,00000006
 
-[Mission 3-Hard]
+[Mission 3-Hard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 3-Hard
 // Mission 3-Hard
@@ -7842,7 +7740,7 @@ description=Mission 4-Hard
 // Mission 4-Hard
 patch=1,EE,7050438D,extended,00000060
 
-[Mission 4-Hard]
+[Mission 4-Hard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 4-Hard
 // Mission 4-Hard
@@ -7854,7 +7752,7 @@ description=Mission 5-Hard
 // Mission 5-Hard
 patch=1,EE,7050438C,extended,00000006
 
-[Mission 5-Hard]
+[Mission 5-Hard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 5-Hard
 // Mission 5-Hard
@@ -7866,7 +7764,7 @@ description=Mission 6-Hard
 // Mission 6-Hard
 patch=1,EE,7050438A,extended,00000060
 
-[Mission 6-Hard]
+[Mission 6-Hard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 6-Hard
 // Mission 6-Hard
@@ -7878,7 +7776,7 @@ description=Mission 7-Hard
 // Mission 7-Hard
 patch=1,EE,70504396,extended,00000060
 
-[Mission 7-Hard]
+[Mission 7-Hard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 7-Hard
 // Mission 7-Hard
@@ -7890,7 +7788,7 @@ description=Mission 8-Hard
 // Mission 8-Hard
 patch=1,EE,70504398,extended,00000006
 
-[Mission 8-Hard]
+[Mission 8-Hard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 8-Hard
 // Mission 8-Hard
@@ -7902,7 +7800,7 @@ description=Mission 9-Hard
 // Mission 9-Hard
 patch=1,EE,70504399,extended,00000060
 
-[Mission 9-Hard]
+[Mission 9-Hard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 9-Hard
 // Mission 9-Hard
@@ -7914,7 +7812,7 @@ description=Mission 10-Hard
 // Mission 10-Hard
 patch=1,EE,70504386,extended,00000006
 
-[Mission 10-Hard]
+[Mission 10-Hard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 10-Hard
 // Mission 10-Hard
@@ -7926,7 +7824,7 @@ description=Mission 11-Hard
 // Mission 11-Hard
 patch=1,EE,70504392,extended,00000006
 
-[Mission 11-Hard]
+[Mission 11-Hard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 11-Hard
 // Mission 11-Hard
@@ -7938,7 +7836,7 @@ description=Mission 12-Hard
 // Mission 12-Hard
 patch=1,EE,7050439F,extended,00000060
 
-[Mission 12-Hard]
+[Mission 12-Hard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mission 12-Hard
 // Mission 12-Hard
@@ -7956,13 +7854,7 @@ description=Unlock Characters/Weapons
 // Unlock Characters/Weapons
 patch=1,EE,40509898,extended,00CB0001
 
-[Unlock Characters/Weapons]
-author=xs1l3n7x(pnach)/UPC(codes)
-description=Unlock Characters/Weapons
-// Unlock Characters/Weapons
-patch=1,EE,66666666,extended,00000000
-
-[Unlock Characters/Weapons]
+[Unlock Characters/Weapons (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Unlock Characters/Weapons
 // Unlock Characters/Weapons
@@ -7974,8 +7866,13 @@ description=Unlock All Costumes/Class/Slots for Character Creation
 // Unlock All Costumes/Class/Slots for Character Creation
 patch=1,EE,40509B38,extended,00740001
 
-[Unlock All Costumes/Class/Slots for Character Creation]
-author=xs1l3n7x(pnach)/UPC(codes)
-description=Unlock All Costumes/Class/Slots for Character Creation
-// Unlock All Costumes/Class/Slots for Character Creation
-patch=1,EE,66666666,extended,00000000
+[Cheats\Infinite Gold]
+patch=1,EE,204ED894,extended,05F5E0FF
+
+[Cheats\1 Hit Death P2]
+patch=1,EE,D04D36A6,extended,00004370
+patch=1,EE,204D36A4,extended,3F800000
+
+[Cheats\Unlock Everything]
+patch=1,EE,40504118,extended,012E0001
+patch=1,EE,66666667,extended,00000000

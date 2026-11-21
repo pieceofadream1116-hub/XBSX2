@@ -1,0 +1,21 @@
+gametitle=TOCA Race Driver 2 [SLES-52637] [EE5EF293]
+
+[Cheats\UPress L2 To Freeze Time]
+patch=1,EE,D05D7442,extended,0000FEFF
+patch=1,EE,2025DFE0,extended,00000000
+
+[Cheats\Press L1 + L2 To Unfreeze Time]
+patch=1,EE,D05D7442,extended,0000FAFF
+patch=1,EE,2025DFE0,extended,FE020010
+
+[Cheats\Press L3 To Finish Race]
+patch=1,EE,E002FFFD,extended,005D7442
+patch=1,EE,30500000,extended,00510464
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Zeit aus]
+patch=1,EE,2025DFE0,extended,00000000
+patch=1,EE,2025DFF8,extended,00000000
+
+[Cheats\Friert Zeit ein]
+patch=1,EE,2025DF98,extended,00000000

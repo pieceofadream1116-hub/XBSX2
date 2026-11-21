@@ -96,19 +96,19 @@ description=P1 Press {CROSS} For Moon Jump
 // P1 Press {CROSS} For Moon Jump
 patch=1,EE,D05C6482,extended,0000BFFF
 
-[P1 Press {CROSS} For Moon Jump]
+[P1 Press {CROSS} For Moon Jump (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {CROSS} For Moon Jump
 // P1 Press {CROSS} For Moon Jump
 patch=1,EE,205A7E74,extended,BFC00000
 
-[Max Life]
+[Max Life (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Life
 // Max Life
 patch=1,EE,105C1438,extended,000003E8
 
-[Max Soul]
+[Max Soul (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Soul
 // Max Soul
@@ -347,3 +347,16 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Thanatos
 // Thanatos
 patch=1,EE,205C1434,extended,3B9AC9FF
+
+[Cheats\Infinite Health]
+patch=1,EE,105A99C4,extended,000003E8
+
+[Cheats\Infinite Soul]
+patch=1,EE,105C13F4,extended,000005DC
+
+[Cheats\Unlock All Extras]
+patch=1,EE,205C1050,extended,FFFFFFFF
+patch=1,EE,205C1054,extended,FFFFFFFF
+
+[Cheats\New Game = Stage Select Menu]
+patch=1,EE,2038F45C,extended,0022BB50

@@ -24,19 +24,19 @@ description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,D01F8870,extended,00000001
 
-[Start On Lap 2]
+[Start On Lap 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,201F8870,extended,00000002
 
-[Start On Lap 2]
+[Start On Lap 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,D01F8874,extended,00000001
 
-[Start On Lap 2]
+[Start On Lap 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
@@ -46,21 +46,9 @@ patch=1,EE,201F8874,extended,00000002
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 3
 // Start On Lap 3
-patch=1,EE,D01F8870,extended,00000001
-
-[Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 3
-// Start On Lap 3
 patch=1,EE,201F8870,extended,00000003
 
-[Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 3
-// Start On Lap 3
-patch=1,EE,D01F8874,extended,00000001
-
-[Start On Lap 3]
+[Start On Lap 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 3
 // Start On Lap 3
@@ -78,7 +66,7 @@ description=Max All Trophies/Races
 // Max All Trophies/Races
 patch=1,EE,401D7ABC,extended,00200001
 
-[Max All Trophies/Races]
+[Max All Trophies/Races (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Trophies/Races
 // Max All Trophies/Races
@@ -90,7 +78,7 @@ description=Unlock All Trucks
 // Unlock All Trucks
 patch=1,EE,401D7B40,extended,00100001
 
-[Unlock All Trucks]
+[Unlock All Trucks (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Trucks
 // Unlock All Trucks
@@ -102,8 +90,20 @@ description=Unlock All Tracks
 // Unlock All Tracks
 patch=1,EE,401D7B80,extended,000F0001
 
-[Unlock All Tracks]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Tracks
-// Unlock All Tracks
+[Cheats\Start On Lap 3]
+patch=1,EE,D01F8870,extended,00000001
+patch=1,EE,201F8870,extended,00000003
+patch=1,EE,D01F8874,extended,00000001
+patch=1,EE,201F8874,extended,00000003
+
+[Cheats\Max All Trophies And Races]
+patch=1,EE,401D7ABC,extended,00200001
+patch=1,EE,00000063,extended,00000000
+
+[Cheats\Unlock All Trucks]
+patch=1,EE,401D7B40,extended,00100001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock All Tracks]
+patch=1,EE,401D7B80,extended,000F0001
 patch=1,EE,00000001,extended,00000000

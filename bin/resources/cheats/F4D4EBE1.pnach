@@ -6,13 +6,13 @@ description=Unlimited Ammo
 // Unlimited Ammo
 patch=1,EE,DE8FFF82,extended,F8BDFEE6
 
-[Unlimited Ammo]
+[Unlimited Ammo (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Unlimited Ammo
 // Unlimited Ammo
 patch=1,EE,DE8FFF8E,extended,F23D9E6A
 
-[Unlimited Ammo]
+[Unlimited Ammo (3)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Unlimited Ammo
 // Unlimited Ammo
@@ -24,7 +24,7 @@ description=Unlimited Money
 // Unlimited Money
 patch=1,EE,DE94C76E,extended,C19E7B82
 
-[Unlimited Money]
+[Unlimited Money (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Unlimited Money
 // Unlimited Money
@@ -36,7 +36,7 @@ description=Unlimited time
 // Unlimited time
 patch=1,EE,DE8FFF96,extended,F0BD9C51
 
-[Unlimited time]
+[Unlimited time (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Unlimited time
 // Unlimited time
@@ -48,19 +48,19 @@ description=Open alternatives
 // Open alternatives
 patch=1,EE,DE94C966,extended,BBA89A82
 
-[Open alternatives]
+[Open alternatives (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Open alternatives
 // Open alternatives
 patch=1,EE,DE94C962,extended,BBA89A82
 
-[Open alternatives]
+[Open alternatives (3)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Open alternatives
 // Open alternatives
 patch=1,EE,DE94C96E,extended,BBA89A82
 
-[Open alternatives]
+[Open alternatives (4)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Open alternatives
 // Open alternatives
@@ -72,7 +72,7 @@ description=Open Manufacturing Access
 // Open Manufacturing Access
 patch=1,EE,DE94C95E,extended,BBA89A82
 
-[Open Manufacturing Access]
+[Open Manufacturing Access (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Open Manufacturing Access
 // Open Manufacturing Access
@@ -84,32 +84,63 @@ description=Open access to weapons
 // Open access to weapons
 patch=1,EE,DE94C976,extended,BBA89A82
 
-[Open access to weapons]
+[Open access to weapons (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Open access to weapons
 // Open access to weapons
 patch=1,EE,DE94C972,extended,BBA89A82
 
-[Open access to weapons]
+[Open access to weapons (3)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Open access to weapons
 // Open access to weapons
 patch=1,EE,DE94C97E,extended,BBA89A82
 
-[Open access to weapons]
+[Open access to weapons (4)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Open access to weapons
 // Open access to weapons
 patch=1,EE,DE94C97A,extended,BBA89A82
 
-[Open access to weapons]
+[Open access to weapons (5)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Open access to weapons
 // Open access to weapons
 patch=1,EE,DE94C906,extended,BBA89A82
 
-[Open access to weapons]
+[Open access to weapons (6)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Open access to weapons
 // Open access to weapons
+patch=1,EE,DE94C902,extended,BBA89A82
+
+[Cheats\Unlimited Ammo]
+patch=1,EE,DE8FFF82,extended,F8BDFEE6
+patch=1,EE,DE8FFF8E,extended,F23D9E6A
+patch=1,EE,DE8FFF8A,extended,6A5D9C43
+
+[Cheats\Unlimited Money]
+patch=1,EE,DE94C76E,extended,C19E7B82
+patch=1,EE,DE30D386,extended,C19E7B82
+
+[Cheats\Unlimited Time]
+patch=1,EE,DE8FFF96,extended,F0BD9C51
+patch=1,EE,DE8FFF92,extended,6A5D996F
+
+[Open Alternatives (5)]
+patch=1,EE,DE94C966,extended,BBA89A82
+patch=1,EE,DE94C962,extended,BBA89A82
+patch=1,EE,DE94C96E,extended,BBA89A82
+patch=1,EE,DE94C96A,extended,BBA89A82
+
+[Open Manufacturing Access (3)]
+patch=1,EE,DE94C95E,extended,BBA89A82
+patch=1,EE,DE94C95A,extended,BBA89A82
+
+[Open Access to Weapons (7)]
+patch=1,EE,DE94C976,extended,BBA89A82
+patch=1,EE,DE94C972,extended,BBA89A82
+patch=1,EE,DE94C97E,extended,BBA89A82
+patch=1,EE,DE94C97A,extended,BBA89A82
+patch=1,EE,DE94C906,extended,BBA89A82
 patch=1,EE,DE94C902,extended,BBA89A82

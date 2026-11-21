@@ -1,0 +1,5 @@
+gametitle=アイラブベースボール プロ野球をこよなく愛する人達へ [SLPM-65633] [42ABF2A6]
+
+[Cheats\99 Full Efficacy Cards]
+patch=1,EE,407409C8,extended,00620001
+patch=1,EE,00000063,extended,00000000

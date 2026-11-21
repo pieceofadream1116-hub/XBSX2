@@ -1,0 +1,22 @@
+gametitle=Pitfall - The Lost Expedition [SLES-51689] [D8A68BBA]
+
+[Cheats\Infinite Health]
+patch=1,EE,20181B40,extended,8C820684
+
+[Cheats\Buy even without idols  - Acquistare anche senza idoli]
+patch=1,EE,20181D14,extended,24020001
+
+[Cheats\Disable AI of ground mouths and some other NPCs Activate Press Select+triangle Deactivate with R1+triangle In some cases you need to disable the code to continue with the game.In other cases, instead, it's useful to get eaten.When the mouth closes again for a moment, after spitting you out, activate the code, so the mouth then stays closed]
+patch=1,EE,D0572A02,extended,0000EFFE
+patch=1,EE,20111F78,extended,10000020
+patch=1,EE,D0572A02,extended,0000E7FF
+patch=1,EE,20111F78,extended,52600020
+
+[Cheats\Infinite Health (2)]
+patch=1,EE,20EB5388,extended,00000005
+
+[Cheats\Unlockn Enable Lost Caverns]
+patch=1,EE,2055C28C,extended,00000001
+
+[Cheats\Unlock Enable Pitfall]
+patch=1,EE,2055C288,extended,00000001

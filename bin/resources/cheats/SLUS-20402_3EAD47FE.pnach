@@ -17,3 +17,7 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Total Points
 // Max Total Points
 patch=1,EE,10356690,extended,0000270F
+
+[Cheats\Press L3 For Debug Menu]
+patch=1,EE,D02F0F02,extended,0000FFFD
+patch=1,EE,202ECE60,extended,00000000

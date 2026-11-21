@@ -1,0 +1,5 @@
+gametitle=SuperLite 2000 パズル ZOOO [SLPM-62466] [803C4C22]
+
+[Cheats\Infinite Telescope]
+patch=1,EE,203CE16C,extended,00000004
+patch=1,EE,203CE170,extended,00000004

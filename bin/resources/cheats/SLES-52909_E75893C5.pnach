@@ -1,0 +1,27 @@
+gametitle=UEFA Champions League 2004-2005 PAL-E SLES-52909 E75893C5
+
+[Cheats\P1 Scores 0 Goals Press Select+Up]
+patch=1,EE,D0739E82,extended,0000FFEE
+patch=1,EE,00680CA0,extended,00000000
+
+[Cheats\P1 Score 9 Goals Press Select+Down]
+patch=1,EE,D0739E82,extended,0000FFBE
+patch=1,EE,00680CA0,extended,00000009
+
+[Cheats\P2 Scores 0 Goals Press Select+Left]
+patch=1,EE,D0739E82,extended,0000FF7E
+patch=1,EE,00680CA4,extended,00000000
+
+[Cheats\P2 Scores 99 Goals Press Select+Right]
+patch=1,EE,D0739E82,extended,0000FFDE
+patch=1,EE,00680CA4,extended,00000009
+
+[Cheats\Unlock All Unlockables]
+patch=1,EE,20182F34,extended,00000000
+
+[480p Mode]
+author=GamingDragon93
+description=SDTV 480p mode at start.
+patch=0,EE,0043AB7C,word,00000000
+patch=0,EE,0013061C,word,00000000
+patch=0,EE,003BC94C,word,24060050

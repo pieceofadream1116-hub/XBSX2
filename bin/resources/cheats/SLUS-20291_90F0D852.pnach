@@ -30,7 +30,7 @@ description=Infinite Damage
 // Infinite Damage
 patch=1,EE,201396A0,extended,03E00008
 
-[Infinite Damage]
+[Infinite Damage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Damage
 // Infinite Damage
@@ -156,61 +156,61 @@ description=Max Fruit
 // Max Fruit
 patch=1,EE,21EC1D54,extended,00000001
 
-[Unlock All Missions]
+[Unlock All Missions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Missions
 // Unlock All Missions
 patch=1,EE,01EC1CFC,extended,00000001
 
-[Infinite Mission Timer]
+[Infinite Mission Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Mission Timer
 // Infinite Mission Timer
 patch=1,EE,01EC1CFD,extended,00000001
 
-[Disable Damage]
+[Disable Damage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Disable Damage
 // Disable Damage
 patch=1,EE,01EC1CFE,extended,00000001
 
-[Pile Of Cash]
+[Pile Of Cash (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pile Of Cash
 // Pile Of Cash
 patch=1,EE,01EC1CFF,extended,00000001
 
-[Automatic Satnav]
+[Automatic Satnav (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Automatic Satnav
 // Automatic Satnav
 patch=1,EE,01EC1D00,extended,00000001
 
-[Hyperfast Truck]
+[Hyperfast Truck (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hyperfast Truck
 // Hyperfast Truck
 patch=1,EE,01EC1D01,extended,00000001
 
-[Small People]
+[Small People (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Small People
 // Small People
 patch=1,EE,01EC1D02,extended,00000001
 
-[Evil Truck]
+[Evil Truck (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Evil Truck
 // Evil Truck
 patch=1,EE,01EC1D03,extended,00000001
 
-[Diplomatic Immunity]
+[Diplomatic Immunity (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Diplomatic Immunity
 // Diplomatic Immunity
 patch=1,EE,01EC1D04,extended,00000001
 
-[Max Fruit]
+[Max Fruit (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fruit
 // Max Fruit

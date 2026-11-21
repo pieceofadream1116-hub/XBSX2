@@ -36,7 +36,7 @@ description=Max Level Scores
 // Max Level Scores
 patch=1,EE,40847148,extended,00030001
 
-[Max Level Scores]
+[Max Level Scores (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Level Scores
 // Max Level Scores
@@ -89,3 +89,17 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Batcuffs
 // Infinite Batcuffs
 patch=1,EE,1089E3B2,extended,0000000F
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00786710,word,00000001
+
+[Cheats\Infinite Health]
+patch=1,EE,2089E358,extended,42C80000
+
+[Cheats\Infinite Health ALT]
+patch=1,EE,2089E35A,extended,000000C8
+
+[Cheats\Unlock All Levels]
+patch=1,EE,208470C0,extended,00000017

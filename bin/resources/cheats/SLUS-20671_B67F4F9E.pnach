@@ -36,7 +36,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,201B3B70,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -48,7 +48,7 @@ description=No Traffic
 // No Traffic
 patch=1,EE,20219400,extended,03E00008
 
-[No Traffic]
+[No Traffic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Traffic
 // No Traffic
@@ -60,7 +60,7 @@ description=Unlock All Cars
 // Unlock All Cars
 patch=1,EE,204F6254,extended,FFFFFFFF
 
-[Unlock All Cars]
+[Unlock All Cars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Cars
 // Unlock All Cars
@@ -72,7 +72,7 @@ description=Unlock All Cars (Championship Mode)
 // Unlock All Cars (Championship Mode)
 patch=1,EE,202DA8E0,extended,2413FFFF
 
-[Unlock All Cars (Championship Mode)]
+[Unlock All Cars (Championship Mode) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Cars (Championship Mode)
 // Unlock All Cars (Championship Mode)
@@ -84,7 +84,7 @@ description=Disable Police Spawn
 // Disable Police Spawn
 patch=1,EE,20341140,extended,03E00008
 
-[Disable Police Spawn]
+[Disable Police Spawn (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Disable Police Spawn
 // Disable Police Spawn
@@ -96,8 +96,37 @@ description=Lesser Cop AI
 // Lesser Cop AI
 patch=1,EE,20370370,extended,03E00008
 
-[Lesser Cop AI]
+[Lesser Cop AI (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lesser Cop AI
 // Lesser Cop AI
 patch=1,EE,20370374,extended,00000000
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,004DC288,word,00000010 //00000021
+
+[Cheats\Infinite Health]
+patch=1,EE,201B3B70,extended,03E00008
+patch=1,EE,201B3B74,extended,00000000
+
+[Cheats\Infinite Health In Car]
+patch=1,EE,2017109C,extended,000000FF
+patch=1,EE,201710AC,extended,000000FF
+
+[Cheats\Infinite Time]
+patch=1,EE,202AFAB0,extended,00000000
+patch=1,EE,202AFAD8,extended,00000000
+
+[Cheats\No Traffic]
+patch=1,EE,20219400,extended,03E00008
+patch=1,EE,20219404,extended,00000000
+
+[Cheats\Unlock All Cars]
+patch=1,EE,204F6254,extended,FFFFFFFF
+patch=1,EE,204F6258,extended,FFFFFFFF
+
+[Cheats\Unlock All Cars Championship Mode]
+patch=1,EE,202DA8E0,extended,2413FFFF
+patch=1,EE,202DA8E4,extended,AC53003C

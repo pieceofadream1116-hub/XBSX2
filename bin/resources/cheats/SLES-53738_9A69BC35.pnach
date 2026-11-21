@@ -6,25 +6,25 @@ description=Hole 18
 // Hole 18
 patch=1,EE,9041D370,extended,00832021
 
-[Hole 18]
+[Hole 18 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 18
 // Hole 18
 patch=1,EE,200C0220,extended,0809BEBA
 
-[Hole 18]
+[Hole 18 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 18
 // Hole 18
 patch=1,EE,200C0224,extended,240603E7
 
-[Hole 18]
+[Hole 18 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 18
 // Hole 18
 patch=1,EE,200C0228,extended,0809BEBA
 
-[Hole 18]
+[Hole 18 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 18
 // Hole 18
@@ -66,7 +66,7 @@ description=Drone Dash
 // Drone Dash
 patch=1,EE,20253E38,extended,0C03008A
 
-[Drone Dash]
+[Drone Dash (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Drone Dash
 // Drone Dash
@@ -78,7 +78,7 @@ description=Pig Paddle
 // Pig Paddle
 patch=1,EE,20253E60,extended,0C03008A
 
-[Pig Paddle]
+[Pig Paddle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pig Paddle
 // Pig Paddle
@@ -90,7 +90,7 @@ description=Super Speedway
 // Super Speedway
 patch=1,EE,20253E88,extended,0C03008A
 
-[Super Speedway]
+[Super Speedway (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Speedway
 // Super Speedway
@@ -102,7 +102,7 @@ description=Saucer Smash
 // Saucer Smash
 patch=1,EE,20253EB0,extended,0C03008A
 
-[Saucer Smash]
+[Saucer Smash (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Saucer Smash
 // Saucer Smash
@@ -114,7 +114,7 @@ description=Space Shooter
 // Space Shooter
 patch=1,EE,20253ED8,extended,0C03008A
 
-[Space Shooter]
+[Space Shooter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Space Shooter
 // Space Shooter
@@ -126,7 +126,7 @@ description=Walker War
 // Walker War
 patch=1,EE,20253EF8,extended,0C03008A
 
-[Walker War]
+[Walker War (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Walker War
 // Walker War
@@ -138,7 +138,7 @@ description=God Mode
 // God Mode
 patch=1,EE,20144710,extended,0C03008A
 
-[God Mode]
+[God Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=God Mode
 // God Mode
@@ -150,7 +150,7 @@ description=Big Head
 // Big Head
 patch=1,EE,20140870,extended,0C03008A
 
-[Big Head]
+[Big Head (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Big Head
 // Big Head
@@ -162,7 +162,7 @@ description=Big Feet
 // Big Feet
 patch=1,EE,201408B0,extended,0C03008A
 
-[Big Feet]
+[Big Feet (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Big Feet
 // Big Feet
@@ -174,7 +174,7 @@ description=Big Comb
 // Big Comb
 patch=1,EE,20140974,extended,0C03008A
 
-[Big Comb]
+[Big Comb (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Big Comb
 // Big Comb
@@ -186,7 +186,7 @@ description=Sunglasses
 // Sunglasses
 patch=1,EE,201409D8,extended,0C03008A
 
-[Sunglasses]
+[Sunglasses (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sunglasses
 // Sunglasses
@@ -198,7 +198,7 @@ description=Underwear
 // Underwear
 patch=1,EE,20140A6C,extended,0C03008A
 
-[Underwear]
+[Underwear (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Underwear
 // Underwear
@@ -210,7 +210,7 @@ description=Paper Pants
 // Paper Pants
 patch=1,EE,20140AA8,extended,0C03008A
 
-[Paper Pants]
+[Paper Pants (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Paper Pants
 // Paper Pants
@@ -222,7 +222,7 @@ description=Feather Cloud
 // Feather Cloud
 patch=1,EE,20140B94,extended,0C03008A
 
-[Feather Cloud]
+[Feather Cloud (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Feather Cloud
 // Feather Cloud
@@ -378,7 +378,7 @@ description=All Buck Cluck Trading Cards
 // All Buck Cluck Trading Cards
 patch=1,EE,40518848,extended,00180003
 
-[All Buck Cluck Trading Cards]
+[All Buck Cluck Trading Cards (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Buck Cluck Trading Cards
 // All Buck Cluck Trading Cards

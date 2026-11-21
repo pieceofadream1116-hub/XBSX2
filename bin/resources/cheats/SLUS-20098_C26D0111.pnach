@@ -12,37 +12,37 @@ description=Infinite Troops
 // Infinite Troops
 patch=1,EE,200C0220,extended,92810005
 
-[Infinite Troops]
+[Infinite Troops (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Troops
 // Infinite Troops
 patch=1,EE,200C0224,extended,14200002
 
-[Infinite Troops]
+[Infinite Troops (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Troops
 // Infinite Troops
 patch=1,EE,200C0228,extended,2401270F
 
-[Infinite Troops]
+[Infinite Troops (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Troops
 // Infinite Troops
 patch=1,EE,200C022C,extended,A6410002
 
-[Infinite Troops]
+[Infinite Troops (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Troops
 // Infinite Troops
 patch=1,EE,200C0230,extended,03E00008
 
-[Infinite Troops]
+[Infinite Troops (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Troops
 // Infinite Troops
 patch=1,EE,200C0234,extended,86430002
 
-[Infinite Troops]
+[Infinite Troops (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Troops
 // Infinite Troops
@@ -72,1514 +72,1523 @@ description=No Zeal
 // No Zeal
 patch=1,EE,003FC2CC,extended,00000000
 
-[Max Fame]
+[Max Fame (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC2F8,extended,00000064
 
-[No Fame]
+[No Fame (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC2F8,extended,00000000
 
-[Max Zeal]
+[Max Zeal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC304,extended,00000064
 
-[No Zeal]
+[No Zeal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC304,extended,00000000
 
-[Max Fame]
+[Max Fame (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC330,extended,00000064
 
-[No Fame]
+[No Fame (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC330,extended,00000000
 
-[Max Zeal]
+[Max Zeal (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC33C,extended,00000064
 
-[No Zeal]
+[No Zeal (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC33C,extended,00000000
 
-[Max Fame]
+[Max Fame (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC368,extended,00000064
 
-[No Fame]
+[No Fame (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC368,extended,00000000
 
-[Max Zeal]
+[Max Zeal (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC374,extended,00000064
 
-[No Zeal]
+[No Zeal (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC374,extended,00000000
 
-[Max Fame]
+[Max Fame (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC3A0,extended,00000064
 
-[No Fame]
+[No Fame (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC3A0,extended,00000000
 
-[Max Zeal]
+[Max Zeal (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC3AC,extended,00000064
 
-[No Zeal]
+[No Zeal (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC3AC,extended,00000000
 
-[Max Fame]
+[Max Fame (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC3D8,extended,00000064
 
-[No Fame]
+[No Fame (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC3D8,extended,00000000
 
-[Max Zeal]
+[Max Zeal (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC3E4,extended,00000064
 
-[No Zeal]
+[No Zeal (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC3E4,extended,00000000
 
-[Max Fame]
+[Max Fame (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC410,extended,00000064
 
-[No Fame]
+[No Fame (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC410,extended,00000000
 
-[Max Zeal]
+[Max Zeal (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC41C,extended,00000064
 
-[No Zeal]
+[No Zeal (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC41C,extended,00000000
 
-[Max Fame]
+[Max Fame (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC448,extended,00000064
 
-[No Fame]
+[No Fame (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC448,extended,00000000
 
-[Max Zeal]
+[Max Zeal (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC454,extended,00000064
 
-[No Zeal]
+[No Zeal (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC454,extended,00000000
 
-[Max Fame]
+[Max Fame (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC480,extended,00000064
 
-[No Fame]
+[No Fame (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC480,extended,00000000
 
-[Max Zeal]
+[Max Zeal (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC48C,extended,00000064
 
-[No Zeal]
+[No Zeal (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC48C,extended,00000000
 
-[Max Fame]
+[Max Fame (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC4B8,extended,00000064
 
-[No Fame]
+[No Fame (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC4B8,extended,00000000
 
-[Max Zeal]
+[Max Zeal (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC4C4,extended,00000064
 
-[No Zeal]
+[No Zeal (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC4C4,extended,00000000
 
-[Max Fame]
+[Max Fame (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC4F0,extended,00000064
 
-[No Fame]
+[No Fame (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC4F0,extended,00000000
 
-[Max Zeal]
+[Max Zeal (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC4FC,extended,00000064
 
-[No Zeal]
+[No Zeal (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC4FC,extended,00000000
 
-[Max Fame]
+[Max Fame (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC528,extended,00000064
 
-[No Fame]
+[No Fame (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC528,extended,00000000
 
-[Max Zeal]
+[Max Zeal (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC534,extended,00000064
 
-[No Zeal]
+[No Zeal (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC534,extended,00000000
 
-[Max Fame]
+[Max Fame (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC560,extended,00000064
 
-[No Fame]
+[No Fame (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC560,extended,00000000
 
-[Max Zeal]
+[Max Zeal (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC56C,extended,00000064
 
-[No Zeal]
+[No Zeal (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC56C,extended,00000000
 
-[Max Fame]
+[Max Fame (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC598,extended,00000064
 
-[No Fame]
+[No Fame (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC598,extended,00000000
 
-[Max Zeal]
+[Max Zeal (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC5A4,extended,00000064
 
-[No Zeal]
+[No Zeal (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC5A4,extended,00000000
 
-[Max Fame]
+[Max Fame (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC5D0,extended,00000064
 
-[No Fame]
+[No Fame (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC5D0,extended,00000000
 
-[Max Zeal]
+[Max Zeal (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC5DC,extended,00000064
 
-[No Zeal]
+[No Zeal (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC5DC,extended,00000000
 
-[Max Fame]
+[Max Fame (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC608,extended,00000064
 
-[No Fame]
+[No Fame (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC608,extended,00000000
 
-[Max Zeal]
+[Max Zeal (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC614,extended,00000064
 
-[No Zeal]
+[No Zeal (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC614,extended,00000000
 
-[Max Fame]
+[Max Fame (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC640,extended,00000064
 
-[No Fame]
+[No Fame (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC640,extended,00000000
 
-[Max Zeal]
+[Max Zeal (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC64C,extended,00000064
 
-[No Zeal]
+[No Zeal (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC64C,extended,00000000
 
-[Max Fame]
+[Max Fame (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC678,extended,00000064
 
-[No Fame]
+[No Fame (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC678,extended,00000000
 
-[Max Zeal]
+[Max Zeal (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC684,extended,00000064
 
-[No Zeal]
+[No Zeal (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC684,extended,00000000
 
-[Max Fame]
+[Max Fame (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC6B0,extended,00000064
 
-[No Fame]
+[No Fame (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC6B0,extended,00000000
 
-[Max Zeal]
+[Max Zeal (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC6BC,extended,00000064
 
-[No Zeal]
+[No Zeal (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC6BC,extended,00000000
 
-[Max Fame]
+[Max Fame (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC6E8,extended,00000064
 
-[No Fame]
+[No Fame (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC6E8,extended,00000000
 
-[Max Zeal]
+[Max Zeal (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC6F4,extended,00000064
 
-[No Zeal]
+[No Zeal (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC6F4,extended,00000000
 
-[Max Fame]
+[Max Fame (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC720,extended,00000064
 
-[No Fame]
+[No Fame (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC720,extended,00000000
 
-[Max Zeal]
+[Max Zeal (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC72C,extended,00000064
 
-[No Zeal]
+[No Zeal (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC72C,extended,00000000
 
-[Max Fame]
+[Max Fame (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC758,extended,00000064
 
-[No Fame]
+[No Fame (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC758,extended,00000000
 
-[Max Zeal]
+[Max Zeal (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC764,extended,00000064
 
-[No Zeal]
+[No Zeal (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC764,extended,00000000
 
-[Max Fame]
+[Max Fame (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC790,extended,00000064
 
-[No Fame]
+[No Fame (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC790,extended,00000000
 
-[Max Zeal]
+[Max Zeal (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC79C,extended,00000064
 
-[No Zeal]
+[No Zeal (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC79C,extended,00000000
 
-[Max Fame]
+[Max Fame (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC7C8,extended,00000064
 
-[No Fame]
+[No Fame (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC7C8,extended,00000000
 
-[Max Zeal]
+[Max Zeal (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC7D4,extended,00000064
 
-[No Zeal]
+[No Zeal (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC7D4,extended,00000000
 
-[Max Fame]
+[Max Fame (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC800,extended,00000064
 
-[No Fame]
+[No Fame (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC800,extended,00000000
 
-[Max Zeal]
+[Max Zeal (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC80C,extended,00000064
 
-[No Zeal]
+[No Zeal (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC80C,extended,00000000
 
-[Max Fame]
+[Max Fame (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC838,extended,00000064
 
-[No Fame]
+[No Fame (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC838,extended,00000000
 
-[Max Zeal]
+[Max Zeal (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC844,extended,00000064
 
-[No Zeal]
+[No Zeal (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC844,extended,00000000
 
-[Max Fame]
+[Max Fame (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC870,extended,00000064
 
-[No Fame]
+[No Fame (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC870,extended,00000000
 
-[Max Zeal]
+[Max Zeal (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC87C,extended,00000064
 
-[No Zeal]
+[No Zeal (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC87C,extended,00000000
 
-[Max Fame]
+[Max Fame (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC8A8,extended,00000064
 
-[No Fame]
+[No Fame (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC8A8,extended,00000000
 
-[Max Zeal]
+[Max Zeal (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC8B4,extended,00000064
 
-[No Zeal]
+[No Zeal (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC8B4,extended,00000000
 
-[Max Fame]
+[Max Fame (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC8E0,extended,00000064
 
-[No Fame]
+[No Fame (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC8E0,extended,00000000
 
-[Max Zeal]
+[Max Zeal (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC8EC,extended,00000064
 
-[No Zeal]
+[No Zeal (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC8EC,extended,00000000
 
-[Max Fame]
+[Max Fame (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC918,extended,00000064
 
-[No Fame]
+[No Fame (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC918,extended,00000000
 
-[Max Zeal]
+[Max Zeal (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC924,extended,00000064
 
-[No Zeal]
+[No Zeal (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC924,extended,00000000
 
-[Max Fame]
+[Max Fame (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC950,extended,00000064
 
-[No Fame]
+[No Fame (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC950,extended,00000000
 
-[Max Zeal]
+[Max Zeal (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC95C,extended,00000064
 
-[No Zeal]
+[No Zeal (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC95C,extended,00000000
 
-[Max Fame]
+[Max Fame (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC988,extended,00000064
 
-[No Fame]
+[No Fame (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC988,extended,00000000
 
-[Max Zeal]
+[Max Zeal (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC994,extended,00000064
 
-[No Zeal]
+[No Zeal (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC994,extended,00000000
 
-[Max Fame]
+[Max Fame (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC9C0,extended,00000064
 
-[No Fame]
+[No Fame (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC9C0,extended,00000000
 
-[Max Zeal]
+[Max Zeal (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FC9CC,extended,00000064
 
-[No Zeal]
+[No Zeal (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FC9CC,extended,00000000
 
-[Max Fame]
+[Max Fame (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FC9F8,extended,00000064
 
-[No Fame]
+[No Fame (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FC9F8,extended,00000000
 
-[Max Zeal]
+[Max Zeal (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCA04,extended,00000064
 
-[No Zeal]
+[No Zeal (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCA04,extended,00000000
 
-[Max Fame]
+[Max Fame (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCA30,extended,00000064
 
-[No Fame]
+[No Fame (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCA30,extended,00000000
 
-[Max Zeal]
+[Max Zeal (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCA3C,extended,00000064
 
-[No Zeal]
+[No Zeal (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCA3C,extended,00000000
 
-[Max Fame]
+[Max Fame (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCA68,extended,00000064
 
-[No Fame]
+[No Fame (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCA68,extended,00000000
 
-[Max Zeal]
+[Max Zeal (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCA74,extended,00000064
 
-[No Zeal]
+[No Zeal (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCA74,extended,00000000
 
-[Max Fame]
+[Max Fame (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCAA0,extended,00000064
 
-[No Fame]
+[No Fame (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCAA0,extended,00000000
 
-[Max Zeal]
+[Max Zeal (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCAAC,extended,00000064
 
-[No Zeal]
+[No Zeal (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCAAC,extended,00000000
 
-[Max Fame]
+[Max Fame (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCAD8,extended,00000064
 
-[No Fame]
+[No Fame (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCAD8,extended,00000000
 
-[Max Zeal]
+[Max Zeal (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCAE4,extended,00000064
 
-[No Zeal]
+[No Zeal (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCAE4,extended,00000000
 
-[Max Fame]
+[Max Fame (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCB10,extended,00000064
 
-[No Fame]
+[No Fame (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCB10,extended,00000000
 
-[Max Zeal]
+[Max Zeal (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCB1C,extended,00000064
 
-[No Zeal]
+[No Zeal (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCB1C,extended,00000000
 
-[Max Fame]
+[Max Fame (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCB48,extended,00000064
 
-[No Fame]
+[No Fame (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCB48,extended,00000000
 
-[Max Zeal]
+[Max Zeal (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCB54,extended,00000064
 
-[No Zeal]
+[No Zeal (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCB54,extended,00000000
 
-[Max Fame]
+[Max Fame (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCB80,extended,00000064
 
-[No Fame]
+[No Fame (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCB80,extended,00000000
 
-[Max Zeal]
+[Max Zeal (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCB8C,extended,00000064
 
-[No Zeal]
+[No Zeal (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCB8C,extended,00000000
 
-[Max Fame]
+[Max Fame (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCBB8,extended,00000064
 
-[No Fame]
+[No Fame (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCBB8,extended,00000000
 
-[Max Zeal]
+[Max Zeal (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCBC4,extended,00000064
 
-[No Zeal]
+[No Zeal (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCBC4,extended,00000000
 
-[Max Fame]
+[Max Fame (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCBF0,extended,00000064
 
-[No Fame]
+[No Fame (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCBF0,extended,00000000
 
-[Max Zeal]
+[Max Zeal (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCBFC,extended,00000064
 
-[No Zeal]
+[No Zeal (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCBFC,extended,00000000
 
-[Max Fame]
+[Max Fame (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCC28,extended,00000064
 
-[No Fame]
+[No Fame (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCC28,extended,00000000
 
-[Max Zeal]
+[Max Zeal (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCC34,extended,00000064
 
-[No Zeal]
+[No Zeal (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCC34,extended,00000000
 
-[Max Fame]
+[Max Fame (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCC60,extended,00000064
 
-[No Fame]
+[No Fame (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCC60,extended,00000000
 
-[Max Zeal]
+[Max Zeal (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCC6C,extended,00000064
 
-[No Zeal]
+[No Zeal (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCC6C,extended,00000000
 
-[Max Fame]
+[Max Fame (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCC98,extended,00000064
 
-[No Fame]
+[No Fame (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCC98,extended,00000000
 
-[Max Zeal]
+[Max Zeal (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCCA4,extended,00000064
 
-[No Zeal]
+[No Zeal (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCCA4,extended,00000000
 
-[Max Fame]
+[Max Fame (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCCD0,extended,00000064
 
-[No Fame]
+[No Fame (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCCD0,extended,00000000
 
-[Max Zeal]
+[Max Zeal (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCCDC,extended,00000064
 
-[No Zeal]
+[No Zeal (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCCDC,extended,00000000
 
-[Max Fame]
+[Max Fame (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCD08,extended,00000064
 
-[No Fame]
+[No Fame (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCD08,extended,00000000
 
-[Max Zeal]
+[Max Zeal (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCD14,extended,00000064
 
-[No Zeal]
+[No Zeal (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCD14,extended,00000000
 
-[Max Fame]
+[Max Fame (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCD40,extended,00000064
 
-[No Fame]
+[No Fame (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCD40,extended,00000000
 
-[Max Zeal]
+[Max Zeal (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCD4C,extended,00000064
 
-[No Zeal]
+[No Zeal (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCD4C,extended,00000000
 
-[Max Fame]
+[Max Fame (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCD78,extended,00000064
 
-[No Fame]
+[No Fame (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCD78,extended,00000000
 
-[Max Zeal]
+[Max Zeal (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCD84,extended,00000064
 
-[No Zeal]
+[No Zeal (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCD84,extended,00000000
 
-[Max Fame]
+[Max Fame (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCDB0,extended,00000064
 
-[No Fame]
+[No Fame (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCDB0,extended,00000000
 
-[Max Zeal]
+[Max Zeal (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCDBC,extended,00000064
 
-[No Zeal]
+[No Zeal (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCDBC,extended,00000000
 
-[Max Fame]
+[Max Fame (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCDE8,extended,00000064
 
-[No Fame]
+[No Fame (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCDE8,extended,00000000
 
-[Max Zeal]
+[Max Zeal (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCDF4,extended,00000064
 
-[No Zeal]
+[No Zeal (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCDF4,extended,00000000
 
-[Max Fame]
+[Max Fame (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCE20,extended,00000064
 
-[No Fame]
+[No Fame (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCE20,extended,00000000
 
-[Max Zeal]
+[Max Zeal (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCE2C,extended,00000064
 
-[No Zeal]
+[No Zeal (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCE2C,extended,00000000
 
-[Max Fame]
+[Max Fame (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCE58,extended,00000064
 
-[No Fame]
+[No Fame (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCE58,extended,00000000
 
-[Max Zeal]
+[Max Zeal (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCE64,extended,00000064
 
-[No Zeal]
+[No Zeal (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCE64,extended,00000000
 
-[Max Fame]
+[Max Fame (55)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCE90,extended,00000064
 
-[No Fame]
+[No Fame (55)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCE90,extended,00000000
 
-[Max Zeal]
+[Max Zeal (55)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCE9C,extended,00000064
 
-[No Zeal]
+[No Zeal (55)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCE9C,extended,00000000
 
-[Max Fame]
+[Max Fame (56)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCEC8,extended,00000064
 
-[No Fame]
+[No Fame (56)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCEC8,extended,00000000
 
-[Max Zeal]
+[Max Zeal (56)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCED4,extended,00000064
 
-[No Zeal]
+[No Zeal (56)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCED4,extended,00000000
 
-[Max Fame]
+[Max Fame (57)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCF00,extended,00000064
 
-[No Fame]
+[No Fame (57)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCF00,extended,00000000
 
-[Max Zeal]
+[Max Zeal (57)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCF0C,extended,00000064
 
-[No Zeal]
+[No Zeal (57)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCF0C,extended,00000000
 
-[Max Fame]
+[Max Fame (58)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCF38,extended,00000064
 
-[No Fame]
+[No Fame (58)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCF38,extended,00000000
 
-[Max Zeal]
+[Max Zeal (58)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCF44,extended,00000064
 
-[No Zeal]
+[No Zeal (58)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCF44,extended,00000000
 
-[Max Fame]
+[Max Fame (59)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCF70,extended,00000064
 
-[No Fame]
+[No Fame (59)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCF70,extended,00000000
 
-[Max Zeal]
+[Max Zeal (59)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCF7C,extended,00000064
 
-[No Zeal]
+[No Zeal (59)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCF7C,extended,00000000
 
-[Max Fame]
+[Max Fame (60)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCFA8,extended,00000064
 
-[No Fame]
+[No Fame (60)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCFA8,extended,00000000
 
-[Max Zeal]
+[Max Zeal (60)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCFB4,extended,00000064
 
-[No Zeal]
+[No Zeal (60)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCFB4,extended,00000000
 
-[Max Fame]
+[Max Fame (61)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FCFE0,extended,00000064
 
-[No Fame]
+[No Fame (61)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FCFE0,extended,00000000
 
-[Max Zeal]
+[Max Zeal (61)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FCFEC,extended,00000064
 
-[No Zeal]
+[No Zeal (61)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FCFEC,extended,00000000
 
-[Max Fame]
+[Max Fame (62)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FD018,extended,00000064
 
-[No Fame]
+[No Fame (62)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FD018,extended,00000000
 
-[Max Zeal]
+[Max Zeal (62)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FD024,extended,00000064
 
-[No Zeal]
+[No Zeal (62)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FD024,extended,00000000
 
-[Max Fame]
+[Max Fame (63)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FD050,extended,00000064
 
-[No Fame]
+[No Fame (63)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FD050,extended,00000000
 
-[Max Zeal]
+[Max Zeal (63)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FD05C,extended,00000064
 
-[No Zeal]
+[No Zeal (63)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FD05C,extended,00000000
 
-[Max Fame]
+[Max Fame (64)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fame
 // Max Fame
 patch=1,EE,003FD088,extended,00000064
 
-[No Fame]
+[No Fame (64)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fame
 // No Fame
 patch=1,EE,003FD088,extended,00000000
 
-[Max Zeal]
+[Max Zeal (64)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Zeal
 // Max Zeal
 patch=1,EE,003FD094,extended,00000064
 
-[No Zeal]
+[No Zeal (64)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Zeal
 // No Zeal
 patch=1,EE,003FD094,extended,00000000
+
+[Cheats\Infinite Troops]
+patch=1,EE,200C0220,extended,92810005
+patch=1,EE,200C0224,extended,14200002
+patch=1,EE,200C0228,extended,2401270F
+patch=1,EE,200C022C,extended,A6410002
+patch=1,EE,200C0230,extended,03E00008
+patch=1,EE,200C0234,extended,86430002
+patch=1,EE,202747B8,extended,0C030088

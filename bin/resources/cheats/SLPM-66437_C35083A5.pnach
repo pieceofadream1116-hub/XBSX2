@@ -1,0 +1,5 @@
+gametitle=Soul Link EXTENSION [SLPM-66437] [C35083A5]
+
+[Cheats\Unlock All Gallery]
+patch=1,EE,41E54710,extended,001F0001
+patch=1,EE,00000001,extended,00000000

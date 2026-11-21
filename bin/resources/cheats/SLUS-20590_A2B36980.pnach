@@ -42,14 +42,26 @@ description=Have All Mission Completed
 // Have All Mission Completed
 patch=1,EE,1041ECC6,extended,00000101
 
-[Have All Mission Completed]
+[Have All Mission Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Mission Completed
 // Have All Mission Completed
 patch=1,EE,4041ECC8,extended,00040001
 
-[Have All Mission Completed]
+[Have All Mission Completed (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Mission Completed
 // Have All Mission Completed
+patch=1,EE,01010101,extended,00000000
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,001009E0,word,8C433C24
+patch=0,EE,001053A4,word,8C433C24
+patch=0,EE,002EB864,word,3C013F00
+
+[Cheats\Have All Mission Completed]
+patch=1,EE,1041ECC6,extended,00000101
+patch=1,EE,4041ECC8,extended,00040001
 patch=1,EE,01010101,extended,00000000

@@ -48,7 +48,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,20260410,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -60,8 +60,22 @@ description=Infinite Turbo
 // Infinite Turbo
 patch=1,EE,20260560,extended,03E00008
 
-[Infinite Turbo]
+[Infinite Turbo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Turbo
 // Infinite Turbo
 patch=1,EE,20260564,extended,00000000
+
+[Cheats\Infinite Health]
+patch=1,EE,20260410,extended,03E00008
+patch=1,EE,20260414,extended,00000000
+
+[Cheats\Infinite Turbo]
+patch=1,EE,20260560,extended,03E00008
+patch=1,EE,20260564,extended,00000000
+
+[Cheats\Debug Test Mode enabled press L3 and disabled pressi R3 Lets you switch the stage on the fly and such]
+patch=1,EE,D1C939C2,extended,0000FFFD
+patch=1,EE,00293900,extended,00000001
+patch=1,EE,D1C939C2,extended,0000FFFB
+patch=1,EE,00293900,extended,00000000

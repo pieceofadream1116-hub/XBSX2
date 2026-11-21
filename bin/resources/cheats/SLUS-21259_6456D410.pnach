@@ -1,0 +1,4 @@
+gametitle=Stacked with Daniel Negreanu [SLUS-21259] [6456D410]
+
+[Cheats\Infinite Money Player]
+patch=1,EE,10605280,extended,0000FFFF

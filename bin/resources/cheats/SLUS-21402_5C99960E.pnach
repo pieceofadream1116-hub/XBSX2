@@ -18,7 +18,7 @@ description=P1 Press {L1}+{SELECT} To Win Race Cups
 // P1 Press {L1}+{SELECT} To Win Race Cups
 patch=1,EE,D086DF02,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Win Race Cups]
+[P1 Press {L1}+{SELECT} To Win Race Cups (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Win Race Cups
 // P1 Press {L1}+{SELECT} To Win Race Cups
@@ -78,7 +78,7 @@ description=Save Profile To Unlock All Challenges
 // Save Profile To Unlock All Challenges
 patch=1,EE,2053863C,extended,24040001
 
-[Save Profile To Unlock All Challenges]
+[Save Profile To Unlock All Challenges (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Save Profile To Unlock All Challenges
 // Save Profile To Unlock All Challenges
@@ -89,12 +89,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Save Profile To Complete All Challenges
 // Save Profile To Complete All Challenges
 patch=1,EE,2053863C,extended,24040003
-
-[Save Profile To Complete All Challenges]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Save Profile To Complete All Challenges
-// Save Profile To Complete All Challenges
-patch=1,EE,20538648,extended,AC6400AC
 
 [Vehicle 1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -4602,14 +4596,31 @@ description=All Vehicles
 // All Vehicles
 patch=1,EE,407B43F4,extended,00BB0001
 
-[All Vehicles]
+[All Vehicles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Vehicles
 // All Vehicles
 patch=1,EE,01010101,extended,00000000
 
-[All Vehicles]
+[All Vehicles (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Vehicles
 // All Vehicles
+patch=1,EE,107B46E0,extended,00000101
+
+[Cheats\Press Select To Win Race and Checkpoint Cups]
+patch=1,EE,D086DF02,extended,0000FFFE
+patch=1,EE,20703BB8,extended,00000003
+
+[Cheats\Save Profile To Complete All Challenges]
+patch=1,EE,2053863C,extended,24040003
+patch=1,EE,20538648,extended,AC6400AC
+
+[Cheats\Save Profile To Unlock All Challenges]
+patch=1,EE,2053863C,extended,24040001
+patch=1,EE,20538648,extended,AC6400AC
+
+[Cheats\Unlock All Vehicles]
+patch=1,EE,407B43F4,extended,00BB0001
+patch=1,EE,01010101,extended,00000000
 patch=1,EE,107B46E0,extended,00000101

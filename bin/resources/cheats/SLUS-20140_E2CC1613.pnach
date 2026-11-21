@@ -210,17 +210,11 @@ description=Start On 2nd Period
 // Start On 2nd Period
 patch=1,EE,D1E72938,extended,00000001
 
-[Start On 2nd Period]
+[Start On 2nd Period (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On 2nd Period
 // Start On 2nd Period
 patch=1,EE,11E72938,extended,00000002
-
-[Start On 3rd Period]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On 3rd Period
-// Start On 3rd Period
-patch=1,EE,D1E72938,extended,00000001
 
 [Start On 3rd Period]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -234,19 +228,19 @@ description=Max Stats (Created Character)
 // Max Stats (Created Character)
 patch=1,EE,10483B1E,extended,00001414
 
-[Max Stats (Created Character)]
+[Max Stats (Created Character) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Stats (Created Character)
 // Max Stats (Created Character)
 patch=1,EE,20483B20,extended,14141414
 
-[Max Stats (Created Character)]
+[Max Stats (Created Character) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Stats (Created Character)
 // Max Stats (Created Character)
 patch=1,EE,10483B24,extended,00001414
 
-[Max Stats (Created Character)]
+[Max Stats (Created Character) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Stats (Created Character)
 // Max Stats (Created Character)
@@ -258,7 +252,7 @@ description=P1 Press {L1}+{L2} For More Time
 // P1 Press {L1}+{L2} For More Time
 patch=1,EE,D1EC0048,extended,00000005
 
-[P1 Press {L1}+{L2} For More Time]
+[P1 Press {L1}+{L2} For More Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{L2} For More Time
 // P1 Press {L1}+{L2} For More Time
@@ -270,7 +264,7 @@ description=P1 Press {R1}+{R2} To End Period
 // P1 Press {R1}+{R2} To End Period
 patch=1,EE,D1EC0048,extended,0000000A
 
-[P1 Press {R1}+{R2} To End Period]
+[P1 Press {R1}+{R2} To End Period (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{R2} To End Period
 // P1 Press {R1}+{R2} To End Period
@@ -282,23 +276,11 @@ description=P2 Press {L1}+{L2} For More Time
 // P2 Press {L1}+{L2} For More Time
 patch=1,EE,D1EBFA68,extended,00000005
 
-[P2 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L1}+{L2} For More Time
-// P2 Press {L1}+{L2} For More Time
-patch=1,EE,1173E79E,extended,00004334
-
 [P2 Press {R1}+{R2} To End Period]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {R1}+{R2} To End Period
 // P2 Press {R1}+{R2} To End Period
 patch=1,EE,D1EBFA68,extended,0000000A
-
-[P2 Press {R1}+{R2} To End Period]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R1}+{R2} To End Period
-// P2 Press {R1}+{R2} To End Period
-patch=1,EE,1173E79E,extended,00003F80
 
 [Show Shot Speed]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -438,7 +420,7 @@ description=Big Head P1
 // Big Head P1
 patch=1,EE,11E72A84,extended,00000001
 
-[Big Head P1]
+[Big Head P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Big Head P1
 // Big Head P1
@@ -450,7 +432,7 @@ description=Huge Head P1
 // Huge Head P1
 patch=1,EE,11E73004,extended,00000001
 
-[Huge Head P1]
+[Huge Head P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Huge Head P1
 // Huge Head P1
@@ -462,7 +444,7 @@ description=Big Head Team-P1
 // Big Head Team-P1
 patch=1,EE,11E72AB0,extended,00000001
 
-[Big Head Team-P1]
+[Big Head Team-P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Big Head Team-P1
 // Big Head Team-P1
@@ -474,17 +456,11 @@ description=Huge Head Team-P1
 // Huge Head Team-P1
 patch=1,EE,11E73030,extended,00000001
 
-[Huge Head Team-P1]
+[Huge Head Team-P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Huge Head Team-P1
 // Huge Head Team-P1
 patch=1,EE,11E73038,extended,00000001
-
-[Big Head P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Big Head P2
-// Big Head P2
-patch=1,EE,11E72A84,extended,00000001
 
 [Big Head P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -496,31 +472,13 @@ patch=1,EE,11E72AA0,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Huge Head P2
 // Huge Head P2
-patch=1,EE,11E73004,extended,00000001
-
-[Huge Head P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Huge Head P2
-// Huge Head P2
 patch=1,EE,11E73020,extended,00000001
 
 [Big Head Team-P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Big Head Team-P2
 // Big Head Team-P2
-patch=1,EE,11E72AB0,extended,00000001
-
-[Big Head Team-P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Big Head Team-P2
-// Big Head Team-P2
 patch=1,EE,11E72AB4,extended,00000001
-
-[Huge Head Team-P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Huge Head Team-P2
-// Huge Head Team-P2
-patch=1,EE,11E73030,extended,00000001
 
 [Huge Head Team-P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -534,7 +492,7 @@ description=Have All Jerseys
 // Have All Jerseys
 patch=1,EE,41E6EE54,extended,00350001
 
-[Have All Jerseys]
+[Have All Jerseys (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Jerseys
 // Have All Jerseys
@@ -546,32 +504,14 @@ description=Have All Heads
 // Have All Heads
 patch=1,EE,41E6EF28,extended,000F0001
 
-[Have All Heads]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Heads
-// Have All Heads
-patch=1,EE,00000000,extended,00000000
-
 [Have All Stadiums]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Stadiums
 // Have All Stadiums
 patch=1,EE,41E6EF64,extended,000E0001
 
-[Have All Stadiums]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Stadiums
-// Have All Stadiums
-patch=1,EE,00000000,extended,00000000
-
 [Have All Teams]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Teams
 // Have All Teams
 patch=1,EE,41E6EF9C,extended,00140001
-
-[Have All Teams]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Teams
-// Have All Teams
-patch=1,EE,00000000,extended,00000000

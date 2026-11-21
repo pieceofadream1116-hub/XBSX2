@@ -1,0 +1,8 @@
+gametitle=K-1 WORLD GP 2006 [SLPS-25710] [A7E5CE23]
+
+[Cheats\Infinite Health P1]
+patch=1,EE,2024DB3C,extended,447A0000
+
+[Cheats\K-1 LEGEND Max Status]
+patch=1,EE,402ECA6C,extended,001D0001
+patch=1,EE,447A0000,extended,00000000

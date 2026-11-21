@@ -12,19 +12,19 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,C60000F8
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,E60000F4
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -36,19 +36,19 @@ description=Infinite Armor
 // Infinite Armor
 patch=1,EE,200C0230,extended,C6020380
 
-[Infinite Armor]
+[Infinite Armor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Armor
 // Infinite Armor
 patch=1,EE,200C0234,extended,03E00008
 
-[Infinite Armor]
+[Infinite Armor (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Armor
 // Infinite Armor
 patch=1,EE,200C0238,extended,E602037C
 
-[Infinite Armor]
+[Infinite Armor (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Armor
 // Infinite Armor
@@ -60,19 +60,19 @@ description=Infinite Stamina
 // Infinite Stamina
 patch=1,EE,200C0260,extended,C4A108C4
 
-[Infinite Stamina]
+[Infinite Stamina (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Stamina
 // Infinite Stamina
 patch=1,EE,200C0264,extended,03E00008
 
-[Infinite Stamina]
+[Infinite Stamina (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Stamina
 // Infinite Stamina
 patch=1,EE,200C0268,extended,E4A108C0
 
-[Infinite Stamina]
+[Infinite Stamina (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Stamina
 // Infinite Stamina
@@ -126,44 +126,86 @@ description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C0240,extended,3C01FFFF
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C0244,extended,00272824
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C0248,extended,3C010072
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C024C,extended,54250001
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C0250,extended,44800000
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C0254,extended,080D4F4C
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C0258,extended,3C050400
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
+patch=1,EE,20353D24,extended,08030090
+
+[Cheats\Infinite Health]
+patch=1,EE,200FFE00,extended,8E0100F8
+patch=1,EE,200FFE04,extended,AE0100F4
+patch=1,EE,203221F4,extended,0C03FF80
+patch=1,EE,200FFE10,extended,03E00008
+patch=1,EE,200FFE14,extended,C60000F8
+
+[Cheats\Infinite Armor]
+patch=1,EE,200FFE08,extended,8E010380
+patch=1,EE,200FFE0C,extended,AE01037C
+patch=1,EE,203221F4,extended,0C03FF80
+patch=1,EE,200FFE10,extended,03E00008
+patch=1,EE,200FFE14,extended,C60000F8
+
+[Cheats\Infnite Health & Armor]
+patch=1,EE,200FFE00,extended,8E0100F8
+patch=1,EE,200FFE04,extended,AE0100F4
+patch=1,EE,200FFE08,extended,8E010380
+patch=1,EE,200FFE0C,extended,AE01037C
+patch=1,EE,203221F4,extended,0C03FF80
+patch=1,EE,200FFE10,extended,03E00008
+patch=1,EE,200FFE14,extended,C60000F8
+
+[Cheats\Infinite Stamina]
+patch=1,EE,200C0260,extended,C4A108C4
+patch=1,EE,200C0264,extended,03E00008
+patch=1,EE,200C0268,extended,E4A108C0
+patch=1,EE,2032220C,extended,0C030098
+
+[Cheats\Infinite Ammo]
+patch=1,EE,2033998C,extended,00000000
+
+[Cheats\1 Hit Death Enemies]
+patch=1,EE,200C0240,extended,3C01FFFF
+patch=1,EE,200C0244,extended,00272824
+patch=1,EE,200C0248,extended,3C010072
+patch=1,EE,200C024C,extended,54250001
+patch=1,EE,200C0250,extended,44800000
+patch=1,EE,200C0254,extended,080D4F4C
+patch=1,EE,200C0258,extended,3C050400
 patch=1,EE,20353D24,extended,08030090

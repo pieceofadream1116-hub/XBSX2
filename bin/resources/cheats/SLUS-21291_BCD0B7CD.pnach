@@ -48,19 +48,19 @@ description=Unlock All Skills
 // Unlock All Skills
 patch=1,EE,20A33710,extended,0000000C
 
-[Unlock All Skills]
+[Unlock All Skills (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Skills
 // Unlock All Skills
 patch=1,EE,40A33714,extended,000C0002
 
-[Unlock All Skills]
+[Unlock All Skills (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Skills
 // Unlock All Skills
 patch=1,EE,00002B08,extended,00000100
 
-[Unlock All Skills]
+[Unlock All Skills (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Skills
 // Unlock All Skills
@@ -138,7 +138,7 @@ description=Max EXP
 // Max EXP
 patch=1,EE,D0A0E40E,extended,002003E7
 
-[Max EXP]
+[Max EXP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
@@ -156,7 +156,7 @@ description=Max ATK
 // Max ATK
 patch=1,EE,10A0E418,extended,000003E7
 
-[Max ATK]
+[Max ATK (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
@@ -168,7 +168,7 @@ description=Max MAG
 // Max MAG
 patch=1,EE,10A0E41A,extended,000003E7
 
-[Max MAG]
+[Max MAG (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MAG
 // Max MAG
@@ -180,7 +180,7 @@ description=Max PDF
 // Max PDF
 patch=1,EE,10A0E41C,extended,000003E7
 
-[Max PDF]
+[Max PDF (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max PDF
 // Max PDF
@@ -192,7 +192,7 @@ description=Max MDF
 // Max MDF
 patch=1,EE,10A0E41E,extended,000003E7
 
-[Max MDF]
+[Max MDF (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MDF
 // Max MDF
@@ -204,7 +204,7 @@ description=Max TEC
 // Max TEC
 patch=1,EE,10A0E420,extended,000003E7
 
-[Max TEC]
+[Max TEC (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max TEC
 // Max TEC
@@ -216,7 +216,7 @@ description=Max ACC
 // Max ACC
 patch=1,EE,10A0E422,extended,000003E7
 
-[Max ACC]
+[Max ACC (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ACC
 // Max ACC
@@ -228,7 +228,7 @@ description=Max EVA
 // Max EVA
 patch=1,EE,10A0E424,extended,000003E7
 
-[Max EVA]
+[Max EVA (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EVA
 // Max EVA
@@ -240,7 +240,7 @@ description=Max SPD
 // Max SPD
 patch=1,EE,10A0E426,extended,000003E7
 
-[Max SPD]
+[Max SPD (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max SPD
 // Max SPD
@@ -252,7 +252,7 @@ description=Max LUK
 // Max LUK
 patch=1,EE,10A0E428,extended,000003E7
 
-[Max LUK]
+[Max LUK (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max LUK
 // Max LUK
@@ -552,314 +552,359 @@ description=All Skills
 // All Skills
 patch=1,EE,40A0E458,extended,000C0001
 
-[All Skills]
+[All Skills (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Skills
 // All Skills
 patch=1,EE,07070707,extended,00000000
 
-[All Skills]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Skills
-// All Skills
-patch=1,EE,00A0E488,extended,00000007
-
-[Stamina]
+[Stamina (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stamina
 // Stamina
 patch=1,EE,10A0E48C,extended,00000001
 
-[Attack]
+[Attack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Attack
 // Attack
 patch=1,EE,10A0E48E,extended,00000001
 
-[Defense]
+[Defense (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Defense
 // Defense
 patch=1,EE,10A0E490,extended,00000001
 
-[Technique]
+[Technique (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Technique
 // Technique
 patch=1,EE,10A0E492,extended,00000001
 
-[Vitality]
+[Vitality (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Vitality
 // Vitality
 patch=1,EE,10A0E494,extended,00000001
 
-[Agility]
+[Agility (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Agility
 // Agility
 patch=1,EE,10A0E496,extended,00000001
 
-[Magic]
+[Magic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic
 // Magic
 patch=1,EE,10A0E498,extended,00000001
 
-[Magic Defense]
+[Magic Defense (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Defense
 // Magic Defense
 patch=1,EE,10A0E49A,extended,00000001
 
-[Incantation]
+[Incantation (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Incantation
 // Incantation
 patch=1,EE,10A0E49C,extended,00000001
 
-[Sword Of Magic]
+[Sword Of Magic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sword Of Magic
 // Sword Of Magic
 patch=1,EE,10A0E49E,extended,00000001
 
-[Raging Lion]
+[Raging Lion (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Raging Lion
 // Raging Lion
 patch=1,EE,10A0E4A0,extended,00000001
 
-[Fate Control]
+[Fate Control (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fate Control
 // Fate Control
 patch=1,EE,10A0E4A2,extended,00000001
 
-[Karmic Effect]
+[Karmic Effect (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Karmic Effect
 // Karmic Effect
 patch=1,EE,10A0E4A4,extended,00000001
 
-[Armor Of Gods]
+[Armor Of Gods (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Armor Of Gods
 // Armor Of Gods
 patch=1,EE,10A0E4A6,extended,00000001
 
-[Swift Foot]
+[Swift Foot (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Swift Foot
 // Swift Foot
 patch=1,EE,10A0E4A8,extended,00000001
 
-[Triple Harmony]
+[Triple Harmony (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Triple Harmony
 // Triple Harmony
 patch=1,EE,10A0E4AA,extended,00000001
 
-[All-Out Strike]
+[All-Out Strike (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All-Out Strike
 // All-Out Strike
 patch=1,EE,10A0E4AC,extended,00000001
 
-[Untold Clarity]
+[Untold Clarity (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Untold Clarity
 // Untold Clarity
 patch=1,EE,10A0E4AE,extended,00000001
 
-[Divine Right]
+[Divine Right (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Divine Right
 // Divine Right
 patch=1,EE,10A0E4B0,extended,00000001
 
-[Zen Sword]
+[Zen Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zen Sword
 // Zen Sword
 patch=1,EE,10A0E4B2,extended,00000001
 
-[Sacred Oath]
+[Sacred Oath (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sacred Oath
 // Sacred Oath
 patch=1,EE,10A0E4B4,extended,00000001
 
-[Royal Paradise]
+[Royal Paradise (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Royal Paradise
 // Royal Paradise
 patch=1,EE,10A0E4B6,extended,00000001
 
-[Thief]
+[Thief (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Thief
 // Thief
 patch=1,EE,10A0E4B8,extended,00000001
 
-[Mow Down]
+[Mow Down (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mow Down
 // Mow Down
 patch=1,EE,10A0E4BA,extended,00000001
 
-[Pierce]
+[Pierce (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pierce
 // Pierce
 patch=1,EE,10A0E4BC,extended,00000001
 
-[Freeze]
+[Freeze (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Freeze
 // Freeze
 patch=1,EE,10A0E4BE,extended,00000001
 
-[Unknown]
+[Unknown (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown
 // Unknown
 patch=1,EE,10A0E4C0,extended,00000001
 
-[Barrage]
+[Barrage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Barrage
 // Barrage
 patch=1,EE,10A0E4C2,extended,00000001
 
-[Long Throw]
+[Long Throw (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Long Throw
 // Long Throw
 patch=1,EE,10A0E4C4,extended,00000001
 
-[Dragon Special]
+[Dragon Special (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dragon Special
 // Dragon Special
 patch=1,EE,10A0E4C6,extended,00000001
 
-[Forge]
+[Forge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Forge
 // Forge
 patch=1,EE,10A0E4C8,extended,00000001
 
-[Combat Teacher]
+[Combat Teacher (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Combat Teacher
 // Combat Teacher
 patch=1,EE,10A0E4CA,extended,00000001
 
-[Chain Magic]
+[Chain Magic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chain Magic
 // Chain Magic
 patch=1,EE,10A0E4CC,extended,00000001
 
-[Analyze]
+[Analyze (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Analyze
 // Analyze
 patch=1,EE,10A0E4CE,extended,00000001
 
-[Potch Finder]
+[Potch Finder (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Potch Finder
 // Potch Finder
 patch=1,EE,10A0E4D0,extended,00000001
 
-[Treasure Hunt]
+[Treasure Hunt (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Treasure Hunt
 // Treasure Hunt
 patch=1,EE,10A0E4D2,extended,00000001
 
-[Escape Route]
+[Escape Route (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Escape Route
 // Escape Route
 patch=1,EE,10A0E4D4,extended,00000001
 
-[Healing]
+[Healing (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Healing
 // Healing
 patch=1,EE,10A0E4D6,extended,00000001
 
-[Treatment]
+[Treatment (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Treatment
 // Treatment
 patch=1,EE,10A0E4D8,extended,00000001
 
-[Haggle]
+[Haggle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Haggle
 // Haggle
 patch=1,EE,10A0E4DA,extended,00000001
 
-[Trade In]
+[Trade In (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Trade In
 // Trade In
 patch=1,EE,10A0E4DC,extended,00000001
 
-[Cook]
+[Cook (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cook
 // Cook
 patch=1,EE,10A0E4DE,extended,00000001
 
-[Rune Sage]
+[Rune Sage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rune Sage
 // Rune Sage
 patch=1,EE,10A0E4E0,extended,00000001
 
-[Bard]
+[Bard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bard
 // Bard
 patch=1,EE,10A0E4E2,extended,00000001
 
-[Perfect Pitch]
+[Perfect Pitch (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Perfect Pitch
 // Perfect Pitch
 patch=1,EE,10A0E4E4,extended,00000001
 
-[Appraisal]
+[Appraisal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Appraisal
 // Appraisal
 patch=1,EE,10A0E4E6,extended,00000001
 
-[Bath]
+[Bath (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bath
 // Bath
 patch=1,EE,10A0E4E8,extended,00000001
 
-[Tutor]
+[Tutor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tutor
 // Tutor
 patch=1,EE,10A0E4EA,extended,00000001
 
-[All Skills]
+[All Skills (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Skills
 // All Skills
 patch=1,EE,40A0E48C,extended,00180001
 
-[All Skills]
+[All Skills (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Skills
 // All Skills
 patch=1,EE,01010101,extended,00000000
+
+[Cheats\Max Money]
+patch=1,EE,2036d0f4,extended,00000000
+
+[Cheats\Infinite HP In Battle]
+patch=1,EE,200C3000,extended,14200002
+patch=1,EE,200C3004,extended,00000000
+patch=1,EE,200C3008,extended,86050032
+patch=1,EE,200C300C,extended,082A039A
+patch=1,EE,200C3010,extended,0005182D
+patch=1,EE,20A80E60,extended,08030C00
+patch=1,EE,20A80E64,extended,8201002B
+
+[Cheats\Infinite Rune Use And Restore In Battle]
+patch=1,EE,200C3100,extended,00042082
+patch=1,EE,200C3104,extended,00042080
+patch=1,EE,200C3108,extended,8C830004
+patch=1,EE,200C310C,extended,0829CBA5
+patch=1,EE,200C3110,extended,AC830000
+patch=1,EE,20A72E80,extended,08030C40
+
+[Cheats\Infinite HP Ship In Battle]
+patch=1,EE,D0A8B838,extended,00006078
+patch=1,EE,20AB6078,extended,00000000
+
+[Cheats\One Hit Kill]
+patch=1,EE,200C3200,extended,54400005
+patch=1,EE,200C3204,extended,27FF0084
+patch=1,EE,200C3208,extended,12200003
+patch=1,EE,200C320C,extended,8201002B
+patch=1,EE,200C3210,extended,54200001
+patch=1,EE,200C3214,extended,27FF006C
+patch=1,EE,200C3218,extended,03E00008
+patch=1,EE,20A80E04,extended,0C030C80
+
+[Cheats\Enemy Units Instant Death]
+patch=1,EE,D0A8B838,extended,00006078
+patch=1,EE,20AB6074,extended,000003E7
+
+[Cheats\Random Battles L2+Triangle None L2+X Random]
+patch=1,EE,20346028,extended,0000102D
+patch=1,EE,D089a39c,extended,0000EEFF
+patch=1,EE,2034602C,extended,A7824424
+patch=1,EE,D089a39c,extended,0000BEFF
+patch=1,EE,2034602C,extended,87824424
+
+[Cheats\Unlock All Skills]
+patch=1,EE,20A33710,extended,0000000C
+patch=1,EE,40A33714,extended,000C0002
+patch=1,EE,00002B08,extended,00000100
+patch=1,EE,0052A027,extended,0000001F

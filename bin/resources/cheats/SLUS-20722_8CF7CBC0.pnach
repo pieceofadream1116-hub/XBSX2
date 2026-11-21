@@ -18,25 +18,25 @@ description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
 patch=1,EE,20171A5C,extended,3C013E80
 
-[Press {CROSS} For Moon Jump]
+[Press {CROSS} For Moon Jump (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
 patch=1,EE,D02CBE1C,extended,0000BFFF
 
-[Press {CROSS} For Moon Jump]
+[Press {CROSS} For Moon Jump (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
 patch=1,EE,20171A64,extended,AE810004
 
-[Press {CROSS} For Moon Jump]
+[Press {CROSS} For Moon Jump (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
 patch=1,EE,D02CBE1C,extended,0010BFFF
 
-[Press {CROSS} For Moon Jump]
+[Press {CROSS} For Moon Jump (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
@@ -54,19 +54,19 @@ description=Infinite Shield
 // Infinite Shield
 patch=1,EE,200C0220,extended,24010708
 
-[Infinite Shield]
+[Infinite Shield (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Shield
 // Infinite Shield
 patch=1,EE,200C0224,extended,03E00008
 
-[Infinite Shield]
+[Infinite Shield (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Shield
 // Infinite Shield
 patch=1,EE,200C0228,extended,ACC10008
 
-[Infinite Shield]
+[Infinite Shield (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Shield
 // Infinite Shield
@@ -78,13 +78,13 @@ description=Infinite Weapon Energy
 // Infinite Weapon Energy
 patch=1,EE,20140278,extended,8F818358
 
-[Infinite Weapon Energy]
+[Infinite Weapon Energy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Weapon Energy
 // Infinite Weapon Energy
 patch=1,EE,20140280,extended,24051680
 
-[Infinite Weapon Energy]
+[Infinite Weapon Energy (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Weapon Energy
 // Infinite Weapon Energy
@@ -96,37 +96,37 @@ description=Press {L1}+{R1} For Max Grim Energy
 // Press {L1}+{R1} For Max Grim Energy
 patch=1,EE,200C0230,extended,24030028
 
-[Press {L1}+{R1} For Max Grim Energy]
+[Press {L1}+{R1} For Max Grim Energy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{R1} For Max Grim Energy
 // Press {L1}+{R1} For Max Grim Energy
 patch=1,EE,200C0234,extended,03E00008
 
-[Press {L1}+{R1} For Max Grim Energy]
+[Press {L1}+{R1} For Max Grim Energy (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{R1} For Max Grim Energy
 // Press {L1}+{R1} For Max Grim Energy
 patch=1,EE,200C0238,extended,AC430000
 
-[Press {L1}+{R1} For Max Grim Energy]
+[Press {L1}+{R1} For Max Grim Energy (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{R1} For Max Grim Energy
 // Press {L1}+{R1} For Max Grim Energy
 patch=1,EE,D02CBE1C,extended,0000F3FF
 
-[Press {L1}+{R1} For Max Grim Energy]
+[Press {L1}+{R1} For Max Grim Energy (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{R1} For Max Grim Energy
 // Press {L1}+{R1} For Max Grim Energy
 patch=1,EE,2013FCF0,extended,0C03008C
 
-[Press {L1}+{R1} For Max Grim Energy]
+[Press {L1}+{R1} For Max Grim Energy (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{R1} For Max Grim Energy
 // Press {L1}+{R1} For Max Grim Energy
 patch=1,EE,D02CBE1C,extended,0010F3FF
 
-[Press {L1}+{R1} For Max Grim Energy]
+[Press {L1}+{R1} For Max Grim Energy (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{R1} For Max Grim Energy
 // Press {L1}+{R1} For Max Grim Energy
@@ -174,13 +174,13 @@ description=Start With All Swords
 // Start With All Swords
 patch=1,EE,E002FFFF,extended,00302750
 
-[Start With All Swords]
+[Start With All Swords (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With All Swords
 // Start With All Swords
 patch=1,EE,20302750,extended,09080701
 
-[Start With All Swords]
+[Start With All Swords (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With All Swords
 // Start With All Swords
@@ -192,7 +192,7 @@ description=Start With All Shields
 // Start With All Shields
 patch=1,EE,D0302758,extended,0000FFFF
 
-[Start With All Shields]
+[Start With All Shields (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With All Shields
 // Start With All Shields
@@ -204,19 +204,19 @@ description=Start With All Hammers
 // Start With All Hammers
 patch=1,EE,E003FFFF,extended,00302760
 
-[Start With All Hammers]
+[Start With All Hammers (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With All Hammers
 // Start With All Hammers
 patch=1,EE,0030275F,extended,00000002
 
-[Start With All Hammers]
+[Start With All Hammers (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With All Hammers
 // Start With All Hammers
 patch=1,EE,20302760,extended,0E0D0C03
 
-[Start With All Hammers]
+[Start With All Hammers (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With All Hammers
 // Start With All Hammers
@@ -228,7 +228,7 @@ description=Start With All Boxers
 // Start With All Boxers
 patch=1,EE,D0302768,extended,0000FFFF
 
-[Start With All Boxers]
+[Start With All Boxers (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With All Boxers
 // Start With All Boxers
@@ -240,7 +240,7 @@ description=Start With Max Shield
 // Start With Max Shield
 patch=1,EE,203026FC,extended,00000708
 
-[Start With Max Shield]
+[Start With Max Shield (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With Max Shield
 // Start With Max Shield
@@ -252,7 +252,7 @@ description=Start With Max Grim Energy
 // Start With Max Grim Energy
 patch=1,EE,20302724,extended,00000028
 
-[Start With Max Grim Energy]
+[Start With Max Grim Energy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With Max Grim Energy
 // Start With Max Grim Energy
@@ -264,7 +264,7 @@ description=Start With Max Weapon Energy
 // Start With Max Weapon Energy
 patch=1,EE,2030272C,extended,00000009
 
-[Start With Max Weapon Energy]
+[Start With Max Weapon Energy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With Max Weapon Energy
 // Start With Max Weapon Energy
@@ -276,17 +276,11 @@ description=Max Koins
 // Max Koins
 patch=1,EE,602C42C8,extended,0000270F
 
-[Max Koins]
+[Max Koins (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Koins
 // Max Koins
 patch=1,EE,60020001,extended,00000010
-
-[Max Soul Stones]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Soul Stones
-// Max Soul Stones
-patch=1,EE,602C42C8,extended,0000270F
 
 [Max Soul Stones]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -298,19 +292,7 @@ patch=1,EE,60020001,extended,00000014
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Iron Keys
 // Max Iron Keys
-patch=1,EE,602C42C8,extended,0000270F
-
-[Max Iron Keys]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Iron Keys
-// Max Iron Keys
 patch=1,EE,60020001,extended,00000020
-
-[Max Death Coins]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Death Coins
-// Max Death Coins
-patch=1,EE,602C42C8,extended,0000270F
 
 [Max Death Coins]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -324,7 +306,7 @@ description=Have All Enemies Defeated
 // Have All Enemies Defeated
 patch=1,EE,202E8D7C,extended,00000063
 
-[Have All Enemies Defeated]
+[Have All Enemies Defeated (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Enemies Defeated
 // Have All Enemies Defeated
@@ -336,7 +318,7 @@ description=Have All Treasure Found
 // Have All Treasure Found
 patch=1,EE,202E8D84,extended,00000063
 
-[Have All Treasure Found]
+[Have All Treasure Found (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Treasure Found
 // Have All Treasure Found
@@ -348,7 +330,7 @@ description=Have All Innocents Rescued
 // Have All Innocents Rescued
 patch=1,EE,202E8D8C,extended,00000063
 
-[Have All Innocents Rescued]
+[Have All Innocents Rescued (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Innocents Rescued
 // Have All Innocents Rescued
@@ -360,8 +342,31 @@ description=Have All Secrets Found
 // Have All Secrets Found
 patch=1,EE,202E8D94,extended,00000063
 
-[Have All Secrets Found]
+[Have All Secrets Found (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Secrets Found
 // Have All Secrets Found
+patch=1,EE,202E8D98,extended,00000063
+
+[Cheats\Infinite Shield]
+patch=1,EE,200C0220,extended,24010708
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,ACC10008
+patch=1,EE,201409B4,extended,0C030088
+
+[Cheats\Infinite Weapon Energy]
+patch=1,EE,20140278,extended,8F818358
+patch=1,EE,20140280,extended,24051680
+patch=1,EE,2014028C,extended,AC25003C
+
+[Cheats\Have All Treasure Found]
+patch=1,EE,202E8D84,extended,00000063
+patch=1,EE,202E8D88,extended,00000063
+
+[Cheats\Have All Innocents Rescued]
+patch=1,EE,202E8D8C,extended,00000063
+patch=1,EE,202E8D90,extended,00000063
+
+[Cheats\Have All Secrets Found]
+patch=1,EE,202E8D94,extended,00000063
 patch=1,EE,202E8D98,extended,00000063

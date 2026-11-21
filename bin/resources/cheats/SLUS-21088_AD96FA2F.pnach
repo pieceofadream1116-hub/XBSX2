@@ -1,0 +1,17 @@
+gametitle=Disney's Chicken Little NTSC-U SLUS-21088 AD96FA2F
+
+[Cheats\Activate Cheat Codes God Mode]
+patch=1,EE,20144710,extended,0C03008A
+patch=1,EE,1014471A,extended,00001000
+
+[Cheats\9 Acorns]
+patch=1,EE,205187C4,extended,00000009
+
+[Cheats\Unlock All Trading Cards]
+patch=1,EE,40518848,extended,00140003
+patch=1,EE,00000005,extended,00000000
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (130%).
+patch=0,EE,00284C84,word,24040001

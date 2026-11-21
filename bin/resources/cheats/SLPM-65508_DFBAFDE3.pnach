@@ -1,0 +1,4 @@
+gametitle=ポップンミュージック 9 [SLPM-65508] [DFBAFDE3]
+
+[Cheats\Always Play Auto]
+patch=1,EE,20209E10,extended,00000001

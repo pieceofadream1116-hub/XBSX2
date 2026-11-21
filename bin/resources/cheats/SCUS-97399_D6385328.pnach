@@ -1,4 +1,70 @@
-gametitle=God Of War [SCUS-97399] [D6385328]
+gametitle=God Of War [UNKNOWN] [D6385328]
+
+[Enable All Magic]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Enable All Magic
+// Enable All Magic
+patch=1,EE,10302D42,extended,0000FFFF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20795978,extended,42C80000
+
+[Infinite Magic Energy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Magic Energy
+// Infinite Magic Energy
+patch=1,EE,20302D1C,extended,42C80000
+
+[Infinite Rage of the Gods]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Rage of the Gods
+// Infinite Rage of the Gods
+patch=1,EE,20302D20,extended,42C80000
+
+[Max Level]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Level
+// Max Level
+patch=1,EE,20302D28,extended,00007530
+
+[Quick Level Up - Blades of Chaos]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up - Blades of Chaos
+// Quick Level Up - Blades of Chaos
+patch=1,EE,2076D7D8,extended,00001194
+
+[Quick Level Up - Poseidon's Rage]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up - Poseidon's Rage
+// Quick Level Up - Poseidon's Rage
+patch=1,EE,2076D7DC,extended,00001194
+
+[Quick Level Up - Medusa's Gaze]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up - Medusa's Gaze
+// Quick Level Up - Medusa's Gaze
+patch=1,EE,2076D7E0,extended,00001D4C
+
+[Quick Level Up - Zeus' Fury]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up - Zeus' Fury
+// Quick Level Up - Zeus' Fury
+patch=1,EE,2076D7E4,extended,00001D4C
+
+[Quick Level Up - Army of Hades]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up - Army of Hades
+// Quick Level Up - Army of Hades
+patch=1,EE,2076D7E8,extended,00002710
+
+[Quick Level Up - Blades of Artemis]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up - Blades of Artemis
+// Quick Level Up - Blades of Artemis
+patch=1,EE,2076D7EC,extended,00002710
 
 [Have All Techniques]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -12,41 +78,35 @@ description=P1 Press {SELECT} To Skip FMV
 // P1 Press {SELECT} To Skip FMV
 patch=1,EE,D02FDA9C,extended,0000FFFE
 
-[P1 Press {SELECT} To Skip FMV]
+[P1 Press {SELECT} To Skip FMV (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {SELECT} To Skip FMV
 // P1 Press {SELECT} To Skip FMV
 patch=1,EE,2026FF78,extended,24020001
 
-[P1 Press {SELECT} To Skip FMV]
+[P1 Press {SELECT} To Skip FMV (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {SELECT} To Skip FMV
 // P1 Press {SELECT} To Skip FMV
 patch=1,EE,D02FDA9C,extended,0010FFFE
 
-[P1 Press {SELECT} To Skip FMV]
+[P1 Press {SELECT} To Skip FMV (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {SELECT} To Skip FMV
 // P1 Press {SELECT} To Skip FMV
 patch=1,EE,2026FF78,extended,8C620000
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,E001453B,extended,1079597E
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,20795978,extended,43480000
-
-[Max Health]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Health
-// Max Health
-patch=1,EE,E001453B,extended,1079597E
 
 [Max Health]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -60,35 +120,23 @@ description=P1 Press {L1}+Left For Quick Last Boss Death
 // P1 Press {L1}+Left For Quick Last Boss Death
 patch=1,EE,E002FB7F,extended,002FDA9C
 
-[P1 Press {L1}+Left For Quick Last Boss Death]
+[P1 Press {L1}+Left For Quick Last Boss Death (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Left For Quick Last Boss Death
 // P1 Press {L1}+Left For Quick Last Boss Death
 patch=1,EE,E001453B,extended,0079597E
 
-[P1 Press {L1}+Left For Quick Last Boss Death]
+[P1 Press {L1}+Left For Quick Last Boss Death (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Left For Quick Last Boss Death
 // P1 Press {L1}+Left For Quick Last Boss Death
 patch=1,EE,20795978,extended,453B7FFF
-
-[Infinite Magic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Magic
-// Infinite Magic
-patch=1,EE,20302D1C,extended,42C80000
 
 [P1 Press {L1}+Right To Refill Rage Of The Gods Meter]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Right To Refill Rage Of The Gods Meter
 // P1 Press {L1}+Right To Refill Rage Of The Gods Meter
 patch=1,EE,D02FDA9C,extended,0000FBDF
-
-[P1 Press {L1}+Right To Refill Rage Of The Gods Meter]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+Right To Refill Rage Of The Gods Meter
-// P1 Press {L1}+Right To Refill Rage Of The Gods Meter
-patch=1,EE,20302D20,extended,42C80000
 
 [Max Power-Up Meter]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -114,55 +162,49 @@ description=Have All Muse Keys
 // Have All Muse Keys
 patch=1,EE,00302D41,extended,00000002
 
-[Have All Powerups/Moves]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Powerups/Moves
-// Have All Powerups/Moves
-patch=1,EE,10302D42,extended,0000FFFF
-
 [P1 Press {L1}+Up To Kill Enemies]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Up To Kill Enemies
 // P1 Press {L1}+Up To Kill Enemies
 patch=1,EE,200C0234,extended,03E00008
 
-[P1 Press {L1}+Up To Kill Enemies]
+[P1 Press {L1}+Up To Kill Enemies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Up To Kill Enemies
 // P1 Press {L1}+Up To Kill Enemies
 patch=1,EE,200C0238,extended,86020060
 
-[P1 Press {L1}+Up To Kill Enemies]
+[P1 Press {L1}+Up To Kill Enemies (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Up To Kill Enemies
 // P1 Press {L1}+Up To Kill Enemies
 patch=1,EE,201B4D84,extended,0C03008C
 
-[P1 Press {L1}+Up To Kill Enemies]
+[P1 Press {L1}+Up To Kill Enemies (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Up To Kill Enemies
 // P1 Press {L1}+Up To Kill Enemies
 patch=1,EE,201B4D88,extended,8E700000
 
-[P1 Press {L1}+Up To Kill Enemies]
+[P1 Press {L1}+Up To Kill Enemies (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Up To Kill Enemies
 // P1 Press {L1}+Up To Kill Enemies
 patch=1,EE,D02FDA9C,extended,0000FBEF
 
-[P1 Press {L1}+Up To Kill Enemies]
+[P1 Press {L1}+Up To Kill Enemies (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Up To Kill Enemies
 // P1 Press {L1}+Up To Kill Enemies
 patch=1,EE,200C0230,extended,AE600178
 
-[P1 Press {L1}+Up To Kill Enemies]
+[P1 Press {L1}+Up To Kill Enemies (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Up To Kill Enemies
 // P1 Press {L1}+Up To Kill Enemies
 patch=1,EE,D02FDA9C,extended,0010FBEF
 
-[P1 Press {L1}+Up To Kill Enemies]
+[P1 Press {L1}+Up To Kill Enemies (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Up To Kill Enemies
 // P1 Press {L1}+Up To Kill Enemies
@@ -174,43 +216,43 @@ description=P1 Press {L1}+Down To Refill Health For Your Family
 // P1 Press {L1}+Down To Refill Health For Your Family
 patch=1,EE,200C0220,extended,8E61017C
 
-[P1 Press {L1}+Down To Refill Health For Your Family]
+[P1 Press {L1}+Down To Refill Health For Your Family (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Refill Health For Your Family
 // P1 Press {L1}+Down To Refill Health For Your Family
 patch=1,EE,200C0224,extended,AE610178
 
-[P1 Press {L1}+Down To Refill Health For Your Family]
+[P1 Press {L1}+Down To Refill Health For Your Family (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Refill Health For Your Family
 // P1 Press {L1}+Down To Refill Health For Your Family
 patch=1,EE,200C0228,extended,03E00008
 
-[P1 Press {L1}+Down To Refill Health For Your Family]
+[P1 Press {L1}+Down To Refill Health For Your Family (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Refill Health For Your Family
 // P1 Press {L1}+Down To Refill Health For Your Family
 patch=1,EE,200C022C,extended,8E700000
 
-[P1 Press {L1}+Down To Refill Health For Your Family]
+[P1 Press {L1}+Down To Refill Health For Your Family (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Refill Health For Your Family
 // P1 Press {L1}+Down To Refill Health For Your Family
 patch=1,EE,D02FDA9C,extended,0000FBBF
 
-[P1 Press {L1}+Down To Refill Health For Your Family]
+[P1 Press {L1}+Down To Refill Health For Your Family (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Refill Health For Your Family
 // P1 Press {L1}+Down To Refill Health For Your Family
 patch=1,EE,201B4E5C,extended,0C030088
 
-[P1 Press {L1}+Down To Refill Health For Your Family]
+[P1 Press {L1}+Down To Refill Health For Your Family (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Refill Health For Your Family
 // P1 Press {L1}+Down To Refill Health For Your Family
 patch=1,EE,D02FDA9C,extended,0010FBBF
 
-[P1 Press {L1}+Down To Refill Health For Your Family]
+[P1 Press {L1}+Down To Refill Health For Your Family (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Refill Health For Your Family
 // P1 Press {L1}+Down To Refill Health For Your Family
@@ -258,18 +300,6 @@ description=Zeus' Fury
 // Zeus' Fury
 patch=1,EE,2076D7E4,extended,00002710
 
-[Army Of Hades]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Army Of Hades
-// Army Of Hades
-patch=1,EE,2076D7E8,extended,00002710
-
-[Blade Of Artemis]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Blade Of Artemis
-// Blade Of Artemis
-patch=1,EE,2076D7EC,extended,00002710
-
 [Blades Of Chaos]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Blades Of Chaos
@@ -282,25 +312,25 @@ description=All Power-Ups
 // All Power-Ups
 patch=1,EE,4076D7DC,extended,00060001
 
-[All Power-Ups]
+[All Power-Ups (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Power-Ups
 // All Power-Ups
 patch=1,EE,00002710,extended,00000000
 
-[Poseidon's Rage]
+[Poseidon's Rage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Poseidon's Rage
 // Poseidon's Rage
 patch=1,EE,2076D7F4,extended,00000002
 
-[Medusa's Gaze]
+[Medusa's Gaze (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Medusa's Gaze
 // Medusa's Gaze
 patch=1,EE,2076D7F8,extended,00000002
 
-[Zeus' Fury]
+[Zeus' Fury (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Zeus' Fury
 // Zeus' Fury
@@ -318,26 +348,39 @@ description=Blade Of Artemis
 // Blade Of Artemis
 patch=1,EE,2076D804,extended,00000002
 
-[Blades Of Chaos]
+[Blades Of Chaos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Blades Of Chaos
 // Blades Of Chaos
 patch=1,EE,2076D808,extended,00000005
 
-[All Power-Ups]
+[All Power-Ups (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Power-Ups
 // All Power-Ups
 patch=1,EE,4076D7F4,extended,00050001
 
-[All Power-Ups]
+[All Power-Ups (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Power-Ups
 // All Power-Ups
 patch=1,EE,00000002,extended,00000000
 
-[All Power-Ups]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Power-Ups
-// All Power-Ups
-patch=1,EE,2076D808,extended,00000005
+[Disable Blur Effect]
+author=Gabominated
+description=Disable post-processing blur effect.
+patch=1,EE,0029CC98,word,00000000
+
+[Cheats\P1 Press L1+Down To Refill Health For Your Family]
+patch=1,EE,200C0220,extended,8E61017C
+patch=1,EE,200C0224,extended,AE610178
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,8E700000
+patch=1,EE,D02FDA9D,extended,0000FBBF
+patch=1,EE,201B4E5C,extended,0C030088
+patch=1,EE,D02FDA9D,extended,0010FBBF
+patch=1,EE,201B4E5C,extended,8E700000
+
+[Cheats\Press Digital Pad Down + L1 simultaneously to activate the Save-Mode]
+patch=1,EE,D02FDA9C,extended,0000FBBF
+patch=1,EE,0029CAEC,extended,00000001

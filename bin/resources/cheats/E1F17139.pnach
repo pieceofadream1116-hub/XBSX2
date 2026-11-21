@@ -6,19 +6,19 @@ description=Enable Code (Must Be On)
 // Enable Code (Must Be On)
 patch=1,EE,FE129B51,extended,800813BF
 
-[Enable Code (Must Be On)]
+[Enable Code (Must Be On) (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Enable Code (Must Be On)
 // Enable Code (Must Be On)
 patch=1,EE,000FFFFE,extended,000001F8
 
-[Enable Code (Must Be On)]
+[Enable Code (Must Be On) (3)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Enable Code (Must Be On)
 // Enable Code (Must Be On)
 patch=1,EE,000FFFFF,extended,000001F8
 
-[Enable Code (Must Be On)]
+[Enable Code (Must Be On) (4)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Enable Code (Must Be On)
 // Enable Code (Must Be On)
@@ -30,13 +30,13 @@ description=Infinite Energy
 // Infinite Energy
 patch=1,EE,E0021821,extended,010C06C8
 
-[Infinite Energy]
+[Infinite Energy (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Infinite Energy
 // Infinite Energy
 patch=1,EE,210C06D0,extended,24030258
 
-[Infinite Energy]
+[Infinite Energy (3)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Infinite Energy
 // Infinite Energy
@@ -48,7 +48,7 @@ description=Infinite Charged Attack Meter
 // Infinite Charged Attack Meter
 patch=1,EE,D10C2C00,extended,00001821
 
-[Infinite Charged Attack Meter]
+[Infinite Charged Attack Meter (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Infinite Charged Attack Meter
 // Infinite Charged Attack Meter
@@ -60,7 +60,7 @@ description=Infinite Charged Attack Meter Usage
 // Infinite Charged Attack Meter Usage
 patch=1,EE,D0F3BF70,extended,0000F02D
 
-[Infinite Charged Attack Meter Usage]
+[Infinite Charged Attack Meter Usage (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Infinite Charged Attack Meter Usage
 // Infinite Charged Attack Meter Usage
@@ -72,19 +72,19 @@ description=Infinite Time
 // Infinite Time
 patch=1,EE,D0F51C38,extended,0000F02D
 
-[Infinite Time]
+[Infinite Time (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Infinite Time
 // Infinite Time
 patch=1,EE,20F51C94,extended,00000000
 
-[Infinite Time]
+[Infinite Time (3)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Infinite Time
 // Infinite Time
 patch=1,EE,D10BEDA0,extended,0000F02D
 
-[Infinite Time]
+[Infinite Time (4)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Infinite Time
 // Infinite Time
@@ -96,7 +96,7 @@ description=Pick-Ups Collected x4
 // Pick-Ups Collected x4
 patch=1,EE,D10C78F4,extended,00002021
 
-[Pick-Ups Collected x4]
+[Pick-Ups Collected x4 (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Pick-Ups Collected x4
 // Pick-Ups Collected x4
@@ -106,19 +106,7 @@ patch=1,EE,110C78FC,extended,00000004
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Pick-Ups Collected x2
 // Pick-Ups Collected x2
-patch=1,EE,D10C78F4,extended,00002021
-
-[Pick-Ups Collected x2]
-author=xs1l3n7x(pnach)/UPC(codes)
-description=Pick-Ups Collected x2
-// Pick-Ups Collected x2
 patch=1,EE,110C78FC,extended,00000002
-
-[Quick Max Pick-Ups]
-author=xs1l3n7x(pnach)/UPC(codes)
-description=Quick Max Pick-Ups
-// Quick Max Pick-Ups
-patch=1,EE,D10C78F4,extended,00002021
 
 [Quick Max Pick-Ups]
 author=xs1l3n7x(pnach)/UPC(codes)
@@ -132,7 +120,7 @@ description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,40CD674C,extended,00240001
 
-[Unlock All Characters]
+[Unlock All Characters (2)]
 author=xs1l3n7x(pnach)/UPC(codes)
 description=Unlock All Characters
 // Unlock All Characters
@@ -144,8 +132,101 @@ description=Unlock All Arenas
 // Unlock All Arenas
 patch=1,EE,40CD67DC,extended,00110001
 
-[Unlock All Arenas]
-author=xs1l3n7x(pnach)/UPC(codes)
-description=Unlock All Arenas
-// Unlock All Arenas
+[Infinite Continues]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Continues
+// Infinite Continues
+patch=1,EE,20CD25D8,extended,00000063
+
+[Infinite Continues (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Continues (Alternate)
+// Infinite Continues (Alternate)
+patch=1,EE,D0F610E0,extended,0000F809
+
+[Infinite Continues (Alternate) (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Continues (Alternate)
+// Infinite Continues (Alternate)
+patch=1,EE,10F61104,extended,00000000
+
+[Pick-Ups Collected x20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pick-Ups Collected x20
+// Pick-Ups Collected x20
+patch=1,EE,110C78FC,extended,00000014
+
+[Pick-Ups Collected x10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pick-Ups Collected x10
+// Pick-Ups Collected x10
+patch=1,EE,110C78FC,extended,0000000A
+
+[Pick-Ups Collected x5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pick-Ups Collected x5
+// Pick-Ups Collected x5
+patch=1,EE,110C78FC,extended,00000005
+
+[Pick-Ups Collected x3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pick-Ups Collected x3
+// Pick-Ups Collected x3
+patch=1,EE,110C78FC,extended,00000003
+
+[Unlock All Gallery 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery 1
+// Unlock All Gallery 1
+patch=1,EE,40CD6810,extended,00240001
+
+[Unlock All Gallery 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery 3
+// Unlock All Gallery 3
+patch=1,EE,40CD68A0,extended,001B0001
+
+[Unlock All Gallery 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery 2
+// Unlock All Gallery 2
+patch=1,EE,40CD6930,extended,00240001
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start. Might need EE Overclock (180%).
+patch=1,EE,0015E73C,word,14800004 //10800004
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,0015E978,word,AC409670
+//patch=1,EE,003D9678,word,00000001
+//003D9670
+//0015E970
+
+[Cheats\Infinite Energy]
+patch=1,EE,20F3BFA0,extended,00000000
+
+[Cheats\Infinite Lives]
+patch=1,EE,20CD25D8,extended,00000009
+
+[Cheats\Unlock All Arenas]
+patch=1,EE,40CD67DC,extended,000D0001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock All Characters]
+patch=1,EE,40CD6760,extended,001F0001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock All Gallery 1]
+patch=1,EE,40CD6810,extended,00270001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock All Gallery 2]
+patch=1,EE,40CD6930,extended,00240001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock All Gallery 3]
+patch=1,EE,40CD68A0,extended,001B0001
 patch=1,EE,00000001,extended,00000000

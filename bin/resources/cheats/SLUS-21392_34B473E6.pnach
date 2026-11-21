@@ -77,3 +77,12 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Characters
 // All Characters
 patch=1,EE,704BE5C4,extended,001003FC
+
+[Disable Blur/Bloom]
+author=Gabominated
+description=Might need to set Shade Boost, Brightnes:80 and Contrast:45.
+patch=1,EE,E0010200,extended,018C3644
+patch=1,EE,218C3644,extended,00000000
+
+[Cheats\Unlock All Characters]
+patch=1,EE,204BE5C4,extended,001003FC

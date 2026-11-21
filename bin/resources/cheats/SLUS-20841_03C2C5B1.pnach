@@ -30,18 +30,6 @@ description=Home Team Start With 150
 // Home Team Start With 150
 patch=1,EE,D04D0AEC,extended,00000000
 
-[Home Team Start With 150]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 150
-// Home Team Start With 150
-patch=1,EE,104D0AEC,extended,00000096
-
-[Home Team Start With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 100
-// Home Team Start With 100
-patch=1,EE,D04D0AEC,extended,00000000
-
 [Home Team Start With 100]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Home Team Start With 100
@@ -52,19 +40,7 @@ patch=1,EE,104D0AEC,extended,00000064
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Home Team Start With 50
 // Home Team Start With 50
-patch=1,EE,D04D0AEC,extended,00000000
-
-[Home Team Start With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 50
-// Home Team Start With 50
 patch=1,EE,104D0AEC,extended,00000032
-
-[Home Team Start With 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 20
-// Home Team Start With 20
-patch=1,EE,D04D0AEC,extended,00000000
 
 [Home Team Start With 20]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -96,18 +72,6 @@ description=Away Team Start With 150
 // Away Team Start With 150
 patch=1,EE,D04D0AEE,extended,00000000
 
-[Away Team Start With 150]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 150
-// Away Team Start With 150
-patch=1,EE,104D0AEE,extended,00000096
-
-[Away Team Start With 100]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 100
-// Away Team Start With 100
-patch=1,EE,D04D0AEE,extended,00000000
-
 [Away Team Start With 100]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Away Team Start With 100
@@ -118,19 +82,7 @@ patch=1,EE,104D0AEE,extended,00000064
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Away Team Start With 50
 // Away Team Start With 50
-patch=1,EE,D04D0AEE,extended,00000000
-
-[Away Team Start With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 50
-// Away Team Start With 50
 patch=1,EE,104D0AEE,extended,00000032
-
-[Away Team Start With 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 20
-// Away Team Start With 20
-patch=1,EE,D04D0AEE,extended,00000000
 
 [Away Team Start With 20]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -240,7 +192,7 @@ description=P1 Press {L1}+{SELECT} For Low Play Choose Time
 // P1 Press {L1}+{SELECT} For Low Play Choose Time
 patch=1,EE,D04A1FC2,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} For Low Play Choose Time]
+[P1 Press {L1}+{SELECT} For Low Play Choose Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} For Low Play Choose Time
 // P1 Press {L1}+{SELECT} For Low Play Choose Time
@@ -252,7 +204,7 @@ description=P1 Press {R1}+{SELECT} For More Play Choose Time
 // P1 Press {R1}+{SELECT} For More Play Choose Time
 patch=1,EE,D04A1FC2,extended,0000F7FE
 
-[P1 Press {R1}+{SELECT} For More Play Choose Time]
+[P1 Press {R1}+{SELECT} For More Play Choose Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{SELECT} For More Play Choose Time
 // P1 Press {R1}+{SELECT} For More Play Choose Time
@@ -264,23 +216,11 @@ description=P2 Press {L1}+{SELECT} For Low Play Choose Time
 // P2 Press {L1}+{SELECT} For Low Play Choose Time
 patch=1,EE,D04A20C2,extended,0000FBFE
 
-[P2 Press {L1}+{SELECT} For Low Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L1}+{SELECT} For Low Play Choose Time
-// P2 Press {L1}+{SELECT} For Low Play Choose Time
-patch=1,EE,204D0A44,extended,00000001
-
 [P2 Press {R1}+{SELECT} For More Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {R1}+{SELECT} For More Play Choose Time
 // P2 Press {R1}+{SELECT} For More Play Choose Time
 patch=1,EE,D04A20C2,extended,0000F7FE
-
-[P2 Press {R1}+{SELECT} For More Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R1}+{SELECT} For More Play Choose Time
-// P2 Press {R1}+{SELECT} For More Play Choose Time
-patch=1,EE,204D0A44,extended,00000019
 
 [P3 Press {L1}+{SELECT} For Low Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -288,23 +228,11 @@ description=P3 Press {L1}+{SELECT} For Low Play Choose Time
 // P3 Press {L1}+{SELECT} For Low Play Choose Time
 patch=1,EE,D04A21C2,extended,0000FBFE
 
-[P3 Press {L1}+{SELECT} For Low Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {L1}+{SELECT} For Low Play Choose Time
-// P3 Press {L1}+{SELECT} For Low Play Choose Time
-patch=1,EE,204D0A44,extended,00000001
-
 [P3 Press {R1}+{SELECT} For More Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P3 Press {R1}+{SELECT} For More Play Choose Time
 // P3 Press {R1}+{SELECT} For More Play Choose Time
 patch=1,EE,D04A21C2,extended,0000F7FE
-
-[P3 Press {R1}+{SELECT} For More Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {R1}+{SELECT} For More Play Choose Time
-// P3 Press {R1}+{SELECT} For More Play Choose Time
-patch=1,EE,204D0A44,extended,00000019
 
 [P4 Press {L1}+{SELECT} For Low Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -312,23 +240,11 @@ description=P4 Press {L1}+{SELECT} For Low Play Choose Time
 // P4 Press {L1}+{SELECT} For Low Play Choose Time
 patch=1,EE,D04A22C2,extended,0000FBFE
 
-[P4 Press {L1}+{SELECT} For Low Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {L1}+{SELECT} For Low Play Choose Time
-// P4 Press {L1}+{SELECT} For Low Play Choose Time
-patch=1,EE,204D0A44,extended,00000001
-
 [P4 Press {R1}+{SELECT} For More Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P4 Press {R1}+{SELECT} For More Play Choose Time
 // P4 Press {R1}+{SELECT} For More Play Choose Time
 patch=1,EE,D04A22C2,extended,0000F7FE
-
-[P4 Press {R1}+{SELECT} For More Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {R1}+{SELECT} For More Play Choose Time
-// P4 Press {R1}+{SELECT} For More Play Choose Time
-patch=1,EE,204D0A44,extended,00000019
 
 [P5 Press {L1}+{SELECT} For Low Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -336,23 +252,11 @@ description=P5 Press {L1}+{SELECT} For Low Play Choose Time
 // P5 Press {L1}+{SELECT} For Low Play Choose Time
 patch=1,EE,D04A23C2,extended,0000FBFE
 
-[P5 Press {L1}+{SELECT} For Low Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {L1}+{SELECT} For Low Play Choose Time
-// P5 Press {L1}+{SELECT} For Low Play Choose Time
-patch=1,EE,204D0A44,extended,00000001
-
 [P5 Press {R1}+{SELECT} For More Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P5 Press {R1}+{SELECT} For More Play Choose Time
 // P5 Press {R1}+{SELECT} For More Play Choose Time
 patch=1,EE,D04A23C2,extended,0000F7FE
-
-[P5 Press {R1}+{SELECT} For More Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {R1}+{SELECT} For More Play Choose Time
-// P5 Press {R1}+{SELECT} For More Play Choose Time
-patch=1,EE,204D0A44,extended,00000019
 
 [P6 Press {L1}+{SELECT} For Low Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -360,23 +264,11 @@ description=P6 Press {L1}+{SELECT} For Low Play Choose Time
 // P6 Press {L1}+{SELECT} For Low Play Choose Time
 patch=1,EE,D04A24C2,extended,0000FBFE
 
-[P6 Press {L1}+{SELECT} For Low Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {L1}+{SELECT} For Low Play Choose Time
-// P6 Press {L1}+{SELECT} For Low Play Choose Time
-patch=1,EE,204D0A44,extended,00000001
-
 [P6 Press {R1}+{SELECT} For More Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P6 Press {R1}+{SELECT} For More Play Choose Time
 // P6 Press {R1}+{SELECT} For More Play Choose Time
 patch=1,EE,D04A24C2,extended,0000F7FE
-
-[P6 Press {R1}+{SELECT} For More Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {R1}+{SELECT} For More Play Choose Time
-// P6 Press {R1}+{SELECT} For More Play Choose Time
-patch=1,EE,204D0A44,extended,00000019
 
 [P7 Press {L1}+{SELECT} For Low Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -384,23 +276,11 @@ description=P7 Press {L1}+{SELECT} For Low Play Choose Time
 // P7 Press {L1}+{SELECT} For Low Play Choose Time
 patch=1,EE,D04A25C2,extended,0000FBFE
 
-[P7 Press {L1}+{SELECT} For Low Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {L1}+{SELECT} For Low Play Choose Time
-// P7 Press {L1}+{SELECT} For Low Play Choose Time
-patch=1,EE,204D0A44,extended,00000001
-
 [P7 Press {R1}+{SELECT} For More Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P7 Press {R1}+{SELECT} For More Play Choose Time
 // P7 Press {R1}+{SELECT} For More Play Choose Time
 patch=1,EE,D04A25C2,extended,0000F7FE
-
-[P7 Press {R1}+{SELECT} For More Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {R1}+{SELECT} For More Play Choose Time
-// P7 Press {R1}+{SELECT} For More Play Choose Time
-patch=1,EE,204D0A44,extended,00000019
 
 [P8 Press {L1}+{SELECT} For Low Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -408,29 +288,11 @@ description=P8 Press {L1}+{SELECT} For Low Play Choose Time
 // P8 Press {L1}+{SELECT} For Low Play Choose Time
 patch=1,EE,D04A26C2,extended,0000FBFE
 
-[P8 Press {L1}+{SELECT} For Low Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {L1}+{SELECT} For Low Play Choose Time
-// P8 Press {L1}+{SELECT} For Low Play Choose Time
-patch=1,EE,204D0A44,extended,00000001
-
 [P8 Press {R1}+{SELECT} For More Play Choose Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P8 Press {R1}+{SELECT} For More Play Choose Time
 // P8 Press {R1}+{SELECT} For More Play Choose Time
 patch=1,EE,D04A26C2,extended,0000F7FE
-
-[P8 Press {R1}+{SELECT} For More Play Choose Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {R1}+{SELECT} For More Play Choose Time
-// P8 Press {R1}+{SELECT} For More Play Choose Time
-patch=1,EE,204D0A44,extended,00000019
-
-[Infinite Time To Choose Your Play]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Time To Choose Your Play
-// Infinite Time To Choose Your Play
-patch=1,EE,204D0A44,extended,00000019
 
 [Always 1st Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -450,17 +312,11 @@ description=Always Start On 2nd Down
 // Always Start On 2nd Down
 patch=1,EE,D04D0AE0,extended,00000001
 
-[Always Start On 2nd Down]
+[Always Start On 2nd Down (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Start On 2nd Down
 // Always Start On 2nd Down
 patch=1,EE,204D0AE0,extended,00000002
-
-[Always Start On 3rd Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Start On 3rd Down
-// Always Start On 3rd Down
-patch=1,EE,D04D0AE0,extended,00000001
 
 [Always Start On 3rd Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -474,23 +330,11 @@ description=P1 Press {L2}+{SELECT} For 1st Down
 // P1 Press {L2}+{SELECT} For 1st Down
 patch=1,EE,D04A1FC2,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} For 1st Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L2}+{SELECT} For 1st Down
-// P1 Press {L2}+{SELECT} For 1st Down
-patch=1,EE,204D0AE0,extended,00000001
-
 [P1 Press {R2}+{SELECT} For 4th Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+{SELECT} For 4th Down
 // P1 Press {R2}+{SELECT} For 4th Down
 patch=1,EE,D04A1FC2,extended,0000FDFE
-
-[P1 Press {R2}+{SELECT} For 4th Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {R2}+{SELECT} For 4th Down
-// P1 Press {R2}+{SELECT} For 4th Down
-patch=1,EE,204D0AE0,extended,00000004
 
 [P2 Press {L2}+{SELECT} For 1st Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -498,23 +342,11 @@ description=P2 Press {L2}+{SELECT} For 1st Down
 // P2 Press {L2}+{SELECT} For 1st Down
 patch=1,EE,D04A20C2,extended,0000FEFE
 
-[P2 Press {L2}+{SELECT} For 1st Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L2}+{SELECT} For 1st Down
-// P2 Press {L2}+{SELECT} For 1st Down
-patch=1,EE,204D0AE0,extended,00000001
-
 [P2 Press {R2}+{SELECT} For 4th Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {R2}+{SELECT} For 4th Down
 // P2 Press {R2}+{SELECT} For 4th Down
 patch=1,EE,D04A20C2,extended,0000FDFE
-
-[P2 Press {R2}+{SELECT} For 4th Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R2}+{SELECT} For 4th Down
-// P2 Press {R2}+{SELECT} For 4th Down
-patch=1,EE,204D0AE0,extended,00000004
 
 [P3 Press {L2}+{SELECT} For 1st Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -522,23 +354,11 @@ description=P3 Press {L2}+{SELECT} For 1st Down
 // P3 Press {L2}+{SELECT} For 1st Down
 patch=1,EE,D04A21C2,extended,0000FEFE
 
-[P3 Press {L2}+{SELECT} For 1st Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {L2}+{SELECT} For 1st Down
-// P3 Press {L2}+{SELECT} For 1st Down
-patch=1,EE,204D0AE0,extended,00000001
-
 [P3 Press {R2}+{SELECT} For 4th Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P3 Press {R2}+{SELECT} For 4th Down
 // P3 Press {R2}+{SELECT} For 4th Down
 patch=1,EE,D04A21C2,extended,0000FDFE
-
-[P3 Press {R2}+{SELECT} For 4th Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {R2}+{SELECT} For 4th Down
-// P3 Press {R2}+{SELECT} For 4th Down
-patch=1,EE,204D0AE0,extended,00000004
 
 [P4 Press {L2}+{SELECT} For 1st Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -546,23 +366,11 @@ description=P4 Press {L2}+{SELECT} For 1st Down
 // P4 Press {L2}+{SELECT} For 1st Down
 patch=1,EE,D04A22C2,extended,0000FEFE
 
-[P4 Press {L2}+{SELECT} For 1st Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {L2}+{SELECT} For 1st Down
-// P4 Press {L2}+{SELECT} For 1st Down
-patch=1,EE,204D0AE0,extended,00000001
-
 [P4 Press {R2}+{SELECT} For 4th Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P4 Press {R2}+{SELECT} For 4th Down
 // P4 Press {R2}+{SELECT} For 4th Down
 patch=1,EE,D04A22C2,extended,0000FDFE
-
-[P4 Press {R2}+{SELECT} For 4th Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {R2}+{SELECT} For 4th Down
-// P4 Press {R2}+{SELECT} For 4th Down
-patch=1,EE,204D0AE0,extended,00000004
 
 [P5 Press {L2}+{SELECT} For 1st Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -570,23 +378,11 @@ description=P5 Press {L2}+{SELECT} For 1st Down
 // P5 Press {L2}+{SELECT} For 1st Down
 patch=1,EE,D04A23C2,extended,0000FEFE
 
-[P5 Press {L2}+{SELECT} For 1st Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {L2}+{SELECT} For 1st Down
-// P5 Press {L2}+{SELECT} For 1st Down
-patch=1,EE,204D0AE0,extended,00000001
-
 [P5 Press {R2}+{SELECT} For 4th Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P5 Press {R2}+{SELECT} For 4th Down
 // P5 Press {R2}+{SELECT} For 4th Down
 patch=1,EE,D04A23C2,extended,0000FDFE
-
-[P5 Press {R2}+{SELECT} For 4th Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {R2}+{SELECT} For 4th Down
-// P5 Press {R2}+{SELECT} For 4th Down
-patch=1,EE,204D0AE0,extended,00000004
 
 [P6 Press {L2}+{SELECT} For 1st Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -594,23 +390,11 @@ description=P6 Press {L2}+{SELECT} For 1st Down
 // P6 Press {L2}+{SELECT} For 1st Down
 patch=1,EE,D04A24C2,extended,0000FEFE
 
-[P6 Press {L2}+{SELECT} For 1st Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {L2}+{SELECT} For 1st Down
-// P6 Press {L2}+{SELECT} For 1st Down
-patch=1,EE,204D0AE0,extended,00000001
-
 [P6 Press {R2}+{SELECT} For 4th Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P6 Press {R2}+{SELECT} For 4th Down
 // P6 Press {R2}+{SELECT} For 4th Down
 patch=1,EE,D04A24C2,extended,0000FDFE
-
-[P6 Press {R2}+{SELECT} For 4th Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {R2}+{SELECT} For 4th Down
-// P6 Press {R2}+{SELECT} For 4th Down
-patch=1,EE,204D0AE0,extended,00000004
 
 [P7 Press {L2}+{SELECT} For 1st Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -618,23 +402,11 @@ description=P7 Press {L2}+{SELECT} For 1st Down
 // P7 Press {L2}+{SELECT} For 1st Down
 patch=1,EE,D04A25C2,extended,0000FEFE
 
-[P7 Press {L2}+{SELECT} For 1st Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {L2}+{SELECT} For 1st Down
-// P7 Press {L2}+{SELECT} For 1st Down
-patch=1,EE,204D0AE0,extended,00000001
-
 [P7 Press {R2}+{SELECT} For 4th Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P7 Press {R2}+{SELECT} For 4th Down
 // P7 Press {R2}+{SELECT} For 4th Down
 patch=1,EE,D04A25C2,extended,0000FDFE
-
-[P7 Press {R2}+{SELECT} For 4th Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {R2}+{SELECT} For 4th Down
-// P7 Press {R2}+{SELECT} For 4th Down
-patch=1,EE,204D0AE0,extended,00000004
 
 [P8 Press {L2}+{SELECT} For 1st Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -642,23 +414,11 @@ description=P8 Press {L2}+{SELECT} For 1st Down
 // P8 Press {L2}+{SELECT} For 1st Down
 patch=1,EE,D04A26C2,extended,0000FEFE
 
-[P8 Press {L2}+{SELECT} For 1st Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {L2}+{SELECT} For 1st Down
-// P8 Press {L2}+{SELECT} For 1st Down
-patch=1,EE,204D0AE0,extended,00000001
-
 [P8 Press {R2}+{SELECT} For 4th Down]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P8 Press {R2}+{SELECT} For 4th Down
 // P8 Press {R2}+{SELECT} For 4th Down
 patch=1,EE,D04A26C2,extended,0000FDFE
-
-[P8 Press {R2}+{SELECT} For 4th Down]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {R2}+{SELECT} For 4th Down
-// P8 Press {R2}+{SELECT} For 4th Down
-patch=1,EE,204D0AE0,extended,00000004
 
 [Infinite Dev Points]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -671,3 +431,16 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Dev Points
 // Max Dev Points
 patch=1,EE,20406E0C,extended,05F5E0FF
+
+[Cheats\Home Team Score 9]
+patch=1,EE,104D0AEC,extended,00000009
+
+[Cheats\Away Team Score 9]
+patch=1,EE,104D0AEE,extended,00000009
+
+[Cheats\Away Team No Style Points]
+patch=1,EE,104F9C94,extended,00000000
+
+[Cheats\P1 Press R2+Select For 4th Down]
+patch=1,EE,D04A1FC2,extended,0000FDFE
+patch=1,EE,204D0AE0,extended,00000004

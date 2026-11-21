@@ -12,25 +12,25 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,8C820000
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,AC820008
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C022C,extended,46000546
 
-[Infinite Health]
+[Infinite Health (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -42,7 +42,7 @@ description=Infinite Armor
 // Infinite Armor
 patch=1,EE,20175538,extended,8C820000
 
-[Infinite Armor]
+[Infinite Armor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Armor
 // Infinite Armor
@@ -54,7 +54,7 @@ description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,201F7C9C,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
@@ -66,17 +66,11 @@ description=Max Infinite Ammo
 // Max Infinite Ammo
 patch=1,EE,101F7C92,extended,00001000
 
-[Max Infinite Ammo]
+[Max Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Ammo
 // Max Infinite Ammo
 patch=1,EE,201F7C94,extended,240203E7
-
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,101F7C92,extended,00001000
 
 [Extra Ammo]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -102,19 +96,19 @@ description=P1 Press {L1}+{SELECT} To Complete Mission
 // P1 Press {L1}+{SELECT} To Complete Mission
 patch=1,EE,D03FA502,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Complete Mission]
+[P1 Press {L1}+{SELECT} To Complete Mission (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Complete Mission
 // P1 Press {L1}+{SELECT} To Complete Mission
 patch=1,EE,20216D50,extended,0804CFEE
 
-[P1 Press {L1}+{SELECT} To Complete Mission]
+[P1 Press {L1}+{SELECT} To Complete Mission (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Complete Mission
 // P1 Press {L1}+{SELECT} To Complete Mission
 patch=1,EE,D03FA502,extended,0010FBFE
 
-[P1 Press {L1}+{SELECT} To Complete Mission]
+[P1 Press {L1}+{SELECT} To Complete Mission (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Complete Mission
 // P1 Press {L1}+{SELECT} To Complete Mission
@@ -126,7 +120,7 @@ description=Idiot AI Guard
 // Idiot AI Guard
 patch=1,EE,2011C638,extended,03E00008
 
-[Idiot AI Guard]
+[Idiot AI Guard (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI Guard
 // Idiot AI Guard
@@ -138,7 +132,7 @@ description=Idiot AI Sentry
 // Idiot AI Sentry
 patch=1,EE,2011C970,extended,03E00008
 
-[Idiot AI Sentry]
+[Idiot AI Sentry (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI Sentry
 // Idiot AI Sentry
@@ -150,7 +144,7 @@ description=Enemy Doesnt Investigate
 // Enemy Doesnt Investigate
 patch=1,EE,2011CD28,extended,03E00008
 
-[Enemy Doesnt Investigate]
+[Enemy Doesnt Investigate (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemy Doesnt Investigate
 // Enemy Doesnt Investigate
@@ -162,7 +156,7 @@ description=Enemy Doesnt Hide
 // Enemy Doesnt Hide
 patch=1,EE,2011D038,extended,03E00008
 
-[Enemy Doesnt Hide]
+[Enemy Doesnt Hide (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemy Doesnt Hide
 // Enemy Doesnt Hide
@@ -174,7 +168,7 @@ description=Guards Dont Randomly Fire
 // Guards Dont Randomly Fire
 patch=1,EE,2011D358,extended,03E00008
 
-[Guards Dont Randomly Fire]
+[Guards Dont Randomly Fire (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guards Dont Randomly Fire
 // Guards Dont Randomly Fire
@@ -186,7 +180,7 @@ description=Guards Dont Attack
 // Guards Dont Attack
 patch=1,EE,2011D468,extended,03E00008
 
-[Guards Dont Attack]
+[Guards Dont Attack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Guards Dont Attack
 // Guards Dont Attack
@@ -198,7 +192,7 @@ description=Sentries Dont Attack
 // Sentries Dont Attack
 patch=1,EE,2011D8D0,extended,03E00008
 
-[Sentries Dont Attack]
+[Sentries Dont Attack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sentries Dont Attack
 // Sentries Dont Attack
@@ -210,7 +204,7 @@ description=Enemy Doest Chase You
 // Enemy Doest Chase You
 patch=1,EE,2011DCC8,extended,03E00008
 
-[Enemy Doest Chase You]
+[Enemy Doest Chase You (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemy Doest Chase You
 // Enemy Doest Chase You
@@ -222,7 +216,7 @@ description=No Enemy Cover Attack
 // No Enemy Cover Attack
 patch=1,EE,2011E368,extended,03E00008
 
-[No Enemy Cover Attack]
+[No Enemy Cover Attack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Enemy Cover Attack
 // No Enemy Cover Attack
@@ -498,7 +492,7 @@ description=Head Shot
 // Head Shot
 patch=1,EE,7025187C,extended,00000001
 
-[Infinite Armor]
+[Infinite Armor (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Armor
 // Infinite Armor
@@ -510,14 +504,30 @@ description=1-Hit Kills
 // 1-Hit Kills
 patch=1,EE,702518BC,extended,00000001
 
-[1-Shot Kills]
+[1-Shot Kills (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Shot Kills
 // 1-Shot Kills
 patch=1,EE,702518DC,extended,00000001
 
-[Infinite Health]
+[Infinite Health (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,702518FC,extended,00000001
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00115FBC,word,8F827A38 //8F8285C8
+patch=1,EE,001FC9D0,word,3C013F80 //3C014080
+
+[Cheats\God Mode]
+patch=1,EE,D1279C08,extended,00000000
+patch=1,EE,20279C08,extended,00000001
+
+[Cheats\Infinite Ammo]
+patch=1,EE,2025185C,extended,00000001
+
+[Cheats\Have All Weapons]
+patch=1,EE,2025183C,extended,00000001

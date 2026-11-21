@@ -30,13 +30,13 @@ description=Unknown Cheat 1
 // Unknown Cheat 1
 patch=1,EE,201662D8,extended,24020001
 
-[Unknown Cheat 1]
+[Unknown Cheat 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown Cheat 1
 // Unknown Cheat 1
 patch=1,EE,20166460,extended,24020001
 
-[Unknown Cheat 1]
+[Unknown Cheat 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown Cheat 1
 // Unknown Cheat 1
@@ -48,19 +48,19 @@ description=Unknown Cheat 2
 // Unknown Cheat 2
 patch=1,EE,2016625C,extended,24020001
 
-[Unknown Cheat 2]
+[Unknown Cheat 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown Cheat 2
 // Unknown Cheat 2
 patch=1,EE,201C4D08,extended,24020001
 
-[Unknown Cheat 2]
+[Unknown Cheat 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown Cheat 2
 // Unknown Cheat 2
 patch=1,EE,201C9A88,extended,24020001
 
-[Unknown Cheat 2]
+[Unknown Cheat 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown Cheat 2
 // Unknown Cheat 2
@@ -72,7 +72,7 @@ description=Authentic Mode
 // Authentic Mode
 patch=1,EE,20165E8C,extended,24020001
 
-[Authentic Mode]
+[Authentic Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Authentic Mode
 // Authentic Mode
@@ -84,7 +84,7 @@ description=Transparent Characters
 // Transparent Characters
 patch=1,EE,201092A8,extended,24020001
 
-[Transparent Characters]
+[Transparent Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Transparent Characters
 // Transparent Characters
@@ -96,7 +96,7 @@ description=Unknown Cheat 3
 // Unknown Cheat 3
 patch=1,EE,20216434,extended,24020001
 
-[Unknown Cheat 3]
+[Unknown Cheat 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown Cheat 3
 // Unknown Cheat 3
@@ -108,7 +108,7 @@ description=Unknown Cheat 4
 // Unknown Cheat 4
 patch=1,EE,2019E350,extended,24020001
 
-[Unknown Cheat 4]
+[Unknown Cheat 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown Cheat 4
 // Unknown Cheat 4
@@ -120,13 +120,13 @@ description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2011E440,extended,24020001
 
-[Infinite Ammo]
+[Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2011F614,extended,24020001
 
-[Infinite Ammo]
+[Infinite Ammo (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
@@ -144,8 +144,16 @@ description=Big Head Mode
 // Big Head Mode
 patch=1,EE,20106238,extended,24020001
 
-[Big Head Mode]
+[Big Head Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Big Head Mode
 // Big Head Mode
 patch=1,EE,2010B154,extended,24020001
+
+[Cheats\Infinite Ammo]
+patch=1,EE,2011E440,extended,24020001
+patch=1,EE,2011F614,extended,24020001
+patch=1,EE,2013B248,extended,24020001
+
+[Cheats\Unlock All Bonus Material]
+patch=1,EE,108BFD6C,extended,0000FFFF

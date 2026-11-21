@@ -12,7 +12,7 @@ description=P1 Press {L1}+{SELECT} To Enable Infinite Health
 // P1 Press {L1}+{SELECT} To Enable Infinite Health
 patch=1,EE,D04DF642,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Enable Infinite Health]
+[P1 Press {L1}+{SELECT} To Enable Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Enable Infinite Health
 // P1 Press {L1}+{SELECT} To Enable Infinite Health
@@ -24,7 +24,7 @@ description=P1 Press {L2}+{SELECT} To Disable Infinite Health
 // P1 Press {L2}+{SELECT} To Disable Infinite Health
 patch=1,EE,D04DF642,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} To Disable Infinite Health]
+[P1 Press {L2}+{SELECT} To Disable Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To Disable Infinite Health
 // P1 Press {L2}+{SELECT} To Disable Infinite Health
@@ -36,7 +36,7 @@ description=Unlock All Extras
 // Unlock All Extras
 patch=1,EE,409B79C0,extended,00860003
 
-[Unlock All Extras]
+[Unlock All Extras (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Extras
 // Unlock All Extras
@@ -96,7 +96,7 @@ description=R.C. Rally-Track 2
 // R.C. Rally-Track 2
 patch=1,EE,209B77D8,extended,00000001
 
-[Range Driver-Course 1]
+[Range Driver-Course 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Range Driver-Course 1
 // Range Driver-Course 1
@@ -558,7 +558,7 @@ description=Verne In The Yard
 // Verne In The Yard
 patch=1,EE,209B7A98,extended,00000001
 
-[Verne]
+[Verne (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Verne
 // Verne
@@ -618,7 +618,7 @@ description=Tiki Hot Tub
 // Tiki Hot Tub
 patch=1,EE,209B7CCC,extended,00000001
 
-[Verne]
+[Verne (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Verne
 // Verne
@@ -708,7 +708,7 @@ description=Cave Exterior
 // Cave Exterior
 patch=1,EE,209B7F00,extended,00000001
 
-[Hammy]
+[Hammy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hammy
 // Hammy
@@ -738,7 +738,7 @@ description=Windup Lizard
 // Windup Lizard
 patch=1,EE,209B7F9C,extended,00000001
 
-[The Woods]
+[The Woods (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=The Woods
 // The Woods
@@ -780,7 +780,7 @@ description=Mountain Climbing
 // Mountain Climbing
 patch=1,EE,209B7D38,extended,00000001
 
-[Rescue Heather!]
+[Rescue Heather! (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rescue Heather!
 // Rescue Heather!
@@ -887,3 +887,31 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Original Comic 5
 // Original Comic 5
 patch=1,EE,209B7F54,extended,00000001
+
+[Cheats\Max Score Points]
+patch=1,EE,20985B00,extended,3B9AC9FF
+
+[Cheats\Infinite Max Health]
+patch=1,EE,109C8FD0,extended,0000270F
+patch=1,EE,109C8FD8,extended,0000270F
+
+[Cheats\Infinite HP]
+patch=1,EE,209C7344,extended,AC830000
+
+[Cheats\Infinite Gun ASM Player 2]
+patch=1,EE,209C7738,extended,E43F8FEC
+
+[Cheats\Gain 1000 DNA Each Pickup]
+patch=1,EE,209C821C,extended,2402270F
+
+[Cheats\P1 Press L1+Select To Enable Infinite Health]
+patch=1,EE,D04DF642,extended,0000FBFE
+patch=1,EE,202B276C,extended,C4EC0004
+
+[Cheats\P1 Press L2+Select To Disable Infinite Health]
+patch=1,EE,D04DF642,extended,0000FEFE
+patch=1,EE,202B276C,extended,46000307
+
+[Cheats\Unlock All Extras]
+patch=1,EE,409B79C0,extended,00860003
+patch=1,EE,00000001,extended,00000000

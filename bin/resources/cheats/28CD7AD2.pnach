@@ -1,0 +1,9 @@
+gametitle=藍より青し [初回限定版] [SLPS-25224] [28CD7AD2]
+
+[Cheats\Unlock All Bonus]
+patch=1,EE,20A40DE0,extended,FFFFFFFF
+patch=1,EE,21CC0750,extended,FFFFFFFF
+patch=1,EE,21CC0754,extended,FFFFFFFF
+patch=1,EE,21CC0758,extended,FFFFFFFF
+patch=1,EE,21CC075C,extended,FFFFFFFF
+patch=1,EE,21CC0760,extended,FFFFFFFF

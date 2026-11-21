@@ -60,53 +60,41 @@ description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,200C0220,extended,805003C4
 
-[Start On Lap 2]
+[Start On Lap 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,200C0224,extended,52000001
 
-[Start On Lap 2]
+[Start On Lap 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,200C0228,extended,24100001
 
-[Start On Lap 2]
+[Start On Lap 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,200C022C,extended,A05003C4
 
-[Start On Lap 2]
+[Start On Lap 2 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,200C0230,extended,03E00008
 
-[Start On Lap 2]
+[Start On Lap 2 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,200C0234,extended,0090202A
 
-[Start On Lap 2]
+[Start On Lap 2 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,20134530,extended,0C030088
-
-[Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 3
-// Start On Lap 3
-patch=1,EE,200C0220,extended,805003C4
-
-[Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 3
-// Start On Lap 3
-patch=1,EE,200C0224,extended,52000001
 
 [Start On Lap 3]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -114,83 +102,47 @@ description=Start On Lap 3
 // Start On Lap 3
 patch=1,EE,200C0228,extended,24100002
 
-[Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 3
-// Start On Lap 3
-patch=1,EE,200C022C,extended,A05003C4
-
-[Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 3
-// Start On Lap 3
-patch=1,EE,200C0230,extended,03E00008
-
-[Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 3
-// Start On Lap 3
-patch=1,EE,200C0234,extended,0090202A
-
-[Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 3
-// Start On Lap 3
-patch=1,EE,20134530,extended,0C030088
-
-[Start On Last Lap]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Last Lap
-// Start On Last Lap
-patch=1,EE,200C0220,extended,805003C4
-
 [Start On Last Lap]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Last Lap
 // Start On Last Lap
 patch=1,EE,200C0224,extended,16000004
 
-[Start On Last Lap]
+[Start On Last Lap (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Last Lap
 // Start On Last Lap
 patch=1,EE,200C0228,extended,3C010031
 
-[Start On Last Lap]
+[Start On Last Lap (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Last Lap
 // Start On Last Lap
 patch=1,EE,200C022C,extended,8030B959
 
-[Start On Last Lap]
+[Start On Last Lap (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Last Lap
 // Start On Last Lap
 patch=1,EE,200C0230,extended,2610FFFF
 
-[Start On Last Lap]
+[Start On Last Lap (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Last Lap
 // Start On Last Lap
 patch=1,EE,200C0234,extended,A05003C4
 
-[Start On Last Lap]
+[Start On Last Lap (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Last Lap
 // Start On Last Lap
 patch=1,EE,200C0238,extended,03E00008
 
-[Start On Last Lap]
+[Start On Last Lap (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Last Lap
 // Start On Last Lap
 patch=1,EE,200C023C,extended,0090202A
-
-[Start On Last Lap]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Last Lap
-// Start On Last Lap
-patch=1,EE,20134530,extended,0C030088
 
 [Access Everything]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -216,7 +168,7 @@ description=Respect Completed-All Tracks
 // Respect Completed-All Tracks
 patch=1,EE,4034E560,extended,00360001
 
-[Respect Completed-All Tracks]
+[Respect Completed-All Tracks (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Respect Completed-All Tracks
 // Respect Completed-All Tracks
@@ -510,7 +462,7 @@ description=Do 8 Donuts
 // Do 8 Donuts
 patch=1,EE,2034E59C,extended,00000001
 
-[Do 20 Dings]
+[Do 20 Dings (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do 20 Dings
 // Do 20 Dings
@@ -522,7 +474,7 @@ description=Do Surfing Powerdown For 200 Feet
 // Do Surfing Powerdown For 200 Feet
 patch=1,EE,2034E5A4,extended,00000001
 
-[8 PowerBands]
+[8 PowerBands (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=8 PowerBands
 // 8 PowerBands
@@ -540,7 +492,7 @@ description=Endo For 350 Feet
 // Endo For 350 Feet
 patch=1,EE,2034E5EC,extended,00000001
 
-[Knock Down 6 Players]
+[Knock Down 6 Players (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knock Down 6 Players
 // Knock Down 6 Players
@@ -564,7 +516,7 @@ description=Do 12 Donuts
 // Do 12 Donuts
 patch=1,EE,2034E584,extended,00000001
 
-[Jump For 250 Feet]
+[Jump For 250 Feet (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Jump For 250 Feet
 // Jump For 250 Feet
@@ -576,7 +528,7 @@ description=Do Handstand For 500 Feet
 // Do Handstand For 500 Feet
 patch=1,EE,2034E58C,extended,00000001
 
-[8 PowerBands]
+[8 PowerBands (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=8 PowerBands
 // 8 PowerBands
@@ -594,13 +546,13 @@ description=Wheelie For 1200 Feet
 // Wheelie For 1200 Feet
 patch=1,EE,2034E598,extended,00000001
 
-[Knock Down 6 Players]
+[Knock Down 6 Players (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knock Down 6 Players
 // Knock Down 6 Players
 patch=1,EE,2034E614,extended,00000001
 
-[Do 170 MPH Past Speed Camera]
+[Do 170 MPH Past Speed Camera (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do 170 MPH Past Speed Camera
 // Do 170 MPH Past Speed Camera
@@ -618,7 +570,7 @@ description=Do Not Crash For 1 Lap
 // Do Not Crash For 1 Lap
 patch=1,EE,2034E5A8,extended,00000001
 
-[Do 15 Dings]
+[Do 15 Dings (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do 15 Dings
 // Do 15 Dings
@@ -648,7 +600,7 @@ description=Wheeling For 1600 Feet
 // Wheeling For 1600 Feet
 patch=1,EE,2034E5E0,extended,00000001
 
-[Knock Down 6 Players]
+[Knock Down 6 Players (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knock Down 6 Players
 // Knock Down 6 Players
@@ -678,7 +630,7 @@ description=Do 10 Dings
 // Do 10 Dings
 patch=1,EE,2034E5C4,extended,00000001
 
-[Do Standing Wheelie For 1500 Feet]
+[Do Standing Wheelie For 1500 Feet (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do Standing Wheelie For 1500 Feet
 // Do Standing Wheelie For 1500 Feet
@@ -690,7 +642,7 @@ description=12 PowerBands
 // 12 PowerBands
 patch=1,EE,2034E5B4,extended,00000001
 
-[Do Not Crash For 1 Lap]
+[Do Not Crash For 1 Lap (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do Not Crash For 1 Lap
 // Do Not Crash For 1 Lap
@@ -702,7 +654,7 @@ description=Do Handstand Powerdown For 500 Feet
 // Do Handstand Powerdown For 500 Feet
 patch=1,EE,2034E5BC,extended,00000001
 
-[Knock Down 6 Players]
+[Knock Down 6 Players (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knock Down 6 Players
 // Knock Down 6 Players
@@ -720,13 +672,13 @@ description=Do Handstand For 600 Feet
 // Do Handstand For 600 Feet
 patch=1,EE,2034E634,extended,00000001
 
-[Do Not Crash For 1 Lap]
+[Do Not Crash For 1 Lap (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do Not Crash For 1 Lap
 // Do Not Crash For 1 Lap
 patch=1,EE,2034E5CC,extended,00000001
 
-[Do 15 Dings]
+[Do 15 Dings (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do 15 Dings
 // Do 15 Dings
@@ -756,13 +708,13 @@ description=Do 1 Back Flip
 // Do 1 Back Flip
 patch=1,EE,2034E580,extended,00000001
 
-[Knock Down 6 Players]
+[Knock Down 6 Players (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knock Down 6 Players
 // Knock Down 6 Players
 patch=1,EE,2034E5F0,extended,00000001
 
-[Do Not Crash During Race]
+[Do Not Crash During Race (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do Not Crash During Race
 // Do Not Crash During Race
@@ -773,3 +725,18 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Do 1 Front Flip
 // Do 1 Front Flip
 patch=1,EE,2034E5F8,extended,00000001
+
+[Cheats\Start On Last Lap]
+patch=1,EE,200C0220,extended,805003C4
+patch=1,EE,200C0224,extended,16000004
+patch=1,EE,200C0228,extended,3C010031
+patch=1,EE,200C022C,extended,8030B959
+patch=1,EE,200C0230,extended,2610FFFF
+patch=1,EE,200C0234,extended,A05003C4
+patch=1,EE,200C0238,extended,03E00008
+patch=1,EE,200C023C,extended,0090202A
+patch=1,EE,20134530,extended,0C030088
+
+[Cheats\Unlock Respect Completed All Tracks]
+patch=1,EE,4034E560,extended,00360001
+patch=1,EE,00000001,extended,00000000

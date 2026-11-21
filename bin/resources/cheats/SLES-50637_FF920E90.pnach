@@ -1,0 +1,4 @@
+gametitle=Pro Rally 2002 [SLES-50637] [FF920E90]
+
+[Cheats\Unlock All Cars Slot 1]
+patch=1,EE,207B3878,extended,00000001

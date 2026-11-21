@@ -24,7 +24,7 @@ description=Infinite Shot Clock
 // Infinite Shot Clock
 patch=1,EE,202E2058,extended,03E00008
 
-[Infinite Shot Clock]
+[Infinite Shot Clock (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Shot Clock
 // Infinite Shot Clock
@@ -54,7 +54,7 @@ description=WNBA Ball
 // WNBA Ball
 patch=1,EE,21AE3640,extended,00000001
 
-[WNBA Ball]
+[WNBA Ball (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=WNBA Ball
 // WNBA Ball
@@ -78,25 +78,25 @@ description=Beach Ball
 // Beach Ball
 patch=1,EE,21AE3640,extended,00000002
 
-[Beach Ball]
+[Beach Ball (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Beach Ball
 // Beach Ball
 patch=1,EE,21AE3644,extended,00000002
 
-[Beach Ball]
+[Beach Ball (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Beach Ball
 // Beach Ball
 patch=1,EE,21AE3648,extended,00000001
 
-[Beach Ball]
+[Beach Ball (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Beach Ball
 // Beach Ball
 patch=1,EE,21AE364C,extended,00000001
 
-[Beach Ball]
+[Beach Ball (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Beach Ball
 // Beach Ball
@@ -106,37 +106,19 @@ patch=1,EE,21AE3650,extended,00000005
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Medicine Ball
 // Medicine Ball
-patch=1,EE,21AE3640,extended,00000002
-
-[Medicine Ball]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Medicine Ball
-// Medicine Ball
 patch=1,EE,21AE3644,extended,00000001
 
-[Medicine Ball]
+[Medicine Ball (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Medicine Ball
 // Medicine Ball
 patch=1,EE,21AE3648,extended,00000002
 
-[Medicine Ball]
+[Medicine Ball (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Medicine Ball
 // Medicine Ball
 patch=1,EE,21AE3650,extended,00000006
-
-[Volley Ball]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Volley Ball
-// Volley Ball
-patch=1,EE,21AE3640,extended,00000001
-
-[Volley Ball]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Volley Ball
-// Volley Ball
-patch=1,EE,21AE3648,extended,00000001
 
 [Volley Ball]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -190,12 +172,6 @@ patch=1,EE,21AE3668,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Athletic Joe 'The Show'
 // Athletic Joe 'The Show'
-patch=1,EE,21AE366C,extended,00000002
-
-[Springtime Joe 'The Show']
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Springtime Joe 'The Show'
-// Springtime Joe 'The Show'
 patch=1,EE,21AE366C,extended,00000002
 
 [Summer Joe 'The Show']
@@ -330,7 +306,7 @@ description=No Juice
 // No Juice
 patch=1,EE,21AE36A8,extended,00000001
 
-[Infinite Turbo]
+[Infinite Turbo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Turbo
 // Infinite Turbo

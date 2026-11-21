@@ -24,7 +24,7 @@ description=Idiot AI
 // Idiot AI
 patch=1,EE,20102D90,extended,03E00008
 
-[Idiot AI]
+[Idiot AI (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
@@ -42,17 +42,11 @@ description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,202B4568,extended,432C0000
 
-[Infinite Health P1]
+[Infinite Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,202B456C,extended,432C0000
-
-[No Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P1
-// No Health P1
-patch=1,EE,202B4568,extended,432C0000
 
 [No Health P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -66,17 +60,11 @@ description=Max Special Meter P1
 // Max Special Meter P1
 patch=1,EE,202B4580,extended,42C80000
 
-[Max Special Meter P1]
+[Max Special Meter P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Special Meter P1
 // Max Special Meter P1
 patch=1,EE,202B4590,extended,43000000
-
-[No Special Meter P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Special Meter P1
-// No Special Meter P1
-patch=1,EE,202B4580,extended,42C80000
 
 [No Special Meter P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -114,17 +102,11 @@ description=Infinite Health P2
 // Infinite Health P2
 patch=1,EE,202C56F8,extended,432C0000
 
-[Infinite Health P2]
+[Infinite Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P2
 // Infinite Health P2
 patch=1,EE,202C56FC,extended,432C0000
-
-[No Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P2
-// No Health P2
-patch=1,EE,202C56F8,extended,432C0000
 
 [No Health P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -138,17 +120,11 @@ description=Max Special Meter P2
 // Max Special Meter P2
 patch=1,EE,202C5710,extended,42C80000
 
-[Max Special Meter P2]
+[Max Special Meter P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Special Meter P2
 // Max Special Meter P2
 patch=1,EE,202C5720,extended,43000000
-
-[No Special Meter P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Special Meter P2
-// No Special Meter P2
-patch=1,EE,202C5710,extended,42C80000
 
 [No Special Meter P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -186,17 +162,11 @@ description=Infinite Health P3
 // Infinite Health P3
 patch=1,EE,202D6888,extended,432C0000
 
-[Infinite Health P3]
+[Infinite Health P3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P3
 // Infinite Health P3
 patch=1,EE,202D688C,extended,432C0000
-
-[No Health P3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P3
-// No Health P3
-patch=1,EE,202D6888,extended,432C0000
 
 [No Health P3]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -210,17 +180,11 @@ description=Max Special Meter P3
 // Max Special Meter P3
 patch=1,EE,202D68A0,extended,42C80000
 
-[Max Special Meter P3]
+[Max Special Meter P3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Special Meter P3
 // Max Special Meter P3
 patch=1,EE,202D68B0,extended,43000000
-
-[No Special Meter P3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Special Meter P3
-// No Special Meter P3
-patch=1,EE,202D68A0,extended,42C80000
 
 [No Special Meter P3]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -258,17 +222,11 @@ description=Infinite Health P4
 // Infinite Health P4
 patch=1,EE,202E7A18,extended,432C0000
 
-[Infinite Health P4]
+[Infinite Health P4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P4
 // Infinite Health P4
 patch=1,EE,202E7A1C,extended,432C0000
-
-[No Health P4]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P4
-// No Health P4
-patch=1,EE,202E7A18,extended,432C0000
 
 [No Health P4]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -282,17 +240,11 @@ description=Max Special Meter P4
 // Max Special Meter P4
 patch=1,EE,202E7A30,extended,42C80000
 
-[Max Special Meter P4]
+[Max Special Meter P4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Special Meter P4
 // Max Special Meter P4
 patch=1,EE,202E7A40,extended,43000000
-
-[No Special Meter P4]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Special Meter P4
-// No Special Meter P4
-patch=1,EE,202E7A30,extended,42C80000
 
 [No Special Meter P4]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -330,7 +282,7 @@ description=Unlock All Costumes
 // Unlock All Costumes
 patch=1,EE,402A1EB4,extended,0028000B
 
-[Unlock All Costumes]
+[Unlock All Costumes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Costumes
 // Unlock All Costumes
@@ -342,20 +294,48 @@ description=Unlock All Levels
 // Unlock All Levels
 patch=1,EE,402A2594,extended,0004000B
 
-[Unlock All Levels]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Levels
-// Unlock All Levels
-patch=1,EE,00000001,extended,00000000
-
 [Unlock All Minigames]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Minigames
 // Unlock All Minigames
 patch=1,EE,402A2644,extended,0003000B
 
-[Unlock All Minigames]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Minigames
-// Unlock All Minigames
+[Cheats\Infinite Health Player 1]
+patch=1,EE,202B4568,extended,432C0000
+patch=1,EE,202B456C,extended,432C0000
+
+[Cheats\Infinite Health Player 2]
+patch=1,EE,202C56F8,extended,432C0000
+patch=1,EE,202C56FC,extended,432C0000
+
+[Cheats\No Health Player 2]
+patch=1,EE,202C56F8,extended,432C0000
+patch=1,EE,202C56FC,extended,00000000
+
+[Cheats\Infinite Health Player 3]
+patch=1,EE,202D6888,extended,432C0000
+patch=1,EE,202D688C,extended,432C0000
+
+[Cheats\No Health Player 3]
+patch=1,EE,202D6888,extended,432C0000
+patch=1,EE,202D688C,extended,00000000
+
+[Cheats\Infinite Health Player 4]
+patch=1,EE,202E7A18,extended,432C0000
+patch=1,EE,202E7A1C,extended,432C0000
+
+[Cheats\No Health Player 4]
+patch=1,EE,202E7A18,extended,432C0000
+patch=1,EE,202E7A1C,extended,00000000
+
+[Cheats\Unlock All Costumes]
+patch=1,EE,402A1EB4,extended,0028000B
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock All Levels]
+patch=1,EE,402A2594,extended,0004000B
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock All Minigames]
+patch=1,EE,402A2644,extended,0003000B
 patch=1,EE,00000001,extended,00000000

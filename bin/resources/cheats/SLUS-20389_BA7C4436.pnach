@@ -12,7 +12,7 @@ description=Infinite Health (Training Levels)
 // Infinite Health (Training Levels)
 patch=1,EE,D0D5BE80,extended,00200003
 
-[Infinite Health (Training Levels)]
+[Infinite Health (Training Levels) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Training Levels)
 // Infinite Health (Training Levels)
@@ -24,7 +24,7 @@ description=Unlock All Country Challenges
 // Unlock All Country Challenges
 patch=1,EE,402A5BE8,extended,00050001
 
-[Unlock All Country Challenges]
+[Unlock All Country Challenges (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Country Challenges
 // Unlock All Country Challenges
@@ -36,23 +36,11 @@ description=Have All Arcade Mode Options
 // Have All Arcade Mode Options
 patch=1,EE,402A5BFC,extended,00060001
 
-[Have All Arcade Mode Options]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Arcade Mode Options
-// Have All Arcade Mode Options
-patch=1,EE,00000001,extended,00000000
-
 [Unlock All Mighty Joe Jupiter Episodes]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Mighty Joe Jupiter Episodes
 // Unlock All Mighty Joe Jupiter Episodes
 patch=1,EE,402A5C14,extended,00030001
-
-[Unlock All Mighty Joe Jupiter Episodes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Mighty Joe Jupiter Episodes
-// Unlock All Mighty Joe Jupiter Episodes
-patch=1,EE,00000001,extended,00000000
 
 [Unlock Music Jukebox]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -66,7 +54,7 @@ description=Unlock All Mighty Joe Jupiter Cadet Training Missions
 // Unlock All Mighty Joe Jupiter Cadet Training Missions
 patch=1,EE,402A677C,extended,000A0001
 
-[Unlock All Mighty Joe Jupiter Cadet Training Missions]
+[Unlock All Mighty Joe Jupiter Cadet Training Missions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Mighty Joe Jupiter Cadet Training Missions
 // Unlock All Mighty Joe Jupiter Cadet Training Missions
@@ -131,3 +119,55 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Who's The Boss?
 // Who's The Boss?
 patch=1,EE,111F5D80,extended,00000006
+
+[Cheats\Infinite Health Mighty Joe Jupiter Cadet Training Levels]
+patch=1,EE,D0D5BE80,extended,00200003
+patch=1,EE,10D5BE80,extended,00000003
+
+[Cheats\Unlock All Challenges]
+patch=1,EE,402A5BE8,extended,00050001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock Arcade Mode All Options]
+patch=1,EE,402A5BFC,extended,00060001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock Mighty Joe Jupiter Cadet Training All Missions]
+patch=1,EE,402A677C,extended,000A0001
+patch=1,EE,00000003,extended,00000000
+
+[Cheats\Unlock Everything]
+patch=1,EE,102A5BEC,extended,00000001
+patch=1,EE,102A5BF0,extended,00000001
+patch=1,EE,102A5BE8,extended,00000001
+patch=1,EE,102A5BF4,extended,00000001
+patch=1,EE,102A5BF8,extended,00000001
+patch=1,EE,102A5C14,extended,00000001
+patch=1,EE,102A5C18,extended,00000001
+patch=1,EE,102A5C1C,extended,00000001
+patch=1,EE,102A677C,extended,00000003
+patch=1,EE,102A6780,extended,00000003
+patch=1,EE,102A6784,extended,00000003
+patch=1,EE,102A6788,extended,00000003
+patch=1,EE,102A678C,extended,00000003
+patch=1,EE,102A6790,extended,00000003
+patch=1,EE,102A6794,extended,00000003
+patch=1,EE,102A6798,extended,00000003
+patch=1,EE,102A679C,extended,00000003
+patch=1,EE,102A67A0,extended,00000003
+patch=1,EE,112C77A0,extended,00000006
+patch=1,EE,111E7410,extended,00000006
+patch=1,EE,111C7EC0,extended,00000006
+patch=1,EE,112712D0,extended,00000006
+patch=1,EE,1121C280,extended,00000006
+patch=1,EE,112243C0,extended,00000006
+patch=1,EE,1124CAB0,extended,00000006
+patch=1,EE,11209170,extended,00000006
+patch=1,EE,112D3460,extended,00000006
+patch=1,EE,111F5D80,extended,00000006
+patch=1,EE,102A5BFC,extended,00000001
+patch=1,EE,202A5C00,extended,00000001
+patch=1,EE,202A5C40,extended,00000001
+patch=1,EE,202A5C80,extended,00000001
+patch=1,EE,202A5CC0,extended,00000001
+patch=1,EE,202A5C10,extended,00000001

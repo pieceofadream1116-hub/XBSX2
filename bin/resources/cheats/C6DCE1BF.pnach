@@ -1,0 +1,4 @@
+gametitle=魂響 ～御霊送りの詩～ [初回限定版] [SLPM-66432] [C6DCE1BF]
+
+[Cheats\New Game = Debug Menu Normal Star, Individual Route Check, Animation Check, File Check, Battle Check, Movie Playback]
+patch=1,EE,204280F0,extended,000005B1

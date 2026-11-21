@@ -1,0 +1,7 @@
+gametitle= PS2 BIOS (USA 2.20)
+
+[Codes without a name (all switch on together; may not all work) [MattDoesAThing]]
+patch=1,EE,0028AB4C,word,3F400000 // 3F800000
+patch=1,EE,002C8EB0,word,3F400000 // 3F800000
+patch=1,EE,0029C590,word,44400000 // 44800000
+patch=1,EE,00375940,word,3F400000 // 3F800000

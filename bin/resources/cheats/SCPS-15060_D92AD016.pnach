@@ -1,0 +1,7 @@
+gametitle=幸福操作官 [SCPS-15060] [D92AD016]
+
+[Cheats\Energy Capsule 3]
+patch=1,EE,0144E050,extended,00000003
+
+[Cheats\Unlock All Operators Tank]
+patch=1,EE,0144E048,extended,00000032

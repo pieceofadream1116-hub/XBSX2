@@ -1,0 +1,4 @@
+gametitle=SuperLite 2000 パズル クロスワード [SLPM-62448] [6B743D58]
+
+[Cheats\Unlock All Extras Needs A Save]
+patch=1,EE,21A963FC,extended,000000FF

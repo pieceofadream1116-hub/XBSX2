@@ -1,0 +1,4 @@
+gametitle=ミステリート ～八十神かおるの事件ファイル～ [SLPM-66416] [24AE0015]
+
+[Cheats\Charge point 80]
+patch=1,EE,2021D418,extended,00000050

@@ -126,19 +126,13 @@ description=P1 Press {L1}+{SELECT} For More Time
 // P1 Press {L1}+{SELECT} For More Time
 patch=1,EE,D1EAE1C2,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{SELECT} For More Time
-// P1 Press {L1}+{SELECT} For More Time
-patch=1,EE,219A6674,extended,0000752F
-
 [P1 Press {L2}+{SELECT} For No Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} For No Time
 // P1 Press {L2}+{SELECT} For No Time
 patch=1,EE,D1EAE1C2,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} For No Time]
+[P1 Press {L2}+{SELECT} For No Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} For No Time
 // P1 Press {L2}+{SELECT} For No Time
@@ -156,25 +150,19 @@ description=Max Score P2
 // Max Score P2
 patch=1,EE,219A66EC,extended,05F5E0FF
 
-[Infinite Life P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Life P2
-// Infinite Life P2
-patch=1,EE,219A669C,extended,00000009
-
-[Handgun]
+[Handgun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Handgun
 // Handgun
 patch=1,EE,219A6834,extended,00000009
 
-[Machine Gun]
+[Machine Gun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Machine Gun
 // Machine Gun
 patch=1,EE,219A6838,extended,000003E7
 
-[Shotgun]
+[Shotgun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shotgun
 // Shotgun
@@ -198,19 +186,13 @@ description=P2 Press {L1}+{SELECT} For More Time
 // P2 Press {L1}+{SELECT} For More Time
 patch=1,EE,D1EAE5C2,extended,0000FBFE
 
-[P2 Press {L1}+{SELECT} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L1}+{SELECT} For More Time
-// P2 Press {L1}+{SELECT} For More Time
-patch=1,EE,219A66C8,extended,0000752F
-
 [P2 Press {L2}+{SELECT} For No Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {L2}+{SELECT} For No Time
 // P2 Press {L2}+{SELECT} For No Time
 patch=1,EE,D1EAE5C2,extended,0000FEFE
 
-[P2 Press {L2}+{SELECT} For No Time]
+[P2 Press {L2}+{SELECT} For No Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {L2}+{SELECT} For No Time
 // P2 Press {L2}+{SELECT} For No Time

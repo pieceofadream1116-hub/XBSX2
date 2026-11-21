@@ -1,0 +1,7 @@
+gametitle=栄冠は君に 2002 ～甲子園の鼓動 [DigiCube Best Selection] [SLPS-20274] [B643BEA8]
+
+[Cheats\999 Experience Points]
+patch=1,EE,1049C90C,extended,000003E7
+
+[Cheats\Unlock All Owned Desk Materials]
+patch=1,EE,2049ED0C,extended,FFFFFFFF

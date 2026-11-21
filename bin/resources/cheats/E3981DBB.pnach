@@ -1,0 +1,92 @@
+gametitle=イリスのアトリエ エターナルマナ [SLPM-65594] [E3981DBB]
+
+[Cheats\Max Money]
+patch=1,EE,2016282C,extended,34020064
+
+[Cheats\In Battle Health and Mana And Mana 9999 All Allies]
+patch=1,EE,201C35E4,extended,3405270F
+patch=1,EE,201C35EC,extended,70052EE9
+patch=1,EE,201C35F8,extended,AE25002C
+patch=1,EE,201C35FC,extended,AE250030
+
+[Cheats\Randomize monsters SELECT+L2 = Random mode  SELECT+R2 = Normal operation]
+patch=1,EE,200F4900,extended,0C0B72D2
+patch=1,EE,200F4904,extended,0080A02D
+patch=1,EE,200F4908,extended,34190077
+patch=1,EE,200F490C,extended,0059001A
+patch=1,EE,200F491C,extended,00002810
+patch=1,EE,200F4948,extended,08070DC4
+patch=1,EE,D0DE5A02,extended,0000FEFE
+patch=1,EE,201C370C,extended,0803D240
+patch=1,EE,D0DE5A02,extended,0000FDFE
+patch=1,EE,201C370C,extended,0080A02D
+
+[Cheats\Always Critical]
+patch=1,EE,20207878,extended,92640020
+patch=1,EE,2020787C,extended,0064800A
+
+[Cheats\Enemy Status Weakening & One Shot Death]
+patch=1,EE,201C379C,extended,7E800030
+
+[Cheats\Encounter Control Move While Pressing L2 or R2 you will encounter with a high probability]
+patch=1,EE,201CF768,extended,3C0200E2
+patch=1,EE,201CF76C,extended,90428811
+patch=1,EE,201CF770,extended,30440003
+
+[Cheats\Mana Heal Not Required]
+patch=1,EE,201862A8,extended,3403270F
+
+[Cheats\Change Number Of Items Held To 8]
+patch=1,EE,201632D4,extended,34030008
+
+[Cheats\Change Number Of Mana Items Held To 8]
+patch=1,EE,2016301C,extended,34030008
+
+[Cheats\Max Gift Mana Friendship]
+patch=1,EE,2017F330,extended,34040064
+
+[Cheats\Max Gift Mana Stamina]
+patch=1,EE,2017F2CC,extended,34040064
+
+[Cheats\Consume Skill Points To Maintain 500]
+patch=1,EE,2023996C,extended,340201F4
+
+[Cheats\Max Call After Battle]
+patch=1,EE,201D056C,extended,3C030011
+
+[Cheats\Max Cash]
+patch=1,EE,20F7F508,extended,000F423F
+
+[Cheats\In Battle  Infinite Health]
+patch=1,EE,201C3C10,extended,240203E7
+patch=1,EE,201C3C20,extended,240203E7
+
+[Cheats\In Battle Infinite Mana]
+patch=1,EE,201C3C18,extended,240203E7
+patch=1,EE,201C3C28,extended,240203E7
+
+[Cheats\Klein Kiesling Infinite Health]
+patch=1,EE,10F7F52A,extended,000003E7
+patch=1,EE,10F7F52C,extended,000003E7
+
+[Cheats\Klein Kiesling Infinite Mana]
+patch=1,EE,10F7F52E,extended,000003E7
+patch=1,EE,10F7F530,extended,000003E7
+
+[Cheats\Klein Kiesling Infinite Skill Points]
+patch=1,EE,10F7F584,extended,000003E7
+
+[Cheats\1 Hit Kills Enemies]
+patch=1,EE,201C3DC0,extended,24020000
+
+[Cheats\Unlock All Bonus]
+patch=1,EE,10F7F504,extended,00000300
+patch=1,EE,40F7F470,extended,001E0001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Enable Level Select Press Triangle in game to enter Once inside this menu, press R2+X to enter a map of your choice. Using this menu will also enable some extra debug options such as being able to view the coordinates of the player, and SFX locations. Press START to bring this info up. Markers in blue represent a map SFX location]
+patch=1,EE,201ABCF4,extended,0C0922D8
+patch=1,EE,D0E2E9E0,extended,00004200
+patch=1,EE,20248C0C,extended,00000000
+patch=1,EE,D0E2E9E0,extended,00000000
+patch=1,EE,20248C0C,extended,54620005

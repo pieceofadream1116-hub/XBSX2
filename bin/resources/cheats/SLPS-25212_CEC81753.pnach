@@ -1,0 +1,8 @@
+gametitle=機動戦士ガンダム ギレンの野望 ジオン独立戦争記 攻略指令書 [SLPS-25212] [CEC81753]
+
+[Cheats\Max Points]
+patch=1,EE,21FF838C,extended,0098967F
+
+[Cheats\Unlock All Gundam Puzzle Stages]
+patch=1,EE,402F1C30,extended,00070001
+patch=1,EE,00000000,extended,00000000

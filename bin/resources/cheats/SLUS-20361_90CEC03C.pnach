@@ -42,50 +42,61 @@ description=Press {L1}+{SELECT} To End Race
 // Press {L1}+{SELECT} To End Race
 patch=1,EE,200C0220,extended,9421E082
 
-[Press {L1}+{SELECT} To End Race]
+[Press {L1}+{SELECT} To End Race (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} To End Race
 // Press {L1}+{SELECT} To End Race
 patch=1,EE,200C0224,extended,3402FBFE
 
-[Press {L1}+{SELECT} To End Race]
+[Press {L1}+{SELECT} To End Race (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} To End Race
 // Press {L1}+{SELECT} To End Race
 patch=1,EE,200C0228,extended,14220002
 
-[Press {L1}+{SELECT} To End Race]
+[Press {L1}+{SELECT} To End Race (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} To End Race
 // Press {L1}+{SELECT} To End Race
 patch=1,EE,200C022C,extended,24020001
 
-[Press {L1}+{SELECT} To End Race]
+[Press {L1}+{SELECT} To End Race (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} To End Race
 // Press {L1}+{SELECT} To End Race
 patch=1,EE,200C0230,extended,AC820060
 
-[Press {L1}+{SELECT} To End Race]
+[Press {L1}+{SELECT} To End Race (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} To End Race
 // Press {L1}+{SELECT} To End Race
 patch=1,EE,200C0234,extended,03E00008
 
-[Press {L1}+{SELECT} To End Race]
+[Press {L1}+{SELECT} To End Race (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} To End Race
 // Press {L1}+{SELECT} To End Race
 patch=1,EE,200C0238,extended,8C820060
 
-[Press {L1}+{SELECT} To End Race]
+[Press {L1}+{SELECT} To End Race (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} To End Race
 // Press {L1}+{SELECT} To End Race
 patch=1,EE,201C8958,extended,08030088
 
-[Press {L1}+{SELECT} To End Race]
+[Press {L1}+{SELECT} To End Race (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{SELECT} To End Race
 // Press {L1}+{SELECT} To End Race
+patch=1,EE,201C895C,extended,3C010072
+
+[Cheats\Press L1+select To End Race]
+patch=1,EE,200C0220,extended,9421E082
+patch=1,EE,200C0224,extended,3402FBFE
+patch=1,EE,200C0228,extended,14220002
+patch=1,EE,200C022C,extended,24020001
+patch=1,EE,200C0230,extended,AC820060
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,8C820060
+patch=1,EE,201C8958,extended,08030088
 patch=1,EE,201C895C,extended,3C010072

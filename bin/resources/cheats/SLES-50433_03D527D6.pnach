@@ -1,0 +1,4 @@
+gametitle=GoDai - Elemental Force [SLES-50433] [03D527D6]
+
+[Cheats\Infinite Lives]
+patch=1,EE,114F211C,extended,00000063

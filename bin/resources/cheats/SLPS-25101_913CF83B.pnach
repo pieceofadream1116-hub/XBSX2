@@ -1,0 +1,4 @@
+gametitle=日米間プロ野球 FINAL LEAGUE [SLPS-25101] [913CF83B]
+
+[Cheats\Team Make Major Baseball Team Selectable]
+patch=1,EE,01D4654C,extended,00000002

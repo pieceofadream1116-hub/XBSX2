@@ -1,0 +1,4 @@
+gametitle=スペースフィッシャーメン [SCPS-11025] [0C414549]
+
+[Cheats\Have 9999999 points Save and disconnect the code after it]
+patch=1,EE,20439054,extended,0098967F

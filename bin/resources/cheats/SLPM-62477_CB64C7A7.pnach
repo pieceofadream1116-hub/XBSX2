@@ -1,0 +1,7 @@
+gametitle=SIMPLE2000シリーズ Vol.47 THE 合戦 関が原 [SLPM-62477] [CB64C7A7]
+
+[Cheats\Infinite HP]
+patch=1,EE,1020665C,extended,0000270F
+
+[Cheats\Infinite Attack]
+patch=1,EE,10209B0C,extended,0000270F

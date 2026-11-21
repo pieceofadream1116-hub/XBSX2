@@ -24,7 +24,7 @@ description=Quick Level Up (Story Mode)
 // Quick Level Up (Story Mode)
 patch=1,EE,201CFF00,extended,24020001
 
-[Quick Level Up (Story Mode)]
+[Quick Level Up (Story Mode) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Level Up (Story Mode)
 // Quick Level Up (Story Mode)
@@ -65,3 +65,7 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 20
 // Level 20
 patch=1,EE,20237EAC,extended,24020014
+
+[Cheats\Quick Level Up Story Mode]
+patch=1,EE,201CFF00,extended,24020001
+patch=1,EE,201CFF04,extended,44820000

@@ -1,0 +1,8 @@
+gametitle=今日からマ王！はじマりの旅 [通常版] [SLPS-25663] [6C36EE3C]
+
+[Cheats\Max Gauge Battle in Uesama]
+patch=1,EE,20239158,extended,00000100
+
+[Cheats\Unlock All Gallery]
+patch=1,EE,40238DF0,extended,00120001
+patch=1,EE,FFFFFFFF,extended,00000000

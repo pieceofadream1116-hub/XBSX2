@@ -1,0 +1,4 @@
+gametitle=ハイパーストリートファイターⅡ アニバーサリーエディション [カプコレ] [SLPM-66636] [160B69CA]
+
+[Cheats\P1 Infinite Health]
+patch=1,EE,11B00366,extended,00000090

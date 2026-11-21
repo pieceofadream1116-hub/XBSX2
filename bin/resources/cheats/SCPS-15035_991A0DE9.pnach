@@ -1,0 +1,4 @@
+gametitle=THE 京浜急行 ～Train Simulator Real [SCPS-15035] [991A0DE9]
+
+[Cheats\Driving Time 1000 Points]
+patch=1,EE,20C8AF54,extended,000003E8

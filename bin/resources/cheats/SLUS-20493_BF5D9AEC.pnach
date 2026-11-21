@@ -30,7 +30,7 @@ description=Quick Demolition Shot Gain
 // Quick Demolition Shot Gain
 patch=1,EE,D0211092,extended,00000000
 
-[Quick Demolition Shot Gain]
+[Quick Demolition Shot Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Demolition Shot Gain
 // Quick Demolition Shot Gain
@@ -131,3 +131,12 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage Select
 // Stage Select
 patch=1,EE,00224E74,extended,00000001
+
+[Cheats\Quick Demolition Shot Gain]
+patch=1,EE,D0211092,extended,00000000
+patch=1,EE,20211090,extended,40FF0000
+
+[Cheats\Enable Debug Menu Press Start to confirm a selected option. D-Pad Up - Down moves through the menu.]
+patch=1,EE,0011F160,extended,00000007
+patch=1,EE,20193DBC,extended,08064F81
+patch=1,EE,20193DC0,extended,00000000

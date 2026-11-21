@@ -1,0 +1,33 @@
+gametitle=The Sopranos - Road to Respect NTSC-U SLUS-21388 7C006C52
+
+[Cheats\Infinite Health]
+patch=1,EE,200A0000,extended,3C0101BF
+patch=1,EE,200A0004,extended,8C21C4E0
+patch=1,EE,200A0008,extended,10200007
+patch=1,EE,200A0010,extended,8C210020
+patch=1,EE,200A0014,extended,10200004
+patch=1,EE,200A001C,extended,240201F4
+patch=1,EE,200A0020,extended,A422000E
+patch=1,EE,200A002C,extended,03E00008
+patch=1,EE,203be4ec,extended,08028000
+
+[Cheats\1 Hit Kill]
+patch=1,EE,202E55C4,extended,A600000E
+
+[Cheats\Infinite Money]
+patch=1,EE,204AA140,extended,05F5E0FF
+
+[Cheats\Never Reload]
+patch=1,EE,202E67FC,extended,00000000
+
+[Cheats\Max Respect]
+patch=1,EE,204AA144,extended,00000064
+
+[Cheats\Unlock All Concept Art]
+patch=1,EE,204AA7A0,extended,FFFFFFFF
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE overclock (180%-300%).
+patch=0,EE,001DA8B0,word,24430002
+patch=0,EE,001fa700,word,3C013C88

@@ -1,0 +1,28 @@
+gametitle=Lemony Snicket's A Series of Unfortunate Events NTSC-U SLUS-21078 4835F048
+
+[Cheats\Infinite Health]
+patch=1,EE,2040872C,extended,000042C8
+
+[Cheats\Infinite Misery Meter]
+patch=1,EE,2040872C,extended,42C80000
+
+[Cheats\Have All Black Puzzle Pieces]
+patch=1,EE,20408610,extended,0000004B
+
+[Cheats\Have All Yellow Puzzle Pieces]
+patch=1,EE,20408614,extended,00000019
+
+[Cheats\Have All Green Puzzle Pieces]
+patch=1,EE,20408618,extended,0000004B
+
+[Cheats\Have All Blue Puzzle Pieces]
+patch=1,EE,2040861C,extended,00000019
+
+[Cheats\Have All Red Puzzle Pieces]
+patch=1,EE,20408620,extended,00000019
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE overclock (300%).
+patch=0,EE,003F8FEC,word,42EFC28F
+patch=0,EE,003F8FF0,word,3C08AB86

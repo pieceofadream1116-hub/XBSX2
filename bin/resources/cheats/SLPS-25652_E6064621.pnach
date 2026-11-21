@@ -1,0 +1,7 @@
+gametitle=.hack//G.U. Vol.1 再誕 [Terminal Disc - The End of the World] [SLPS-25652] [E6064621]
+
+[Cheats\Unlock All FileS Open]
+patch=1,EE,201B7910,extended,01010101
+patch=1,EE,201B7914,extended,01010101
+patch=1,EE,201B7918,extended,01010101
+patch=1,EE,201B791C,extended,01010101

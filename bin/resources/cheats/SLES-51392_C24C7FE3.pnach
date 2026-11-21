@@ -30,19 +30,19 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,20160800,extended,3C014422
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,20160804,extended,AC81005C
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,20160808,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -54,13 +54,13 @@ description=Unlock All Quick Missions
 // Unlock All Quick Missions
 patch=1,EE,41CABFD8,extended,00030001
 
-[Unlock All Quick Missions]
+[Unlock All Quick Missions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Quick Missions
 // Unlock All Quick Missions
 patch=1,EE,01010101,extended,00000000
 
-[Unlock All Quick Missions]
+[Unlock All Quick Missions (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Quick Missions
 // Unlock All Quick Missions
@@ -72,7 +72,7 @@ description=Tina Basich
 // Tina Basich
 patch=1,EE,203C54FC,extended,14141414
 
-[Tina Basich]
+[Tina Basich (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tina Basich
 // Tina Basich
@@ -84,7 +84,7 @@ description=Kelly Clark
 // Kelly Clark
 patch=1,EE,003C5567,extended,00000014
 
-[Kelly Clark]
+[Kelly Clark (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kelly Clark
 // Kelly Clark
@@ -96,13 +96,13 @@ description=Kevin Jones
 // Kevin Jones
 patch=1,EE,103C55D2,extended,00001414
 
-[Kevin Jones]
+[Kevin Jones (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kevin Jones
 // Kevin Jones
 patch=1,EE,103C55D4,extended,00001414
 
-[Kevin Jones]
+[Kevin Jones (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kevin Jones
 // Kevin Jones
@@ -114,13 +114,13 @@ description=Danny Kass
 // Danny Kass
 patch=1,EE,003C563D,extended,00000014
 
-[Danny Kass]
+[Danny Kass (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Danny Kass
 // Danny Kass
 patch=1,EE,103C563E,extended,00001414
 
-[Danny Kass]
+[Danny Kass (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Danny Kass
 // Danny Kass
@@ -132,7 +132,7 @@ description=Bjorn Leines
 // Bjorn Leines
 patch=1,EE,203C56A8,extended,14141414
 
-[Bjorn Leines]
+[Bjorn Leines (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bjorn Leines
 // Bjorn Leines
@@ -144,7 +144,7 @@ description=Peter Line
 // Peter Line
 patch=1,EE,003C5713,extended,00000014
 
-[Peter Line]
+[Peter Line (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Peter Line
 // Peter Line
@@ -156,13 +156,13 @@ description=Travis Rice
 // Travis Rice
 patch=1,EE,103C577E,extended,00001414
 
-[Travis Rice]
+[Travis Rice (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Travis Rice
 // Travis Rice
 patch=1,EE,103C5780,extended,00001414
 
-[Travis Rice]
+[Travis Rice (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Travis Rice
 // Travis Rice
@@ -174,13 +174,13 @@ description=Todd Richards
 // Todd Richards
 patch=1,EE,003C57E9,extended,00000014
 
-[Todd Richards]
+[Todd Richards (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Todd Richards
 // Todd Richards
 patch=1,EE,103C57EA,extended,00001414
 
-[Todd Richards]
+[Todd Richards (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Todd Richards
 // Todd Richards
@@ -192,7 +192,7 @@ description=Rio Tahara
 // Rio Tahara
 patch=1,EE,203C5854,extended,14141414
 
-[Rio Tahara]
+[Rio Tahara (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rio Tahara
 // Rio Tahara
@@ -204,7 +204,7 @@ description=JP Walker
 // JP Walker
 patch=1,EE,003C58BF,extended,00000014
 
-[JP Walker]
+[JP Walker (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=JP Walker
 // JP Walker
@@ -216,7 +216,7 @@ description=Hawk
 // Hawk
 patch=1,EE,21C991C0,extended,14141414
 
-[Hawk]
+[Hawk (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hawk
 // Hawk
@@ -228,13 +228,13 @@ description=Unlock All Videos
 // Unlock All Videos
 patch=1,EE,41C999A8,extended,000B0001
 
-[Unlock All Videos]
+[Unlock All Videos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Videos
 // Unlock All Videos
 patch=1,EE,00010001,extended,00000000
 
-[Unlock All Videos]
+[Unlock All Videos (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Videos
 // Unlock All Videos
@@ -258,7 +258,7 @@ description=Unlock All Riders
 // Unlock All Riders
 patch=1,EE,41C991D0,extended,00050001
 
-[Unlock All Riders]
+[Unlock All Riders (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Riders
 // Unlock All Riders
@@ -270,7 +270,7 @@ description=Unlock All Areas
 // Unlock All Areas
 patch=1,EE,21C996E4,extended,01010101
 
-[Unlock All Areas]
+[Unlock All Areas (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Areas
 // Unlock All Areas
@@ -761,9 +761,3 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gears
 // Unlock All Gears
 patch=1,EE,41C996EC,extended,009A0001
-
-[Unlock All Gears]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Gears
-// Unlock All Gears
-patch=1,EE,01010101,extended,00000000

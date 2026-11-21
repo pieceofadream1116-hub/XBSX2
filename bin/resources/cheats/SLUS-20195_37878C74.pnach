@@ -12,19 +12,19 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,2401270F
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,0805DE8E
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,AE4100CC
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -36,19 +36,19 @@ description=Max Health
 // Max Health
 patch=1,EE,200C0230,extended,2401270F
 
-[Max Health]
+[Max Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,200C0234,extended,0805DEDC
 
-[Max Health]
+[Max Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,200C0238,extended,AE4105EC
 
-[Max Health]
+[Max Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
@@ -60,19 +60,19 @@ description=Infinite Mana
 // Infinite Mana
 patch=1,EE,200C0240,extended,2401270F
 
-[Infinite Mana]
+[Infinite Mana (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Mana
 // Infinite Mana
 patch=1,EE,200C0244,extended,0805E9CA
 
-[Infinite Mana]
+[Infinite Mana (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Mana
 // Infinite Mana
 patch=1,EE,200C0248,extended,AE410618
 
-[Infinite Mana]
+[Infinite Mana (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Mana
 // Infinite Mana
@@ -84,19 +84,19 @@ description=Max Mana
 // Max Mana
 patch=1,EE,200C0250,extended,2401270F
 
-[Max Mana]
+[Max Mana (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Mana
 // Max Mana
 patch=1,EE,200C0254,extended,0805E4BC
 
-[Max Mana]
+[Max Mana (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Mana
 // Max Mana
 patch=1,EE,200C0258,extended,AE4105F0
 
-[Max Mana]
+[Max Mana (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Mana
 // Max Mana
@@ -173,3 +173,39 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,00489EC6,extended,0000000F
+
+[Cheats\Infinite Health]
+patch=1,EE,200C0220,extended,2401270F
+patch=1,EE,200C0224,extended,0805DE8E
+patch=1,EE,200C0228,extended,AE4100CC
+patch=1,EE,20179CE0,extended,0C030088
+
+[Cheats\Max Health]
+patch=1,EE,200C0230,extended,2401270F
+patch=1,EE,200C0234,extended,0805DEDC
+patch=1,EE,200C0238,extended,AE4105EC
+patch=1,EE,20179CEC,extended,0C03008C
+
+[Cheats\Infinite Mana]
+patch=1,EE,200C0240,extended,2401270F
+patch=1,EE,200C0244,extended,0805E9CA
+patch=1,EE,200C0248,extended,AE410618
+patch=1,EE,20179CF8,extended,0C030090
+
+[Cheats\Max Mana]
+patch=1,EE,200C0250,extended,2401270F
+patch=1,EE,200C0254,extended,0805E4BC
+patch=1,EE,200C0258,extended,AE4105F0
+patch=1,EE,20179D04,extended,0C030094
+
+[Cheats\Infinite Health alt]
+patch=1,EE,40BACCAC,extended,A98CF94F
+patch=1,EE,00000000,extended,00000000
+
+[Cheats\Infinite Mana alt]
+patch=1,EE,11466880,extended,00003C88
+patch=1,EE,40E01F23,extended,03737002
+patch=1,EE,6C3BD6B5,extended,F1B6C6ED
+
+[Cheats\Infinite Lives]
+patch=1,EE,0022E2E4,extended,00000063

@@ -12,13 +12,13 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,203D4AEC,extended,43480000
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,203D4AF0,extended,43480000
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -48,13 +48,13 @@ description=Have All Items
 // Have All Items
 patch=1,EE,21D31BF4,extended,FFFFFFFC
 
-[Have All Items]
+[Have All Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,21D31BF8,extended,FFFFFFFF
 
-[Have All Items]
+[Have All Items (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
@@ -84,43 +84,43 @@ description=Have Maps For Current Level
 // Have Maps For Current Level
 patch=1,EE,202D1888,extended,24010001
 
-[Have Maps For Current Level]
+[Have Maps For Current Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Maps For Current Level
 // Have Maps For Current Level
 patch=1,EE,202D1890,extended,00410804
 
-[Have Maps For Current Level]
+[Have Maps For Current Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Maps For Current Level
 // Have Maps For Current Level
 patch=1,EE,202D1894,extended,00611825
 
-[Have Maps For Current Level]
+[Have Maps For Current Level (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Maps For Current Level
 // Have Maps For Current Level
 patch=1,EE,202D1898,extended,AE030000
 
-[Have Maps For Current Level]
+[Have Maps For Current Level (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Maps For Current Level
 // Have Maps For Current Level
 patch=1,EE,202D189C,extended,24020001
 
-[Have Maps For Current Level]
+[Have Maps For Current Level (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Maps For Current Level
 // Have Maps For Current Level
 patch=1,EE,202D18A0,extended,7BB00000
 
-[Have Maps For Current Level]
+[Have Maps For Current Level (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Maps For Current Level
 // Have Maps For Current Level
 patch=1,EE,202D18A4,extended,03E00008
 
-[Have Maps For Current Level]
+[Have Maps For Current Level (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Maps For Current Level
 // Have Maps For Current Level
@@ -335,3 +335,24 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low The God Kill Time
 // Always Low The God Kill Time
 patch=1,EE,21D8800C,extended,00000000
+
+[60 FPS]
+author=asasega
+comment=Might need EE Overclock.
+patch=1,EE,2013058C,extended,00000000
+
+[Cheats\Invincible except blow death]
+patch=1,EE,2018B954,extended,4A0002FF
+patch=1,EE,2018B95C,extended,E600019C
+
+[Cheats\Max Health]
+patch=1,EE,003D4AF0,extended,42480000
+
+[Cheats\Infinite Bullets]
+patch=1,EE,2016D8D8,extended,24420000
+
+[Cheats\All Items & Weapons]
+patch=1,EE,21D31BF0,extended,FFFFFFFF
+patch=1,EE,21D31BF4,extended,FFFFFFFF
+patch=1,EE,21D31BF8,extended,FFFFFFFF
+patch=1,EE,21D31BFC,extended,0000FFFF

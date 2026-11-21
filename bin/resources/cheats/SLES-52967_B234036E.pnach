@@ -1,0 +1,4 @@
+gametitle=Guilty Gear X2 Reloaded [SLES-52967] [B234036E]
+
+[Cheats\Infinite Health P1]
+patch=1,EE,11EA9016,extended,000001A4

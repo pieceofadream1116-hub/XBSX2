@@ -12,13 +12,13 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,080A4819
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,E4540014
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -30,19 +30,19 @@ description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,200C0230,extended,C440000C
 
-[Infinite Ammo]
+[Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,200C0234,extended,080A47E2
 
-[Infinite Ammo]
+[Infinite Ammo (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,200C0238,extended,E4400014
 
-[Infinite Ammo]
+[Infinite Ammo (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
@@ -78,25 +78,25 @@ description=Unlock Everything
 // Unlock Everything
 patch=1,EE,200C0240,extended,AC410000
 
-[Unlock Everything]
+[Unlock Everything (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Everything
 // Unlock Everything
 patch=1,EE,200C0244,extended,0808CCAF
 
-[Unlock Everything]
+[Unlock Everything (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Everything
 // Unlock Everything
 patch=1,EE,200C024C,extended,8C420000
 
-[Unlock Everything]
+[Unlock Everything (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Everything
 // Unlock Everything
 patch=1,EE,202332B0,extended,08030090
 
-[Unlock Everything]
+[Unlock Everything (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Everything
 // Unlock Everything
@@ -264,8 +264,38 @@ description=All Levels
 // All Levels
 patch=1,EE,408A875C,extended,001E0004
 
-[All Levels]
+[All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Levels
 // All Levels
 patch=1,EE,00000001,extended,00000000
+
+[Cheats\Infinite Health Boys]
+patch=1,EE,200FFF00,extended,3C0142C8
+patch=1,EE,200FFF04,extended,AC410014
+patch=1,EE,200FFF08,extended,AC410018
+patch=1,EE,200FFF0C,extended,AC41000C
+patch=1,EE,200FFF10,extended,AC410010
+patch=1,EE,200FFF14,extended,03E00008
+patch=1,EE,2029213C,extended,0C03FFC0
+
+[Cheats\Infinite Health Robot]
+patch=1,EE,200FFF00,extended,3C0142C8
+patch=1,EE,200FFF04,extended,AC410014
+patch=1,EE,200FFF08,extended,AC410018
+patch=1,EE,200FFF0C,extended,AC41000C
+patch=1,EE,200FFF10,extended,AC410010
+patch=1,EE,200FFF14,extended,03E00008
+patch=1,EE,20292210,extended,0C03FFC0
+
+[Cheats\Infinite Ammo]
+patch=1,EE,202920C4,extended,3C01427C
+patch=1,EE,202920C8,extended,AC410018
+patch=1,EE,202920CC,extended,24150063
+
+[Cheats\Unlock All Extras]
+patch=1,EE,20233344,extended,24020001
+patch=1,EE,20233348,extended,24020001
+
+[Cheats\Unlock Debug Level Select]
+patch=1,EE,20462130,extended,00000001

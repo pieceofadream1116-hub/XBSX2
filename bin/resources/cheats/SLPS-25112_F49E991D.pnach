@@ -150,7 +150,7 @@ description=Start On Last Mission
 // Start On Last Mission
 patch=1,EE,E05BE040,extended,0020001A
 
-[Start On Last Mission]
+[Start On Last Mission (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Last Mission
 // Start On Last Mission
@@ -162,7 +162,7 @@ description=Credits Dont Decrease For Consorts
 // Credits Dont Decrease For Consorts
 patch=1,EE,20214D30,extended,24020000
 
-[Credits Dont Decrease For Consorts]
+[Credits Dont Decrease For Consorts (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Credits Dont Decrease For Consorts
 // Credits Dont Decrease For Consorts
@@ -174,25 +174,25 @@ description=Have All Heads
 // Have All Heads
 patch=1,EE,405B2024,extended,00020001
 
-[Have All Heads]
+[Have All Heads (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Heads
 // Have All Heads
 patch=1,EE,01010101,extended,00000000
 
-[Have All Heads]
+[Have All Heads (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Heads
 // Have All Heads
 patch=1,EE,005B2021,extended,00000001
 
-[Have All Heads]
+[Have All Heads (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Heads
 // Have All Heads
 patch=1,EE,105B2022,extended,00000101
 
-[Have All Heads]
+[Have All Heads (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Heads
 // Have All Heads
@@ -204,19 +204,19 @@ description=Have All Cores
 // Have All Cores
 patch=1,EE,005B2061,extended,00000001
 
-[Have All Cores]
+[Have All Cores (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Cores
 // Have All Cores
 patch=1,EE,105B2062,extended,00000101
 
-[Have All Cores]
+[Have All Cores (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Cores
 // Have All Cores
 patch=1,EE,105B2064,extended,00000101
 
-[Have All Cores]
+[Have All Cores (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Cores
 // Have All Cores
@@ -228,31 +228,25 @@ description=Have All Arms
 // Have All Arms
 patch=1,EE,405B20A4,extended,00040001
 
-[Have All Arms]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Arms
-// Have All Arms
-patch=1,EE,01010101,extended,00000000
-
-[Have All Arms]
+[Have All Arms (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arms
 // Have All Arms
 patch=1,EE,005B20A1,extended,00000001
 
-[Have All Arms]
+[Have All Arms (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arms
 // Have All Arms
 patch=1,EE,105B20A2,extended,00000101
 
-[Have All Arms]
+[Have All Arms (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arms
 // Have All Arms
 patch=1,EE,105B20B4,extended,00000101
 
-[Have All Arms]
+[Have All Arms (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arms
 // Have All Arms
@@ -264,31 +258,25 @@ description=Have All Legs
 // Have All Legs
 patch=1,EE,405B20E4,extended,00070001
 
-[Have All Legs]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Legs
-// Have All Legs
-patch=1,EE,01010101,extended,00000000
-
-[Have All Legs]
+[Have All Legs (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Legs
 // Have All Legs
 patch=1,EE,005B20E1,extended,00000001
 
-[Have All Legs]
+[Have All Legs (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Legs
 // Have All Legs
 patch=1,EE,105B20E2,extended,00000101
 
-[Have All Legs]
+[Have All Legs (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Legs
 // Have All Legs
 patch=1,EE,105B2100,extended,00000101
 
-[Have All Legs]
+[Have All Legs (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Legs
 // Have All Legs
@@ -300,13 +288,13 @@ description=Have All Boosters
 // Have All Boosters
 patch=1,EE,005B2121,extended,00000001
 
-[Have All Boosters]
+[Have All Boosters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Boosters
 // Have All Boosters
 patch=1,EE,105B2122,extended,00000001
 
-[Have All Boosters]
+[Have All Boosters (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Boosters
 // Have All Boosters
@@ -318,25 +306,25 @@ description=Have All FCS
 // Have All FCS
 patch=1,EE,005B2161,extended,00000001
 
-[Have All FCS]
+[Have All FCS (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All FCS
 // Have All FCS
 patch=1,EE,105B2162,extended,00000101
 
-[Have All FCS]
+[Have All FCS (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All FCS
 // Have All FCS
 patch=1,EE,205B2164,extended,01010101
 
-[Have All FCS]
+[Have All FCS (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All FCS
 // Have All FCS
 patch=1,EE,105B2168,extended,00000101
 
-[Have All FCS]
+[Have All FCS (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All FCS
 // Have All FCS
@@ -348,13 +336,13 @@ description=Have All Generators
 // Have All Generators
 patch=1,EE,005B21A1,extended,00000001
 
-[Have All Generators]
+[Have All Generators (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Generators
 // Have All Generators
 patch=1,EE,105B21A2,extended,00000101
 
-[Have All Generators]
+[Have All Generators (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Generators
 // Have All Generators
@@ -366,13 +354,13 @@ description=Have All Radiators
 // Have All Radiators
 patch=1,EE,005B21E1,extended,00000001
 
-[Have All Radiators]
+[Have All Radiators (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Radiators
 // Have All Radiators
 patch=1,EE,105B21E2,extended,00000101
 
-[Have All Radiators]
+[Have All Radiators (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Radiators
 // Have All Radiators
@@ -384,31 +372,25 @@ description=Have All Inside Parts
 // Have All Inside Parts
 patch=1,EE,405B2224,extended,00020001
 
-[Have All Inside Parts]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Inside Parts
-// Have All Inside Parts
-patch=1,EE,01010101,extended,00000000
-
-[Have All Inside Parts]
+[Have All Inside Parts (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Inside Parts
 // Have All Inside Parts
 patch=1,EE,005B2221,extended,00000001
 
-[Have All Inside Parts]
+[Have All Inside Parts (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Inside Parts
 // Have All Inside Parts
 patch=1,EE,105B2222,extended,00000101
 
-[Have All Inside Parts]
+[Have All Inside Parts (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Inside Parts
 // Have All Inside Parts
 patch=1,EE,105B222C,extended,00000101
 
-[Have All Inside Parts]
+[Have All Inside Parts (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Inside Parts
 // Have All Inside Parts
@@ -420,25 +402,19 @@ description=Have All Extensions
 // Have All Extensions
 patch=1,EE,405B2264,extended,00030001
 
-[Have All Extensions]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Extensions
-// Have All Extensions
-patch=1,EE,01010101,extended,00000000
-
-[Have All Extensions]
+[Have All Extensions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Extensions
 // Have All Extensions
 patch=1,EE,005B2261,extended,00000001
 
-[Have All Extensions]
+[Have All Extensions (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Extensions
 // Have All Extensions
 patch=1,EE,105B2262,extended,00000101
 
-[Have All Extensions]
+[Have All Extensions (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Extensions
 // Have All Extensions
@@ -450,25 +426,25 @@ description=Have All Back Units
 // Have All Back Units
 patch=1,EE,405B22A4,extended,00090001
 
-[Have All Back Units]
+[Have All Back Units (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Back Units
 // Have All Back Units
 patch=1,EE,02020202,extended,00000000
 
-[Have All Back Units]
+[Have All Back Units (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Back Units
 // Have All Back Units
 patch=1,EE,005B22A1,extended,00000002
 
-[Have All Back Units]
+[Have All Back Units (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Back Units
 // Have All Back Units
 patch=1,EE,105B22A2,extended,00000202
 
-[Have All Back Units]
+[Have All Back Units (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Back Units
 // Have All Back Units
@@ -480,25 +456,19 @@ description=Have All Arm Units R
 // Have All Arm Units R
 patch=1,EE,405B22E4,extended,00060001
 
-[Have All Arm Units R]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Arm Units R
-// Have All Arm Units R
-patch=1,EE,01010101,extended,00000000
-
-[Have All Arm Units R]
+[Have All Arm Units R (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units R
 // Have All Arm Units R
 patch=1,EE,005B22E1,extended,00000001
 
-[Have All Arm Units R]
+[Have All Arm Units R (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units R
 // Have All Arm Units R
 patch=1,EE,105B22E2,extended,00000101
 
-[Have All Arm Units R]
+[Have All Arm Units R (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units R
 // Have All Arm Units R
@@ -510,391 +480,337 @@ description=Have All Arm Units L
 // Have All Arm Units L
 patch=1,EE,405B2324,extended,00020001
 
-[Have All Arm Units L]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Arm Units L
-// Have All Arm Units L
-patch=1,EE,01010101,extended,00000000
-
-[Have All Arm Units L]
+[Have All Arm Units L (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units L
 // Have All Arm Units L
 patch=1,EE,005B2321,extended,00000001
 
-[Have All Arm Units L]
+[Have All Arm Units L (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units L
 // Have All Arm Units L
 patch=1,EE,105B2322,extended,00000101
 
-[Have All Arm Units L]
+[Have All Arm Units L (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units L
 // Have All Arm Units L
 patch=1,EE,005B232C,extended,00000001
 
-[Have All Heads]
+[Have All Heads (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Heads
 // Have All Heads
 patch=1,EE,405B2824,extended,00020001
 
-[Have All Heads]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Heads
-// Have All Heads
-patch=1,EE,01010101,extended,00000000
-
-[Have All Heads]
+[Have All Heads (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Heads
 // Have All Heads
 patch=1,EE,005B2821,extended,00000001
 
-[Have All Heads]
+[Have All Heads (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Heads
 // Have All Heads
 patch=1,EE,105B2822,extended,00000101
 
-[Have All Heads]
+[Have All Heads (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Heads
 // Have All Heads
 patch=1,EE,005B282C,extended,00000001
 
-[Have All Cores]
+[Have All Cores (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Cores
 // Have All Cores
 patch=1,EE,005B2861,extended,00000001
 
-[Have All Cores]
+[Have All Cores (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Cores
 // Have All Cores
 patch=1,EE,105B2862,extended,00000101
 
-[Have All Cores]
+[Have All Cores (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Cores
 // Have All Cores
 patch=1,EE,105B2864,extended,00000101
 
-[Have All Cores]
+[Have All Cores (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Cores
 // Have All Cores
 patch=1,EE,005B2866,extended,00000001
 
-[Have All Arms]
+[Have All Arms (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arms
 // Have All Arms
 patch=1,EE,405B28A4,extended,00040001
 
-[Have All Arms]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Arms
-// Have All Arms
-patch=1,EE,01010101,extended,00000000
-
-[Have All Arms]
+[Have All Arms (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arms
 // Have All Arms
 patch=1,EE,005B28A1,extended,00000001
 
-[Have All Arms]
+[Have All Arms (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arms
 // Have All Arms
 patch=1,EE,105B28A2,extended,00000101
 
-[Have All Arms]
+[Have All Arms (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arms
 // Have All Arms
 patch=1,EE,105B28B4,extended,00000101
 
-[Have All Arms]
+[Have All Arms (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arms
 // Have All Arms
 patch=1,EE,005B28B6,extended,00000001
 
-[Have All Legs]
+[Have All Legs (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Legs
 // Have All Legs
 patch=1,EE,405B28E4,extended,00070001
 
-[Have All Legs]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Legs
-// Have All Legs
-patch=1,EE,01010101,extended,00000000
-
-[Have All Legs]
+[Have All Legs (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Legs
 // Have All Legs
 patch=1,EE,005B28E1,extended,00000001
 
-[Have All Legs]
+[Have All Legs (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Legs
 // Have All Legs
 patch=1,EE,105B28E2,extended,00000101
 
-[Have All Legs]
+[Have All Legs (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Legs
 // Have All Legs
 patch=1,EE,105B2900,extended,00000101
 
-[Have All Legs]
+[Have All Legs (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Legs
 // Have All Legs
 patch=1,EE,005B2902,extended,00000001
 
-[Have All Boosters]
+[Have All Boosters (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Boosters
 // Have All Boosters
 patch=1,EE,005B2921,extended,00000001
 
-[Have All Boosters]
+[Have All Boosters (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Boosters
 // Have All Boosters
 patch=1,EE,105B2922,extended,00000001
 
-[Have All Boosters]
+[Have All Boosters (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Boosters
 // Have All Boosters
 patch=1,EE,205B2924,extended,01010101
 
-[Have All FCS]
+[Have All FCS (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All FCS
 // Have All FCS
 patch=1,EE,005B2961,extended,00000001
 
-[Have All FCS]
+[Have All FCS (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All FCS
 // Have All FCS
 patch=1,EE,105B2962,extended,00000101
 
-[Have All FCS]
+[Have All FCS (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All FCS
 // Have All FCS
 patch=1,EE,205B2964,extended,01010101
 
-[Have All FCS]
+[Have All FCS (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All FCS
 // Have All FCS
 patch=1,EE,105B2968,extended,00000101
 
-[Have All FCS]
+[Have All FCS (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All FCS
 // Have All FCS
 patch=1,EE,005B296A,extended,00000001
 
-[Have All Generators]
+[Have All Generators (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Generators
 // Have All Generators
 patch=1,EE,005B29A1,extended,00000001
 
-[Have All Generators]
+[Have All Generators (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Generators
 // Have All Generators
 patch=1,EE,105B29A2,extended,00000101
 
-[Have All Generators]
+[Have All Generators (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Generators
 // Have All Generators
 patch=1,EE,205B29A4,extended,01010101
 
-[Have All Radiators]
+[Have All Radiators (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Radiators
 // Have All Radiators
 patch=1,EE,005B29E1,extended,00000001
 
-[Have All Radiators]
+[Have All Radiators (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Radiators
 // Have All Radiators
 patch=1,EE,105B29E2,extended,00000101
 
-[Have All Radiators]
+[Have All Radiators (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Radiators
 // Have All Radiators
 patch=1,EE,205B29E4,extended,01010101
 
-[Have All Inside Parts]
+[Have All Inside Parts (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Inside Parts
 // Have All Inside Parts
 patch=1,EE,405B2A24,extended,00020001
 
-[Have All Inside Parts]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Inside Parts
-// Have All Inside Parts
-patch=1,EE,01010101,extended,00000000
-
-[Have All Inside Parts]
+[Have All Inside Parts (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Inside Parts
 // Have All Inside Parts
 patch=1,EE,005B2A21,extended,00000001
 
-[Have All Inside Parts]
+[Have All Inside Parts (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Inside Parts
 // Have All Inside Parts
 patch=1,EE,105B2A22,extended,00000101
 
-[Have All Inside Parts]
+[Have All Inside Parts (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Inside Parts
 // Have All Inside Parts
 patch=1,EE,105B2A2C,extended,00000101
 
-[Have All Inside Parts]
+[Have All Inside Parts (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Inside Parts
 // Have All Inside Parts
 patch=1,EE,005B2A2E,extended,00000001
 
-[Have All Extensions]
+[Have All Extensions (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Extensions
 // Have All Extensions
 patch=1,EE,405B2A64,extended,00030001
 
-[Have All Extensions]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Extensions
-// Have All Extensions
-patch=1,EE,01010101,extended,00000000
-
-[Have All Extensions]
+[Have All Extensions (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Extensions
 // Have All Extensions
 patch=1,EE,005B2A61,extended,00000001
 
-[Have All Extensions]
+[Have All Extensions (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Extensions
 // Have All Extensions
 patch=1,EE,105B2A62,extended,00000101
 
-[Have All Extensions]
+[Have All Extensions (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Extensions
 // Have All Extensions
 patch=1,EE,105B2A70,extended,00000101
 
-[Have All Back Units]
+[Have All Back Units (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Back Units
 // Have All Back Units
 patch=1,EE,405B2AA4,extended,00090001
 
-[Have All Back Units]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Back Units
-// Have All Back Units
-patch=1,EE,02020202,extended,00000000
-
-[Have All Back Units]
+[Have All Back Units (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Back Units
 // Have All Back Units
 patch=1,EE,005B2AA1,extended,00000002
 
-[Have All Back Units]
+[Have All Back Units (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Back Units
 // Have All Back Units
 patch=1,EE,105B2AA2,extended,00000202
 
-[Have All Back Units]
+[Have All Back Units (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Back Units
 // Have All Back Units
 patch=1,EE,005B2AC8,extended,00000002
 
-[Have All Arm Units R]
+[Have All Arm Units R (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units R
 // Have All Arm Units R
 patch=1,EE,405B2AE4,extended,00060001
 
-[Have All Arm Units R]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Arm Units R
-// Have All Arm Units R
-patch=1,EE,01010101,extended,00000000
-
-[Have All Arm Units R]
+[Have All Arm Units R (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units R
 // Have All Arm Units R
 patch=1,EE,005B2AE1,extended,00000001
 
-[Have All Arm Units R]
+[Have All Arm Units R (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units R
 // Have All Arm Units R
 patch=1,EE,105B2AE2,extended,00000101
 
-[Have All Arm Units R]
+[Have All Arm Units R (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units R
 // Have All Arm Units R
 patch=1,EE,005B2AFC,extended,00000001
 
-[Have All Arm Units L]
+[Have All Arm Units L (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units L
 // Have All Arm Units L
 patch=1,EE,405B2B24,extended,00020001
 
-[Have All Arm Units L]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Arm Units L
-// Have All Arm Units L
-patch=1,EE,01010101,extended,00000000
-
-[Have All Arm Units L]
+[Have All Arm Units L (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units L
 // Have All Arm Units L
 patch=1,EE,005B2B21,extended,00000001
 
-[Have All Arm Units L]
+[Have All Arm Units L (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units L
 // Have All Arm Units L
 patch=1,EE,105B2B22,extended,00000101
 
-[Have All Arm Units L]
+[Have All Arm Units L (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Arm Units L
 // Have All Arm Units L
@@ -1416,469 +1332,469 @@ description=Mail 78
 // Mail 78
 patch=1,EE,005BE143,extended,0000004E
 
-[Mail 1]
+[Mail 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 1
 // Mail 1
 patch=1,EE,005BE0E1,extended,00000081
 
-[Mail 2]
+[Mail 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 2
 // Mail 2
 patch=1,EE,005BE0E2,extended,00000082
 
-[Mail 3]
+[Mail 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 3
 // Mail 3
 patch=1,EE,005BE0E3,extended,00000083
 
-[Mail 4]
+[Mail 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 4
 // Mail 4
 patch=1,EE,005BE0E4,extended,00000084
 
-[Mail 5]
+[Mail 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 5
 // Mail 5
 patch=1,EE,005BE0E5,extended,00000085
 
-[Mail 6]
+[Mail 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 6
 // Mail 6
 patch=1,EE,005BE0E9,extended,00000086
 
-[Mail 7]
+[Mail 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 7
 // Mail 7
 patch=1,EE,005BE0EB,extended,00000087
 
-[Mail 8]
+[Mail 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 8
 // Mail 8
 patch=1,EE,005BE0EE,extended,00000088
 
-[Mail 9]
+[Mail 9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 9
 // Mail 9
 patch=1,EE,005BE0EF,extended,00000089
 
-[Mail 10]
+[Mail 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 10
 // Mail 10
 patch=1,EE,005BE0F0,extended,0000008A
 
-[Mail 11]
+[Mail 11 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 11
 // Mail 11
 patch=1,EE,005BE0F1,extended,0000008B
 
-[Mail 12]
+[Mail 12 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 12
 // Mail 12
 patch=1,EE,005BE0F2,extended,0000008C
 
-[Mail 13]
+[Mail 13 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 13
 // Mail 13
 patch=1,EE,005BE0F3,extended,0000008D
 
-[Mail 14]
+[Mail 14 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 14
 // Mail 14
 patch=1,EE,005BE0F4,extended,0000008E
 
-[Mail 15]
+[Mail 15 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 15
 // Mail 15
 patch=1,EE,005BE0F5,extended,0000008F
 
-[Mail 16]
+[Mail 16 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 16
 // Mail 16
 patch=1,EE,005BE0F6,extended,00000090
 
-[Mail 17]
+[Mail 17 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 17
 // Mail 17
 patch=1,EE,005BE0F7,extended,00000091
 
-[Mail 18]
+[Mail 18 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 18
 // Mail 18
 patch=1,EE,005BE0F8,extended,00000092
 
-[Mail 19]
+[Mail 19 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 19
 // Mail 19
 patch=1,EE,005BE0F9,extended,00000093
 
-[Mail 20]
+[Mail 20 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 20
 // Mail 20
 patch=1,EE,005BE0FA,extended,00000094
 
-[Mail 21]
+[Mail 21 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 21
 // Mail 21
 patch=1,EE,005BE0FB,extended,00000095
 
-[Mail 22]
+[Mail 22 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 22
 // Mail 22
 patch=1,EE,005BE0FD,extended,00000096
 
-[Mail 23]
+[Mail 23 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 23
 // Mail 23
 patch=1,EE,005BE0FE,extended,00000097
 
-[Mail 24]
+[Mail 24 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 24
 // Mail 24
 patch=1,EE,005BE0FF,extended,00000098
 
-[Mail 25]
+[Mail 25 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 25
 // Mail 25
 patch=1,EE,005BE100,extended,00000099
 
-[Mail 26]
+[Mail 26 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 26
 // Mail 26
 patch=1,EE,005BE101,extended,0000009A
 
-[Mail 27]
+[Mail 27 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 27
 // Mail 27
 patch=1,EE,005BE102,extended,0000009B
 
-[Mail 28]
+[Mail 28 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 28
 // Mail 28
 patch=1,EE,005BE108,extended,0000009C
 
-[Mail 29]
+[Mail 29 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 29
 // Mail 29
 patch=1,EE,005BE109,extended,0000009D
 
-[Mail 30]
+[Mail 30 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 30
 // Mail 30
 patch=1,EE,005BE10A,extended,0000009E
 
-[Mail 31]
+[Mail 31 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 31
 // Mail 31
 patch=1,EE,005BE10B,extended,0000009F
 
-[Mail 32]
+[Mail 32 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 32
 // Mail 32
 patch=1,EE,005BE10C,extended,000000A0
 
-[Mail 33]
+[Mail 33 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 33
 // Mail 33
 patch=1,EE,005BE10D,extended,000000A1
 
-[Mail 34]
+[Mail 34 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 34
 // Mail 34
 patch=1,EE,005BE10E,extended,000000A2
 
-[Mail 35]
+[Mail 35 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 35
 // Mail 35
 patch=1,EE,005BE10F,extended,000000A3
 
-[Mail 36]
+[Mail 36 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 36
 // Mail 36
 patch=1,EE,005BE110,extended,000000A4
 
-[Mail 37]
+[Mail 37 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 37
 // Mail 37
 patch=1,EE,005BE111,extended,000000A5
 
-[Mail 38]
+[Mail 38 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 38
 // Mail 38
 patch=1,EE,005BE112,extended,000000A6
 
-[Mail 39]
+[Mail 39 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 39
 // Mail 39
 patch=1,EE,005BE113,extended,000000A7
 
-[Mail 40]
+[Mail 40 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 40
 // Mail 40
 patch=1,EE,005BE114,extended,000000A8
 
-[Mail 41]
+[Mail 41 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 41
 // Mail 41
 patch=1,EE,005BE115,extended,000000A9
 
-[Mail 42]
+[Mail 42 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 42
 // Mail 42
 patch=1,EE,005BE116,extended,000000AA
 
-[Mail 43]
+[Mail 43 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 43
 // Mail 43
 patch=1,EE,005BE117,extended,000000AB
 
-[Mail 44]
+[Mail 44 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 44
 // Mail 44
 patch=1,EE,005BE118,extended,000000AC
 
-[Mail 45]
+[Mail 45 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 45
 // Mail 45
 patch=1,EE,005BE119,extended,000000AD
 
-[Mail 46]
+[Mail 46 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 46
 // Mail 46
 patch=1,EE,005BE11A,extended,000000AE
 
-[Mail 47]
+[Mail 47 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 47
 // Mail 47
 patch=1,EE,005BE11B,extended,000000AF
 
-[Mail 48]
+[Mail 48 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 48
 // Mail 48
 patch=1,EE,005BE11C,extended,000000B0
 
-[Mail 49]
+[Mail 49 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 49
 // Mail 49
 patch=1,EE,005BE11D,extended,000000B1
 
-[Mail 50]
+[Mail 50 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 50
 // Mail 50
 patch=1,EE,005BE11E,extended,000000B2
 
-[Mail 51]
+[Mail 51 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 51
 // Mail 51
 patch=1,EE,005BE11F,extended,000000B3
 
-[Mail 52]
+[Mail 52 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 52
 // Mail 52
 patch=1,EE,005BE120,extended,000000B4
 
-[Mail 53]
+[Mail 53 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 53
 // Mail 53
 patch=1,EE,005BE121,extended,000000B5
 
-[Mail 54]
+[Mail 54 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 54
 // Mail 54
 patch=1,EE,005BE122,extended,000000B6
 
-[Mail 55]
+[Mail 55 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 55
 // Mail 55
 patch=1,EE,005BE123,extended,000000B7
 
-[Mail 56]
+[Mail 56 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 56
 // Mail 56
 patch=1,EE,005BE124,extended,000000B8
 
-[Mail 57]
+[Mail 57 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 57
 // Mail 57
 patch=1,EE,005BE125,extended,000000B9
 
-[Mail 58]
+[Mail 58 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 58
 // Mail 58
 patch=1,EE,005BE126,extended,000000BA
 
-[Mail 59]
+[Mail 59 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 59
 // Mail 59
 patch=1,EE,005BE127,extended,000000BB
 
-[Mail 60]
+[Mail 60 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 60
 // Mail 60
 patch=1,EE,005BE128,extended,000000BC
 
-[Mail 61]
+[Mail 61 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 61
 // Mail 61
 patch=1,EE,005BE129,extended,000000BD
 
-[Mail 62]
+[Mail 62 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 62
 // Mail 62
 patch=1,EE,005BE12A,extended,000000BE
 
-[Mail 63]
+[Mail 63 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 63
 // Mail 63
 patch=1,EE,005BE130,extended,000000BF
 
-[Mail 64]
+[Mail 64 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 64
 // Mail 64
 patch=1,EE,005BE131,extended,000000C0
 
-[Mail 65]
+[Mail 65 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 65
 // Mail 65
 patch=1,EE,005BE132,extended,000000C1
 
-[Mail 66]
+[Mail 66 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 66
 // Mail 66
 patch=1,EE,005BE133,extended,000000C2
 
-[Mail 67]
+[Mail 67 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 67
 // Mail 67
 patch=1,EE,005BE135,extended,000000C3
 
-[Mail 68]
+[Mail 68 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 68
 // Mail 68
 patch=1,EE,005BE137,extended,000000C4
 
-[Mail 69]
+[Mail 69 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 69
 // Mail 69
 patch=1,EE,005BE13A,extended,000000C5
 
-[Mail 70]
+[Mail 70 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 70
 // Mail 70
 patch=1,EE,005BE13B,extended,000000C6
 
-[Mail 71]
+[Mail 71 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 71
 // Mail 71
 patch=1,EE,005BE13C,extended,000000C7
 
-[Mail 72]
+[Mail 72 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 72
 // Mail 72
 patch=1,EE,005BE13D,extended,000000C8
 
-[Mail 73]
+[Mail 73 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 73
 // Mail 73
 patch=1,EE,005BE13E,extended,000000C9
 
-[Mail 74]
+[Mail 74 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 74
 // Mail 74
 patch=1,EE,005BE13F,extended,000000CA
 
-[Mail 75]
+[Mail 75 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 75
 // Mail 75
 patch=1,EE,005BE140,extended,000000CB
 
-[Mail 76]
+[Mail 76 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 76
 // Mail 76
 patch=1,EE,005BE141,extended,000000CC
 
-[Mail 77]
+[Mail 77 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 77
 // Mail 77
 patch=1,EE,005BE142,extended,000000CD
 
-[Mail 78]
+[Mail 78 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mail 78
 // Mail 78

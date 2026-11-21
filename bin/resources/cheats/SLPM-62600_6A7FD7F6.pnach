@@ -1,0 +1,7 @@
+gametitle=SIMPLE2000シリーズ Vol.75 THE 特ダネ ～日本全国スクープ列島～ [SLPM-62600] [6A7FD7F6]
+
+[Cheats\P1 Max Money]
+patch=1,EE,101A3ACC,extended,0000270F
+
+[Cheats\Unlock Scrap]
+patch=1,EE,20217730,extended,00000001

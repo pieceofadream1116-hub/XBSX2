@@ -30,17 +30,11 @@ description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,D049A6D2,extended,00000001
 
-[Start On Lap 2]
+[Start On Lap 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,0049A6D2,extended,00000002
-
-[Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 3
-// Start On Lap 3
-patch=1,EE,D049A6D2,extended,00000001
 
 [Start On Lap 3]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -94,18 +88,6 @@ patch=1,EE,0095CE4B,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All AUdio Room
 // All AUdio Room
-patch=1,EE,0095CE42,extended,00000001
-
-[All AUdio Room]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All AUdio Room
-// All AUdio Room
-patch=1,EE,0095CE49,extended,00000001
-
-[All AUdio Room]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All AUdio Room
-// All AUdio Room
 patch=1,EE,1095CE4A,extended,00000101
 
 [Title]
@@ -143,12 +125,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Theater
 // All Theater
 patch=1,EE,2095D1D8,extended,01010101
-
-[All Theater]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Theater
-// All Theater
-patch=1,EE,0095D1DC,extended,00000001
 
 [Gear 1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -197,12 +173,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Gear 8
 // Gear 8
 patch=1,EE,0095D1E8,extended,00000001
-
-[Gear 9]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Gear 9
-// Gear 9
-patch=1,EE,0095D1E9,extended,00000001
 
 [Gear 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -473,3 +443,18 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Gear 54
 // Gear 54
 patch=1,EE,0095D1D3,extended,00000001
+
+[Cheats\Infinite Air]
+patch=1,EE,20499FD8,extended,00030250
+
+[Cheats\Start on 3rd Lap]
+patch=1,EE,2049A6D0,extended,02030000
+
+[Cheats\Unlock All Movie Theater]
+patch=1,EE,2095D1D8,extended,01010101
+patch=1,EE,0095D1DC,extended,00000001
+
+[Cheats\Unlock All Audio Room]
+patch=1,EE,0095CE42,extended,00000001
+patch=1,EE,0095CE49,extended,00000001
+patch=1,EE,1095CE4A,extended,00000101

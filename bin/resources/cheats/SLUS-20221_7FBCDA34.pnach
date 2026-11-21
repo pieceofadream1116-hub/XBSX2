@@ -48,13 +48,13 @@ description=Have All Items
 // Have All Items
 patch=1,EE,00494DDF,extended,00000063
 
-[Have All Items]
+[Have All Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,40494DE0,extended,000D0001
 
-[Have All Items]
+[Have All Items (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
@@ -66,19 +66,19 @@ description=Have All Misc. Files
 // Have All Misc. Files
 patch=1,EE,10494EBE,extended,00000101
 
-[Have All Misc. Files]
+[Have All Misc. Files (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Misc. Files
 // Have All Misc. Files
 patch=1,EE,00494EE4,extended,00000001
 
-[Have All Misc. Files]
+[Have All Misc. Files (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Misc. Files
 // Have All Misc. Files
 patch=1,EE,40494EC0,extended,00090001
 
-[Have All Misc. Files]
+[Have All Misc. Files (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Misc. Files
 // Have All Misc. Files
@@ -90,23 +90,17 @@ description=Have All Item Files
 // Have All Item Files
 patch=1,EE,10494E8A,extended,00000101
 
-[Have All Item Files]
+[Have All Item Files (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Item Files
 // Have All Item Files
 patch=1,EE,10494EBC,extended,00000101
 
-[Have All Item Files]
+[Have All Item Files (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Item Files
 // Have All Item Files
 patch=1,EE,40494E8C,extended,000C0001
-
-[Have All Item Files]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Item Files
-// Have All Item Files
-patch=1,EE,01010101,extended,00000000
 
 [Have All Boss Files]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -114,23 +108,17 @@ description=Have All Boss Files
 // Have All Boss Files
 patch=1,EE,10494E7A,extended,00000101
 
-[Have All Boss Files]
+[Have All Boss Files (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Boss Files
 // Have All Boss Files
 patch=1,EE,10494E88,extended,00000101
 
-[Have All Boss Files]
+[Have All Boss Files (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Boss Files
 // Have All Boss Files
 patch=1,EE,40494E7C,extended,00030001
-
-[Have All Boss Files]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Boss Files
-// Have All Boss Files
-patch=1,EE,01010101,extended,00000000
 
 [Have All Enemy Files]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -138,35 +126,17 @@ description=Have All Enemy Files
 // Have All Enemy Files
 patch=1,EE,10494E78,extended,00000101
 
-[Have All Enemy Files]
+[Have All Enemy Files (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Enemy Files
 // Have All Enemy Files
 patch=1,EE,40494E6C,extended,00030001
-
-[Have All Enemy Files]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Enemy Files
-// Have All Enemy Files
-patch=1,EE,01010101,extended,00000000
 
 [Have All Player Files]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Player Files
 // Have All Player Files
 patch=1,EE,40494E60,extended,00030001
-
-[Have All Player Files]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Player Files
-// Have All Player Files
-patch=1,EE,01010101,extended,00000000
-
-[Magazine +2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Magazine +2
-// Magazine +2
-patch=1,EE,00494DDF,extended,00000063
 
 [Magazine +4]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -378,7 +348,7 @@ description=Credit +10
 // Credit +10
 patch=1,EE,00494E02,extended,00000063
 
-[Infinite Credits]
+[Infinite Credits (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Credits
 // Infinite Credits
@@ -473,3 +443,35 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Devil's Whisper
 // Devil's Whisper
 patch=1,EE,00494E12,extended,00000063
+
+[Cheats\Have All Items]
+patch=1,EE,00494DDF,extended,00000063
+patch=1,EE,40494DE0,extended,000D0001
+patch=1,EE,63636363,extended,00000000
+
+[Cheats\Have All Misc Files]
+patch=1,EE,10494EBE,extended,00000101
+patch=1,EE,00494EE4,extended,00000001
+patch=1,EE,40494EC0,extended,00090001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Have All Item Files]
+patch=1,EE,10494E8A,extended,00000101
+patch=1,EE,10494EBC,extended,00000101
+patch=1,EE,40494E8C,extended,000C0001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Have All Boss Files]
+patch=1,EE,10494E7A,extended,00000101
+patch=1,EE,10494E88,extended,00000101
+patch=1,EE,40494E7C,extended,00030001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Have All Enemy Files]
+patch=1,EE,10494E78,extended,00000101
+patch=1,EE,40494E6C,extended,00030001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Have All Player Files]
+patch=1,EE,40494E60,extended,00030001
+patch=1,EE,01010101,extended,00000000

@@ -1,0 +1,5 @@
+gametitle=太鼓の達人 あつまれ！祭りだ！！四代目 [SLPS-20383] [42B84A12]
+
+[Cheats\Max Don Point]
+patch=1,EE,4089E7D0,extended,0008040A
+patch=1,EE,0001869F,extended,00000000

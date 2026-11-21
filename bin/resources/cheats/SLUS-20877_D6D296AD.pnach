@@ -30,7 +30,7 @@ description=Infinite Origin Points Usage
 // Infinite Origin Points Usage
 patch=1,EE,D03EBA58,extended,0000C920
 
-[Infinite Origin Points Usage]
+[Infinite Origin Points Usage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Origin Points Usage
 // Infinite Origin Points Usage
@@ -42,7 +42,7 @@ description=Infinite Weapon Ammo
 // Infinite Weapon Ammo
 patch=1,EE,D046891C,extended,000029E4
 
-[Infinite Weapon Ammo]
+[Infinite Weapon Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Weapon Ammo
 // Infinite Weapon Ammo
@@ -60,17 +60,11 @@ description=P1 Press {L1}+{SELECT} To Switch To Feaney (Exit Level)
 // P1 Press {L1}+{SELECT} To Switch To Feaney (Exit Level)
 patch=1,EE,D06D361C,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Switch To Feaney (Exit Level)]
+[P1 Press {L1}+{SELECT} To Switch To Feaney (Exit Level) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Switch To Feaney (Exit Level)
 // P1 Press {L1}+{SELECT} To Switch To Feaney (Exit Level)
 patch=1,EE,0074CB48,extended,00000002
-
-[P1 Press {L1}+{SELECT} To Switch To Show (Exit Level)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{SELECT} To Switch To Show (Exit Level)
-// P1 Press {L1}+{SELECT} To Switch To Show (Exit Level)
-patch=1,EE,D06D361C,extended,0000FBFE
 
 [P1 Press {L1}+{SELECT} To Switch To Show (Exit Level)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -84,7 +78,7 @@ description=Have All Levels Cleared
 // Have All Levels Cleared
 patch=1,EE,2074CA1C,extended,FFFFFFFF
 
-[Have All Levels Cleared]
+[Have All Levels Cleared (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels Cleared
 // Have All Levels Cleared
@@ -96,7 +90,7 @@ description=Low Time-All Missions
 // Low Time-All Missions
 patch=1,EE,4074D0D4,extended,003C0006
 
-[Low Time-All Missions]
+[Low Time-All Missions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time-All Missions
 // Low Time-All Missions
@@ -108,19 +102,13 @@ description=No Damage-All Missions
 // No Damage-All Missions
 patch=1,EE,4074D0D8,extended,003C0006
 
-[No Damage-All Missions]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Damage-All Missions
-// No Damage-All Missions
-patch=1,EE,00000000,extended,00000000
-
 [Max Menace-All Missions]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace-All Missions
 // Max Menace-All Missions
 patch=1,EE,4074D0DC,extended,003C0006
 
-[Max Menace-All Missions]
+[Max Menace-All Missions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace-All Missions
 // Max Menace-All Missions
@@ -132,19 +120,13 @@ description=Max Combo-All Missions
 // Max Combo-All Missions
 patch=1,EE,4074D0E0,extended,003C0006
 
-[Max Combo-All Missions]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Combo-All Missions
-// Max Combo-All Missions
-patch=1,EE,0000270F,extended,00000000
-
 [Unlock All Missions]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Missions
 // Unlock All Missions
 patch=1,EE,4074D0E8,extended,003C0006
 
-[Unlock All Missions]
+[Unlock All Missions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Missions
 // Unlock All Missions
@@ -198,49 +180,49 @@ description=Level 50
 // Level 50
 patch=1,EE,0074CA73,extended,00000031
 
-[Quick Exp Gain]
+[Quick Exp Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,1074CAA8,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,2074CAA8,extended,000F423F
 
-[Max Health]
+[Max Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,1074CAAC,extended,00000440
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,1074CAAE,extended,00000440
 
-[Max Infinite Health]
+[Max Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Health
 // Max Infinite Health
 patch=1,EE,2074CAAC,extended,04400440
 
-[Infinite NP's]
+[Infinite NP's (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite NP's
 // Infinite NP's
 patch=1,EE,1074CAB0,extended,00000440
 
-[Max Combo]
+[Max Combo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,1074CAB2,extended,0000270F
 
-[Level 50]
+[Level 50 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 50
 // Level 50
@@ -264,19 +246,19 @@ description=Max Rapid Level
 // Max Rapid Level
 patch=1,EE,0074CA3A,extended,00000005
 
-[Max Power Level]
+[Max Power Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power Level
 // Max Power Level
 patch=1,EE,0074CA3E,extended,00000005
 
-[Max Range Level]
+[Max Range Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Range Level
 // Max Range Level
 patch=1,EE,0074CA42,extended,00000005
 
-[Max Rapid Level]
+[Max Rapid Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Rapid Level
 // Max Rapid Level
@@ -306,61 +288,61 @@ description=Max 4th Level
 // Max 4th Level
 patch=1,EE,0074CA56,extended,00000005
 
-[Max Power Level]
+[Max Power Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power Level
 // Max Power Level
 patch=1,EE,0074CA76,extended,00000005
 
-[Max Range Level]
+[Max Range Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Range Level
 // Max Range Level
 patch=1,EE,0074CA7A,extended,00000005
 
-[Max Rapid Level]
+[Max Rapid Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Rapid Level
 // Max Rapid Level
 patch=1,EE,0074CA7E,extended,00000005
 
-[Max Power Level]
+[Max Power Level (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power Level
 // Max Power Level
 patch=1,EE,0074CA82,extended,00000005
 
-[Max Range Level]
+[Max Range Level (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Range Level
 // Max Range Level
 patch=1,EE,0074CA86,extended,00000005
 
-[Max Rapid Level]
+[Max Rapid Level (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Rapid Level
 // Max Rapid Level
 patch=1,EE,0074CA8A,extended,00000005
 
-[Max 1st Level]
+[Max 1st Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max 1st Level
 // Max 1st Level
 patch=1,EE,0074CA8E,extended,00000005
 
-[Max 2nd Level]
+[Max 2nd Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max 2nd Level
 // Max 2nd Level
 patch=1,EE,0074CA92,extended,00000005
 
-[Max 3rd Level]
+[Max 3rd Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max 3rd Level
 // Max 3rd Level
 patch=1,EE,0074CA96,extended,00000005
 
-[Max 4th Level]
+[Max 4th Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max 4th Level
 // Max 4th Level
@@ -648,77 +630,41 @@ description=All Items
 // All Items
 patch=1,EE,4074CAC4,extended,00040001
 
-[All Items]
+[All Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items
 // All Items
 patch=1,EE,09090909,extended,00000000
 
-[All Items]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Items
-// All Items
-patch=1,EE,0074CAD4,extended,00000009
-
-[All Items]
+[All Items (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items
 // All Items
 patch=1,EE,1074CADA,extended,00000809
 
-[All Items]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Items
-// All Items
-patch=1,EE,0074CADB,extended,00000009
-
-[All Items]
+[All Items (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items
 // All Items
 patch=1,EE,1074CADC,extended,00000909
 
-[All Items]
+[All Items (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items
 // All Items
 patch=1,EE,1074CAF0,extended,00000909
 
-[All Items]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Items
-// All Items
-patch=1,EE,0074CAF2,extended,00000009
-
-[All Items]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Items
-// All Items
-patch=1,EE,0074CAF5,extended,00000009
-
-[All Items]
+[All Items (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items
 // All Items
 patch=1,EE,1074CAF6,extended,00000909
 
-[All Items]
+[All Items (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items
 // All Items
 patch=1,EE,4074CAF8,extended,00030001
-
-[All Items]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Items
-// All Items
-patch=1,EE,09090909,extended,00000000
-
-[All Items]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Items
-// All Items
-patch=1,EE,0074CB04,extended,00000009
 
 [Low Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -738,7 +684,7 @@ description=Max Menace
 // Max Menace
 patch=1,EE,2074CB6C,extended,0000270F
 
-[Max Combo]
+[Max Combo (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
@@ -750,1801 +696,1801 @@ description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CB78,extended,00000001
 
-[Low Time]
+[Low Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CC84,extended,00000000
 
-[No Damage]
+[No Damage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CC88,extended,00000000
 
-[Max Menace]
+[Max Menace (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CC8C,extended,0000270F
 
-[Max Combo]
+[Max Combo (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CC90,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CC98,extended,00000001
 
-[Low Time]
+[Low Time (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CCB4,extended,00000000
 
-[No Damage]
+[No Damage (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CCB8,extended,00000000
 
-[Max Menace]
+[Max Menace (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CCBC,extended,0000270F
 
-[Max Combo]
+[Max Combo (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CCC0,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CCC8,extended,00000001
 
-[Low Time]
+[Low Time (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CFCC,extended,00000000
 
-[No Damage]
+[No Damage (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CFD0,extended,00000000
 
-[Max Menace]
+[Max Menace (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CFD4,extended,0000270F
 
-[Max Combo]
+[Max Combo (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CFD8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CFE0,extended,00000001
 
-[Low Time]
+[Low Time (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CB7C,extended,00000000
 
-[No Damage]
+[No Damage (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CB80,extended,00000000
 
-[Max Menace]
+[Max Menace (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CB84,extended,0000270F
 
-[Max Combo]
+[Max Combo (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CB88,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CB90,extended,00000001
 
-[Low Time]
+[Low Time (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,FFFFFFEC,extended,00000000
 
-[No Damage]
+[No Damage (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,FFFFFFF0,extended,00000000
 
-[Max Menace]
+[Max Menace (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,FFFFFFF4,extended,0000270F
 
-[Max Combo]
+[Max Combo (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,FFFFFFF8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,00000000,extended,00000001
 
-[Low Time]
+[Low Time (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CC9C,extended,00000000
 
-[No Damage]
+[No Damage (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CCA0,extended,00000000
 
-[Max Menace]
+[Max Menace (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CCA4,extended,0000270F
 
-[Max Combo]
+[Max Combo (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CCA8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CCB0,extended,00000001
 
-[Low Time]
+[Low Time (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CCCC,extended,00000000
 
-[No Damage]
+[No Damage (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CCD0,extended,00000000
 
-[Max Menace]
+[Max Menace (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CCD4,extended,0000270F
 
-[Max Combo]
+[Max Combo (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CCD8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CCE0,extended,00000001
 
-[Low Time]
+[Low Time (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CCFC,extended,00000000
 
-[No Damage]
+[No Damage (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CD00,extended,00000000
 
-[Max Menace]
+[Max Menace (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CD04,extended,0000270F
 
-[Max Combo]
+[Max Combo (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CD08,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CD10,extended,00000001
 
-[Low Time]
+[Low Time (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CFE4,extended,00000000
 
-[No Damage]
+[No Damage (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CFE8,extended,00000000
 
-[Max Menace]
+[Max Menace (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CFEC,extended,0000270F
 
-[Max Combo]
+[Max Combo (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CFF0,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CFF8,extended,00000001
 
-[Low Time]
+[Low Time (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CB94,extended,00000000
 
-[No Damage]
+[No Damage (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CB98,extended,00000000
 
-[Max Menace]
+[Max Menace (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CB9C,extended,0000270F
 
-[Max Combo]
+[Max Combo (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CBA0,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CBA8,extended,00000001
 
-[Low Time]
+[Low Time (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CD44,extended,00000000
 
-[No Damage]
+[No Damage (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CD48,extended,00000000
 
-[Max Menace]
+[Max Menace (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CD4C,extended,0000270F
 
-[Max Combo]
+[Max Combo (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CD50,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CD58,extended,00000001
 
-[Low Time]
+[Low Time (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CD14,extended,00000000
 
-[No Damage]
+[No Damage (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CD18,extended,00000000
 
-[Max Menace]
+[Max Menace (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CD1C,extended,0000270F
 
-[Max Combo]
+[Max Combo (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CD20,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CD28,extended,00000001
 
-[Low Time]
+[Low Time (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CCE4,extended,00000000
 
-[No Damage]
+[No Damage (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CCE8,extended,00000000
 
-[Max Menace]
+[Max Menace (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CCEC,extended,0000270F
 
-[Max Combo]
+[Max Combo (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CCF0,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CCF8,extended,00000001
 
-[Low Time]
+[Low Time (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CFFC,extended,00000000
 
-[No Damage]
+[No Damage (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074D000,extended,00000000
 
-[Max Menace]
+[Max Menace (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074D004,extended,0000270F
 
-[Max Combo]
+[Max Combo (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074D008,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074D010,extended,00000001
 
-[Low Time]
+[Low Time (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CBAC,extended,00000000
 
-[No Damage]
+[No Damage (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CBB0,extended,00000000
 
-[Max Menace]
+[Max Menace (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CBB4,extended,0000270F
 
-[Max Combo]
+[Max Combo (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CBB8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CBC0,extended,00000001
 
-[Low Time]
+[Low Time (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CD74,extended,00000000
 
-[No Damage]
+[No Damage (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CD78,extended,00000000
 
-[Max Menace]
+[Max Menace (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CD7C,extended,0000270F
 
-[Max Combo]
+[Max Combo (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CD80,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CD88,extended,00000001
 
-[Low Time]
+[Low Time (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CD2C,extended,00000000
 
-[No Damage]
+[No Damage (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CD30,extended,00000000
 
-[Max Menace]
+[Max Menace (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CD34,extended,0000270F
 
-[Max Combo]
+[Max Combo (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CD38,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CD40,extended,00000001
 
-[Low Time]
+[Low Time (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CD5C,extended,00000000
 
-[No Damage]
+[No Damage (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CD60,extended,00000000
 
-[Max Menace]
+[Max Menace (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CD64,extended,0000270F
 
-[Max Combo]
+[Max Combo (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CD68,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CD70,extended,00000001
 
-[Low Time]
+[Low Time (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074D014,extended,00000000
 
-[No Damage]
+[No Damage (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074D018,extended,00000000
 
-[Max Menace]
+[Max Menace (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074D01C,extended,0000270F
 
-[Max Combo]
+[Max Combo (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074D020,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074D028,extended,00000001
 
-[Low Time]
+[Low Time (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CBC4,extended,00000000
 
-[No Damage]
+[No Damage (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CBC8,extended,00000000
 
-[Max Menace]
+[Max Menace (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CBCC,extended,0000270F
 
-[Max Combo]
+[Max Combo (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CBD0,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CBD8,extended,00000001
 
-[Low Time]
+[Low Time (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CDA4,extended,00000000
 
-[No Damage]
+[No Damage (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CDA8,extended,00000000
 
-[Max Menace]
+[Max Menace (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CDAC,extended,0000270F
 
-[Max Combo]
+[Max Combo (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CDB0,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CDB8,extended,00000001
 
-[Low Time]
+[Low Time (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CD8C,extended,00000000
 
-[No Damage]
+[No Damage (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CD90,extended,00000000
 
-[Max Menace]
+[Max Menace (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CD94,extended,0000270F
 
-[Max Combo]
+[Max Combo (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CD98,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CDA0,extended,00000001
 
-[Low Time]
+[Low Time (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CDD4,extended,00000000
 
-[No Damage]
+[No Damage (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CDD8,extended,00000000
 
-[Max Menace]
+[Max Menace (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CDDC,extended,0000270F
 
-[Max Combo]
+[Max Combo (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CDE0,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CDE8,extended,00000001
 
-[Low Time]
+[Low Time (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074D02C,extended,00000000
 
-[No Damage]
+[No Damage (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074D030,extended,00000000
 
-[Max Menace]
+[Max Menace (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074D034,extended,0000270F
 
-[Max Combo]
+[Max Combo (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074D038,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074D040,extended,00000001
 
-[Low Time]
+[Low Time (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CBDC,extended,00000000
 
-[No Damage]
+[No Damage (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CBE0,extended,00000000
 
-[Max Menace]
+[Max Menace (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CBE4,extended,0000270F
 
-[Max Combo]
+[Max Combo (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CBE8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (26)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CBF0,extended,00000001
 
-[Low Time]
+[Low Time (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CDBC,extended,00000000
 
-[No Damage]
+[No Damage (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CDC0,extended,00000000
 
-[Max Menace]
+[Max Menace (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CDC4,extended,0000270F
 
-[Max Combo]
+[Max Combo (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CDC8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (27)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CDD0,extended,00000001
 
-[Low Time]
+[Low Time (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CDEC,extended,00000000
 
-[No Damage]
+[No Damage (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CDF0,extended,00000000
 
-[Max Menace]
+[Max Menace (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CDF4,extended,0000270F
 
-[Max Combo]
+[Max Combo (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CDF8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (28)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CE00,extended,00000001
 
-[Low Time]
+[Low Time (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CE1C,extended,00000000
 
-[No Damage]
+[No Damage (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CE20,extended,00000000
 
-[Max Menace]
+[Max Menace (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CE24,extended,0000270F
 
-[Max Combo]
+[Max Combo (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CE28,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (29)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CE30,extended,00000001
 
-[Low Time]
+[Low Time (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074D044,extended,00000000
 
-[No Damage]
+[No Damage (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074D048,extended,00000000
 
-[Max Menace]
+[Max Menace (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074D04C,extended,0000270F
 
-[Max Combo]
+[Max Combo (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074D050,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (30)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074D058,extended,00000001
 
-[Low Time]
+[Low Time (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CBF4,extended,00000000
 
-[No Damage]
+[No Damage (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CBF8,extended,00000000
 
-[Max Menace]
+[Max Menace (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CBFC,extended,0000270F
 
-[Max Combo]
+[Max Combo (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CC00,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (31)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CC08,extended,00000001
 
-[Low Time]
+[Low Time (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CE04,extended,00000000
 
-[No Damage]
+[No Damage (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CE08,extended,00000000
 
-[Max Menace]
+[Max Menace (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CE0C,extended,0000270F
 
-[Max Combo]
+[Max Combo (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CE10,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (32)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CE18,extended,00000001
 
-[Low Time]
+[Low Time (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CE34,extended,00000000
 
-[No Damage]
+[No Damage (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CE38,extended,00000000
 
-[Max Menace]
+[Max Menace (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CE3C,extended,0000270F
 
-[Max Combo]
+[Max Combo (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CE40,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (33)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CE48,extended,00000001
 
-[Low Time]
+[Low Time (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CE64,extended,00000000
 
-[No Damage]
+[No Damage (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CE68,extended,00000000
 
-[Max Menace]
+[Max Menace (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CE6C,extended,0000270F
 
-[Max Combo]
+[Max Combo (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CE70,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (34)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CE78,extended,00000001
 
-[Low Time]
+[Low Time (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074D074,extended,00000000
 
-[No Damage]
+[No Damage (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074D078,extended,00000000
 
-[Max Menace]
+[Max Menace (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074D07C,extended,0000270F
 
-[Max Combo]
+[Max Combo (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074D080,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (35)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074D088,extended,00000001
 
-[Low Time]
+[Low Time (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CC0C,extended,00000000
 
-[No Damage]
+[No Damage (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CC10,extended,00000000
 
-[Max Menace]
+[Max Menace (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CC14,extended,0000270F
 
-[Max Combo]
+[Max Combo (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CC18,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (36)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CC20,extended,00000001
 
-[Low Time]
+[Low Time (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CE4C,extended,00000000
 
-[No Damage]
+[No Damage (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CE50,extended,00000000
 
-[Max Menace]
+[Max Menace (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CE54,extended,0000270F
 
-[Max Combo]
+[Max Combo (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CE58,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (37)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CE60,extended,00000001
 
-[Low Time]
+[Low Time (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CE7C,extended,00000000
 
-[No Damage]
+[No Damage (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CE80,extended,00000000
 
-[Max Menace]
+[Max Menace (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CE84,extended,0000270F
 
-[Max Combo]
+[Max Combo (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CE88,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (38)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CE90,extended,00000001
 
-[Low Time]
+[Low Time (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CE94,extended,00000000
 
-[No Damage]
+[No Damage (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CE98,extended,00000000
 
-[Max Menace]
+[Max Menace (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CE9C,extended,0000270F
 
-[Max Combo]
+[Max Combo (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CEA0,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (39)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CEA8,extended,00000001
 
-[Low Time]
+[Low Time (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074D05C,extended,00000000
 
-[No Damage]
+[No Damage (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074D060,extended,00000000
 
-[Max Menace]
+[Max Menace (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074D064,extended,0000270F
 
-[Max Combo]
+[Max Combo (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074D068,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (40)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074D070,extended,00000001
 
-[Low Time]
+[Low Time (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CC24,extended,00000000
 
-[No Damage]
+[No Damage (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CC28,extended,00000000
 
-[Max Menace]
+[Max Menace (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CC2C,extended,0000270F
 
-[Max Combo]
+[Max Combo (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CC30,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (41)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CC38,extended,00000001
 
-[Low Time]
+[Low Time (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CEC4,extended,00000000
 
-[No Damage]
+[No Damage (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CEC8,extended,00000000
 
-[Max Menace]
+[Max Menace (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CECC,extended,0000270F
 
-[Max Combo]
+[Max Combo (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CED0,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (42)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CED8,extended,00000001
 
-[Low Time]
+[Low Time (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CEAC,extended,00000000
 
-[No Damage]
+[No Damage (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CEB0,extended,00000000
 
-[Max Menace]
+[Max Menace (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CEB4,extended,0000270F
 
-[Max Combo]
+[Max Combo (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CEB8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (43)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CEC0,extended,00000001
 
-[Low Time]
+[Low Time (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CEF4,extended,00000000
 
-[No Damage]
+[No Damage (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CEF8,extended,00000000
 
-[Max Menace]
+[Max Menace (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CEFC,extended,0000270F
 
-[Max Combo]
+[Max Combo (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CF00,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (44)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CF08,extended,00000001
 
-[Low Time]
+[Low Time (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074D08C,extended,00000000
 
-[No Damage]
+[No Damage (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074D090,extended,00000000
 
-[Max Menace]
+[Max Menace (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074D094,extended,0000270F
 
-[Max Combo]
+[Max Combo (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074D098,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (45)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074D0A0,extended,00000001
 
-[Low Time]
+[Low Time (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CC3C,extended,00000000
 
-[No Damage]
+[No Damage (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CC40,extended,00000000
 
-[Max Menace]
+[Max Menace (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CC44,extended,0000270F
 
-[Max Combo]
+[Max Combo (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CC48,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (46)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CC50,extended,00000001
 
-[Low Time]
+[Low Time (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CEDC,extended,00000000
 
-[No Damage]
+[No Damage (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CEE0,extended,00000000
 
-[Max Menace]
+[Max Menace (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CEE4,extended,0000270F
 
-[Max Combo]
+[Max Combo (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CEE8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (47)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CEF0,extended,00000001
 
-[Low Time]
+[Low Time (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CF0C,extended,00000000
 
-[No Damage]
+[No Damage (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CF10,extended,00000000
 
-[Max Menace]
+[Max Menace (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CF14,extended,0000270F
 
-[Max Combo]
+[Max Combo (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CF18,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (48)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CF20,extended,00000001
 
-[Low Time]
+[Low Time (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CF3C,extended,00000000
 
-[No Damage]
+[No Damage (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CF40,extended,00000000
 
-[Max Menace]
+[Max Menace (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CF44,extended,0000270F
 
-[Max Combo]
+[Max Combo (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CF48,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (49)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CF50,extended,00000001
 
-[Low Time]
+[Low Time (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074D0A4,extended,00000000
 
-[No Damage]
+[No Damage (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074D0A8,extended,00000000
 
-[Max Menace]
+[Max Menace (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074D0AC,extended,0000270F
 
-[Max Combo]
+[Max Combo (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074D0B0,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (50)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074D0B8,extended,00000001
 
-[Low Time]
+[Low Time (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CC54,extended,00000000
 
-[No Damage]
+[No Damage (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CC58,extended,00000000
 
-[Max Menace]
+[Max Menace (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CC5C,extended,0000270F
 
-[Max Combo]
+[Max Combo (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CC60,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (51)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CC68,extended,00000001
 
-[Low Time]
+[Low Time (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CF54,extended,00000000
 
-[No Damage]
+[No Damage (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CF58,extended,00000000
 
-[Max Menace]
+[Max Menace (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CF5C,extended,0000270F
 
-[Max Combo]
+[Max Combo (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CF60,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (52)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CF68,extended,00000001
 
-[Low Time]
+[Low Time (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CF24,extended,00000000
 
-[No Damage]
+[No Damage (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CF28,extended,00000000
 
-[Max Menace]
+[Max Menace (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CF2C,extended,0000270F
 
-[Max Combo]
+[Max Combo (55)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CF30,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (53)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CF38,extended,00000001
 
-[Low Time]
+[Low Time (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CF84,extended,00000000
 
-[No Damage]
+[No Damage (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CF88,extended,00000000
 
-[Max Menace]
+[Max Menace (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CF8C,extended,0000270F
 
-[Max Combo]
+[Max Combo (56)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CF90,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (54)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CF98,extended,00000001
 
-[Low Time]
+[Low Time (55)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074D0BC,extended,00000000
 
-[No Damage]
+[No Damage (55)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074D0C0,extended,00000000
 
-[Max Menace]
+[Max Menace (55)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074D0C4,extended,0000270F
 
-[Max Combo]
+[Max Combo (57)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074D0C8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (55)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074D0D0,extended,00000001
 
-[Low Time]
+[Low Time (56)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CC6C,extended,00000000
 
-[No Damage]
+[No Damage (56)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CC70,extended,00000000
 
-[Max Menace]
+[Max Menace (56)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CC74,extended,0000270F
 
-[Max Combo]
+[Max Combo (58)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CC78,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (56)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CC80,extended,00000001
 
-[Low Time]
+[Low Time (57)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CF9C,extended,00000000
 
-[No Damage]
+[No Damage (57)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CFA0,extended,00000000
 
-[Max Menace]
+[Max Menace (57)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CFA4,extended,0000270F
 
-[Max Combo]
+[Max Combo (59)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CFA8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (57)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CFB0,extended,00000001
 
-[Low Time]
+[Low Time (58)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CF6C,extended,00000000
 
-[No Damage]
+[No Damage (58)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CF70,extended,00000000
 
-[Max Menace]
+[Max Menace (58)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CF74,extended,0000270F
 
-[Max Combo]
+[Max Combo (60)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CF78,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (58)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CF80,extended,00000001
 
-[Low Time]
+[Low Time (59)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074CFB4,extended,00000000
 
-[No Damage]
+[No Damage (59)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074CFB8,extended,00000000
 
-[Max Menace]
+[Max Menace (59)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074CFBC,extended,0000270F
 
-[Max Combo]
+[Max Combo (61)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074CFC0,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (59)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074CFC8,extended,00000001
 
-[Low Time]
+[Low Time (60)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074D0D4,extended,00000000
 
-[No Damage]
+[No Damage (60)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074D0D8,extended,00000000
 
-[Max Menace]
+[Max Menace (60)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074D0DC,extended,0000270F
 
-[Max Combo]
+[Max Combo (62)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074D0E0,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (60)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
 patch=1,EE,2074D0E8,extended,00000001
 
-[Low Time]
+[Low Time (61)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Low Time
 // Low Time
 patch=1,EE,2074D0EC,extended,00000000
 
-[No Damage]
+[No Damage (61)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Damage
 // No Damage
 patch=1,EE,2074D0F0,extended,00000000
 
-[Max Menace]
+[Max Menace (61)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Menace
 // Max Menace
 patch=1,EE,2074D0F4,extended,0000270F
 
-[Max Combo]
+[Max Combo (63)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Combo
 // Max Combo
 patch=1,EE,2074D0F8,extended,0000270F
 
-[Unlock Mission]
+[Unlock Mission (61)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission
 // Unlock Mission
@@ -2556,7 +2502,7 @@ description=Infinite Time
 // Infinite Time
 patch=1,EE,D05C660C,extended,00001041
 
-[Infinite Time]
+[Infinite Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Time
 // Infinite Time
@@ -2609,3 +2555,27 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always No Points P2
 // Always No Points P2
 patch=1,EE,206D1144,extended,00000000
+
+[Cheats\Sho Infinite Health]
+patch=1,EE,1074CA6A,extended,00000440
+patch=1,EE,1074CA68,extended,00000440
+
+[Cheats\Feaney Infinite Health]
+patch=1,EE,1074CAAC,extended,00000440
+patch=1,EE,1074CAAE,extended,00000440
+
+[Cheats\Infinite Origin Points Usage]
+patch=1,EE,D03EBA58,extended,0000C920
+patch=1,EE,203EBA64,extended,00000000
+
+[Cheats\Infinite Weapon Ammo]
+patch=1,EE,D046891C,extended,000029E4
+patch=1,EE,2046892C,extended,00000000
+
+[Cheats\Unlock All Missions]
+patch=1,EE,4074D0E8,extended,003C0006
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Have All Levels Cleared]
+patch=1,EE,2074CA1C,extended,FFFFFFFF
+patch=1,EE,2074CA20,extended,FFFFFFFF

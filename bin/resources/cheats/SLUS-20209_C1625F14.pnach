@@ -12,7 +12,7 @@ description=Infinite Damage
 // Infinite Damage
 patch=1,EE,2020E6E4,extended,AE00005C
 
-[Infinite Damage]
+[Infinite Damage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Damage
 // Infinite Damage
@@ -78,7 +78,7 @@ description=No Props
 // No Props
 patch=1,EE,0042CDAC,extended,00000000
 
-[No Props]
+[No Props (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Props
 // No Props
@@ -90,7 +90,7 @@ description=No Traffic
 // No Traffic
 patch=1,EE,0042CDAD,extended,00000000
 
-[No Traffic]
+[No Traffic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Traffic
 // No Traffic
@@ -102,17 +102,11 @@ description=No AI
 // No AI
 patch=1,EE,0042CDAF,extended,00000001
 
-[No AI]
+[No AI (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No AI
 // No AI
 patch=1,EE,004AC18B,extended,00000000
-
-[No Pedestrians]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Pedestrians
-// No Pedestrians
-patch=1,EE,0042CDAF,extended,00000001
 
 [No Pedestrians]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -138,7 +132,7 @@ description=Quick Win (Arcade Mode-Circuit)
 // Quick Win (Arcade Mode-Circuit)
 patch=1,EE,201AE674,extended,2441FFFF
 
-[Quick Win (Arcade Mode-Circuit)]
+[Quick Win (Arcade Mode-Circuit) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Win (Arcade Mode-Circuit)
 // Quick Win (Arcade Mode-Circuit)
@@ -150,31 +144,31 @@ description=Game Completed
 // Game Completed
 patch=1,EE,205B4C80,extended,FFFFFFFF
 
-[Game Completed]
+[Game Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Game Completed
 // Game Completed
 patch=1,EE,205B4C84,extended,FFFFFFFF
 
-[Game Completed]
+[Game Completed (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Game Completed
 // Game Completed
 patch=1,EE,205B4C88,extended,FFFFFFFF
 
-[Game Completed]
+[Game Completed (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Game Completed
 // Game Completed
 patch=1,EE,205B4C8C,extended,FFFFFFFF
 
-[Game Completed]
+[Game Completed (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Game Completed
 // Game Completed
 patch=1,EE,205B4C90,extended,FFFFFFFF
 
-[Game Completed]
+[Game Completed (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Game Completed
 // Game Completed

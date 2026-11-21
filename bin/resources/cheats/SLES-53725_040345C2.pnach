@@ -1,0 +1,26 @@
+gametitle=Astérix & Obélix XXL 2 - Mission - Las Vegum PAL-M SLES-53725 040345C2
+
+[Cheats\Infinite Health]
+patch=1,EE,207D2A5C,extended,00000003
+
+[Cheats\Invulnerable]
+patch=1,EE,202634F4,extended,00000000
+
+[Cheats\1 Hit Kill]
+patch=1,EE,2027AAC8,extended,10000005
+
+[Cheats\Instantly kill romans Activate Press R1+triangle Deactivate R1+X]
+patch=1,EE,202856B8,extended,24020006
+patch=1,EE,D058A602,extended,0000E7FF
+patch=1,EE,202856C0,extended,A08202B8
+patch=1,EE,D058A602,extended,0000B7FF
+patch=1,EE,202856C0,extended,00000000
+
+[Cheats\99,999,999 Roman Helmets]
+patch=1,EE,207D2A60,extended,05f5e0ff
+
+[NTSC Mode]
+author=GamingDragon93
+description=NTSC mode at start.
+patch=0,EE,0015FFE4,word,24030000
+//00134288 00134278 00134274

@@ -1,0 +1,4 @@
+gametitle=Lemony Snicket's A Series of Unfortunate Events [SLES-52807] [5B2962FD]
+
+[Cheats\Infinite Health]
+patch=1,EE,2043E2AC,extended,000042C8

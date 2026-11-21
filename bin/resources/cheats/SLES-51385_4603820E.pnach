@@ -1,0 +1,10 @@
+gametitle=Nickelodeon Rugrats - Rescate Real [SLES-51385] [4603820E]
+
+[Cheats\Infinite Little Batteries]
+patch=1,EE,204097C8,extended,00000063
+
+[Cheats\99999 Reptar Coins]
+patch=1,EE,204097C0,extended,000F423F
+
+[Cheats\9999999 Coins]
+patch=1,EE,204097BC,extended,000F423F

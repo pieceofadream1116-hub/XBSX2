@@ -1,0 +1,37 @@
+gametitle=Fallout - Brotherhood of Steel [SLES-51525] [69A026C0]
+
+[Cheats\Infinite Health]
+patch=1,EE,2015AB78,extended,E6620054
+
+[Cheats\Infinite Ammo]
+patch=1,EE,201A9534,extended,00000000
+
+[Cheats\Disable AI Ignore Enemy]
+patch=1,EE,20109AEC,extended,24020001
+
+[Cheats\Infinite Caps]
+patch=1,EE,201685CC,extended,0C03FFD0
+patch=1,EE,201685D0,extended,3C060090
+patch=1,EE,200FFF40,extended,AC660824
+patch=1,EE,200FFF44,extended,08071D42
+
+[Cheats\60 Hertz]
+patch=1,EE,201B8170,extended,24120002
+
+[Cheats\Infinite Health Player 1]
+patch=1,EE,20A60A94,extended,43C80000
+
+[Cheats\Infinite Health Player 2]
+patch=1,EE,20A61614,extended,43C80000
+
+[Cheats\Infinite Ammo P1]
+patch=1,EE,20A60BB4,extended,00000014
+
+[Cheats\Infinite Ammo P2]
+patch=1,EE,20A61734,extended,00000014
+
+[Cheats\Infinte Money P1]
+patch=1,EE,20A61264,extended,0098967F
+
+[Cheats\Infinte Money P2]
+patch=1,EE,20A61DE4,extended,0098967F

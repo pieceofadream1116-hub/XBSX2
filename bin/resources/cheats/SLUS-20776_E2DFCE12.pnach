@@ -72,12 +72,6 @@ description=Map Always On
 // Map Always On
 patch=1,EE,21A331AC,extended,00000001
 
-[Map Always Off]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Map Always Off
-// Map Always Off
-patch=1,EE,21A331AC,extended,00000001
-
 [Max Hero Points]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Hero Points
@@ -90,7 +84,7 @@ description=P1 Press {L1}+{SELECT} To Stop Timers Going Down
 // P1 Press {L1}+{SELECT} To Stop Timers Going Down
 patch=1,EE,D0608102,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Stop Timers Going Down]
+[P1 Press {L1}+{SELECT} To Stop Timers Going Down (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Stop Timers Going Down
 // P1 Press {L1}+{SELECT} To Stop Timers Going Down
@@ -102,7 +96,7 @@ description=P1 Press {L2}+{SELECT} To Restart Timers Going Down
 // P1 Press {L2}+{SELECT} To Restart Timers Going Down
 patch=1,EE,D0608102,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} To Restart Timers Going Down]
+[P1 Press {L2}+{SELECT} To Restart Timers Going Down (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To Restart Timers Going Down
 // P1 Press {L2}+{SELECT} To Restart Timers Going Down
@@ -114,7 +108,7 @@ description=P1 Press {R1}+{SELECT} To Stop Timers Going Up
 // P1 Press {R1}+{SELECT} To Stop Timers Going Up
 patch=1,EE,D0608102,extended,0000F7FE
 
-[P1 Press {R1}+{SELECT} To Stop Timers Going Up]
+[P1 Press {R1}+{SELECT} To Stop Timers Going Up (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{SELECT} To Stop Timers Going Up
 // P1 Press {R1}+{SELECT} To Stop Timers Going Up
@@ -126,7 +120,7 @@ description=P1 Press {R2}+{SELECT} To Restart Timers Going Up
 // P1 Press {R2}+{SELECT} To Restart Timers Going Up
 patch=1,EE,D0608102,extended,0000FDFE
 
-[P1 Press {R2}+{SELECT} To Restart Timers Going Up]
+[P1 Press {R2}+{SELECT} To Restart Timers Going Up (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+{SELECT} To Restart Timers Going Up
 // P1 Press {R2}+{SELECT} To Restart Timers Going Up
@@ -430,25 +424,13 @@ patch=1,EE,20A5FD74,extended,40800000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Combat Upgrades
 // All Combat Upgrades
-patch=1,EE,20A5FB40,extended,3F800000
-
-[All Combat Upgrades]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Combat Upgrades
-// All Combat Upgrades
 patch=1,EE,40A5FB64,extended,00170003
 
-[All Combat Upgrades]
+[All Combat Upgrades (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Combat Upgrades
 // All Combat Upgrades
 patch=1,EE,3F800000,extended,00000000
-
-[All Combat Upgrades]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Combat Upgrades
-// All Combat Upgrades
-patch=1,EE,20A5FD74,extended,40800000
 
 [Slingshot Jump]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -720,12 +702,6 @@ description=All Awards
 // All Awards
 patch=1,EE,40A60090,extended,00280001
 
-[All Awards]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Awards
-// All Awards
-patch=1,EE,3F800000,extended,00000000
-
 [Max Hint Markers Found]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Hint Markers Found
@@ -738,7 +714,7 @@ description=Find 1 Hit Marker For Quantity
 // Find 1 Hit Marker For Quantity
 patch=1,EE,D0A5FAAE,extended,00204354
 
-[Find 1 Hit Marker For Quantity]
+[Find 1 Hit Marker For Quantity (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Find 1 Hit Marker For Quantity
 // Find 1 Hit Marker For Quantity
@@ -756,7 +732,7 @@ description=Complete 1 Challenge For Max Completed
 // Complete 1 Challenge For Max Completed
 patch=1,EE,D0A5FAA6,extended,00204315
 
-[Complete 1 Challenge For Max Completed]
+[Complete 1 Challenge For Max Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Complete 1 Challenge For Max Completed
 // Complete 1 Challenge For Max Completed
@@ -774,7 +750,7 @@ description=Find 1 Secret Token For Max Quantity
 // Find 1 Secret Token For Max Quantity
 patch=1,EE,D0A5E50E,extended,00204294
 
-[Find 1 Secret Token For Max Quantity]
+[Find 1 Secret Token For Max Quantity (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Find 1 Secret Token For Max Quantity
 // Find 1 Secret Token For Max Quantity
@@ -792,7 +768,7 @@ description=Find 1 Skycraper Token For Max Quantity
 // Find 1 Skycraper Token For Max Quantity
 patch=1,EE,D0A5E512,extended,00204315
 
-[Find 1 Skycraper Token For Max Quantity]
+[Find 1 Skycraper Token For Max Quantity (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Find 1 Skycraper Token For Max Quantity
 // Find 1 Skycraper Token For Max Quantity
@@ -810,7 +786,7 @@ description=Find 1 Hideout Token For Max Quantity
 // Find 1 Hideout Token For Max Quantity
 patch=1,EE,D0A5E516,extended,00204210
 
-[Find 1 Hideout Token For Max Quantity]
+[Find 1 Hideout Token For Max Quantity (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Find 1 Hideout Token For Max Quantity
 // Find 1 Hideout Token For Max Quantity
@@ -828,7 +804,7 @@ description=Find 1 Buoy Token For Max Quantity
 // Find 1 Buoy Token For Max Quantity
 patch=1,EE,D0A5E51A,extended,00204301
 
-[Find 1 Buoy Token For Max Quantity]
+[Find 1 Buoy Token For Max Quantity (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Find 1 Buoy Token For Max Quantity
 // Find 1 Buoy Token For Max Quantity
@@ -846,7 +822,7 @@ description=Complete 1 Mega Challenge For Max Completed
 // Complete 1 Mega Challenge For Max Completed
 patch=1,EE,D0A5EDB2,extended,00204315
 
-[Complete 1 Mega Challenge For Max Completed]
+[Complete 1 Mega Challenge For Max Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Complete 1 Mega Challenge For Max Completed
 // Complete 1 Mega Challenge For Max Completed
@@ -1049,3 +1025,42 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Officer Assists
 // Max Officer Assists
 patch=1,EE,20A6008C,extended,4CBEBC20
+
+[Cheats\Infinite Health]
+patch=1,EE,20B31B98,extended,000003E8
+patch=1,EE,20B31BA0,extended,000003E8
+
+[Cheats\Infinite Spider Reflexes Use]
+patch=1,EE,202B0C1C,extended,00000000
+
+[Cheats\Max Hero Points After Getting Some]
+patch=1,EE,20A5EDDC,extended,497423F0
+
+[Cheats\Freeze Challenge Timer o]
+patch=1,EE,203781B4,extended,24020000
+
+[Cheats\Press L1+Select To Stop Timers Going Down]
+patch=1,EE,D0608102,extended,0000FBFE
+patch=1,EE,2037820C,extended,00000000
+
+[Cheats\P1 Press L2+Select To Restart Timers Going Down]
+patch=1,EE,D0608102,extended,0000FEFE
+patch=1,EE,2037820C,extended,E6200030
+
+[Cheats\P1 Press R1+Select To Stop Timers Going Up]
+patch=1,EE,D0608102,extended,0000F7FE
+patch=1,EE,2037822C,extended,00000000
+
+[Cheats\P1 Press R2+Select To Restart Timers Going Up]
+patch=1,EE,D0608102,extended,0000FDFE
+patch=1,EE,2037822C,extended,E6200030
+
+[Cheats\Unlock All Combat Upgrades]
+patch=1,EE,20A5FB40,extended,3F800000
+patch=1,EE,40A5FB64,extended,00170003
+patch=1,EE,3F800000,extended,00000000
+patch=1,EE,20A5FD74,extended,40800000
+
+[Cheats\Unlock All Awards]
+patch=1,EE,40A60090,extended,00280001
+patch=1,EE,3F800000,extended,00000000

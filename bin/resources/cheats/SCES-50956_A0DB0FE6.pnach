@@ -24,7 +24,7 @@ description=P1 Start On Lap 2
 // P1 Start On Lap 2
 patch=1,EE,D0372388,extended,00000000
 
-[P1 Start On Lap 2]
+[P1 Start On Lap 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Start On Lap 2
 // P1 Start On Lap 2
@@ -34,19 +34,7 @@ patch=1,EE,20372388,extended,00010001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Start On Lap 3
 // P1 Start On Lap 3
-patch=1,EE,D0372388,extended,00000000
-
-[P1 Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Start On Lap 3
-// P1 Start On Lap 3
 patch=1,EE,20372388,extended,00020002
-
-[P1 Start On Lap 4]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Start On Lap 4
-// P1 Start On Lap 4
-patch=1,EE,D0372388,extended,00000000
 
 [P1 Start On Lap 4]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -60,7 +48,7 @@ description=P2 Start On Lap 2
 // P2 Start On Lap 2
 patch=1,EE,D0372A78,extended,00000000
 
-[P2 Start On Lap 2]
+[P2 Start On Lap 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Start On Lap 2
 // P2 Start On Lap 2
@@ -70,19 +58,7 @@ patch=1,EE,20372A78,extended,00010001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Start On Lap 3
 // P2 Start On Lap 3
-patch=1,EE,D0372A78,extended,00000000
-
-[P2 Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Start On Lap 3
-// P2 Start On Lap 3
 patch=1,EE,20372A78,extended,00020002
-
-[P2 Start On Lap 4]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Start On Lap 4
-// P2 Start On Lap 4
-patch=1,EE,D0372A78,extended,00000000
 
 [P2 Start On Lap 4]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)

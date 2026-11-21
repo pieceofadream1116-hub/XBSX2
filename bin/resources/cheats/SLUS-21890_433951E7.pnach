@@ -1,0 +1,73 @@
+gametitle=Mana Khemia 2 - Fall Of Alchemy [SLUS-21890] [433951E7]
+
+[Cheats\Max Money]
+patch=1,EE,20C3CB80,extended,000F423F
+
+[Cheats\Max Infinite Unite Gauge Use After Unite Gauge Lesson Only]
+patch=1,EE,20258378,extended,240203E8
+
+[Cheats\Infinite HP & SP In Battle]
+patch=1,EE,200FF520,extended,AC84003C
+patch=1,EE,200FF524,extended,08083E99
+patch=1,EE,200FF528,extended,AC840040
+patch=1,EE,20254090,extended,0C03FD48
+
+[Cheats\Razeluxe Meitzen Infinite AP]
+patch=1,EE,10DE9B94,extended,00004000
+
+[Cheats\Ulrika Mulberry Infinite AP]
+patch=1,EE,10DE9D00,extended,00004000
+
+[Cheats\Chloe Hartzog Infinite AP]
+patch=1,EE,10DE9E6C,extended,00004000
+
+[Cheats\Lilianne Valendorf Infinite AP]
+patch=1,EE,10DE9FD8,extended,00004000
+
+[Cheats\Yun Infinite AP]
+patch=1,EE,10DEA144,extended,00004000
+
+[Cheats\Puniyo Infinite AP - Inf AP]
+patch=1,EE,10DEA2B0,extended,00004000
+
+[Cheats\Pepperoncino Infinite AP]
+patch=1,EE,10DEA41C,extended,00004000
+
+[Cheats\Etward Dysler Infinite AP]
+patch=1,EE,10DEA588,extended,00004000
+
+[Cheats\Ennarcia Dysler Infinite AP]
+patch=1,EE,10DEA6F4,extended,00004000
+
+[Cheats\Goto Infinite AP]
+patch=1,EE,10DEA860,extended,00004000
+
+[Cheats\Have 80 All Items No Key Items]
+patch=1,EE,40DEA9C8,extended,00970001
+patch=1,EE,77777777,extended,00000000
+patch=1,EE,40DEB3E8,extended,00970001
+patch=1,EE,50505050,extended,00000000
+
+[Cheats\All Items Max Ether levels]
+patch=1,EE,40DEB210,extended,00750001
+patch=1,EE,64646464,extended,00000000
+
+[Cheats\Max Finishing Gauge Select+L2=on Select+R2=off]
+patch=1,EE,E002FEFE,extended,00C4069C
+patch=1,EE,1025862E,extended,0000AE10
+patch=1,EE,00258632,extended,00000010
+patch=1,EE,E002FDFE,extended,00C4069C
+patch=1,EE,1025862E,extended,00008E0F
+patch=1,EE,00258632,extended,0000000F
+
+[Cheats\Mission timer Doesn't Increase R2+up=ON R2+down=OFF]
+patch=1,EE,D0C4069C,extended,0000FDEF
+patch=1,EE,001F6198,extended,00000001
+patch=1,EE,D0C4069C,extended,0000FDBF
+patch=1,EE,001F6198,extended,00000000
+
+[Cheats\Monsters dont see you R2+up=ON R2+down=OFF]
+patch=1,EE,D0C4069C,extended,0000FDEF
+patch=1,EE,001C12EF,extended,00000000
+patch=1,EE,D0C4069C,extended,0000FDBF
+patch=1,EE,001C12EF,extended,00000002

@@ -1,0 +1,6 @@
+gametitle=DreamWorks Madagascar [SLES-53227] [1468C474]
+
+[Cheats\Buy Even Without Coins At The Zoovenir]
+patch=1,EE,201421BC,extended,0000102D
+patch=1,EE,D0BDC768,extended,00000045
+patch=1,EE,201421BC,extended,00000000

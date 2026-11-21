@@ -1,0 +1,5 @@
+gametitle=Call of Duty 2 - Big Red One [SLPM-66328] [0C677270]
+
+[Cheats\Unlock All Bonus]
+patch=1,EE,20394A74,extended,0000000E
+patch=1,EE,20394A78,extended,0000000E

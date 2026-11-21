@@ -1,0 +1,5 @@
+gametitle=Que ～エンシェントリーフの妖精～ [通常版] [SLPM-66757] [5C7B0D6A]
+
+[Cheats\Unlock All Extra]
+patch=1,EE,41CD0698,extended,000C0001
+patch=1,EE,FFFFFFFF,extended,00000000

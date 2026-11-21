@@ -1,0 +1,9 @@
+gametitle=Formula One 2002 [SCES-51004] [BF513E01]
+
+[Cheats\Unlock SCTA Mode]
+patch=1,EE,408CE1C4,extended,00110001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock All Gallery]
+patch=1,EE,408CE138,extended,00230001
+patch=1,EE,00000001,extended,00000000

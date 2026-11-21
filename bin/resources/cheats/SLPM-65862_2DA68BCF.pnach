@@ -1,0 +1,5 @@
+gametitle=ぴゅあぴゅあ 耳としっぽのものがたり [SLPM-65862] [2DA68BCF]
+
+[Cheats\Unlock All CG]
+patch=1,EE,41625914,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000

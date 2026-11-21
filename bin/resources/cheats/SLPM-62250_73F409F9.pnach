@@ -1,0 +1,7 @@
+gametitle=SIMPLE2000シリーズ ハローキティ Vol.2 みんなですごろく ～不思議な世界の仲良しすごろく～ [SLPM-62250] [73F409F9]
+
+[Cheats\Player 1 Has Always 5 Movement Stars]
+patch=1,EE,203178B8,extended,00000005
+
+[Cheats\Opponent has Always 0 Movement Stars]
+patch=1,EE,203178BC,extended,00000000

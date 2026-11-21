@@ -1,0 +1,4 @@
+gametitle=猛獣使いと王子様 [SLPM-55264] [9061E366]
+
+[Cheats\Unlock All Gallery]
+patch=1,EE,015F90BB,extended,00000000

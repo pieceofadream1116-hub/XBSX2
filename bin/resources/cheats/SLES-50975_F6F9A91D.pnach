@@ -12,13 +12,13 @@ description=Never Freeze To Death
 // Never Freeze To Death
 patch=1,EE,204194D4,extended,AE0004A4
 
-[Never Freeze To Death]
+[Never Freeze To Death (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Freeze To Death
 // Never Freeze To Death
 patch=1,EE,204194DC,extended,AE0004A4
 
-[Never Freeze To Death]
+[Never Freeze To Death (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Freeze To Death
 // Never Freeze To Death
@@ -30,7 +30,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,2041901C,extended,3C0142C8
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -42,14 +42,28 @@ description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,20798BF0,extended,2401000A
 
-[Infinite Ammo]
+[Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,20798BF4,extended,00310818
 
-[Infinite Ammo]
+[Infinite Ammo (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,20798C04,extended,AD210010
+
+[Cheats\Infinite Health]
+patch=1,EE,20419184,extended,3C0141F0
+patch=1,EE,2041918C,extended,44810000
+patch=1,EE,20419194,extended,AE01009C
+
+[Cheats\Never Cold]
+patch=1,EE,20419630,extended,44800000
+
+[Cheats\Unlock Infinite Ammo]
+patch=1,EE,2050A6D0,extended,240303E7
+
+[Cheats\Unlock New Game For Level Select]
+patch=1,EE,10691BC4,extended,00005A98

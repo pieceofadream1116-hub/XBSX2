@@ -12,13 +12,13 @@ description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,20328630,extended,43FA0000
 
-[Infinite Health P1]
+[Infinite Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,20328638,extended,43FA0000
 
-[Infinite Health P1]
+[Infinite Health P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1
 // Infinite Health P1
@@ -28,21 +28,15 @@ patch=1,EE,20328640,extended,43FA0000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P1
 // 75% Health P1
-patch=1,EE,20328630,extended,43FA0000
-
-[75% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=75% Health P1
-// 75% Health P1
 patch=1,EE,E00243BB,extended,3032863A
 
-[75% Health P1]
+[75% Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P1
 // 75% Health P1
 patch=1,EE,20328638,extended,43BB8000
 
-[75% Health P1]
+[75% Health P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P1
 // 75% Health P1
@@ -52,21 +46,15 @@ patch=1,EE,20328640,extended,43BB8000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P1
 // 50% Health P1
-patch=1,EE,20328630,extended,43FA0000
-
-[50% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=50% Health P1
-// 50% Health P1
 patch=1,EE,E002437A,extended,3032863A
 
-[50% Health P1]
+[50% Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P1
 // 50% Health P1
 patch=1,EE,20328638,extended,437A0000
 
-[50% Health P1]
+[50% Health P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P1
 // 50% Health P1
@@ -76,21 +64,15 @@ patch=1,EE,20328640,extended,437A0000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P1
 // 25% Health P1
-patch=1,EE,20328630,extended,43FA0000
-
-[25% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=25% Health P1
-// 25% Health P1
 patch=1,EE,E00242FA,extended,3032863A
 
-[25% Health P1]
+[25% Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P1
 // 25% Health P1
 patch=1,EE,20328638,extended,42FA0000
 
-[25% Health P1]
+[25% Health P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P1
 // 25% Health P1
@@ -100,21 +82,15 @@ patch=1,EE,20328640,extended,42FA0000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death P1
 // 1-Hit Death P1
-patch=1,EE,20328630,extended,43FA0000
-
-[1-Hit Death P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=1-Hit Death P1
-// 1-Hit Death P1
 patch=1,EE,E0023F80,extended,3032863A
 
-[1-Hit Death P1]
+[1-Hit Death P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death P1
 // 1-Hit Death P1
 patch=1,EE,20328638,extended,3F800000
 
-[1-Hit Death P1]
+[1-Hit Death P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death P1
 // 1-Hit Death P1
@@ -124,15 +100,9 @@ patch=1,EE,20328640,extended,3F800000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Health P1
 // No Health P1
-patch=1,EE,20328630,extended,43FA0000
-
-[No Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P1
-// No Health P1
 patch=1,EE,20328638,extended,00000000
 
-[No Health P1]
+[No Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Health P1
 // No Health P1
@@ -144,13 +114,13 @@ description=Infinite Health P2
 // Infinite Health P2
 patch=1,EE,20328634,extended,43FA0000
 
-[Infinite Health P2]
+[Infinite Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P2
 // Infinite Health P2
 patch=1,EE,2032863C,extended,43FA0000
 
-[Infinite Health P2]
+[Infinite Health P2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P2
 // Infinite Health P2
@@ -160,21 +130,15 @@ patch=1,EE,20328644,extended,43FA0000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P2
 // 75% Health P2
-patch=1,EE,20328634,extended,43FA0000
-
-[75% Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=75% Health P2
-// 75% Health P2
 patch=1,EE,E00243BB,extended,3032863E
 
-[75% Health P2]
+[75% Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P2
 // 75% Health P2
 patch=1,EE,2032863C,extended,43BB8000
 
-[75% Health P2]
+[75% Health P2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P2
 // 75% Health P2
@@ -184,21 +148,15 @@ patch=1,EE,20328644,extended,43BB8000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P2
 // 50% Health P2
-patch=1,EE,20328634,extended,43FA0000
-
-[50% Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=50% Health P2
-// 50% Health P2
 patch=1,EE,E002437A,extended,3032863E
 
-[50% Health P2]
+[50% Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P2
 // 50% Health P2
 patch=1,EE,2032863C,extended,437A0000
 
-[50% Health P2]
+[50% Health P2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=50% Health P2
 // 50% Health P2
@@ -208,21 +166,15 @@ patch=1,EE,20328644,extended,437A0000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P2
 // 25% Health P2
-patch=1,EE,20328634,extended,43FA0000
-
-[25% Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=25% Health P2
-// 25% Health P2
 patch=1,EE,E00242FA,extended,3032863E
 
-[25% Health P2]
+[25% Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P2
 // 25% Health P2
 patch=1,EE,2032863C,extended,42FA0000
 
-[25% Health P2]
+[25% Health P2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P2
 // 25% Health P2
@@ -232,21 +184,15 @@ patch=1,EE,20328644,extended,42FA0000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death P2
 // 1-Hit Death P2
-patch=1,EE,20328634,extended,43FA0000
-
-[1-Hit Death P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=1-Hit Death P2
-// 1-Hit Death P2
 patch=1,EE,E0023F80,extended,3032863E
 
-[1-Hit Death P2]
+[1-Hit Death P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death P2
 // 1-Hit Death P2
 patch=1,EE,2032863C,extended,3F800000
 
-[1-Hit Death P2]
+[1-Hit Death P2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death P2
 // 1-Hit Death P2
@@ -256,15 +202,9 @@ patch=1,EE,20328644,extended,3F800000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Health P2
 // No Health P2
-patch=1,EE,20328634,extended,43FA0000
-
-[No Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P2
-// No Health P2
 patch=1,EE,2032863C,extended,00000000
 
-[No Health P2]
+[No Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Health P2
 // No Health P2
@@ -276,7 +216,7 @@ description=Hella Starting CDP's
 // Hella Starting CDP's
 patch=1,EE,201377AC,extended,3C0205F6
 
-[Hella Starting CDP's]
+[Hella Starting CDP's (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hella Starting CDP's
 // Hella Starting CDP's
@@ -336,7 +276,7 @@ description=Max All Stats
 // Max All Stats
 patch=1,EE,40905F64,extended,00040001
 
-[Max All Stats]
+[Max All Stats (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
@@ -365,18 +305,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Super Max Technique
 // Super Max Technique
 patch=1,EE,20905F70,extended,000003E8
-
-[Super Max All Stats]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Super Max All Stats
-// Super Max All Stats
-patch=1,EE,40905F64,extended,00040001
-
-[Super Max All Stats]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Super Max All Stats
-// Super Max All Stats
-patch=1,EE,00000064,extended,00000000
 
 [Tyler]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -468,31 +396,31 @@ description=All Movies
 // All Movies
 patch=1,EE,4046E3D4,extended,000E0001
 
-[All Movies]
+[All Movies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Movies
 // All Movies
 patch=1,EE,00000001,extended,00000000
 
-[Fred]
+[Fred (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fred
 // Fred
 patch=1,EE,2046E434,extended,00000001
 
-[Halo]
+[Halo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Halo
 // Halo
 patch=1,EE,2046E438,extended,00000001
 
-[Abe]
+[Abe (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Abe
 // Abe
 patch=1,EE,2046E43C,extended,00000001
 
-[Chesler]
+[Chesler (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chesler
 // Chesler
@@ -504,8 +432,10 @@ description=All Characters
 // All Characters
 patch=1,EE,4046E434,extended,00040001
 
-[All Characters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Characters
-// All Characters
+[Cheats\Infinite Health Player 1]
+patch=1,EE,20328638,extended,43FA0000
+patch=1,EE,20328640,extended,43FA0000
+
+[Cheats\Unlock All Movies]
+patch=1,EE,4046E3D4,extended,000E0001
 patch=1,EE,00000001,extended,00000000

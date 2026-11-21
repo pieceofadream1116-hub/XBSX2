@@ -30,7 +30,7 @@ description=P1 Press {L1}+{SELECT} For Infinite Food Usage On
 // P1 Press {L1}+{SELECT} For Infinite Food Usage On
 patch=1,EE,D04ED3CE,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} For Infinite Food Usage On]
+[P1 Press {L1}+{SELECT} For Infinite Food Usage On (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} For Infinite Food Usage On
 // P1 Press {L1}+{SELECT} For Infinite Food Usage On
@@ -42,7 +42,7 @@ description=P1 Press {L2}+{SELECT} For Infinite Food Usage Off
 // P1 Press {L2}+{SELECT} For Infinite Food Usage Off
 patch=1,EE,D04ED3CE,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} For Infinite Food Usage Off]
+[P1 Press {L2}+{SELECT} For Infinite Food Usage Off (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} For Infinite Food Usage Off
 // P1 Press {L2}+{SELECT} For Infinite Food Usage Off
@@ -54,7 +54,7 @@ description=Infinite HP P1
 // Infinite HP P1
 patch=1,EE,105EE94C,extended,000003E7
 
-[Infinite HP P1]
+[Infinite HP P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP P1
 // Infinite HP P1
@@ -72,7 +72,7 @@ description=No HP P1
 // No HP P1
 patch=1,EE,105EE94C,extended,00000000
 
-[No HP P1]
+[No HP P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No HP P1
 // No HP P1
@@ -102,13 +102,13 @@ description=P1 Press {L1}+{SELECT} For No HP P2
 // P1 Press {L1}+{SELECT} For No HP P2
 patch=1,EE,E002FBFE,extended,004ED402
 
-[P1 Press {L1}+{SELECT} For No HP P2]
+[P1 Press {L1}+{SELECT} For No HP P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} For No HP P2
 // P1 Press {L1}+{SELECT} For No HP P2
 patch=1,EE,105EF44C,extended,00000000
 
-[P1 Press {L1}+{SELECT} For No HP P2]
+[P1 Press {L1}+{SELECT} For No HP P2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} For No HP P2
 // P1 Press {L1}+{SELECT} For No HP P2
@@ -120,31 +120,13 @@ description=P1 Press {R1}+{SELECT} For Full HP P1
 // P1 Press {R1}+{SELECT} For Full HP P1
 patch=1,EE,E003F7FE,extended,004ED402
 
-[P1 Press {R1}+{SELECT} For Full HP P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {R1}+{SELECT} For Full HP P1
-// P1 Press {R1}+{SELECT} For Full HP P1
-patch=1,EE,105EE94C,extended,000003E7
-
-[P1 Press {R1}+{SELECT} For Full HP P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {R1}+{SELECT} For Full HP P1
-// P1 Press {R1}+{SELECT} For Full HP P1
-patch=1,EE,205F65C0,extended,03E703E7
-
-[P1 Press {R1}+{SELECT} For Full HP P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {R1}+{SELECT} For Full HP P1
-// P1 Press {R1}+{SELECT} For Full HP P1
-patch=1,EE,105F65C8,extended,000003E7
-
 [Infinite HP P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP P2
 // Infinite HP P2
 patch=1,EE,105EF44C,extended,000003E7
 
-[Infinite HP P2]
+[Infinite HP P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP P2
 // Infinite HP P2
@@ -155,18 +137,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP P2
 // Max HP P2
 patch=1,EE,105F667C,extended,000003E7
-
-[No HP P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No HP P2
-// No HP P2
-patch=1,EE,105EF44C,extended,00000000
-
-[No HP P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No HP P2
-// No HP P2
-patch=1,EE,205F6674,extended,00000000
 
 [Low Max HP P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -192,41 +162,11 @@ description=P2 Press {L1}+{SELECT} For No HP P1
 // P2 Press {L1}+{SELECT} For No HP P1
 patch=1,EE,E002FBFE,extended,004ED602
 
-[P2 Press {L1}+{SELECT} For No HP P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L1}+{SELECT} For No HP P1
-// P2 Press {L1}+{SELECT} For No HP P1
-patch=1,EE,105EE94C,extended,00000000
-
-[P2 Press {L1}+{SELECT} For No HP P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L1}+{SELECT} For No HP P1
-// P2 Press {L1}+{SELECT} For No HP P1
-patch=1,EE,205F65C0,extended,00000000
-
 [P2 Press {R1}+{SELECT} For Full HP P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {R1}+{SELECT} For Full HP P2
 // P2 Press {R1}+{SELECT} For Full HP P2
 patch=1,EE,E003F7FE,extended,004ED602
-
-[P2 Press {R1}+{SELECT} For Full HP P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R1}+{SELECT} For Full HP P2
-// P2 Press {R1}+{SELECT} For Full HP P2
-patch=1,EE,105EF44C,extended,000003E7
-
-[P2 Press {R1}+{SELECT} For Full HP P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R1}+{SELECT} For Full HP P2
-// P2 Press {R1}+{SELECT} For Full HP P2
-patch=1,EE,205F6674,extended,03E703E7
-
-[P2 Press {R1}+{SELECT} For Full HP P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R1}+{SELECT} For Full HP P2
-// P2 Press {R1}+{SELECT} For Full HP P2
-patch=1,EE,105F667C,extended,000003E7
 
 [Mushroom]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -1067,3 +1007,31 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pamphlet
 // Pamphlet
 patch=1,EE,0065B487,extended,00000001
+
+[Cheats\Infinite HP Player 1 In Battle]
+patch=1,EE,105EE94C,extended,000003E7
+patch=1,EE,205F65C0,extended,03E703E7
+patch=1,EE,105F65C8,extended,000003E7
+
+[Cheats\Player 1 Press L1+Select No HP Player 2 In Battle]
+patch=1,EE,E002FBFE,extended,004ED402
+patch=1,EE,105EF44C,extended,00000000
+patch=1,EE,205F6674,extended,00000000
+
+[Cheats\Monster 1-5 Infinite Health]
+patch=1,EE,1065B77A,extended,000003E7
+patch=1,EE,1065C14E,extended,000003E7
+patch=1,EE,1065D4F6,extended,000003E7
+patch=1,EE,1065CB22,extended,000003E7
+patch=1,EE,1065DECA,extended,000003E7
+
+[Cheats\Unlock All Book with all monsters]
+patch=1,EE,40659AE8,extended,014F0003
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock Fill Gadget Shop]
+patch=1,EE,2065B580,extended,FFFFFFFF
+patch=1,EE,2065B584,extended,FFFFFFFF
+patch=1,EE,2065B588,extended,FFFFFFFF
+patch=1,EE,1065B58C,extended,0000FFFF
+patch=1,EE,0065B58E,extended,000000FF

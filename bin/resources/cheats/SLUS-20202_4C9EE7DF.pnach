@@ -36,7 +36,7 @@ description=Press {R1}+{R2} For Turbo Speed
 // Press {R1}+{R2} For Turbo Speed
 patch=1,EE,D047B408,extended,0000000A
 
-[Press {R1}+{R2} For Turbo Speed]
+[Press {R1}+{R2} For Turbo Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {R1}+{R2} For Turbo Speed
 // Press {R1}+{R2} For Turbo Speed
@@ -48,7 +48,7 @@ description=Press {L1}+{L2} For Ultra Turbo Speed
 // Press {L1}+{L2} For Ultra Turbo Speed
 patch=1,EE,D047B408,extended,00000005
 
-[Press {L1}+{L2} For Ultra Turbo Speed]
+[Press {L1}+{L2} For Ultra Turbo Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{L2} For Ultra Turbo Speed
 // Press {L1}+{L2} For Ultra Turbo Speed
@@ -60,7 +60,7 @@ description=Press {L1}+{R1} For More Time
 // Press {L1}+{R1} For More Time
 patch=1,EE,D047B408,extended,0000000C
 
-[Press {L1}+{R1} For More Time]
+[Press {L1}+{R1} For More Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{R1} For More Time
 // Press {L1}+{R1} For More Time
@@ -72,7 +72,7 @@ description=Press {L1}+{R2} For No Time
 // Press {L1}+{R2} For No Time
 patch=1,EE,D047B408,extended,00000003
 
-[Press {L1}+{R2} For No Time]
+[Press {L1}+{R2} For No Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{R2} For No Time
 // Press {L1}+{R2} For No Time
@@ -90,17 +90,11 @@ description=Axel
 // Axel
 patch=1,EE,D047C798,extended,00000150
 
-[Axel]
+[Axel (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axel
 // Axel
 patch=1,EE,002FCC98,extended,00000001
-
-[BD Joe]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=BD Joe
-// BD Joe
-patch=1,EE,D047C798,extended,00000150
 
 [BD Joe]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -112,22 +106,38 @@ patch=1,EE,002FCC98,extended,00000002
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Gena
 // Gena
-patch=1,EE,D047C798,extended,00000150
-
-[Gena]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Gena
-// Gena
 patch=1,EE,002FCC98,extended,00000003
 
 [Gus]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Gus
 // Gus
-patch=1,EE,D047C798,extended,00000150
+patch=1,EE,002FCC98,extended,00000004
 
-[Gus]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Gus
-// Gus
+[Cheats\Press R1+R2 For Turbo Speed]
+patch=1,EE,D047B408,extended,0000000A
+patch=1,EE,1030A55A,extended,00004600
+
+[Cheats\Press L1+R1 For More Time]
+patch=1,EE,D047B408,extended,0000000C
+patch=1,EE,102F03CC,extended,00001FFF
+
+[Cheats\Press L2+R2 For No Time]
+patch=1,EE,D047B408,extended,00000003
+patch=1,EE,102F03CC,extended,00000000
+
+[Cheats\Character Modifier Axel Arcade Mode]
+patch=1,EE,D047C798,extended,00000150
+patch=1,EE,002FCC98,extended,00000001
+
+[Cheats\Character Modifier BD Joe Arcade Mode]
+patch=1,EE,D047C798,extended,00000150
+patch=1,EE,002FCC98,extended,00000002
+
+[Cheats\Character Modifier Gena Arcade Mode]
+patch=1,EE,D047C798,extended,00000150
+patch=1,EE,002FCC98,extended,00000003
+
+[Cheats\Character Modifier Gus Arcade Mode]
+patch=1,EE,D047C798,extended,00000150
 patch=1,EE,002FCC98,extended,00000004

@@ -36,19 +36,19 @@ description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,D0252E98,extended,0003000A
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,10252E98,extended,00000001
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,D02536F8,extended,0003000A
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
@@ -600,7 +600,7 @@ description=Priest's Writings 4
 // Priest's Writings 4
 patch=1,EE,00254439,extended,00000003
 
-[Unknown 2]
+[Unknown 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 2
 // Unknown 2
@@ -630,7 +630,7 @@ description=Old Diary Scrap 4
 // Old Diary Scrap 4
 patch=1,EE,0025443E,extended,00000003
 
-[Unknown 3]
+[Unknown 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 3
 // Unknown 3
@@ -660,7 +660,7 @@ description=Yae's Death Note
 // Yae's Death Note
 patch=1,EE,00254443,extended,00000003
 
-[Unknown 4]
+[Unknown 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 4
 // Unknown 4
@@ -708,7 +708,7 @@ description=Black Notebook Scrap 6
 // Black Notebook Scrap 6
 patch=1,EE,0025444B,extended,00000003
 
-[Unknown 5]
+[Unknown 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 5
 // Unknown 5
@@ -756,7 +756,7 @@ description=Red Notebook Scrap 7
 // Red Notebook Scrap 7
 patch=1,EE,00254453,extended,00000003
 
-[Unknown 6]
+[Unknown 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 6
 // Unknown 6
@@ -792,7 +792,7 @@ description=Research Notes 5
 // Research Notes 5
 patch=1,EE,00254459,extended,00000003
 
-[Unknown]
+[Unknown (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown
 // Unknown
@@ -810,13 +810,13 @@ description=Mask On The Pillar
 // Mask On The Pillar
 patch=1,EE,0025445C,extended,00000003
 
-[Unknown 2]
+[Unknown 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 2
 // Unknown 2
 patch=1,EE,0025445D,extended,00000003
 
-[Unknown 3]
+[Unknown 3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 3
 // Unknown 3
@@ -828,31 +828,31 @@ description=Shinto Gate In Photo
 // Shinto Gate In Photo
 patch=1,EE,0025445F,extended,00000003
 
-[Unknown 4]
+[Unknown 4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 4
 // Unknown 4
 patch=1,EE,00254460,extended,00000003
 
-[Unknown 5]
+[Unknown 5 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 5
 // Unknown 5
 patch=1,EE,00254461,extended,00000003
 
-[Unknown 6]
+[Unknown 6 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 6
 // Unknown 6
 patch=1,EE,00254462,extended,00000003
 
-[Unknown 7]
+[Unknown 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 7
 // Unknown 7
 patch=1,EE,00254463,extended,00000003
 
-[Unknown 8]
+[Unknown 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 8
 // Unknown 8
@@ -864,7 +864,7 @@ description=Storehouse?
 // Storehouse?
 patch=1,EE,00254465,extended,00000003
 
-[Unknown 9]
+[Unknown 9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unknown 9
 // Unknown 9
@@ -1128,7 +1128,7 @@ description=Have All Bonus Camera Options
 // Have All Bonus Camera Options
 patch=1,EE,00265CEB,extended,00000002
 
-[Have All Bonus Camera Options]
+[Have All Bonus Camera Options (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Bonus Camera Options
 // Have All Bonus Camera Options
@@ -1140,8 +1140,85 @@ description=Have All Special Camera Options
 // Have All Special Camera Options
 patch=1,EE,20265CF0,extended,02020202
 
-[Have All Special Camera Options]
+[Have All Special Camera Options (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Special Camera Options
 // Have All Special Camera Options
 patch=1,EE,00265CF4,extended,00000002
+
+[Viewfinder Stick Swap]
+author=DAOWAce
+description=Swaps the analog stick functions while using the Camera Obscura viewfinder.
+
+// Duplicate source label from 339A0B8C - Fatal Frame SLUS-20388.pnach: [Cheats\Viewfinder Stick Swap]
+patch=1,EE,2018B144,extended,90620193
+patch=1,EE,2018B158,extended,90620194
+patch=1,EE,2020B1A8,extended,24040000
+
+[Cheats\1 Hit Kill Enemies]
+patch=1,EE,D0252E98,extended,0003000A
+patch=1,EE,10252E98,extended,00000001
+patch=1,EE,D02536F8,extended,0003000A
+patch=1,EE,102536F8,extended,00000001
+
+[Cheats\Freeze Ghost L2+Up On L2+Right Off]
+patch=1,EE,D0252402,extended,00400110
+patch=1,EE,00252e93,extended,00000010
+patch=1,EE,D0252402,extended,00400120
+patch=1,EE,00252e93,extended,00000000
+
+[Cheats\Chapter Skip Intro with Mafuyu Press L2+Up]
+patch=1,EE,D0252402,extended,0000FEEF
+patch=1,EE,00252A74,extended,00000000
+
+[Cheats\Chapter Skip1st Night Press L2+Right]
+patch=1,EE,D0252402,extended,0000FEDF
+patch=1,EE,00252A74,extended,00000001
+
+[Cheats\Chapter Skip 2nd Nigh Press L2+Down]
+patch=1,EE,D0252402,extended,0000FEBF
+patch=1,EE,00252A74,extended,00000002
+
+[Cheats\Chapter Skip 3rd Nigh Press L2+Left]
+patch=1,EE,D0252402,extended,0000FE7F
+patch=1,EE,00252A74,extended,00000003
+
+[Cheats\Chapter Skip Final Nigh Press R2 + Up while playing to instantly go to that chapter]
+patch=1,EE,D0252402,extended,0000FDEF
+patch=1,EE,00252A74,extended,00000004
+
+[Cheats\Press R2 + Righ while Playing to Instantly go to that Chapter]
+patch=1,EE,D0252402,extended,0000FDDF
+patch=1,EE,00252A70,extended,00000000
+
+[Cheats\Have All Bonus Camera Options]
+patch=1,EE,00265CEB,extended,00000002
+patch=1,EE,20265CEC,extended,02020202
+
+[Cheats\Have All Special Camera Options]
+patch=1,EE,20265CF0,extended,02020202
+patch=1,EE,00265CF4,extended,00000002
+
+[Cheats\Press L3 For Unused Main Menu]
+patch=1,EE,D0252402,extended,0000FFFD
+patch=1,EE,00343074,extended,00000005
+patch=1,EE,00357BEA,extended,00000000
+patch=1,EE,20212FB0,extended,00000000
+patch=1,EE,20214618,extended,0809015A
+patch=1,EE,20240568,extended,80620007
+patch=1,EE,2024056C,extended,24420001
+patch=1,EE,20240570,extended,2C410003
+patch=1,EE,20240574,extended,14200003
+patch=1,EE,20240578,extended,24010000
+patch=1,EE,2024057C,extended,A0600007
+patch=1,EE,20240580,extended,0020102D
+patch=1,EE,20240584,extended,08085188
+patch=1,EE,20240588,extended,00000000
+
+[Cheats\Press Square For Battle Mode Menu]
+patch=1,EE,D0252402,extended,00007FFF
+patch=1,EE,0025237C,extended,00000009
+patch=1,EE,20352E24,extended,002406A0
+patch=1,EE,202406A0,extended,DFBF0000
+patch=1,EE,202406A4,extended,08087366
+patch=1,EE,202406A8,extended,27BD0010

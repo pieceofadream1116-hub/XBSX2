@@ -1,0 +1,4 @@
+gametitle=カフェ・リトルウィッシュ ～魔法のレシピ～ [SLPM-65295] [EEDBD08C]
+
+[Cheats\Unlock All Extra]
+patch=1,EE,40185CF0,extended,02000001

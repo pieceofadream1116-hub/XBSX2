@@ -1,0 +1,5 @@
+gametitle=ef - A Fairy Tale of the Two. [初回限定特別同梱版] [SLPM-55240] [E25788A9]
+
+[Cheats\Press SELECT at Start new game Unlock All MEMORIES CG VIEWER AND cHAPTER SELECT]
+patch=1,EE,D04AD050,extended,00000001
+patch=1,EE,01CE36DC,extended,00000003

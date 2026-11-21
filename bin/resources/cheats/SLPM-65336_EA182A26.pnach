@@ -1,0 +1,8 @@
+gametitle=K-1 WORLD GRAND PRIX THE BEAST ATTACK！ [SLPM-65336] [EA182A26]
+
+[Cheats\Infinite Health P1]
+patch=1,EE,2024DB3C,extended,447A0000
+
+[Cheats\All Fighting Museum]
+patch=1,EE,4040503C,extended,00190001
+patch=1,EE,01010101,extended,00000000

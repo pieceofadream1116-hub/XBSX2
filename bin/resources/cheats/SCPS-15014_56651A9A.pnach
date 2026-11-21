@@ -1,0 +1,4 @@
+gametitle=げんしのことば [SCPS-15014] [56651A9A]
+
+[Cheats\Max FP]
+patch=1,EE,001ECE9C,extended,00000000

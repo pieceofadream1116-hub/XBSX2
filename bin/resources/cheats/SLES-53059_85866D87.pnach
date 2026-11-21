@@ -1,0 +1,7 @@
+gametitle=Samurai Shodown V [SLES-53059] [85866D87]
+
+[Cheats\Infinite HP]
+patch=1,EE,01630DE4,extended,0000007D
+
+[Cheats\Infinite Power]
+patch=1,EE,01630DEF,extended,00000040

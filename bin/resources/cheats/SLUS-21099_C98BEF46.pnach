@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,201E8C3C,extended,24030064
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -108,7 +108,7 @@ description=Unlock All Concept Art
 // Unlock All Concept Art
 patch=1,EE,204B2848,extended,00000000
 
-[Unlock All Concept Art]
+[Unlock All Concept Art (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Concept Art
 // Unlock All Concept Art
@@ -192,80 +192,83 @@ description=No Continues
 // No Continues
 patch=1,EE,204B65B8,extended,00000000
 
-[Always Low Time Taken]
+[Always Low Time Taken (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Time Taken
 // Always Low Time Taken
 patch=1,EE,204B65C0,extended,00000000
 
-[Max Objectives]
+[Max Objectives (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Objectives
 // Max Objectives
 patch=1,EE,204B65C4,extended,05F5E0FF
 
-[No Objectives]
+[No Objectives (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Objectives
 // No Objectives
 patch=1,EE,204B65C4,extended,00000000
 
-[Max Stolen Items]
+[Max Stolen Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Stolen Items
 // Max Stolen Items
 patch=1,EE,204B65C8,extended,05F5E0FF
 
-[No Stolen Items]
+[No Stolen Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Stolen Items
 // No Stolen Items
 patch=1,EE,204B65C8,extended,00000000
 
-[Max Spotted]
+[Max Spotted (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Spotted
 // Max Spotted
 patch=1,EE,204B65CC,extended,05F5E0FF
 
-[No Spotted]
+[No Spotted (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Spotted
 // No Spotted
 patch=1,EE,204B65CC,extended,00000000
 
-[Max Alarm Triggered]
+[Max Alarm Triggered (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Alarm Triggered
 // Max Alarm Triggered
 patch=1,EE,204B65D0,extended,05F5E0FF
 
-[No Alarm Triggered]
+[No Alarm Triggered (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Alarm Triggered
 // No Alarm Triggered
 patch=1,EE,204B65D0,extended,00000000
 
-[Max Guards KO'd]
+[Max Guards KO'd (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Guards KO'd
 // Max Guards KO'd
 patch=1,EE,204B65D4,extended,05F5E0FF
 
-[No Guards KO'd]
+[No Guards KO'd (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Guards KO'd
 // No Guards KO'd
 patch=1,EE,204B65D4,extended,00000000
 
-[Max Continues]
+[Max Continues (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Continues
 // Max Continues
 patch=1,EE,204B65D8,extended,05F5E0FF
 
-[No Continues]
+[No Continues (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Continues
 // No Continues
 patch=1,EE,204B65D8,extended,00000000
+
+[Cheats\Infinite Health]
+patch=1,EE,201E9370,extended,00000000

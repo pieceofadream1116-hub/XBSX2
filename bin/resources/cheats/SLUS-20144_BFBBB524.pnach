@@ -12,7 +12,7 @@ description=Never Reload
 // Never Reload
 patch=1,EE,D028DF86,extended,0000AC62
 
-[Never Reload]
+[Never Reload (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
@@ -24,13 +24,13 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,E0020782,extended,0026B660
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,2026B664,extended,24020096
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -72,7 +72,7 @@ description=1st Pullup For Grip Level 2
 // 1st Pullup For Grip Level 2
 patch=1,EE,D01E6DBE,extended,00200063
 
-[1st Pullup For Grip Level 2]
+[1st Pullup For Grip Level 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1st Pullup For Grip Level 2
 // 1st Pullup For Grip Level 2
@@ -84,13 +84,13 @@ description=2nd Pullup For Grip Level 3
 // 2nd Pullup For Grip Level 3
 patch=1,EE,D01E6DBE,extended,00300063
 
-[2nd Pullup For Grip Level 3]
+[2nd Pullup For Grip Level 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=2nd Pullup For Grip Level 3
 // 2nd Pullup For Grip Level 3
 patch=1,EE,D01E6DBE,extended,002000C7
 
-[2nd Pullup For Grip Level 3]
+[2nd Pullup For Grip Level 3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=2nd Pullup For Grip Level 3
 // 2nd Pullup For Grip Level 3
@@ -132,13 +132,13 @@ description=Frag Grenades
 // Frag Grenades
 patch=1,EE,101E6E0E,extended,0000270F
 
-[M9]
+[M9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=M9
 // M9
 patch=1,EE,001E6E36,extended,0000270F
 
-[USP]
+[USP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=USP
 // USP
@@ -186,13 +186,13 @@ description=Claymores
 // Claymores
 patch=1,EE,001E6E44,extended,0000270F
 
-[Chaff Grenades]
+[Chaff Grenades (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chaff Grenades
 // Chaff Grenades
 patch=1,EE,001E6E48,extended,0000270F
 
-[Stun Grenades]
+[Stun Grenades (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stun Grenades
 // Stun Grenades
@@ -204,13 +204,13 @@ description=AKS-74u
 // AKS-74u
 patch=1,EE,001E6E52,extended,0000270F
 
-[Magazines]
+[Magazines (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magazines
 // Magazines
 patch=1,EE,001E6E54,extended,0000270F
 
-[Frag Grenades]
+[Frag Grenades (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Frag Grenades
 // Frag Grenades
@@ -336,253 +336,253 @@ description=MO Disc
 // MO Disc
 patch=1,EE,101E6EC0,extended,00000001
 
-[Infinite Rations]
+[Infinite Rations (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Rations
 // Infinite Rations
 patch=1,EE,001E6FCE,extended,0000270F
 
-[Infinite Bandages]
+[Infinite Bandages (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Bandages
 // Infinite Bandages
 patch=1,EE,001E6FD4,extended,0000270F
 
-[Max Rations]
+[Max Rations (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Rations
 // Max Rations
 patch=1,EE,001E702E,extended,0000270F
 
-[Max Bandages]
+[Max Bandages (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Bandages
 // Max Bandages
 patch=1,EE,001E7034,extended,0000270F
 
-[Max Pentazemin]
+[Max Pentazemin (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Pentazemin
 // Max Pentazemin
 patch=1,EE,001E7036,extended,0000270F
 
-[1st Pullup For Grip Level 2]
+[1st Pullup For Grip Level 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1st Pullup For Grip Level 2
 // 1st Pullup For Grip Level 2
 patch=1,EE,D01E6DC0,extended,00200063
 
-[1st Pullup For Grip Level 2]
+[1st Pullup For Grip Level 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1st Pullup For Grip Level 2
 // 1st Pullup For Grip Level 2
 patch=1,EE,101E6DC0,extended,00000063
 
-[2nd Pullup For Grip Level 3]
+[2nd Pullup For Grip Level 3 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=2nd Pullup For Grip Level 3
 // 2nd Pullup For Grip Level 3
 patch=1,EE,D01E6DC0,extended,00300063
 
-[2nd Pullup For Grip Level 3]
+[2nd Pullup For Grip Level 3 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=2nd Pullup For Grip Level 3
 // 2nd Pullup For Grip Level 3
 patch=1,EE,D01E6DC0,extended,002000C7
 
-[2nd Pullup For Grip Level 3]
+[2nd Pullup For Grip Level 3 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=2nd Pullup For Grip Level 3
 // 2nd Pullup For Grip Level 3
 patch=1,EE,101E6DC0,extended,000000C7
 
-[M9]
+[M9 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=M9
 // M9
 patch=1,EE,101E6F3E,extended,0000270F
 
-[USP]
+[USP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=USP
 // USP
 patch=1,EE,101E6F40,extended,0000270F
 
-[SOCOM]
+[SOCOM (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=SOCOM
 // SOCOM
 patch=1,EE,101E6F42,extended,0000270F
 
-[PSG1]
+[PSG1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=PSG1
 // PSG1
 patch=1,EE,101E6F44,extended,0000270F
 
-[RGB6]
+[RGB6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=RGB6
 // RGB6
 patch=1,EE,101E6F46,extended,0000270F
 
-[NIKITA]
+[NIKITA (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=NIKITA
 // NIKITA
 patch=1,EE,101E6F48,extended,0000270F
 
-[Stinger]
+[Stinger (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stinger
 // Stinger
 patch=1,EE,101E6F4A,extended,0000270F
 
-[Claymores]
+[Claymores (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Claymores
 // Claymores
 patch=1,EE,101E6F4C,extended,0000270F
 
-[C4]
+[C4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=C4
 // C4
 patch=1,EE,101E6F4E,extended,0000270F
 
-[Chaff Grenades]
+[Chaff Grenades (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chaff Grenades
 // Chaff Grenades
 patch=1,EE,101E6F50,extended,0000270F
 
-[Stun Grenades]
+[Stun Grenades (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stun Grenades
 // Stun Grenades
 patch=1,EE,101E6F52,extended,0000270F
 
-[AKS-74u]
+[AKS-74u (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=AKS-74u
 // AKS-74u
 patch=1,EE,101E6F5A,extended,0000270F
 
-[Magazines]
+[Magazines (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magazines
 // Magazines
 patch=1,EE,101E6F5C,extended,0000270F
 
-[Frag Grenades]
+[Frag Grenades (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Frag Grenades
 // Frag Grenades
 patch=1,EE,101E6F5E,extended,0000270F
 
-[M4]
+[M4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=M4
 // M4
 patch=1,EE,101E6F60,extended,0000270F
 
-[PSG1-T]
+[PSG1-T (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=PSG1-T
 // PSG1-T
 patch=1,EE,101E6F62,extended,0000270F
 
-[M9]
+[M9 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=M9
 // M9
 patch=1,EE,001E6F86,extended,0000270F
 
-[USP]
+[USP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=USP
 // USP
 patch=1,EE,001E6F88,extended,0000270F
 
-[SOCOM]
+[SOCOM (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=SOCOM
 // SOCOM
 patch=1,EE,001E6F8A,extended,0000270F
 
-[PSG1]
+[PSG1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=PSG1
 // PSG1
 patch=1,EE,001E6F8C,extended,0000270F
 
-[RGB6]
+[RGB6 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=RGB6
 // RGB6
 patch=1,EE,001E6F8E,extended,0000270F
 
-[NIKITA]
+[NIKITA (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=NIKITA
 // NIKITA
 patch=1,EE,001E6F90,extended,0000270F
 
-[Stinger]
+[Stinger (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stinger
 // Stinger
 patch=1,EE,001E6F92,extended,0000270F
 
-[C4]
+[C4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=C4
 // C4
 patch=1,EE,001E6F96,extended,0000270F
 
-[Claymores]
+[Claymores (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Claymores
 // Claymores
 patch=1,EE,001E6F94,extended,0000270F
 
-[Chaff Grenades]
+[Chaff Grenades (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chaff Grenades
 // Chaff Grenades
 patch=1,EE,001E6F98,extended,0000270F
 
-[Stun Grenades]
+[Stun Grenades (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stun Grenades
 // Stun Grenades
 patch=1,EE,001E6F9A,extended,0000270F
 
-[AKS-74u]
+[AKS-74u (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=AKS-74u
 // AKS-74u
 patch=1,EE,001E6FA2,extended,0000270F
 
-[Magazines]
+[Magazines (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magazines
 // Magazines
 patch=1,EE,001E6FA4,extended,0000270F
 
-[Frag Grenades]
+[Frag Grenades (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Frag Grenades
 // Frag Grenades
 patch=1,EE,001E6FA6,extended,0000270F
 
-[M4]
+[M4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=M4
 // M4
 patch=1,EE,001E6FA8,extended,0000270F
 
-[PSG1-T]
+[PSG1-T (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=PSG1-T
 // PSG1-T
@@ -600,19 +600,19 @@ description=Book
 // Book
 patch=1,EE,101E6F66,extended,00000001
 
-[Binoculars]
+[Binoculars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Binoculars
 // Binoculars
 patch=1,EE,101E6FD0,extended,00000001
 
-[Medicine]
+[Medicine (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Medicine
 // Medicine
 patch=1,EE,101E6FD2,extended,00000001
 
-[Pentazemin]
+[Pentazemin (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pentazemin
 // Pentazemin
@@ -624,31 +624,31 @@ description=Field Uniform
 // Field Uniform
 patch=1,EE,101E6FD8,extended,00000001
 
-[Body Armor]
+[Body Armor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Body Armor
 // Body Armor
 patch=1,EE,101E6FDA,extended,00000001
 
-[Stealth]
+[Stealth (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stealth
 // Stealth
 patch=1,EE,101E6FDC,extended,00000001
 
-[Mine Detector]
+[Mine Detector (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mine Detector
 // Mine Detector
 patch=1,EE,101E6FDE,extended,00000001
 
-[Sensor A]
+[Sensor A (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sensor A
 // Sensor A
 patch=1,EE,101E6FE0,extended,00000001
 
-[Sensor B]
+[Sensor B (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sensor B
 // Sensor B
@@ -660,19 +660,19 @@ description=NVG
 // NVG
 patch=1,EE,101E6FE4,extended,00000001
 
-[Thermal Goggles]
+[Thermal Goggles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Thermal Goggles
 // Thermal Goggles
 patch=1,EE,101E6FE6,extended,00000001
 
-[Digital Camera]
+[Digital Camera (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Digital Camera
 // Digital Camera
 patch=1,EE,101E6FEA,extended,00000001
 
-[Cigs]
+[Cigs (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cigs
 // Cigs
@@ -684,13 +684,13 @@ description=Security Card Level 255
 // Security Card Level 255
 patch=1,EE,101E6FF0,extended,000000FF
 
-[Shaver]
+[Shaver (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shaver
 // Shaver
 patch=1,EE,101E6FF2,extended,00000001
 
-[Phone]
+[Phone (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Phone
 // Phone
@@ -726,31 +726,31 @@ description=Box 5
 // Box 5
 patch=1,EE,101E7002,extended,00000001
 
-[SOCOM Suppressor]
+[SOCOM Suppressor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=SOCOM Suppressor
 // SOCOM Suppressor
 patch=1,EE,101E7006,extended,00000001
 
-[AK Suppressor]
+[AK Suppressor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=AK Suppressor
 // AK Suppressor
 patch=1,EE,101E7008,extended,00000001
 
-[Bandana]
+[Bandana (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bandana
 // Bandana
 patch=1,EE,101E700C,extended,00000001
 
-[Dog Tags]
+[Dog Tags (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dog Tags
 // Dog Tags
 patch=1,EE,101E700E,extended,00000063
 
-[MO Disc]
+[MO Disc (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=MO Disc
 // MO Disc
@@ -779,3 +779,48 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wig D
 // Wig D
 patch=1,EE,101E701C,extended,00000001
+
+[Cheats\Infinite Health]
+patch=1,EE,E0020782,extended,0026B660
+patch=1,EE,2026B664,extended,24020096
+patch=1,EE,2026B668,extended,A6020782
+
+[Cheats\Infinite Oxigen]
+patch=1,EE,201E6D8E,extended,0FA00FA0
+
+[Cheats\Infinite O2 for Emma]
+patch=1,EE,21623F60,extended,44AF0000
+patch=1,EE,21689160,extended,44AFC000
+
+[Cheats\Never Reload]
+patch=1,EE,201919EC,extended,0000001F
+
+[Cheats\Never Reload ALT]
+patch=1,EE,D028DF86,extended,0000AC62
+patch=1,EE,2028DF84,extended,00000000
+
+[Cheats\Have All Weapons With Max Infinite Ammo]
+patch=1,EE,2015C82C,extended,240203E7
+
+[Cheats\Have All Max Infinite Items]
+patch=1,EE,2015C844,extended,240203E7
+
+[Cheats\P1 Press L3+Up To Quick Stealth Usage]
+patch=1,EE,D01E6A02,extended,0000FFED
+patch=1,EE,001E6D96,extended,00000008
+
+[Cheats\P1 Press R3+Up To Invincible Enable]
+patch=1,EE,D01E6A02,extended,0000FFEB
+patch=1,EE,001ECD46,extended,0000008B
+
+[Cheats\P1 Press R3+Down To Invincible Disable]
+patch=1,EE,D01E6A02,extended,0000FFBB
+patch=1,EE,001ECD46,extended,00000000
+
+[Cheats\P1 Press R3+Left To Invisible Enable]
+patch=1,EE,D01E6A02,extended,0000FF7B
+patch=1,EE,001ECD47,extended,00000040
+
+[Cheats\P1 Press R3+Right To Invisible Disable]
+patch=1,EE,D01E6A02,extended,0000FFDB
+patch=1,EE,001ECD47,extended,00000000

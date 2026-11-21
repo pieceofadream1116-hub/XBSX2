@@ -6,19 +6,19 @@ description=Idiot AI
 // Idiot AI
 patch=1,EE,903D97C0,extended,00832021
 
-[Idiot AI]
+[Idiot AI (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
 patch=1,EE,200C0250,extended,08089374
 
-[Idiot AI]
+[Idiot AI (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
 patch=1,EE,200C0254,extended,00000000
 
-[Idiot AI]
+[Idiot AI (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
@@ -72,7 +72,7 @@ description=Max Misses
 // Max Misses
 patch=1,EE,200C0220,extended,2401270F
 
-[Max Misses]
+[Max Misses (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Misses
 // Max Misses
@@ -84,19 +84,13 @@ description=No Misses
 // No Misses
 patch=1,EE,200C0220,extended,24010000
 
-[No Misses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Misses
-// No Misses
-patch=1,EE,200C0224,extended,AE01002C
-
 [Max Way Offs]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Way Offs
 // Max Way Offs
 patch=1,EE,200C0228,extended,2401270F
 
-[Max Way Offs]
+[Max Way Offs (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Way Offs
 // Max Way Offs
@@ -108,19 +102,13 @@ description=No Way Offs
 // No Way Offs
 patch=1,EE,200C0228,extended,24010000
 
-[No Way Offs]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Way Offs
-// No Way Offs
-patch=1,EE,200C022C,extended,AE010030
-
 [Max Decents]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Decents
 // Max Decents
 patch=1,EE,200C0230,extended,2401270F
 
-[Max Decents]
+[Max Decents (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Decents
 // Max Decents
@@ -132,19 +120,13 @@ description=No Decents
 // No Decents
 patch=1,EE,200C0230,extended,24010000
 
-[No Decents]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Decents
-// No Decents
-patch=1,EE,200C0234,extended,AE010034
-
 [Max Greats]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Greats
 // Max Greats
 patch=1,EE,200C0238,extended,2401270F
 
-[Max Greats]
+[Max Greats (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Greats
 // Max Greats
@@ -156,19 +138,13 @@ description=No Greats
 // No Greats
 patch=1,EE,200C0238,extended,24010000
 
-[No Greats]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Greats
-// No Greats
-patch=1,EE,200C023C,extended,AE010038
-
 [Max Excellents]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Excellents
 // Max Excellents
 patch=1,EE,200C0240,extended,2401270F
 
-[Max Excellents]
+[Max Excellents (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Excellents
 // Max Excellents
@@ -180,19 +156,13 @@ description=No Excellents
 // No Excellents
 patch=1,EE,200C0240,extended,24010000
 
-[No Excellents]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Excellents
-// No Excellents
-patch=1,EE,200C0244,extended,AE01003C
-
 [Max Fantastics]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fantastics
 // Max Fantastics
 patch=1,EE,200C0248,extended,2401270F
 
-[Max Fantastics]
+[Max Fantastics (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fantastics
 // Max Fantastics
@@ -204,8 +174,10 @@ description=No Fantastics
 // No Fantastics
 patch=1,EE,200C0248,extended,24010000
 
-[No Fantastics]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Fantastics
-// No Fantastics
+[Cheats\Max Greats]
+patch=1,EE,200C0238,extended,2401270F
+patch=1,EE,200C023C,extended,AE010038
+
+[Cheats\Max Fantastics]
+patch=1,EE,200C0248,extended,2401270F
 patch=1,EE,200C024C,extended,AE010040

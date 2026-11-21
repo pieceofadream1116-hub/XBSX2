@@ -12,7 +12,7 @@ description=Infinite Money
 // Infinite Money
 patch=1,EE,11FDC140,extended,0000FFFF
 
-[Infinite Money]
+[Infinite Money (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Money
 // Infinite Money
@@ -24,7 +24,7 @@ description=Max Money
 // Max Money
 patch=1,EE,21FDC140,extended,05F5E0FF
 
-[Max Money]
+[Max Money (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Money
 // Max Money
@@ -371,3 +371,15 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Performance Metrics Always Off
 // Performance Metrics Always Off
 patch=1,EE,2033A54C,extended,00000000
+
+[Cheats\Infinite Money]
+patch=1,EE,21FDC140,extended,05F5E0FF
+patch=1,EE,21FDB084,extended,05F5E0FF
+
+[Cheats\Debug Menu On Press L1+L2 in game]
+patch=1,EE,D13836C2,extended,0000FAFF
+patch=1,EE,20342810,extended,00000001
+
+[Cheats\Debug Menu Off Press R1+R2 in game]
+patch=1,EE,D13836C2,extended,0000F5FF
+patch=1,EE,20342810,extended,00000000

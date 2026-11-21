@@ -24,7 +24,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,203B0160,extended,3C0242F0
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -36,7 +36,7 @@ description=Infinite Bullet Time
 // Infinite Bullet Time
 patch=1,EE,20163A00,extended,00000000
 
-[Infinite Bullet Time]
+[Infinite Bullet Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Bullet Time
 // Infinite Bullet Time
@@ -48,19 +48,19 @@ description=Access All Levels
 // Access All Levels
 patch=1,EE,1014DA12,extended,00001000
 
-[Access All Levels]
+[Access All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Levels
 // Access All Levels
 patch=1,EE,102D93EA,extended,00001000
 
-[Access All Levels]
+[Access All Levels (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Levels
 // Access All Levels
 patch=1,EE,102D9332,extended,00001000
 
-[Access All Levels]
+[Access All Levels (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Levels
 // Access All Levels

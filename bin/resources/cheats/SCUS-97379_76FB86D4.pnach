@@ -12,13 +12,13 @@ description=Infinite Breath
 // Infinite Breath
 patch=1,EE,20117238,extended,3C013F80
 
-[Infinite Breath]
+[Infinite Breath (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Breath
 // Infinite Breath
 patch=1,EE,2011723C,extended,44810000
 
-[Infinite Breath]
+[Infinite Breath (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Breath
 // Infinite Breath
@@ -30,7 +30,7 @@ description=Infinite Strength
 // Infinite Strength
 patch=1,EE,2017100C,extended,3C013F80
 
-[Infinite Strength]
+[Infinite Strength (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Strength
 // Infinite Strength
@@ -48,13 +48,13 @@ description=Max Strength
 // Max Strength
 patch=1,EE,2018A970,extended,3C014000
 
-[Max Strength]
+[Max Strength (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength
 patch=1,EE,2018A974,extended,44810000
 
-[Max Strength]
+[Max Strength (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Strength
 // Max Strength

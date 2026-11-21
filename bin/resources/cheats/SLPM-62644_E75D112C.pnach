@@ -1,0 +1,4 @@
+gametitle=オレたちゲーセン族 タイムパイロット [SLPM-62644] [E75D112C]
+
+[Cheats\Infinite Lives]
+patch=1,EE,00161950,extended,00000009

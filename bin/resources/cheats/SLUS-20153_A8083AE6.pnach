@@ -12,7 +12,7 @@ description=Start On Last Lap & Always Place 1st
 // Start On Last Lap & Always Place 1st
 patch=1,EE,D078DAC4,extended,00000000
 
-[Start On Last Lap & Always Place 1st]
+[Start On Last Lap & Always Place 1st (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Last Lap & Always Place 1st
 // Start On Last Lap & Always Place 1st
@@ -30,8 +30,16 @@ description=Have All Cars
 // Have All Cars
 patch=1,EE,401EBBB4,extended,0010000D
 
-[Have All Cars]
+[Have All Cars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Cars
 // Have All Cars
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Start On Last Lap & Always Place 1st]
+patch=1,EE,D078DAC4,extended,00000000
+patch=1,EE,1078DAC4,extended,00000002
+
+[Cheats\Unlock All Cars]
+patch=1,EE,401EBBB4,extended,0010000D
 patch=1,EE,00000001,extended,00000000

@@ -1,0 +1,7 @@
+gametitle=LMA Manager 2003 [SLES-51023] [5C313124]
+
+[Cheats\Liverpool Infinite Cash]
+patch=1,EE,21EDE440,extended,05F5E0FF
+
+[Cheats\Manchester Utd Infinite Cash]
+patch=1,EE,21EDE620,extended,05F5E0FF

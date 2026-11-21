@@ -1,0 +1,4 @@
+gametitle=SuperLite 2000 パズル 平成博徒伝 [SLPM-62548] [959C7EC8]
+
+[Cheats\Unlock All Scenario]
+patch=1,EE,202B1A3C,extended,002307FF

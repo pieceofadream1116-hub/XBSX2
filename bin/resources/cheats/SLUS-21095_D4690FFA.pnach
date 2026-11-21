@@ -36,19 +36,13 @@ description=P1 Press {L1}+{SELECT} To Stop Total Timer
 // P1 Press {L1}+{SELECT} To Stop Total Timer
 patch=1,EE,D02C2FC2,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Stop Total Timer]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{SELECT} To Stop Total Timer
-// P1 Press {L1}+{SELECT} To Stop Total Timer
-patch=1,EE,201BED6C,extended,00000000
-
 [P1 Press {L2}+{SELECT} To Restart Total Timer]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To Restart Total Timer
 // P1 Press {L2}+{SELECT} To Restart Total Timer
 patch=1,EE,D02C2FC2,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} To Restart Total Timer]
+[P1 Press {L2}+{SELECT} To Restart Total Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To Restart Total Timer
 // P1 Press {L2}+{SELECT} To Restart Total Timer
@@ -60,20 +54,19 @@ description=P1 Press {R1}+{SELECT} To Stop Total Timer
 // P1 Press {R1}+{SELECT} To Stop Total Timer
 patch=1,EE,D02C2FC2,extended,0000F7FE
 
-[P1 Press {R1}+{SELECT} To Stop Total Timer]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {R1}+{SELECT} To Stop Total Timer
-// P1 Press {R1}+{SELECT} To Stop Total Timer
-patch=1,EE,201BED74,extended,00000000
-
 [P1 Press {R2}+{SELECT} To Restart Total Timer]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+{SELECT} To Restart Total Timer
 // P1 Press {R2}+{SELECT} To Restart Total Timer
 patch=1,EE,D02C2FC2,extended,0000FDFE
 
-[P1 Press {R2}+{SELECT} To Restart Total Timer]
+[P1 Press {R2}+{SELECT} To Restart Total Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+{SELECT} To Restart Total Timer
 // P1 Press {R2}+{SELECT} To Restart Total Timer
 patch=1,EE,201BED74,extended,E6000044
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (180%).
+patch=0,EE,0010559C,word,3C013f80

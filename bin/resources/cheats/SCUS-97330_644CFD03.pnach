@@ -6,91 +6,91 @@ description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,90120118,extended,0C047FEE
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF000,extended,3C012000
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF004,extended,03212025
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF008,extended,3C053C04
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF00C,extended,34A50008
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF010,extended,24062000
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF014,extended,8C830000
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF018,extended,14650002
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF01C,extended,34630004
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF020,extended,AC830000
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF024,extended,24C6FFFC
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF028,extended,1CC0FFFA
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF02C,extended,24840004
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF030,extended,03200008
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
 patch=1,EE,200FF034,extended,00000000
 
-[Free 7 Scout Flies]
+[Free 7 Scout Flies (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free 7 Scout Flies
 // Free 7 Scout Flies
@@ -138,7 +138,7 @@ description=Unlock All Secrets
 // Unlock All Secrets
 patch=1,EE,205C0650,extended,FFFFFFFF
 
-[Unlock All Secrets]
+[Unlock All Secrets (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Secrets
 // Unlock All Secrets
@@ -174,17 +174,11 @@ description=Japanese
 // Japanese
 patch=1,EE,A0111408,extended,03E00008
 
-[Japanese]
+[Japanese (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Japanese
 // Japanese
 patch=1,EE,A011140C,extended,24020000
-
-[English]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=English
-// English
-patch=1,EE,A0111408,extended,03E00008
 
 [English]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -196,19 +190,7 @@ patch=1,EE,A011140C,extended,24020001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=French
 // French
-patch=1,EE,A0111408,extended,03E00008
-
-[French]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=French
-// French
 patch=1,EE,A011140C,extended,24020002
-
-[Spanish]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Spanish
-// Spanish
-patch=1,EE,A0111408,extended,03E00008
 
 [Spanish]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -220,31 +202,13 @@ patch=1,EE,A011140C,extended,24020003
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=German
 // German
-patch=1,EE,A0111408,extended,03E00008
-
-[German]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=German
-// German
 patch=1,EE,A011140C,extended,24020004
 
 [Italian]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Italian
 // Italian
-patch=1,EE,A0111408,extended,03E00008
-
-[Italian]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Italian
-// Italian
 patch=1,EE,A011140C,extended,24020005
-
-[Portuguese]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Portuguese
-// Portuguese
-patch=1,EE,A0111408,extended,03E00008
 
 [Portuguese]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -347,3 +311,16 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dark Jak Homing Attacks
 // Dark Jak Homing Attacks
 patch=1,EE,705C064C,extended,00000020
+
+[Cheats\Activate Cheat Invulnerability]
+patch=1,EE,205C064A,extended,00000002
+
+[Cheats\Activate Cheat Unlimited Ammo]
+patch=1,EE,205C064A,extended,00000001
+
+[Cheats\Unlock All Secrets]
+patch=1,EE,205C0650,extended,FFFFFFFF
+patch=1,EE,205C0654,extended,FFFFFFFF
+
+[Cheats\Unlock All Vehicles]
+patch=1,EE,005C0670,extended,000000FF

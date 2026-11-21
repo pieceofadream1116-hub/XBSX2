@@ -1,0 +1,5 @@
+gametitle=WHITE CLARITY ～And The tears became you.～ [初回限定版] [SLPM-66214] [5044AFC3]
+
+[Cheats\Unlock All CG]
+patch=1,EE,4027F940,extended,003B0001
+patch=1,EE,01010101,extended,00000000

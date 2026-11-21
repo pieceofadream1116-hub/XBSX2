@@ -18,7 +18,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,2013FAC8,extended,00000000
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -30,7 +30,7 @@ description=Save Anywhere
 // Save Anywhere
 patch=1,EE,2023C104,extended,24030001
 
-[Save Anywhere]
+[Save Anywhere (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Save Anywhere
 // Save Anywhere
@@ -54,7 +54,7 @@ description=P1 Press {L1}+{SELECT} For Thermal Vision
 // P1 Press {L1}+{SELECT} For Thermal Vision
 patch=1,EE,D0381EC2,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} For Thermal Vision]
+[P1 Press {L1}+{SELECT} For Thermal Vision (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} For Thermal Vision
 // P1 Press {L1}+{SELECT} For Thermal Vision
@@ -66,7 +66,7 @@ description=P1 Press {L2}+{SELECT} For Foggy Vision
 // P1 Press {L2}+{SELECT} For Foggy Vision
 patch=1,EE,D0381EC2,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} For Foggy Vision]
+[P1 Press {L2}+{SELECT} For Foggy Vision (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} For Foggy Vision
 // P1 Press {L2}+{SELECT} For Foggy Vision
@@ -78,7 +78,7 @@ description=P1 Press {R1}+{SELECT} For Security Camera Vision
 // P1 Press {R1}+{SELECT} For Security Camera Vision
 patch=1,EE,D0381EC2,extended,0000F7FE
 
-[P1 Press {R1}+{SELECT} For Security Camera Vision]
+[P1 Press {R1}+{SELECT} For Security Camera Vision (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{SELECT} For Security Camera Vision
 // P1 Press {R1}+{SELECT} For Security Camera Vision
@@ -90,7 +90,7 @@ description=P1 Press {R2}+{SELECT} For Inverted Vision
 // P1 Press {R2}+{SELECT} For Inverted Vision
 patch=1,EE,D0381EC2,extended,0000FDFE
 
-[P1 Press {R2}+{SELECT} For Inverted Vision]
+[P1 Press {R2}+{SELECT} For Inverted Vision (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+{SELECT} For Inverted Vision
 // P1 Press {R2}+{SELECT} For Inverted Vision
@@ -102,7 +102,7 @@ description=P1 Press {L3}+{SELECT} For Blurry Vision
 // P1 Press {L3}+{SELECT} For Blurry Vision
 patch=1,EE,D0381EC2,extended,0000FFFC
 
-[P1 Press {L3}+{SELECT} For Blurry Vision]
+[P1 Press {L3}+{SELECT} For Blurry Vision (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3}+{SELECT} For Blurry Vision
 // P1 Press {L3}+{SELECT} For Blurry Vision
@@ -114,8 +114,24 @@ description=P1 Press {R3}+{SELECT} For Normal Vision
 // P1 Press {R3}+{SELECT} For Normal Vision
 patch=1,EE,D0381EC2,extended,0000FFFA
 
-[P1 Press {R3}+{SELECT} For Normal Vision]
+[P1 Press {R3}+{SELECT} For Normal Vision (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R3}+{SELECT} For Normal Vision
 // P1 Press {R3}+{SELECT} For Normal Vision
 patch=1,EE,20385B20,extended,00000000
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=1,EE,00385B50,word,00000000
+
+[Cheats\Infinite Health]
+patch=1,EE,2013FAC8,extended,00000000
+patch=1,EE,1013FAF2,extended,00001000
+
+[Cheats\Save Anywhere]
+patch=1,EE,2023C104,extended,24030001
+patch=1,EE,2023C108,extended,AC431E5C
+
+[Cheats\Infinite Ammo All Weapons]
+patch=1,EE,2016F678,extended,24420000

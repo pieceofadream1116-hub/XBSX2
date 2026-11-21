@@ -12,7 +12,7 @@ description=Always Low Time
 // Always Low Time
 patch=1,EE,202635BC,extended,3C013C00
 
-[Always Low Time]
+[Always Low Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Time
 // Always Low Time
@@ -54,7 +54,7 @@ description=Crazy Tires
 // Crazy Tires
 patch=1,EE,20426DA4,extended,3F800000
 
-[Crazy Tires]
+[Crazy Tires (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Crazy Tires
 // Crazy Tires
@@ -66,7 +66,7 @@ description=Weird Camera 1
 // Weird Camera 1
 patch=1,EE,20426DB0,extended,3F800000
 
-[Weird Camera 1]
+[Weird Camera 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Weird Camera 1
 // Weird Camera 1
@@ -78,22 +78,10 @@ description=Weird Camera 2
 // Weird Camera 2
 patch=1,EE,20426DB0,extended,00000000
 
-[Weird Camera 2]
+[Weird Camera 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Weird Camera 2
 // Weird Camera 2
-patch=1,EE,20426DB8,extended,3F800000
-
-[Weird Camera 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Weird Camera 3
-// Weird Camera 3
-patch=1,EE,20426DB0,extended,3F800000
-
-[Weird Camera 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Weird Camera 3
-// Weird Camera 3
 patch=1,EE,20426DB8,extended,3F800000
 
 [Unlock Super Cross Tracks]
@@ -192,7 +180,7 @@ description=All Machines
 // All Machines
 patch=1,EE,405676C4,extended,00050001
 
-[All Machines]
+[All Machines (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Machines
 // All Machines
@@ -336,12 +324,6 @@ description=All Supercross Tracks
 // All Supercross Tracks
 patch=1,EE,40567854,extended,00140001
 
-[All Supercross Tracks]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Supercross Tracks
-// All Supercross Tracks
-patch=1,EE,00000001,extended,00000000
-
 [Seneca Butte]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seneca Butte
@@ -456,12 +438,6 @@ description=All Nationals Tracks
 // All Nationals Tracks
 patch=1,EE,4056791C,extended,00120001
 
-[All Nationals Tracks]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Nationals Tracks
-// All Nationals Tracks
-patch=1,EE,00000001,extended,00000000
-
 [Sierra Vista]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sierra Vista
@@ -491,12 +467,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Freestyle Tracks
 // All Freestyle Tracks
 patch=1,EE,405679E4,extended,00040001
-
-[All Freestyle Tracks]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Freestyle Tracks
-// All Freestyle Tracks
-patch=1,EE,00000001,extended,00000000
 
 [Hit Competition 1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -570,67 +540,61 @@ description=All Ocotillo Wells
 // All Ocotillo Wells
 patch=1,EE,40567AAC,extended,000B0001
 
-[All Ocotillo Wells]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Ocotillo Wells
-// All Ocotillo Wells
-patch=1,EE,00000001,extended,00000000
-
-[Hit Competition 1]
+[Hit Competition 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 1
 // Hit Competition 1
 patch=1,EE,20567B74,extended,00000001
 
-[Hit Competition 2]
+[Hit Competition 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 2
 // Hit Competition 2
 patch=1,EE,20567B78,extended,00000001
 
-[Hit Competition 3]
+[Hit Competition 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 3
 // Hit Competition 3
 patch=1,EE,20567B7C,extended,00000001
 
-[Hit Competition 4]
+[Hit Competition 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 4
 // Hit Competition 4
 patch=1,EE,20567B80,extended,00000001
 
-[Hit Competition 5]
+[Hit Competition 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 5
 // Hit Competition 5
 patch=1,EE,20567B84,extended,00000001
 
-[Run Objective 1]
+[Run Objective 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 1
 // Run Objective 1
 patch=1,EE,20567B88,extended,00000001
 
-[Run Objective 2]
+[Run Objective 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 2
 // Run Objective 2
 patch=1,EE,20567B8C,extended,00000001
 
-[Run Objective 3]
+[Run Objective 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 3
 // Run Objective 3
 patch=1,EE,20567B90,extended,00000001
 
-[Run Objective 4]
+[Run Objective 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 4
 // Run Objective 4
 patch=1,EE,20567B94,extended,00000001
 
-[Run Objective 5]
+[Run Objective 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 5
 // Run Objective 5
@@ -648,73 +612,67 @@ description=All Sierra Vista
 // All Sierra Vista
 patch=1,EE,40567B74,extended,000B0001
 
-[All Sierra Vista]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Sierra Vista
-// All Sierra Vista
-patch=1,EE,00000001,extended,00000000
-
-[Hit Competition 1]
+[Hit Competition 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 1
 // Hit Competition 1
 patch=1,EE,20567C3C,extended,00000001
 
-[Hit Competition 2]
+[Hit Competition 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 2
 // Hit Competition 2
 patch=1,EE,20567C40,extended,00000001
 
-[Hit Competition 3]
+[Hit Competition 3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 3
 // Hit Competition 3
 patch=1,EE,20567C44,extended,00000001
 
-[Hit Competition 4]
+[Hit Competition 4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 4
 // Hit Competition 4
 patch=1,EE,20567C48,extended,00000001
 
-[Hit Competition 5]
+[Hit Competition 5 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 5
 // Hit Competition 5
 patch=1,EE,20567C4C,extended,00000001
 
-[Run Objective 1]
+[Run Objective 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 1
 // Run Objective 1
 patch=1,EE,20567C50,extended,00000001
 
-[Run Objective 2]
+[Run Objective 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 2
 // Run Objective 2
 patch=1,EE,20567C54,extended,00000001
 
-[Run Objective 3]
+[Run Objective 3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 3
 // Run Objective 3
 patch=1,EE,20567C58,extended,00000001
 
-[Run Objective 4]
+[Run Objective 4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 4
 // Run Objective 4
 patch=1,EE,20567C5C,extended,00000001
 
-[Run Objective 5]
+[Run Objective 5 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 5
 // Run Objective 5
 patch=1,EE,20567C60,extended,00000001
 
-[Stunt Objective]
+[Stunt Objective (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stunt Objective
 // Stunt Objective
@@ -726,73 +684,67 @@ description=All Montauk Plains
 // All Montauk Plains
 patch=1,EE,40567C3C,extended,000B0001
 
-[All Montauk Plains]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Montauk Plains
-// All Montauk Plains
-patch=1,EE,00000001,extended,00000000
-
-[Hit Competition 1]
+[Hit Competition 1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 1
 // Hit Competition 1
 patch=1,EE,20567D04,extended,00000001
 
-[Hit Competition 2]
+[Hit Competition 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 2
 // Hit Competition 2
 patch=1,EE,20567D08,extended,00000001
 
-[Hit Competition 3]
+[Hit Competition 3 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 3
 // Hit Competition 3
 patch=1,EE,20567D0C,extended,00000001
 
-[Hit Competition 4]
+[Hit Competition 4 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 4
 // Hit Competition 4
 patch=1,EE,20567D10,extended,00000001
 
-[Hit Competition 5]
+[Hit Competition 5 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 5
 // Hit Competition 5
 patch=1,EE,20567D14,extended,00000001
 
-[Run Objective 1]
+[Run Objective 1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 1
 // Run Objective 1
 patch=1,EE,20567D18,extended,00000001
 
-[Run Objective 2]
+[Run Objective 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 2
 // Run Objective 2
 patch=1,EE,20567D1C,extended,00000001
 
-[Run Objective 3]
+[Run Objective 3 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 3
 // Run Objective 3
 patch=1,EE,20567D20,extended,00000001
 
-[Run Objective 4]
+[Run Objective 4 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 4
 // Run Objective 4
 patch=1,EE,20567D24,extended,00000001
 
-[Run Objective 5]
+[Run Objective 5 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 5
 // Run Objective 5
 patch=1,EE,20567D28,extended,00000001
 
-[Stunt Objective]
+[Stunt Objective (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stunt Objective
 // Stunt Objective
@@ -804,73 +756,67 @@ description=All Smoke Ridge
 // All Smoke Ridge
 patch=1,EE,40567D04,extended,000B0001
 
-[All Smoke Ridge]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Smoke Ridge
-// All Smoke Ridge
-patch=1,EE,00000001,extended,00000000
-
-[Hit Competition 1]
+[Hit Competition 1 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 1
 // Hit Competition 1
 patch=1,EE,20567DCC,extended,00000001
 
-[Hit Competition 2]
+[Hit Competition 2 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 2
 // Hit Competition 2
 patch=1,EE,20567DD0,extended,00000001
 
-[Hit Competition 3]
+[Hit Competition 3 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 3
 // Hit Competition 3
 patch=1,EE,20567DD4,extended,00000001
 
-[Hit Competition 4]
+[Hit Competition 4 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 4
 // Hit Competition 4
 patch=1,EE,20567DD8,extended,00000001
 
-[Hit Competition 5]
+[Hit Competition 5 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hit Competition 5
 // Hit Competition 5
 patch=1,EE,20567DDC,extended,00000001
 
-[Run Objective 1]
+[Run Objective 1 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 1
 // Run Objective 1
 patch=1,EE,20567DE0,extended,00000001
 
-[Run Objective 2]
+[Run Objective 2 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 2
 // Run Objective 2
 patch=1,EE,20567DE4,extended,00000001
 
-[Run Objective 3]
+[Run Objective 3 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 3
 // Run Objective 3
 patch=1,EE,20567DE8,extended,00000001
 
-[Run Objective 4]
+[Run Objective 4 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 4
 // Run Objective 4
 patch=1,EE,20567DEC,extended,00000001
 
-[Run Objective 5]
+[Run Objective 5 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Run Objective 5
 // Run Objective 5
 patch=1,EE,20567DF0,extended,00000001
 
-[Stunt Objective]
+[Stunt Objective (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stunt Objective
 // Stunt Objective
@@ -882,8 +828,9 @@ description=All Morenci Mines
 // All Morenci Mines
 patch=1,EE,40567DCC,extended,000B0001
 
-[All Morenci Mines]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Morenci Mines
-// All Morenci Mines
-patch=1,EE,00000001,extended,00000000
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,2019210c,extended,24040001
+patch=1,EE,E0010001,extended,00425DA8
+patch=1,EE,2019210c,extended,24040002

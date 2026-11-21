@@ -12,19 +12,19 @@ description=Infinite Health (All Human Players)
 // Infinite Health (All Human Players)
 patch=1,EE,200C0220,extended,94C70220
 
-[Infinite Health (All Human Players)]
+[Infinite Health (All Human Players) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (All Human Players)
 // Infinite Health (All Human Players)
 patch=1,EE,200C0224,extended,08074A02
 
-[Infinite Health (All Human Players)]
+[Infinite Health (All Human Players) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (All Human Players)
 // Infinite Health (All Human Players)
 patch=1,EE,200C0228,extended,A4C7021C
 
-[Infinite Health (All Human Players)]
+[Infinite Health (All Human Players) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (All Human Players)
 // Infinite Health (All Human Players)
@@ -36,19 +36,19 @@ description=Infinite Musou (All Human Players)
 // Infinite Musou (All Human Players)
 patch=1,EE,200C0230,extended,24070FFF
 
-[Infinite Musou (All Human Players)]
+[Infinite Musou (All Human Players) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Musou (All Human Players)
 // Infinite Musou (All Human Players)
 patch=1,EE,200C0234,extended,08074A1F
 
-[Infinite Musou (All Human Players)]
+[Infinite Musou (All Human Players) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Musou (All Human Players)
 // Infinite Musou (All Human Players)
 patch=1,EE,200C0238,extended,A4C70222
 
-[Infinite Musou (All Human Players)]
+[Infinite Musou (All Human Players) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Musou (All Human Players)
 // Infinite Musou (All Human Players)
@@ -66,85 +66,85 @@ description=Have All Levels
 // Have All Levels
 patch=1,EE,20326120,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20326124,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20326128,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,2032612C,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20326130,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20326134,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20326138,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,2032613C,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20326140,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20326144,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20326148,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,2032614C,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20326150,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
 patch=1,EE,20326154,extended,FFFFFFFF
 
-[Have All Levels]
+[Have All Levels (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
@@ -162,7 +162,7 @@ description=Enemies Swarm Around You Harmlessly
 // Enemies Swarm Around You Harmlessly
 patch=1,EE,10179D78,extended,00000001
 
-[Enemies Swarm Around You Harmlessly]
+[Enemies Swarm Around You Harmlessly (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enemies Swarm Around You Harmlessly
 // Enemies Swarm Around You Harmlessly
@@ -192,7 +192,7 @@ description=Have All Weapons
 // Have All Weapons
 patch=1,EE,40325904,extended,00820004
 
-[Have All Weapons]
+[Have All Weapons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Weapons
 // Have All Weapons
@@ -204,19 +204,19 @@ description=Have All Characters
 // Have All Characters
 patch=1,EE,0032615F,extended,00000001
 
-[Have All Characters]
+[Have All Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Characters
 // Have All Characters
 patch=1,EE,40326160,extended,00080001
 
-[Have All Characters]
+[Have All Characters (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Characters
 // Have All Characters
 patch=1,EE,01010101,extended,00000000
 
-[Have All Characters]
+[Have All Characters (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Characters
 // Have All Characters

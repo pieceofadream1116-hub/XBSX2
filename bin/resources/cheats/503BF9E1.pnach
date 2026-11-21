@@ -1,0 +1,79 @@
+gametitle=Star Wars - Battlefront PAL-M SLES-52545 503BF9E1
+
+[Disable Blur/Bloom]
+author=Gabominated
+description=Disable the post-processing blur/bloom effect.
+patch=1,EE,005227FC,word,00000000
+
+[Cheats\Invincibility]
+patch=1,EE,20518CE0,extended,00000001
+
+[Cheats\Infinite Health]
+patch=1,EE,202C2A2C,extended,8C410004
+patch=1,EE,202C2A30,extended,AC410000
+
+[Cheats\Infinite Primary Ammo]
+patch=1,EE,20285530,extended,00000000
+
+[Cheats\Extra Primary Ammo]
+patch=1,EE,20285528,extended,46010000
+
+[Cheats\Infinite Secondary Ammo]
+patch=1,EE,2028ECD4,extended,00000000
+
+[Cheats\Infinite Ammo]
+patch=1,EE,20518CE4,extended,00000001
+
+[Cheats\Unlock All Special Features]
+patch=1,EE,20643880,extended,FFFFFFFF
+
+[Cheats\Invincible]
+patch=1,EE,00519C20,extended,00000001
+
+[Cheats\Infinite Health (2)]
+patch=1,EE,202C2BB4,extended,3E0145FA
+patch=1,EE,202C2BC4,extended,AC410000
+
+[Cheats\Infinite Ammo (2)]
+patch=1,EE,202891E4,extended,00000000
+
+[Cheats\Unlock All Special]
+patch=1,EE,20645878,extended,FFFFFFFF
+
+[60 FPS]
+author=asasega & Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,205190C0,extended,00000001
+patch=1,EE,E0010200,extended,007A8990
+patch=1,EE,205190C0,extended,00000002
+
+[Disable Blur/Bloom (2)]
+author=Gabominated
+description=Disable the post-processing blur/bloom effect.
+patch=1,EE,00522B7C,word,00000000
+
+[Cheats\Invincibility Always On]
+patch=1,EE,20519060,extended,00000001
+
+[Cheats\Infinite Health (3)]
+patch=1,EE,202C2A24,extended,8C410004
+patch=1,EE,202C2A28,extended,AC410000
+
+[Cheats\Infinite Primary Ammo (2)]
+patch=1,EE,20285528,extended,00000000
+
+[Cheats\Infinite Secondary Ammo (2)]
+patch=1,EE,2028ECCC,extended,00000000
+
+[Cheats\Infinite Jetpack]
+patch=1,EE,202072A4,extended,00000000
+patch=1,EE,2020958C,extended,00000000
+
+[Cheats\Infinite Ammo Always On]
+patch=1,EE,20519064,extended,00000001
+
+[Cheats\Never Overheat]
+patch=1,EE,20288F34,extended,00000000
+
+[Cheats\Unlock All Special Features (2)]
+patch=1,EE,20643878,extended,FFFFFFFF

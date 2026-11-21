@@ -66,7 +66,7 @@ description=Instant Death (All Enemies)
 // Instant Death (All Enemies)
 patch=1,EE,201C1EB8,extended,24030000
 
-[Instant Death (All Enemies)]
+[Instant Death (All Enemies) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Instant Death (All Enemies)
 // Instant Death (All Enemies)
@@ -76,31 +76,19 @@ patch=1,EE,201C1EC0,extended,A603000A
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {SELECT} To Kill Any Enemy
 // Press {SELECT} To Kill Any Enemy
-patch=1,EE,201C1EC0,extended,A603000A
-
-[Press {SELECT} To Kill Any Enemy]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {SELECT} To Kill Any Enemy
-// Press {SELECT} To Kill Any Enemy
 patch=1,EE,D05803C6,extended,0010FFFE
 
-[Press {SELECT} To Kill Any Enemy]
+[Press {SELECT} To Kill Any Enemy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {SELECT} To Kill Any Enemy
 // Press {SELECT} To Kill Any Enemy
 patch=1,EE,201C1EB8,extended,8603000A
 
-[Press {SELECT} To Kill Any Enemy]
+[Press {SELECT} To Kill Any Enemy (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {SELECT} To Kill Any Enemy
 // Press {SELECT} To Kill Any Enemy
 patch=1,EE,D05803C6,extended,0000FFFE
-
-[Press {SELECT} To Kill Any Enemy]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Press {SELECT} To Kill Any Enemy
-// Press {SELECT} To Kill Any Enemy
-patch=1,EE,201C1EB8,extended,24030000
 
 [Max Cleared Score]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -120,109 +108,109 @@ description=Have Finished
 // Have Finished
 patch=1,EE,2059732C,extended,000000FF
 
-[Max Cleared Score]
+[Max Cleared Score (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cleared Score
 // Max Cleared Score
 patch=1,EE,20597330,extended,05F5E0FF
 
-[Always Low Cleared Time]
+[Always Low Cleared Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Cleared Time
 // Always Low Cleared Time
 patch=1,EE,20597334,extended,00000000
 
-[Have Finished]
+[Have Finished (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Finished
 // Have Finished
 patch=1,EE,2059733C,extended,000000FF
 
-[Max Cleared Score]
+[Max Cleared Score (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cleared Score
 // Max Cleared Score
 patch=1,EE,20597340,extended,05F5E0FF
 
-[Always Low Cleared Time]
+[Always Low Cleared Time (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Cleared Time
 // Always Low Cleared Time
 patch=1,EE,20597344,extended,00000000
 
-[Have Finished]
+[Have Finished (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Finished
 // Have Finished
 patch=1,EE,2059734C,extended,000000FF
 
-[Max Cleared Score]
+[Max Cleared Score (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cleared Score
 // Max Cleared Score
 patch=1,EE,20597350,extended,05F5E0FF
 
-[Always Low Cleared Time]
+[Always Low Cleared Time (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Cleared Time
 // Always Low Cleared Time
 patch=1,EE,20597354,extended,00000000
 
-[Have Finished]
+[Have Finished (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Finished
 // Have Finished
 patch=1,EE,2059735C,extended,000000FF
 
-[Max Cleared Score]
+[Max Cleared Score (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cleared Score
 // Max Cleared Score
 patch=1,EE,20597370,extended,05F5E0FF
 
-[Always Low Cleared Time]
+[Always Low Cleared Time (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Cleared Time
 // Always Low Cleared Time
 patch=1,EE,20597374,extended,00000000
 
-[Have Finished]
+[Have Finished (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Finished
 // Have Finished
 patch=1,EE,2059737C,extended,000000FF
 
-[Max Cleared Score]
+[Max Cleared Score (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cleared Score
 // Max Cleared Score
 patch=1,EE,20597380,extended,05F5E0FF
 
-[Always Low Cleared Time]
+[Always Low Cleared Time (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Cleared Time
 // Always Low Cleared Time
 patch=1,EE,20597384,extended,00000000
 
-[Have Finished]
+[Have Finished (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Finished
 // Have Finished
 patch=1,EE,2059738C,extended,000000FF
 
-[Max Cleared Score]
+[Max Cleared Score (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cleared Score
 // Max Cleared Score
 patch=1,EE,20597390,extended,05F5E0FF
 
-[Always Low Cleared Time]
+[Always Low Cleared Time (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Cleared Time
 // Always Low Cleared Time
 patch=1,EE,20597394,extended,00000000
 
-[Have Finished]
+[Have Finished (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Finished
 // Have Finished

@@ -1,0 +1,4 @@
+gametitle=SIMPLE2000本格思考シリーズ Vol.6 THE カード ～ブラックジャック・大富豪・ドローポーカー・スピード・ページワン etc.～ [SLPM-62396] [B1FE2D57]
+
+[Cheats\Max Chip free mode not supported]
+patch=1,EE,1C83DBE0,extended,17E9C70C

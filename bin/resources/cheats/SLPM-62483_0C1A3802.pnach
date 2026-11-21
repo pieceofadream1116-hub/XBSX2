@@ -1,0 +1,10 @@
+gametitle=SIMPLE2000シリーズ Vol.48 THE タクシー ～運転手は君だ～ [SLPM-62483] [0C1A3802]
+
+[Cheats\Max Sales]
+patch=1,EE,201B6B74,extended,0098967F
+
+[Cheats\Nitro 3]
+patch=1,EE,001B6783,extended,00000003
+
+[Cheats\Debug Menu Selecting Start from the beginning"on the title screen will switch to debug mode. About half of the options don't seem to work.]
+patch=1,EE,20107048,extended,2402000B

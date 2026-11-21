@@ -65,3 +65,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Everything Unlocked
 // Everything Unlocked
 patch=1,EE,00B959E5,extended,00000001
+
+[Cheats\More Speed And Acceleration This code only works in Time Trial and Challenge modes]
+patch=1,EE,00BA253D,extended,00000001

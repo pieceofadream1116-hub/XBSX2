@@ -12,19 +12,19 @@ description=Infinite Energy
 // Infinite Energy
 patch=1,EE,2017EF18,extended,24500000
 
-[Infinite Energy]
+[Infinite Energy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Energy
 // Infinite Energy
 patch=1,EE,2017EF1C,extended,A602000E
 
-[Infinite Energy]
+[Infinite Energy (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Energy
 // Infinite Energy
 patch=1,EE,2017EF20,extended,44822000
 
-[Infinite Energy]
+[Infinite Energy (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Energy
 // Infinite Energy
@@ -36,7 +36,7 @@ description=Upgrades Are Free
 // Upgrades Are Free
 patch=1,EE,2012EC70,extended,AC400000
 
-[Upgrades Are Free]
+[Upgrades Are Free (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Upgrades Are Free
 // Upgrades Are Free
@@ -48,7 +48,7 @@ description=Upgrade Points Dont Decrease
 // Upgrade Points Dont Decrease
 patch=1,EE,201B5EA0,extended,00000000
 
-[Upgrade Points Dont Decrease]
+[Upgrade Points Dont Decrease (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Upgrade Points Dont Decrease
 // Upgrade Points Dont Decrease
@@ -60,7 +60,7 @@ description=Use Upgrade Points For Max Upgrade Points
 // Use Upgrade Points For Max Upgrade Points
 patch=1,EE,201B5E94,extended,3C0205F5
 
-[Use Upgrade Points For Max Upgrade Points]
+[Use Upgrade Points For Max Upgrade Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Use Upgrade Points For Max Upgrade Points
 // Use Upgrade Points For Max Upgrade Points
@@ -96,7 +96,7 @@ description=Have All Upgrades Available For Purchase
 // Have All Upgrades Available For Purchase
 patch=1,EE,403201B8,extended,00040008
 
-[Have All Upgrades Available For Purchase]
+[Have All Upgrades Available For Purchase (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Upgrades Available For Purchase
 // Have All Upgrades Available For Purchase
@@ -108,7 +108,7 @@ description=Max Supers Available
 // Max Supers Available
 patch=1,EE,403201C0,extended,00040008
 
-[Max Supers Available]
+[Max Supers Available (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supers Available
 // Max Supers Available
@@ -120,7 +120,7 @@ description=Max Cosmic Power
 // Max Cosmic Power
 patch=1,EE,403201D0,extended,00040008
 
-[Max Cosmic Power]
+[Max Cosmic Power (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cosmic Power
 // Max Cosmic Power
@@ -144,7 +144,7 @@ description=Infinite Cosmic Power Bars
 // Infinite Cosmic Power Bars
 patch=1,EE,418A07F0,extended,00040024
 
-[Infinite Cosmic Power Bars]
+[Infinite Cosmic Power Bars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cosmic Power Bars
 // Infinite Cosmic Power Bars
@@ -288,19 +288,19 @@ description=Infinite Cosmic Power
 // Infinite Cosmic Power
 patch=1,EE,218A07F0,extended,03E803E8
 
-[Infinite Lives]
+[Infinite Lives (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,018A0861,extended,00000064
 
-[Have All Upgrades Available For Purchase]
+[Have All Upgrades Available For Purchase (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Upgrades Available For Purchase
 // Have All Upgrades Available For Purchase
 patch=1,EE,203201B8,extended,FFFFFFFF
 
-[Max Supers Available]
+[Max Supers Available (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supers Available
 // Max Supers Available
@@ -312,7 +312,7 @@ description=Max Health
 // Max Health
 patch=1,EE,203201CC,extended,000019A7
 
-[Max Cosmic Power]
+[Max Cosmic Power (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cosmic Power
 // Max Cosmic Power
@@ -372,37 +372,37 @@ description=Spider Mines
 // Spider Mines
 patch=1,EE,003267AF,extended,00000002
 
-[Infinite Cosmic Power]
+[Infinite Cosmic Power (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cosmic Power
 // Infinite Cosmic Power
 patch=1,EE,218A0880,extended,03E803E8
 
-[Infinite Lives]
+[Infinite Lives (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,018A08F1,extended,00000064
 
-[Have All Upgrades Available For Purchase]
+[Have All Upgrades Available For Purchase (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Upgrades Available For Purchase
 // Have All Upgrades Available For Purchase
 patch=1,EE,203201D8,extended,FFFFFFFF
 
-[Max Supers Available]
+[Max Supers Available (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supers Available
 // Max Supers Available
 patch=1,EE,203201E0,extended,00000063
 
-[Max Health]
+[Max Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,203201EC,extended,00001EDC
 
-[Max Cosmic Power]
+[Max Cosmic Power (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cosmic Power
 // Max Cosmic Power
@@ -462,37 +462,37 @@ description=Force Wall
 // Force Wall
 patch=1,EE,0032679D,extended,00000002
 
-[Infinite Cosmic Power]
+[Infinite Cosmic Power (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cosmic Power
 // Infinite Cosmic Power
 patch=1,EE,218A0910,extended,03E803E8
 
-[Infinite Lives]
+[Infinite Lives (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,018A0981,extended,00000064
 
-[Have All Upgrades Available For Purchase]
+[Have All Upgrades Available For Purchase (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Upgrades Available For Purchase
 // Have All Upgrades Available For Purchase
 patch=1,EE,203201F8,extended,FFFFFFFF
 
-[Max Supers Available]
+[Max Supers Available (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supers Available
 // Max Supers Available
 patch=1,EE,20320200,extended,00000063
 
-[Max Health]
+[Max Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,2032020C,extended,000026AC
 
-[Max Cosmic Power]
+[Max Cosmic Power (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cosmic Power
 // Max Cosmic Power
@@ -552,37 +552,37 @@ description=Firewall
 // Firewall
 patch=1,EE,003267B8,extended,00000002
 
-[Infinite Cosmic Power]
+[Infinite Cosmic Power (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cosmic Power
 // Infinite Cosmic Power
 patch=1,EE,218A09A0,extended,03E803E8
 
-[Infinite Lives]
+[Infinite Lives (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,018A0A11,extended,00000064
 
-[Have All Upgrades Available For Purchase]
+[Have All Upgrades Available For Purchase (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Upgrades Available For Purchase
 // Have All Upgrades Available For Purchase
 patch=1,EE,20320218,extended,FFFFFFFF
 
-[Max Supers Available]
+[Max Supers Available (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Supers Available
 // Max Supers Available
 patch=1,EE,20320220,extended,00000063
 
-[Max Health]
+[Max Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,2032022C,extended,00001324
 
-[Max Cosmic Power]
+[Max Cosmic Power (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cosmic Power
 // Max Cosmic Power
@@ -708,7 +708,7 @@ description=All Easy Levels
 // All Easy Levels
 patch=1,EE,40320234,extended,000A0001
 
-[All Easy Levels]
+[All Easy Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Easy Levels
 // All Easy Levels
@@ -780,12 +780,6 @@ description=All Medium Levels
 // All Medium Levels
 patch=1,EE,40320284,extended,000A0001
 
-[All Medium Levels]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Medium Levels
-// All Medium Levels
-patch=1,EE,00000001,extended,00000000
-
 [Intro-Hard]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Intro-Hard
@@ -851,12 +845,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Hard Levels
 // All Hard Levels
 patch=1,EE,403202D4,extended,000A0001
-
-[All Hard Levels]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Hard Levels
-// All Hard Levels
-patch=1,EE,00000001,extended,00000000
 
 [Unlock Bonus Level]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -1188,79 +1176,79 @@ description=Doom
 // Doom
 patch=1,EE,00320371,extended,0000003F
 
-[All F4 Secrets]
+[All F4 Secrets (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All F4 Secrets
 // All F4 Secrets
 patch=1,EE,20320368,extended,0F0F071F
 
-[All F4 Secrets]
+[All F4 Secrets (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All F4 Secrets
 // All F4 Secrets
 patch=1,EE,2032036C,extended,030F070F
 
-[All F4 Secrets]
+[All F4 Secrets (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All F4 Secrets
 // All F4 Secrets
 patch=1,EE,10320370,extended,00003F07
 
-[Intro]
+[Intro (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Intro
 // Intro
 patch=1,EE,00320372,extended,0000001F
 
-[Brooklyn]
+[Brooklyn (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brooklyn
 // Brooklyn
 patch=1,EE,00320373,extended,00000007
 
-[Underground]
+[Underground (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Underground
 // Underground
 patch=1,EE,00320374,extended,0000000F
 
-[Tikal]
+[Tikal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tikal
 // Tikal
 patch=1,EE,00320375,extended,0000000F
 
-[Museum]
+[Museum (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Museum
 // Museum
 patch=1,EE,00320376,extended,0000000F
 
-[Times Square]
+[Times Square (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Times Square
 // Times Square
 patch=1,EE,00320377,extended,00000007
 
-[Vault]
+[Vault (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Vault
 // Vault
 patch=1,EE,00320378,extended,0000000F
 
-[Shield]
+[Shield (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shield
 // Shield
 patch=1,EE,00320379,extended,00000003
 
-[Space]
+[Space (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Space
 // Space
 patch=1,EE,0032037A,extended,00000007
 
-[Doom]
+[Doom (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Doom
 // Doom
@@ -1272,14 +1260,49 @@ description=All Levels
 // All Levels
 patch=1,EE,10320372,extended,0000071F
 
-[All Levels]
+[All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Levels
 // All Levels
 patch=1,EE,20320374,extended,070F0F0F
 
-[All Levels]
+[All Levels (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Levels
 // All Levels
 patch=1,EE,20320378,extended,3F07030F
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,0031F2F0,word,00000001
+
+[Cheats\Infinite Health]
+patch=1,EE,2017EF18,extended,24500000
+patch=1,EE,2017EF1C,extended,A602000E
+patch=1,EE,2017EF20,extended,44822000
+patch=1,EE,2017EF2C,extended,00000000
+
+[Cheats\Max Cosmic Power]
+patch=1,EE,403201D0,extended,00040008
+patch=1,EE,00000B54,extended,00000000
+
+[Cheats\Infinite Cosmic Power Bars]
+patch=1,EE,418A07F0,extended,00040024
+patch=1,EE,03E803E8,extended,00000000
+
+[Cheats\All Characters Max Supers Avaliaable]
+patch=1,EE,403201C0,extended,00040008
+patch=1,EE,00000064,extended,00000000
+
+[Cheats\Have All Upgrades Available For Purchase]
+patch=1,EE,403201B8,extended,00040008
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats\Unlock All Secrets]
+patch=1,EE,20320368,extended,0F0F071F
+patch=1,EE,2032036C,extended,030F070F
+patch=1,EE,10320370,extended,00003F07
+
+[Cheats\Unlock All Levels]
+patch=1,EE,00320328,extended,0000000A

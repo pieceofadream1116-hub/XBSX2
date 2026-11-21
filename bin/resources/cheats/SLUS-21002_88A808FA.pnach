@@ -12,7 +12,7 @@ description=Access All Characters
 // Access All Characters
 patch=1,EE,20228D18,extended,24030001
 
-[Access All Characters]
+[Access All Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Characters
 // Access All Characters
@@ -54,7 +54,7 @@ description=Can Play Real Time Events Anytime
 // Can Play Real Time Events Anytime
 patch=1,EE,1020C5D6,extended,00001000
 
-[Can Play Real Time Events Anytime]
+[Can Play Real Time Events Anytime (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Can Play Real Time Events Anytime
 // Can Play Real Time Events Anytime
@@ -240,851 +240,791 @@ description=All Holes
 // All Holes
 patch=1,EE,40422470,extended,00120001
 
-[All Holes]
+[All Holes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Holes
 // All Holes
 patch=1,EE,00000000,extended,00000000
 
-[Hole 1]
+[Hole 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 1
 // Hole 1
 patch=1,EE,20422470,extended,00000009
 
-[Hole 2]
+[Hole 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 2
 // Hole 2
 patch=1,EE,20422474,extended,00000009
 
-[Hole 3]
+[Hole 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 3
 // Hole 3
 patch=1,EE,20422478,extended,00000009
 
-[Hole 4]
+[Hole 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 4
 // Hole 4
 patch=1,EE,2042247C,extended,00000009
 
-[Hole 5]
+[Hole 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 5
 // Hole 5
 patch=1,EE,20422480,extended,00000009
 
-[Hole 6]
+[Hole 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 6
 // Hole 6
 patch=1,EE,20422484,extended,00000009
 
-[Hole 7]
+[Hole 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 7
 // Hole 7
 patch=1,EE,20422488,extended,00000009
 
-[Hole 8]
+[Hole 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 8
 // Hole 8
 patch=1,EE,2042248C,extended,00000009
 
-[Hole 9]
+[Hole 9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 9
 // Hole 9
 patch=1,EE,20422490,extended,00000009
 
-[Hole 10]
+[Hole 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 10
 // Hole 10
 patch=1,EE,20422494,extended,00000009
 
-[Hole 11]
+[Hole 11 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 11
 // Hole 11
 patch=1,EE,20422498,extended,00000009
 
-[Hole 12]
+[Hole 12 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 12
 // Hole 12
 patch=1,EE,2042249C,extended,00000009
 
-[Hole 13]
+[Hole 13 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 13
 // Hole 13
 patch=1,EE,204224A0,extended,00000009
 
-[Hole 14]
+[Hole 14 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 14
 // Hole 14
 patch=1,EE,204224A4,extended,00000009
 
-[Hole 15]
+[Hole 15 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 15
 // Hole 15
 patch=1,EE,204224A8,extended,00000009
 
-[Hole 16]
+[Hole 16 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 16
 // Hole 16
 patch=1,EE,204224AC,extended,00000009
 
-[Hole 17]
+[Hole 17 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 17
 // Hole 17
 patch=1,EE,204224B0,extended,00000009
 
-[Hole 18]
+[Hole 18 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 18
 // Hole 18
 patch=1,EE,204224B4,extended,00000009
 
-[All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Holes
-// All Holes
-patch=1,EE,40422470,extended,00120001
-
-[All Holes]
+[All Holes (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Holes
 // All Holes
 patch=1,EE,00000009,extended,00000000
 
-[Hole 1]
+[Hole 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 1
 // Hole 1
 patch=1,EE,204233C0,extended,00000000
 
-[Hole 2]
+[Hole 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 2
 // Hole 2
 patch=1,EE,204233C4,extended,00000000
 
-[Hole 3]
+[Hole 3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 3
 // Hole 3
 patch=1,EE,204233C8,extended,00000000
 
-[Hole 4]
+[Hole 4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 4
 // Hole 4
 patch=1,EE,204233CC,extended,00000000
 
-[Hole 5]
+[Hole 5 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 5
 // Hole 5
 patch=1,EE,204233D0,extended,00000000
 
-[Hole 6]
+[Hole 6 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 6
 // Hole 6
 patch=1,EE,204233D4,extended,00000000
 
-[Hole 7]
+[Hole 7 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 7
 // Hole 7
 patch=1,EE,204233D8,extended,00000000
 
-[Hole 8]
+[Hole 8 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 8
 // Hole 8
 patch=1,EE,204233DC,extended,00000000
 
-[Hole 9]
+[Hole 9 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 9
 // Hole 9
 patch=1,EE,204233E0,extended,00000000
 
-[Hole 10]
+[Hole 10 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 10
 // Hole 10
 patch=1,EE,204233E4,extended,00000000
 
-[Hole 11]
+[Hole 11 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 11
 // Hole 11
 patch=1,EE,204233E8,extended,00000000
 
-[Hole 12]
+[Hole 12 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 12
 // Hole 12
 patch=1,EE,204233EC,extended,00000000
 
-[Hole 13]
+[Hole 13 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 13
 // Hole 13
 patch=1,EE,204233F0,extended,00000000
 
-[Hole 14]
+[Hole 14 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 14
 // Hole 14
 patch=1,EE,204233F4,extended,00000000
 
-[Hole 15]
+[Hole 15 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 15
 // Hole 15
 patch=1,EE,204233F8,extended,00000000
 
-[Hole 16]
+[Hole 16 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 16
 // Hole 16
 patch=1,EE,204233FC,extended,00000000
 
-[Hole 17]
+[Hole 17 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 17
 // Hole 17
 patch=1,EE,20423400,extended,00000000
 
-[Hole 18]
+[Hole 18 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 18
 // Hole 18
 patch=1,EE,20423404,extended,00000000
 
-[All Holes]
+[All Holes (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Holes
 // All Holes
 patch=1,EE,404233C0,extended,00120001
 
-[All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Holes
-// All Holes
-patch=1,EE,00000000,extended,00000000
-
-[Hole 1]
+[Hole 1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 1
 // Hole 1
 patch=1,EE,204233C0,extended,00000009
 
-[Hole 2]
+[Hole 2 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 2
 // Hole 2
 patch=1,EE,204233C4,extended,00000009
 
-[Hole 3]
+[Hole 3 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 3
 // Hole 3
 patch=1,EE,204233C8,extended,00000009
 
-[Hole 4]
+[Hole 4 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 4
 // Hole 4
 patch=1,EE,204233CC,extended,00000009
 
-[Hole 5]
+[Hole 5 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 5
 // Hole 5
 patch=1,EE,204233D0,extended,00000009
 
-[Hole 6]
+[Hole 6 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 6
 // Hole 6
 patch=1,EE,204233D4,extended,00000009
 
-[Hole 7]
+[Hole 7 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 7
 // Hole 7
 patch=1,EE,204233D8,extended,00000009
 
-[Hole 8]
+[Hole 8 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 8
 // Hole 8
 patch=1,EE,204233DC,extended,00000009
 
-[Hole 9]
+[Hole 9 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 9
 // Hole 9
 patch=1,EE,204233E0,extended,00000009
 
-[Hole 10]
+[Hole 10 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 10
 // Hole 10
 patch=1,EE,204233E4,extended,00000009
 
-[Hole 11]
+[Hole 11 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 11
 // Hole 11
 patch=1,EE,204233E8,extended,00000009
 
-[Hole 12]
+[Hole 12 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 12
 // Hole 12
 patch=1,EE,204233EC,extended,00000009
 
-[Hole 13]
+[Hole 13 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 13
 // Hole 13
 patch=1,EE,204233F0,extended,00000009
 
-[Hole 14]
+[Hole 14 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 14
 // Hole 14
 patch=1,EE,204233F4,extended,00000009
 
-[Hole 15]
+[Hole 15 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 15
 // Hole 15
 patch=1,EE,204233F8,extended,00000009
 
-[Hole 16]
+[Hole 16 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 16
 // Hole 16
 patch=1,EE,204233FC,extended,00000009
 
-[Hole 17]
+[Hole 17 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 17
 // Hole 17
 patch=1,EE,20423400,extended,00000009
 
-[Hole 18]
+[Hole 18 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 18
 // Hole 18
 patch=1,EE,20423404,extended,00000009
 
-[All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Holes
-// All Holes
-patch=1,EE,404233C0,extended,00120001
-
-[All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Holes
-// All Holes
-patch=1,EE,00000009,extended,00000000
-
-[Hole 1]
+[Hole 1 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 1
 // Hole 1
 patch=1,EE,20424310,extended,00000000
 
-[Hole 2]
+[Hole 2 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 2
 // Hole 2
 patch=1,EE,20424314,extended,00000000
 
-[Hole 3]
+[Hole 3 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 3
 // Hole 3
 patch=1,EE,20424318,extended,00000000
 
-[Hole 4]
+[Hole 4 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 4
 // Hole 4
 patch=1,EE,2042431C,extended,00000000
 
-[Hole 5]
+[Hole 5 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 5
 // Hole 5
 patch=1,EE,20424320,extended,00000000
 
-[Hole 6]
+[Hole 6 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 6
 // Hole 6
 patch=1,EE,20424324,extended,00000000
 
-[Hole 7]
+[Hole 7 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 7
 // Hole 7
 patch=1,EE,20424328,extended,00000000
 
-[Hole 8]
+[Hole 8 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 8
 // Hole 8
 patch=1,EE,2042432C,extended,00000000
 
-[Hole 9]
+[Hole 9 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 9
 // Hole 9
 patch=1,EE,20424330,extended,00000000
 
-[Hole 10]
+[Hole 10 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 10
 // Hole 10
 patch=1,EE,20424334,extended,00000000
 
-[Hole 11]
+[Hole 11 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 11
 // Hole 11
 patch=1,EE,20424338,extended,00000000
 
-[Hole 12]
+[Hole 12 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 12
 // Hole 12
 patch=1,EE,2042433C,extended,00000000
 
-[Hole 13]
+[Hole 13 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 13
 // Hole 13
 patch=1,EE,20424340,extended,00000000
 
-[Hole 14]
+[Hole 14 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 14
 // Hole 14
 patch=1,EE,20424344,extended,00000000
 
-[Hole 15]
+[Hole 15 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 15
 // Hole 15
 patch=1,EE,20424348,extended,00000000
 
-[Hole 16]
+[Hole 16 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 16
 // Hole 16
 patch=1,EE,2042434C,extended,00000000
 
-[Hole 17]
+[Hole 17 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 17
 // Hole 17
 patch=1,EE,20424350,extended,00000000
 
-[Hole 18]
+[Hole 18 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 18
 // Hole 18
 patch=1,EE,20424354,extended,00000000
 
-[All Holes]
+[All Holes (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Holes
 // All Holes
 patch=1,EE,40424310,extended,00120001
 
-[All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Holes
-// All Holes
-patch=1,EE,00000000,extended,00000000
-
-[Hole 1]
+[Hole 1 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 1
 // Hole 1
 patch=1,EE,20424310,extended,00000009
 
-[Hole 2]
+[Hole 2 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 2
 // Hole 2
 patch=1,EE,20424314,extended,00000009
 
-[Hole 3]
+[Hole 3 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 3
 // Hole 3
 patch=1,EE,20424318,extended,00000009
 
-[Hole 4]
+[Hole 4 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 4
 // Hole 4
 patch=1,EE,2042431C,extended,00000009
 
-[Hole 5]
+[Hole 5 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 5
 // Hole 5
 patch=1,EE,20424320,extended,00000009
 
-[Hole 6]
+[Hole 6 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 6
 // Hole 6
 patch=1,EE,20424324,extended,00000009
 
-[Hole 7]
+[Hole 7 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 7
 // Hole 7
 patch=1,EE,20424328,extended,00000009
 
-[Hole 8]
+[Hole 8 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 8
 // Hole 8
 patch=1,EE,2042432C,extended,00000009
 
-[Hole 9]
+[Hole 9 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 9
 // Hole 9
 patch=1,EE,20424330,extended,00000009
 
-[Hole 10]
+[Hole 10 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 10
 // Hole 10
 patch=1,EE,20424334,extended,00000009
 
-[Hole 11]
+[Hole 11 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 11
 // Hole 11
 patch=1,EE,20424338,extended,00000009
 
-[Hole 12]
+[Hole 12 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 12
 // Hole 12
 patch=1,EE,2042433C,extended,00000009
 
-[Hole 13]
+[Hole 13 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 13
 // Hole 13
 patch=1,EE,20424340,extended,00000009
 
-[Hole 14]
+[Hole 14 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 14
 // Hole 14
 patch=1,EE,20424344,extended,00000009
 
-[Hole 15]
+[Hole 15 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 15
 // Hole 15
 patch=1,EE,20424348,extended,00000009
 
-[Hole 16]
+[Hole 16 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 16
 // Hole 16
 patch=1,EE,2042434C,extended,00000009
 
-[Hole 17]
+[Hole 17 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 17
 // Hole 17
 patch=1,EE,20424350,extended,00000009
 
-[Hole 18]
+[Hole 18 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 18
 // Hole 18
 patch=1,EE,20424354,extended,00000009
 
-[All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Holes
-// All Holes
-patch=1,EE,40424310,extended,00120001
-
-[All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Holes
-// All Holes
-patch=1,EE,00000009,extended,00000000
-
-[Hole 1]
+[Hole 1 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 1
 // Hole 1
 patch=1,EE,20425260,extended,00000000
 
-[Hole 2]
+[Hole 2 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 2
 // Hole 2
 patch=1,EE,20425264,extended,00000000
 
-[Hole 3]
+[Hole 3 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 3
 // Hole 3
 patch=1,EE,20425268,extended,00000000
 
-[Hole 4]
+[Hole 4 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 4
 // Hole 4
 patch=1,EE,2042526C,extended,00000000
 
-[Hole 5]
+[Hole 5 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 5
 // Hole 5
 patch=1,EE,20425270,extended,00000000
 
-[Hole 6]
+[Hole 6 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 6
 // Hole 6
 patch=1,EE,20425274,extended,00000000
 
-[Hole 7]
+[Hole 7 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 7
 // Hole 7
 patch=1,EE,20425278,extended,00000000
 
-[Hole 8]
+[Hole 8 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 8
 // Hole 8
 patch=1,EE,2042527C,extended,00000000
 
-[Hole 9]
+[Hole 9 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 9
 // Hole 9
 patch=1,EE,20425280,extended,00000000
 
-[Hole 10]
+[Hole 10 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 10
 // Hole 10
 patch=1,EE,20425284,extended,00000000
 
-[Hole 11]
+[Hole 11 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 11
 // Hole 11
 patch=1,EE,20425288,extended,00000000
 
-[Hole 12]
+[Hole 12 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 12
 // Hole 12
 patch=1,EE,2042528C,extended,00000000
 
-[Hole 13]
+[Hole 13 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 13
 // Hole 13
 patch=1,EE,20425290,extended,00000000
 
-[Hole 14]
+[Hole 14 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 14
 // Hole 14
 patch=1,EE,20425294,extended,00000000
 
-[Hole 15]
+[Hole 15 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 15
 // Hole 15
 patch=1,EE,20425298,extended,00000000
 
-[Hole 16]
+[Hole 16 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 16
 // Hole 16
 patch=1,EE,2042529C,extended,00000000
 
-[Hole 17]
+[Hole 17 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 17
 // Hole 17
 patch=1,EE,204252A0,extended,00000000
 
-[Hole 18]
+[Hole 18 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 18
 // Hole 18
 patch=1,EE,204252A4,extended,00000000
 
-[All Holes]
+[All Holes (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Holes
 // All Holes
 patch=1,EE,40425260,extended,00120001
 
-[All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Holes
-// All Holes
-patch=1,EE,00000000,extended,00000000
-
-[Hole 1]
+[Hole 1 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 1
 // Hole 1
 patch=1,EE,20425260,extended,00000009
 
-[Hole 2]
+[Hole 2 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 2
 // Hole 2
 patch=1,EE,20425264,extended,00000009
 
-[Hole 3]
+[Hole 3 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 3
 // Hole 3
 patch=1,EE,20425268,extended,00000009
 
-[Hole 4]
+[Hole 4 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 4
 // Hole 4
 patch=1,EE,2042526C,extended,00000009
 
-[Hole 5]
+[Hole 5 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 5
 // Hole 5
 patch=1,EE,20425270,extended,00000009
 
-[Hole 6]
+[Hole 6 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 6
 // Hole 6
 patch=1,EE,20425274,extended,00000009
 
-[Hole 7]
+[Hole 7 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 7
 // Hole 7
 patch=1,EE,20425278,extended,00000009
 
-[Hole 8]
+[Hole 8 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 8
 // Hole 8
 patch=1,EE,2042527C,extended,00000009
 
-[Hole 9]
+[Hole 9 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 9
 // Hole 9
 patch=1,EE,20425280,extended,00000009
 
-[Hole 10]
+[Hole 10 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 10
 // Hole 10
 patch=1,EE,20425284,extended,00000009
 
-[Hole 11]
+[Hole 11 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 11
 // Hole 11
 patch=1,EE,20425288,extended,00000009
 
-[Hole 12]
+[Hole 12 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 12
 // Hole 12
 patch=1,EE,2042528C,extended,00000009
 
-[Hole 13]
+[Hole 13 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 13
 // Hole 13
 patch=1,EE,20425290,extended,00000009
 
-[Hole 14]
+[Hole 14 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 14
 // Hole 14
 patch=1,EE,20425294,extended,00000009
 
-[Hole 15]
+[Hole 15 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 15
 // Hole 15
 patch=1,EE,20425298,extended,00000009
 
-[Hole 16]
+[Hole 16 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 16
 // Hole 16
 patch=1,EE,2042529C,extended,00000009
 
-[Hole 17]
+[Hole 17 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 17
 // Hole 17
 patch=1,EE,204252A0,extended,00000009
 
-[Hole 18]
+[Hole 18 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hole 18
 // Hole 18
 patch=1,EE,204252A4,extended,00000009
-
-[All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Holes
-// All Holes
-patch=1,EE,40425260,extended,00120001
-
-[All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Holes
-// All Holes
-patch=1,EE,00000009,extended,00000000
 
 [Max Overall Earnings]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -1092,7 +1032,7 @@ description=Max Overall Earnings
 // Max Overall Earnings
 patch=1,EE,203BC7B8,extended,05F5E0FF
 
-[Max Cash]
+[Max Cash (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
@@ -2184,235 +2124,235 @@ description=Ball Set 23
 // Ball Set 23
 patch=1,EE,003BCCAC,extended,00000001
 
-[Ball Set 1]
+[Ball Set 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 1
 // Ball Set 1
 patch=1,EE,003BCCB0,extended,00000001
 
-[Ball Set 2]
+[Ball Set 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 2
 // Ball Set 2
 patch=1,EE,003BCCB4,extended,00000001
 
-[Ball Set 3]
+[Ball Set 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 3
 // Ball Set 3
 patch=1,EE,003BCCB8,extended,00000001
 
-[Ball Set 4]
+[Ball Set 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 4
 // Ball Set 4
 patch=1,EE,003BCCBC,extended,00000001
 
-[Ball Set 5]
+[Ball Set 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 5
 // Ball Set 5
 patch=1,EE,003BCCC0,extended,00000001
 
-[Ball Set 6]
+[Ball Set 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 6
 // Ball Set 6
 patch=1,EE,003BCCC4,extended,00000001
 
-[Ball Set 7]
+[Ball Set 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 7
 // Ball Set 7
 patch=1,EE,003BCCC8,extended,00000001
 
-[Ball Set 8]
+[Ball Set 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 8
 // Ball Set 8
 patch=1,EE,003BCCCC,extended,00000001
 
-[Ball Set 9]
+[Ball Set 9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 9
 // Ball Set 9
 patch=1,EE,003BCCD0,extended,00000001
 
-[Ball Set 10]
+[Ball Set 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 10
 // Ball Set 10
 patch=1,EE,003BCCD4,extended,00000001
 
-[Ball Set 11]
+[Ball Set 11 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 11
 // Ball Set 11
 patch=1,EE,003BCCD8,extended,00000001
 
-[Ball Set 12]
+[Ball Set 12 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 12
 // Ball Set 12
 patch=1,EE,003BCCDC,extended,00000001
 
-[Ball Set 13]
+[Ball Set 13 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 13
 // Ball Set 13
 patch=1,EE,003BCCE0,extended,00000001
 
-[Ball Set 14]
+[Ball Set 14 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 14
 // Ball Set 14
 patch=1,EE,003BCCE4,extended,00000001
 
-[Ball Set 15]
+[Ball Set 15 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 15
 // Ball Set 15
 patch=1,EE,003BCCE8,extended,00000001
 
-[Ball Set 16]
+[Ball Set 16 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 16
 // Ball Set 16
 patch=1,EE,003BCCEC,extended,00000001
 
-[Ball Set 1]
+[Ball Set 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 1
 // Ball Set 1
 patch=1,EE,003BCCF0,extended,00000001
 
-[Ball Set 2]
+[Ball Set 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 2
 // Ball Set 2
 patch=1,EE,003BCCF4,extended,00000001
 
-[Ball Set 3]
+[Ball Set 3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 3
 // Ball Set 3
 patch=1,EE,003BCCF8,extended,00000001
 
-[Ball Set 4]
+[Ball Set 4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 4
 // Ball Set 4
 patch=1,EE,003BCCFC,extended,00000001
 
-[Ball Set 5]
+[Ball Set 5 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 5
 // Ball Set 5
 patch=1,EE,003BCD00,extended,00000001
 
-[Ball Set 6]
+[Ball Set 6 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 6
 // Ball Set 6
 patch=1,EE,003BCD04,extended,00000001
 
-[Ball Set 7]
+[Ball Set 7 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 7
 // Ball Set 7
 patch=1,EE,003BCD08,extended,00000001
 
-[Ball Set 8]
+[Ball Set 8 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 8
 // Ball Set 8
 patch=1,EE,003BCD0C,extended,00000001
 
-[Ball Set 9]
+[Ball Set 9 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 9
 // Ball Set 9
 patch=1,EE,003BCD10,extended,00000001
 
-[Ball Set 10]
+[Ball Set 10 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 10
 // Ball Set 10
 patch=1,EE,003BCD14,extended,00000001
 
-[Ball Set 11]
+[Ball Set 11 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 11
 // Ball Set 11
 patch=1,EE,003BCD18,extended,00000001
 
-[Ball Set 12]
+[Ball Set 12 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 12
 // Ball Set 12
 patch=1,EE,003BCD1C,extended,00000001
 
-[Ball Set 13]
+[Ball Set 13 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 13
 // Ball Set 13
 patch=1,EE,003BCD20,extended,00000001
 
-[Ball Set 14]
+[Ball Set 14 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 14
 // Ball Set 14
 patch=1,EE,003BCD24,extended,00000001
 
-[Ball Set 15]
+[Ball Set 15 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 15
 // Ball Set 15
 patch=1,EE,003BCD28,extended,00000001
 
-[Ball Set 16]
+[Ball Set 16 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 16
 // Ball Set 16
 patch=1,EE,003BCD2C,extended,00000001
 
-[Ball Set 17]
+[Ball Set 17 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 17
 // Ball Set 17
 patch=1,EE,003BCD30,extended,00000001
 
-[Ball Set 18]
+[Ball Set 18 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 18
 // Ball Set 18
 patch=1,EE,003BCD34,extended,00000001
 
-[Ball Set 19]
+[Ball Set 19 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 19
 // Ball Set 19
 patch=1,EE,003BCD38,extended,00000001
 
-[Ball Set 20]
+[Ball Set 20 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 20
 // Ball Set 20
 patch=1,EE,003BCD3C,extended,00000001
 
-[Ball Set 21]
+[Ball Set 21 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 21
 // Ball Set 21
 patch=1,EE,003BCD40,extended,00000001
 
-[Ball Set 22]
+[Ball Set 22 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 22
 // Ball Set 22
 patch=1,EE,003BCD44,extended,00000001
 
-[Ball Set 23]
+[Ball Set 23 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ball Set 23
 // Ball Set 23
@@ -2820,7 +2760,7 @@ description=All Par 5 Eagles
 // All Par 5 Eagles
 patch=1,EE,403C1D10,extended,000D0001
 
-[All Par 5 Eagles]
+[All Par 5 Eagles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Par 5 Eagles
 // All Par 5 Eagles
@@ -3011,12 +2951,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Scenarios
 // All Scenarios
 patch=1,EE,403C1E14,extended,00080001
-
-[All Scenarios]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Scenarios
-// All Scenarios
-patch=1,EE,00000000,extended,00000000
 
 [January-New Year's Day]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -3695,3 +3629,11 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=August-Swish National Day
 // August-Swish National Day
 patch=1,EE,003BCB78,extended,00000001
+
+[Cheats\All Holes Always Hole In One P1]
+patch=1,EE,40422470,extended,00120001
+patch=1,EE,00000000,extended,00000000
+
+[Cheats\Unlock All Characters]
+patch=1,EE,20228D18,extended,24030001
+patch=1,EE,20228D1C,extended,A0430000

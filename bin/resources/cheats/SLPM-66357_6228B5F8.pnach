@@ -1,0 +1,5 @@
+gametitle=ローゼンメイデン ドゥエルヴァルツァ [通常版] [SLPM-66357] [6228B5F8]
+
+[Cheats\Unlock All CG]
+patch=1,EE,214CB588,extended,FFFFFFFF
+patch=1,EE,114CB58C,extended,0000FFFF

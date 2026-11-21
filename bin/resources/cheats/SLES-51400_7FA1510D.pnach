@@ -1,0 +1,7 @@
+gametitle=Tenchu - Wrath of Heaven [SLES-51400] [7FA1510D]
+
+[Cheats\Infinite Health Rikimaru]
+patch=1,EE,21276068,extended,42C80000
+
+[Cheats\Infinite Health Atame]
+patch=1,EE,21393168,extended,4132F69E

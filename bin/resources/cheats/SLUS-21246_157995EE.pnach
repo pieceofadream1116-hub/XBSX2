@@ -12,25 +12,25 @@ description=Max Candy Power Meter
 // Max Candy Power Meter
 patch=1,EE,200C0220,extended,3C0142C8
 
-[Max Candy Power Meter]
+[Max Candy Power Meter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Candy Power Meter
 // Max Candy Power Meter
 patch=1,EE,200C0224,extended,AC41000C
 
-[Max Candy Power Meter]
+[Max Candy Power Meter (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Candy Power Meter
 // Max Candy Power Meter
 patch=1,EE,200C0228,extended,03E00008
 
-[Max Candy Power Meter]
+[Max Candy Power Meter (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Candy Power Meter
 // Max Candy Power Meter
 patch=1,EE,200C022C,extended,C440000C
 
-[Max Candy Power Meter]
+[Max Candy Power Meter (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Candy Power Meter
 // Max Candy Power Meter
@@ -42,25 +42,25 @@ description=Infinite Candy Power Meter
 // Infinite Candy Power Meter
 patch=1,EE,200C0230,extended,3C0142C8
 
-[Infinite Candy Power Meter]
+[Infinite Candy Power Meter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Candy Power Meter
 // Infinite Candy Power Meter
 patch=1,EE,200C0234,extended,AC410018
 
-[Infinite Candy Power Meter]
+[Infinite Candy Power Meter (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Candy Power Meter
 // Infinite Candy Power Meter
 patch=1,EE,200C0238,extended,03E00008
 
-[Infinite Candy Power Meter]
+[Infinite Candy Power Meter (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Candy Power Meter
 // Infinite Candy Power Meter
 patch=1,EE,200C023C,extended,C4400018
 
-[Infinite Candy Power Meter]
+[Infinite Candy Power Meter (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Candy Power Meter
 // Infinite Candy Power Meter
@@ -72,25 +72,25 @@ description=Max Energy Meter
 // Max Energy Meter
 patch=1,EE,200C0240,extended,3C0142C8
 
-[Max Energy Meter]
+[Max Energy Meter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Energy Meter
 // Max Energy Meter
 patch=1,EE,200C0244,extended,AC41000C
 
-[Max Energy Meter]
+[Max Energy Meter (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Energy Meter
 // Max Energy Meter
 patch=1,EE,200C0248,extended,03E00008
 
-[Max Energy Meter]
+[Max Energy Meter (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Energy Meter
 // Max Energy Meter
 patch=1,EE,200C024C,extended,C440000C
 
-[Max Energy Meter]
+[Max Energy Meter (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Energy Meter
 // Max Energy Meter
@@ -102,25 +102,25 @@ description=Infinite Energy Meter
 // Infinite Energy Meter
 patch=1,EE,200C0250,extended,3C0142C8
 
-[Infinite Energy Meter]
+[Infinite Energy Meter (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Energy Meter
 // Infinite Energy Meter
 patch=1,EE,200C0254,extended,AC410018
 
-[Infinite Energy Meter]
+[Infinite Energy Meter (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Energy Meter
 // Infinite Energy Meter
 patch=1,EE,200C0258,extended,03E00008
 
-[Infinite Energy Meter]
+[Infinite Energy Meter (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Energy Meter
 // Infinite Energy Meter
 patch=1,EE,200C025C,extended,C4400018
 
-[Infinite Energy Meter]
+[Infinite Energy Meter (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Energy Meter
 // Infinite Energy Meter
@@ -131,3 +131,34 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pickup 1 Collectable For Max Collectables
 // Pickup 1 Collectable For Max Collectables
 patch=1,EE,2022CED8,extended,ACA7224C
+
+[Cheats\Max Candy Power Meter]
+patch=1,EE,200C0220,extended,3C0142C8
+patch=1,EE,200C0224,extended,AC41000C
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,C440000C
+patch=1,EE,2022FD7C,extended,0C030088
+
+[Cheats\Infinite Candy Power Meter]
+patch=1,EE,200C0230,extended,3C0142C8
+patch=1,EE,200C0234,extended,AC410018
+patch=1,EE,200C0238,extended,03E00008
+patch=1,EE,200C023C,extended,C4400018
+patch=1,EE,2022FDA8,extended,0C03008C
+
+[Cheats\Max Energy Meter]
+patch=1,EE,200C0240,extended,3C0142C8
+patch=1,EE,200C0244,extended,AC41000C
+patch=1,EE,200C0248,extended,03E00008
+patch=1,EE,200C024C,extended,C440000C
+patch=1,EE,2022FDD4,extended,0C030090
+
+[Cheats\Infinite Energy Meter]
+patch=1,EE,200C0250,extended,3C0142C8
+patch=1,EE,200C0254,extended,AC410018
+patch=1,EE,200C0258,extended,03E00008
+patch=1,EE,200C025C,extended,C4400018
+patch=1,EE,2022FE00,extended,0C030094
+
+[Cheats\Enable Debug Level Select On Main Menu]
+patch=1,EE,20452700,extended,00000001

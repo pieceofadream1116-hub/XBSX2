@@ -66,25 +66,25 @@ description=Invincible
 // Invincible
 patch=1,EE,101C5036,extended,00001000
 
-[Invincible]
+[Invincible (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Invincible
 // Invincible
 patch=1,EE,101C5E66,extended,00001000
 
-[Invincible]
+[Invincible (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Invincible
 // Invincible
 patch=1,EE,101C5F86,extended,00001000
 
-[Invincible]
+[Invincible (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Invincible
 // Invincible
 patch=1,EE,101C60BE,extended,00001000
 
-[Invincible]
+[Invincible (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Invincible
 // Invincible
@@ -102,19 +102,19 @@ description=Enter R Museum To Unlock All Ships
 // Enter R Museum To Unlock All Ships
 patch=1,EE,2015CF7C,extended,90410000
 
-[Enter R Museum To Unlock All Ships]
+[Enter R Museum To Unlock All Ships (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enter R Museum To Unlock All Ships
 // Enter R Museum To Unlock All Ships
 patch=1,EE,2015CF80,extended,00230825
 
-[Enter R Museum To Unlock All Ships]
+[Enter R Museum To Unlock All Ships (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enter R Museum To Unlock All Ships
 // Enter R Museum To Unlock All Ships
 patch=1,EE,2015CF84,extended,A0410000
 
-[Enter R Museum To Unlock All Ships]
+[Enter R Museum To Unlock All Ships (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enter R Museum To Unlock All Ships
 // Enter R Museum To Unlock All Ships
@@ -215,3 +215,24 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Perfect Wins
 // Max Perfect Wins
 patch=1,EE,202F2D28,extended,0000270F
+
+[Cheats\Infinite Lives]
+patch=1,EE,202E5F58,extended,00000009
+
+[Cheats\Infinite Credits]
+patch=1,EE,202E5F54,extended,00000009
+
+[Cheats\Invincible]
+patch=1,EE,201D1780,extended,AE000074
+patch=1,EE,201D1784,extended,10000005
+
+[Cheats\Max Charge Final Stage A Wave Motion Gun destruction is not supported]
+patch=1,EE,D031A788,extended,0000A668
+patch=1,EE,2031A7AC,extended,3C015000
+patch=1,EE,D031A788,extended,0000A668
+patch=1,EE,2031A7B0,extended,AC610000
+
+[Cheats\Unlock All Aircrafts]
+patch=1,EE,2015CF3C,extended,241A00FF
+patch=1,EE,2015CF40,extended,A05A0000
+patch=1,EE,2015CF4C,extended,24020001

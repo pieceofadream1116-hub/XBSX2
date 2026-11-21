@@ -1,0 +1,7 @@
+gametitle=4x4 Evo [SLES-50194] [ED78D0E6]
+
+[Cheats\Infinite Money]
+patch=1,EE,208AE75C,extended,FFFFFFFF
+
+[Cheats\Finish After 1st Lap]
+patch=1,EE,202564E8,extended,00000000

@@ -1,0 +1,7 @@
+gametitle=IGPX - Immortal Grand Prix [SLUS-21430] [F23579D9]
+
+[Cheats\Infinite Boost]
+patch=1,EE,201738C8,extended,00000000
+
+[Cheats\Max Points]
+patch=1,EE,204B20E4,extended,000F423F

@@ -1,0 +1,5 @@
+gametitle=山佐DigiワールドSP 燃えよ！功夫淑女 [SLPS-20459] [4D03BCB9]
+
+[Cheats\Unlock All Museum]
+patch=1,EE,202D86D0,extended,FFFFFFFF
+patch=1,EE,202D86D4,extended,FFFFFFFF

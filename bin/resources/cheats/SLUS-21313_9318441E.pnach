@@ -1,0 +1,5 @@
+gametitle=Friends - The One with All the Trivia [SLUS-21313] [9318441E]
+
+[Cheats\Infinite Time To Answer Questions]
+patch=1,EE,2022D4DC,extended,00000000
+patch=1,EE,20233750,extended,00000000

@@ -1,0 +1,8 @@
+gametitle=BECK THE GAME [SLPS-25474] [1D1ED946]
+
+[Cheats\Unlock All Playback]
+patch=1,EE,2037EC98,extended,FFFFFFFF
+
+[Cheats\Unlock All Encore Live]
+patch=1,EE,10233138,extended,00000001
+patch=1,EE,10233164,extended,00000001

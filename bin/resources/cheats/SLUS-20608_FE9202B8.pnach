@@ -60,8 +60,16 @@ description=Instant Boss Death
 // Instant Boss Death
 patch=1,EE,2018D2E8,extended,24040000
 
-[Instant Boss Death]
+[Instant Boss Death (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Instant Boss Death
 // Instant Boss Death
 patch=1,EE,2018D2EC,extended,AC640014
+
+[Cheats\Instant Boss Death]
+patch=1,EE,2018D2E8,extended,24040000
+patch=1,EE,2018D2EC,extended,AC640014
+
+[Cheats\Debug Menu Enable after selecting your character in Normal Mode, the debug menu will appear on-screen. It contains options such as complete any stage, invincibility, and level select.]
+patch=1,EE,2013ECE4,extended,00000000
+patch=1,EE,2013ED20,extended,00000000

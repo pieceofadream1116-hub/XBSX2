@@ -1,0 +1,4 @@
+gametitle=International Snooker Championship [SLES-51996] [F0C727B8]
+
+[Cheats\Get Double Points Each Break Player1]
+patch=1,EE,200C2018,extended,00641821

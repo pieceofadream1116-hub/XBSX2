@@ -18,25 +18,25 @@ description=Max Infinite Nitro
 // Max Infinite Nitro
 patch=1,EE,2030A374,extended,2403270F
 
-[Max Infinite Nitro]
+[Max Infinite Nitro (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Nitro
 // Max Infinite Nitro
 patch=1,EE,2030A378,extended,AE030334
 
-[Max Infinite Nitro]
+[Max Infinite Nitro (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Nitro
 // Max Infinite Nitro
 patch=1,EE,1030A3CE,extended,00001000
 
-[Max Infinite Nitro]
+[Max Infinite Nitro (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Nitro
 // Max Infinite Nitro
 patch=1,EE,2030A6F4,extended,2403270F
 
-[Max Infinite Nitro]
+[Max Infinite Nitro (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Nitro
 // Max Infinite Nitro
@@ -60,7 +60,7 @@ description=Quick Max Bank Gain
 // Quick Max Bank Gain
 patch=1,EE,2026E3D0,extended,3C0205F5
 
-[Quick Max Bank Gain]
+[Quick Max Bank Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Max Bank Gain
 // Quick Max Bank Gain
@@ -90,7 +90,7 @@ description=View Event To Have Event Completed (World Map)
 // View Event To Have Event Completed (World Map)
 patch=1,EE,201EDBF0,extended,24020001
 
-[View Event To Have Event Completed (World Map)]
+[View Event To Have Event Completed (World Map) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Event To Have Event Completed (World Map)
 // View Event To Have Event Completed (World Map)
@@ -102,7 +102,7 @@ description=Story Races Always Won
 // Story Races Always Won
 patch=1,EE,2026C958,extended,03E00008
 
-[Story Races Always Won]
+[Story Races Always Won (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Story Races Always Won
 // Story Races Always Won
@@ -114,7 +114,7 @@ description=Drive Thru Cars/Walls
 // Drive Thru Cars/Walls
 patch=1,EE,2030D828,extended,03E00008
 
-[Drive Thru Cars/Walls]
+[Drive Thru Cars/Walls (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Drive Thru Cars/Walls
 // Drive Thru Cars/Walls
@@ -132,19 +132,13 @@ description=P1 Press {L1}+Right To Enable Idiot AI-Normal Traffic
 // P1 Press {L1}+Right To Enable Idiot AI-Normal Traffic
 patch=1,EE,D052D502,extended,0000FBDF
 
-[P1 Press {L1}+Right To Enable Idiot AI-Normal Traffic]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+Right To Enable Idiot AI-Normal Traffic
-// P1 Press {L1}+Right To Enable Idiot AI-Normal Traffic
-patch=1,EE,2056C04C,extended,00000000
-
 [P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic
 // P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic
 patch=1,EE,D052D502,extended,0000FB7F
 
-[P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic]
+[P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic
 // P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic
@@ -156,7 +150,7 @@ description=Idiot AI-Racers
 // Idiot AI-Racers
 patch=1,EE,20121B10,extended,03E00008
 
-[Idiot AI-Racers]
+[Idiot AI-Racers (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI-Racers
 // Idiot AI-Racers
@@ -168,31 +162,19 @@ description=P1 Press {L1}+Up To Enable Idiot AI-Racers
 // P1 Press {L1}+Up To Enable Idiot AI-Racers
 patch=1,EE,E002FBEF,extended,0052D502
 
-[P1 Press {L1}+Up To Enable Idiot AI-Racers]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+Up To Enable Idiot AI-Racers
-// P1 Press {L1}+Up To Enable Idiot AI-Racers
-patch=1,EE,20121B10,extended,03E00008
-
-[P1 Press {L1}+Up To Enable Idiot AI-Racers]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+Up To Enable Idiot AI-Racers
-// P1 Press {L1}+Up To Enable Idiot AI-Racers
-patch=1,EE,20121B14,extended,00000000
-
 [P1 Press {L1}+Down To Enable Idiot AI-Racers]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Enable Idiot AI-Racers
 // P1 Press {L1}+Down To Enable Idiot AI-Racers
 patch=1,EE,E002FBBF,extended,0052D502
 
-[P1 Press {L1}+Down To Enable Idiot AI-Racers]
+[P1 Press {L1}+Down To Enable Idiot AI-Racers (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Enable Idiot AI-Racers
 // P1 Press {L1}+Down To Enable Idiot AI-Racers
 patch=1,EE,20121B10,extended,27BDFF70
 
-[P1 Press {L1}+Down To Enable Idiot AI-Racers]
+[P1 Press {L1}+Down To Enable Idiot AI-Racers (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Down To Enable Idiot AI-Racers
 // P1 Press {L1}+Down To Enable Idiot AI-Racers
@@ -204,13 +186,13 @@ description=Unlock All Quick Race Tracks
 // Unlock All Quick Race Tracks
 patch=1,EE,20266078,extended,24020002
 
-[Unlock All Quick Race Tracks]
+[Unlock All Quick Race Tracks (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Quick Race Tracks
 // Unlock All Quick Race Tracks
 patch=1,EE,2026607C,extended,03E00008
 
-[Unlock All Quick Race Tracks]
+[Unlock All Quick Race Tracks (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Quick Race Tracks
 // Unlock All Quick Race Tracks
@@ -222,7 +204,7 @@ description=Access All Cars
 // Access All Cars
 patch=1,EE,20274550,extended,03E00008
 
-[Access All Cars]
+[Access All Cars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Cars
 // Access All Cars
@@ -234,7 +216,7 @@ description=Access All Customize Parts (Not Saveable/Non Career)
 // Access All Customize Parts (Not Saveable/Non Career)
 patch=1,EE,202F01F8,extended,03E00008
 
-[Access All Customize Parts (Not Saveable/Non Career)]
+[Access All Customize Parts (Not Saveable/Non Career) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Customize Parts (Not Saveable/Non Career)
 // Access All Customize Parts (Not Saveable/Non Career)
@@ -252,7 +234,7 @@ description=P1 Press {L1}+{SELECT} For Hyper Mode
 // P1 Press {L1}+{SELECT} For Hyper Mode
 patch=1,EE,D052D502,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} For Hyper Mode]
+[P1 Press {L1}+{SELECT} For Hyper Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} For Hyper Mode
 // P1 Press {L1}+{SELECT} For Hyper Mode
@@ -264,7 +246,7 @@ description=P1 Press {L2}+{SELECT} For Slow Motion
 // P1 Press {L2}+{SELECT} For Slow Motion
 patch=1,EE,D052D502,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} For Slow Motion]
+[P1 Press {L2}+{SELECT} For Slow Motion (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} For Slow Motion
 // P1 Press {L2}+{SELECT} For Slow Motion
@@ -276,7 +258,7 @@ description=P1 Press {L1}+{L2} For Normal Speed Mode
 // P1 Press {L1}+{L2} For Normal Speed Mode
 patch=1,EE,D052D502,extended,0000FAFF
 
-[P1 Press {L1}+{L2} For Normal Speed Mode]
+[P1 Press {L1}+{L2} For Normal Speed Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{L2} For Normal Speed Mode
 // P1 Press {L1}+{L2} For Normal Speed Mode
@@ -288,7 +270,7 @@ description=Stage 1
 // Stage 1
 patch=1,EE,204F9DF0,extended,4CBEBC20
 
-[Stage 1]
+[Stage 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 1
 // Stage 1
@@ -300,7 +282,7 @@ description=Stage 2
 // Stage 2
 patch=1,EE,204F9EF4,extended,4CBEBC20
 
-[Stage 2]
+[Stage 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 2
 // Stage 2
@@ -312,7 +294,7 @@ description=Stage 3
 // Stage 3
 patch=1,EE,204F9FF8,extended,4CBEBC20
 
-[Stage 3]
+[Stage 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 3
 // Stage 3
@@ -324,7 +306,7 @@ description=Stage 4
 // Stage 4
 patch=1,EE,204FA0FC,extended,4CBEBC20
 
-[Stage 4]
+[Stage 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 4
 // Stage 4
@@ -336,7 +318,7 @@ description=Stage 5
 // Stage 5
 patch=1,EE,204FA200,extended,4CBEBC20
 
-[Stage 5]
+[Stage 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 5
 // Stage 5
@@ -408,37 +390,37 @@ description=Have All Body Parts/Interiors/Car Specialties Owned
 // Have All Body Parts/Interiors/Car Specialties Owned
 patch=1,EE,200C0220,extended,24010001
 
-[Have All Body Parts/Interiors/Car Specialties Owned]
+[Have All Body Parts/Interiors/Car Specialties Owned (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Body Parts/Interiors/Car Specialties Owned
 // Have All Body Parts/Interiors/Car Specialties Owned
 patch=1,EE,200C0224,extended,00611804
 
-[Have All Body Parts/Interiors/Car Specialties Owned]
+[Have All Body Parts/Interiors/Car Specialties Owned (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Body Parts/Interiors/Car Specialties Owned
 // Have All Body Parts/Interiors/Car Specialties Owned
 patch=1,EE,200C0228,extended,8C410000
 
-[Have All Body Parts/Interiors/Car Specialties Owned]
+[Have All Body Parts/Interiors/Car Specialties Owned (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Body Parts/Interiors/Car Specialties Owned
 // Have All Body Parts/Interiors/Car Specialties Owned
 patch=1,EE,200C022C,extended,00230825
 
-[Have All Body Parts/Interiors/Car Specialties Owned]
+[Have All Body Parts/Interiors/Car Specialties Owned (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Body Parts/Interiors/Car Specialties Owned
 // Have All Body Parts/Interiors/Car Specialties Owned
 patch=1,EE,200C0230,extended,0809E9F8
 
-[Have All Body Parts/Interiors/Car Specialties Owned]
+[Have All Body Parts/Interiors/Car Specialties Owned (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Body Parts/Interiors/Car Specialties Owned
 // Have All Body Parts/Interiors/Car Specialties Owned
 patch=1,EE,200C0234,extended,AC410000
 
-[Have All Body Parts/Interiors/Car Specialties Owned]
+[Have All Body Parts/Interiors/Car Specialties Owned (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Body Parts/Interiors/Car Specialties Owned
 // Have All Body Parts/Interiors/Car Specialties Owned
@@ -450,7 +432,7 @@ description=Own All Performance Parts
 // Own All Performance Parts
 patch=1,EE,20501828,extended,FFFFFFFF
 
-[Own All Performance Parts]
+[Own All Performance Parts (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Own All Performance Parts
 // Own All Performance Parts
@@ -634,12 +616,6 @@ patch=1,EE,7050182B,extended,00000002
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Engines
 // All Engines
-patch=1,EE,70501829,extended,00000080
-
-[All Engines]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Engines
-// All Engines
 patch=1,EE,7050182A,extended,001003FF
 
 [Stage 1 Turbo Kit]
@@ -714,7 +690,7 @@ description=All Suspensions
 // All Suspensions
 patch=1,EE,7050182B,extended,000000E0
 
-[All Suspensions]
+[All Suspensions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Suspensions
 // All Suspensions
@@ -822,7 +798,7 @@ description=All ECU's
 // All ECU's
 patch=1,EE,7050182D,extended,000000E0
 
-[All ECU's]
+[All ECU's (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All ECU's
 // All ECU's
@@ -851,3 +827,47 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Tires
 // All Tires
 patch=1,EE,7050182E,extended,000000E0
+
+[Cheats\Max Cash]
+patch=1,EE,204F9A64,extended,5FAB6661
+
+[Cheats\Instant Refill Turbo]
+patch=1,EE,200FFF00,extended,3C030055
+patch=1,EE,200FFF04,extended,8C638360
+patch=1,EE,200FFF08,extended,10030003
+patch=1,EE,200FFF10,extended,24013E80
+patch=1,EE,200FFF14,extended,AC610474
+patch=1,EE,200FFF1C,extended,8F83EDB0
+patch=1,EE,200FFF20,extended,080B7B88
+patch=1,EE,202DEE18,extended,0803FFC0
+
+[Cheats\Infinite Turbo Always Available]
+patch=1,EE,2030A500,extended,24037200
+patch=1,EE,2030A504,extended,AC800438
+patch=1,EE,2030A734,extended,3C017200
+patch=1,EE,2030A738,extended,AE01042C
+patch=1,EE,2030A51C,extended,00000000
+patch=1,EE,2030A760,extended,3C013F80
+patch=1,EE,2030A764,extended,44810000
+
+[Cheats\Disable Collisions]
+patch=1,EE,2030D844,extended,24020000
+
+[Cheats\Always Win Story Races Money]
+patch=1,EE,2026CB20,extended,0803FFD0
+patch=1,EE,200FFF40,extended,03E00008
+patch=1,EE,200FFF44,extended,24020001
+
+[Cheats\Max Race Entered]
+patch=1,EE,204FB060,extended,05FAB000
+
+[Cheats\Stupid AI Press L3 Activate R3 Stop. This code doesn't work in dragster mode]
+patch=1,EE,2056BB3C,extended,4FAB1111
+patch=1,EE,2056BB3C,extended,40490FD0
+
+[Cheats\Unlock All Quick Race Tracks]
+patch=1,EE,2026DC20,extended,00000000
+patch=1,EE,2026DCA0,extended,24020001
+
+[Cheats\Unlock All Cars]
+patch=1,EE,2027456C,extended,00000000

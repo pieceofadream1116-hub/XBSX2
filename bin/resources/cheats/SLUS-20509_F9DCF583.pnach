@@ -77,3 +77,9 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Goal's Score 2
 // Goal's Score 2
 patch=1,EE,10290DD4,extended,00000002
+
+[Cheats\Home Team Scores 9]
+patch=1,EE,21D3B464,extended,00000009
+
+[Cheats\Away Team Scores 9]
+patch=1,EE,21D3B468,extended,00000009

@@ -144,7 +144,7 @@ description=Infinite HP (All Characters)
 // Infinite HP (All Characters)
 patch=1,EE,202EA5B4,extended,8462001C
 
-[Infinite HP (All Characters)]
+[Infinite HP (All Characters) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP (All Characters)
 // Infinite HP (All Characters)
@@ -162,7 +162,7 @@ description=Max Infinite Magic Usage (All Characters)
 // Max Infinite Magic Usage (All Characters)
 patch=1,EE,202EA810,extended,80620045
 
-[Max Infinite Magic Usage (All Characters)]
+[Max Infinite Magic Usage (All Characters) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Magic Usage (All Characters)
 // Max Infinite Magic Usage (All Characters)
@@ -174,7 +174,7 @@ description=Quick Death-Enemies
 // Quick Death-Enemies
 patch=1,EE,202EC338,extended,24020000
 
-[Quick Death-Enemies]
+[Quick Death-Enemies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Death-Enemies
 // Quick Death-Enemies
@@ -330,7 +330,7 @@ description=Level S-All Skills
 // Level S-All Skills
 patch=1,EE,40670D30,extended,00090001
 
-[Level S-All Skills]
+[Level S-All Skills (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level S-All Skills
 // Level S-All Skills
@@ -360,26 +360,46 @@ description=Slot 4
 // Slot 4
 patch=1,EE,00670CF0,extended,00000009
 
-[Slot 1]
+[Slot 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 1
 // Slot 1
 patch=1,EE,00670CF1,extended,00000009
 
-[Slot 2]
+[Slot 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 2
 // Slot 2
 patch=1,EE,00670CF2,extended,00000009
 
-[Slot 3]
+[Slot 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 3
 // Slot 3
 patch=1,EE,00670CF3,extended,00000009
 
-[Slot 4]
+[Slot 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 4
 // Slot 4
 patch=1,EE,00670CF4,extended,00000009
+
+[Cheats\Infinite gold]
+patch=1,EE,206794f8,extended,0098967
+
+[Cheats\Infinite skill points]
+patch=1,EE,206794f0,extended,0098967f
+
+[Cheats\Infinite Health In Battle]
+patch=1,EE,200C2000,extended,240203E7
+patch=1,EE,200C2004,extended,A4620008
+patch=1,EE,200C2008,extended,A462000A
+patch=1,EE,200C200C,extended,A462001E
+
+[Cheats\Infinite HP All Characters]
+patch=1,EE,202EA5B4,extended,8462001C
+patch=1,EE,202EA5B8,extended,A462000
+
+[Cheats\Quick Death Enemies]
+patch=1,EE,202EC338,extended,24020000
+patch=1,EE,202EC33C,extended,A4620006

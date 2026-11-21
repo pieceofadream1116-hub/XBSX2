@@ -24,12 +24,6 @@ description=Always Have Guide Line (All Modes)
 // Always Have Guide Line (All Modes)
 patch=1,EE,10146AFE,extended,00001000
 
-[Always Have Guide Line (All Modes)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Have Guide Line (All Modes)
-// Always Have Guide Line (All Modes)
-patch=1,EE,1033E1D8,extended,00000001
-
 [Quick Score Gain P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Score Gain P1
@@ -66,7 +60,7 @@ description=P1 Needs 1 Win To Win
 // P1 Needs 1 Win To Win
 patch=1,EE,D033E114,extended,00000000
 
-[P1 Needs 1 Win To Win]
+[P1 Needs 1 Win To Win (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Needs 1 Win To Win
 // P1 Needs 1 Win To Win
@@ -90,7 +84,7 @@ description=Ceiling Always Closes In P1
 // Ceiling Always Closes In P1
 patch=1,EE,D0470600,extended,00000000
 
-[Ceiling Always Closes In P1]
+[Ceiling Always Closes In P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ceiling Always Closes In P1
 // Ceiling Always Closes In P1
@@ -102,7 +96,7 @@ description=P1 Press {L3} For Super Bubble
 // P1 Press {L3} For Super Bubble
 patch=1,EE,D0627A02,extended,0000FFFD
 
-[P1 Press {L3} For Super Bubble]
+[P1 Press {L3} For Super Bubble (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3} For Super Bubble
 // P1 Press {L3} For Super Bubble
@@ -114,7 +108,7 @@ description=P1 Press {R3} For Bomb Bubble
 // P1 Press {R3} For Bomb Bubble
 patch=1,EE,D0627A02,extended,0000FFFB
 
-[P1 Press {R3} For Bomb Bubble]
+[P1 Press {R3} For Bomb Bubble (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R3} For Bomb Bubble
 // P1 Press {R3} For Bomb Bubble
@@ -150,19 +144,19 @@ description=Always Get Bubbles P2
 // Always Get Bubbles P2
 patch=1,EE,103F01F4,extended,00000230
 
-[P1 Needs 1 Win To Win]
+[P1 Needs 1 Win To Win (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Needs 1 Win To Win
 // P1 Needs 1 Win To Win
 patch=1,EE,D033E116,extended,00000000
 
-[P1 Needs 1 Win To Win]
+[P1 Needs 1 Win To Win (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Needs 1 Win To Win
 // P1 Needs 1 Win To Win
 patch=1,EE,1033E116,extended,00000001
 
-[P1 Never Wins]
+[P1 Never Wins (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Never Wins
 // P1 Never Wins
@@ -180,7 +174,7 @@ description=Ceiling Always Closes In P2
 // Ceiling Always Closes In P2
 patch=1,EE,D0507E50,extended,00000000
 
-[Ceiling Always Closes In P2]
+[Ceiling Always Closes In P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ceiling Always Closes In P2
 // Ceiling Always Closes In P2
@@ -192,7 +186,7 @@ description=P2 Press {L3} For Super Bubble
 // P2 Press {L3} For Super Bubble
 patch=1,EE,D0627C02,extended,0000FFFD
 
-[P2 Press {L3} For Super Bubble]
+[P2 Press {L3} For Super Bubble (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {L3} For Super Bubble
 // P2 Press {L3} For Super Bubble
@@ -204,7 +198,7 @@ description=P2 Press {R3} For Bomb Bubble
 // P2 Press {R3} For Bomb Bubble
 patch=1,EE,D0627C02,extended,0000FFFB
 
-[P2 Press {R3} For Bomb Bubble]
+[P2 Press {R3} For Bomb Bubble (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {R3} For Bomb Bubble
 // P2 Press {R3} For Bomb Bubble
@@ -216,8 +210,24 @@ description=Infinite Time To Shoot Bubble Out (Both Players)
 // Infinite Time To Shoot Bubble Out (Both Players)
 patch=1,EE,20138AE4,extended,00000000
 
-[Ceiling Never Closes In (Both Players)]
+[Ceiling Never Closes In (Both Players) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ceiling Never Closes In (Both Players)
 // Ceiling Never Closes In (Both Players)
 patch=1,EE,201501E0,extended,00000000
+
+[Cheats\Always Have Guide Line All Modes]
+patch=1,EE,10146AFE,extended,00001000
+patch=1,EE,1033E1D8,extended,00000001
+
+[Cheats\P1 Needs 1 Win To Win]
+patch=1,EE,D033E114,extended,00000000
+patch=1,EE,1033E114,extended,00000001
+
+[Cheats\Player 1 Press L3 For Super Bubble]
+patch=1,EE,D0627A02,extended,0000FFFD
+patch=1,EE,103520E0,extended,00000020
+
+[Cheats\Player 1 Press R3 For Bomb Bubble]
+patch=1,EE,D0627A02,extended,0000FFFB
+patch=1,EE,103520E0,extended,00000029

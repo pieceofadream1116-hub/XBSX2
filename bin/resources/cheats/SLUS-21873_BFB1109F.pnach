@@ -1,0 +1,71 @@
+gametitle=Dynasty Warriors Gundam 2 [UNKNOWN] [BFB1109F]
+
+[All Pilots]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Pilots
+// All Pilots
+patch=1,EE,4AE2AF7B,extended,B2137735
+
+[All Pilots (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Pilots
+// All Pilots
+patch=1,EE,F5907182,extended,37557717
+
+[All Licenses]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Licenses
+// All Licenses
+patch=1,EE,4AE2AB7B,extended,B2137739
+
+[Range]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Range
+// Range
+patch=1,EE,1AF35218,extended,00007FFF
+
+[Skills:3]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Skills:3
+// Skills:3
+patch=1,EE,2AE7E35F,extended,FFFFFFFF
+
+[Skills:3 (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Skills:3
+// Skills:3
+patch=1,EE,0AE3113E,extended,000000FF
+
+[Boost INF]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Boost INF
+// Boost INF
+patch=1,EE,2A44D3C1,extended,84220180
+
+[Boost INF (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Boost INF
+// Boost INF
+patch=1,EE,2A44CFC1,extended,A422017E
+
+[Cheats\P1 Infinite HP]
+patch=1,EE,200A0010,extended,8C220160
+patch=1,EE,200A0014,extended,AC220164
+
+[Cheats\P1 Infinite SP]
+patch=1,EE,200A0018,extended,8C220168
+patch=1,EE,200A001C,extended,AC22016C
+
+[Cheats\P1 Max Range]
+patch=1,EE,200A0020,extended,24027FFF
+patch=1,EE,200A0024,extended,A422018E
+
+[Cheats\P1 Infinite Boost]
+patch=1,EE,200A0028,extended,84220180
+patch=1,EE,200A002C,extended,A422017E
+
+[Cheats\P1 Max Attack And Shield]
+patch=1,EE,200A0030,extended,240203E8
+patch=1,EE,200A0034,extended,A4220176
+patch=1,EE,200A0038,extended,A4220178
+patch=1,EE,200A003C,extended,A422017C

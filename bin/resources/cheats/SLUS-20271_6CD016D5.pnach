@@ -12,7 +12,7 @@ description=Infinite Attribute Points
 // Infinite Attribute Points
 patch=1,EE,205D2594,extended,00000064
 
-[Infinite Attribute Points]
+[Infinite Attribute Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Attribute Points
 // Infinite Attribute Points
@@ -102,37 +102,37 @@ description=Automaton Grunt
 // Automaton Grunt
 patch=1,EE,00C12462,extended,00000000
 
-[Beast Grunt]
+[Beast Grunt (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Beast Grunt
 // Beast Grunt
 patch=1,EE,00C12451,extended,0000000A
 
-[Undead Grunt]
+[Undead Grunt (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Undead Grunt
 // Undead Grunt
 patch=1,EE,00C12452,extended,0000000A
 
-[Kreegan Grunt]
+[Kreegan Grunt (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kreegan Grunt
 // Kreegan Grunt
 patch=1,EE,00C12453,extended,0000000A
 
-[Djinn Grunt]
+[Djinn Grunt (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Djinn Grunt
 // Djinn Grunt
 patch=1,EE,00C12454,extended,0000000A
 
-[Hybrid Grunt]
+[Hybrid Grunt (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hybrid Grunt
 // Hybrid Grunt
 patch=1,EE,00C12455,extended,0000000A
 
-[Automaton Grunt]
+[Automaton Grunt (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Automaton Grunt
 // Automaton Grunt
@@ -317,3 +317,7 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 30
 // Slot 30
 patch=1,EE,20C11EB4,extended,00000063
+
+[Cheats\Infinite Attribute Points]
+patch=1,EE,205D2594,extended,00000064
+patch=1,EE,205D2598,extended,00000064

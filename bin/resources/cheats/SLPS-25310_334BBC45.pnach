@@ -1,0 +1,5 @@
+gametitle=ファインディング・ニモ [SLPS-25310] [334BBC45]
+
+[Cheats\Unlock All Stages]
+patch=1,EE,40492916,extended,00420001
+patch=1,EE,FFFFFFFF,extended,00000000

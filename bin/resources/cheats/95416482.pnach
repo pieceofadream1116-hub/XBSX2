@@ -1,0 +1,93 @@
+gametitle=Smuggler's Run [SLES-50061] [95416482]
+
+[All Trophies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Trophies
+// All Trophies
+patch=1,EE,90278C60,extended,0C099DF2
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,10285D6C,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20285D6C,extended,05F5E0FF
+
+[Invisibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisibility
+// Invisibility
+patch=1,EE,20108528,extended,00000000
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20149EE8,extended,00000000
+
+[Infinite Time (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,2014BA28,extended,00000000
+
+[No Gravity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Gravity
+// No Gravity
+patch=1,EE,101338BA,extended,00001000
+
+[Max All Level Scores]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Level Scores
+// Max All Level Scores
+patch=1,EE,4028AD30,extended,00220004
+
+[Max All Level Scores (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Level Scores
+// Max All Level Scores
+patch=1,EE,05F5E0FF,extended,00000000
+
+[Cheats\Unlock All Missions Open a]
+patch=1,EE,1028CBD8,extended,0000FFFF
+patch=1,EE,1028CBE8,extended,0000FFFF
+patch=1,EE,1028CBF8,extended,0000FFFF
+patch=1,EE,1028CC08,extended,0000FFFF
+patch=1,EE,1028CC18,extended,0000FFFF
+patch=1,EE,1028CC28,extended,0000FFFF
+patch=1,EE,1028CC38,extended,0000FFFF
+patch=1,EE,1028CC48,extended,0000FFFF
+patch=1,EE,1028CC58,extended,0000FFFF
+patch=1,EE,1028CC68,extended,0000FFFF
+patch=1,EE,1028CC78,extended,0000FFFF
+patch=1,EE,1028CC88,extended,0000FFFF
+patch=1,EE,1028CC98,extended,0000FFFF
+patch=1,EE,1028CCA8,extended,0000FFFF
+
+[Cheats\Unlock All Missions Open b]
+patch=1,EE,1028BCB0,extended,0000FFFF
+patch=1,EE,1028BCC0,extended,0000FFFF
+patch=1,EE,1028BCD0,extended,0000FFFF
+patch=1,EE,1028BCE0,extended,0000FFFF
+patch=1,EE,1028BCF0,extended,0000FFFF
+patch=1,EE,1028BD00,extended,0000FFFF
+patch=1,EE,1028BD10,extended,0000FFFF
+patch=1,EE,1028BD20,extended,0000FFFF
+patch=1,EE,1028BD30,extended,0000FFFF
+patch=1,EE,1028BD40,extended,0000FFFF
+patch=1,EE,1028BD50,extended,0000FFFF
+patch=1,EE,1028BD60,extended,0000FFFF
+patch=1,EE,1028BD70,extended,0000FFFF
+patch=1,EE,1028BD80,extended,0000FFFF
+patch=1,EE,1028BD90,extended,0000FFFF
+patch=1,EE,1028BDA0,extended,0000FFFF
+patch=1,EE,1028BDB0,extended,0000FFFF
+patch=1,EE,1028BDC0,extended,0000FFFF
+patch=1,EE,1028BDD0,extended,0000FFFF
+patch=1,EE,1028BDE0,extended,0000FFFF

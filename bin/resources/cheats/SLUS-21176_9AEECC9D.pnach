@@ -6,31 +6,31 @@ description=No Tournaments Won
 // No Tournaments Won
 patch=1,EE,9042B328,extended,00832021
 
-[No Tournaments Won]
+[No Tournaments Won (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Tournaments Won
 // No Tournaments Won
 patch=1,EE,200C0220,extended,3C014CBE
 
-[No Tournaments Won]
+[No Tournaments Won (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Tournaments Won
 // No Tournaments Won
 patch=1,EE,200C0224,extended,3421BC20
 
-[No Tournaments Won]
+[No Tournaments Won (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Tournaments Won
 // No Tournaments Won
 patch=1,EE,200C0258,extended,03E00008
 
-[No Tournaments Won]
+[No Tournaments Won (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Tournaments Won
 // No Tournaments Won
 patch=1,EE,200C025C,extended,24050063
 
-[No Tournaments Won]
+[No Tournaments Won (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Tournaments Won
 // No Tournaments Won
@@ -42,17 +42,11 @@ description=Max Money P1
 // Max Money P1
 patch=1,EE,200C0228,extended,8E450000
 
-[Max Money P1]
+[Max Money P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Money P1
 // Max Money P1
 patch=1,EE,200C022C,extended,ACA10014
-
-[No Money P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Money P1
-// No Money P1
-patch=1,EE,200C0228,extended,8E450000
 
 [No Money P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -66,17 +60,11 @@ description=Max Money P2
 // Max Money P2
 patch=1,EE,200C0230,extended,8E450004
 
-[Max Money P2]
+[Max Money P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Money P2
 // Max Money P2
 patch=1,EE,200C0234,extended,ACA10014
-
-[No Money P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Money P2
-// No Money P2
-patch=1,EE,200C0230,extended,8E450004
 
 [No Money P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -90,17 +78,11 @@ description=Max Money P3
 // Max Money P3
 patch=1,EE,200C0238,extended,8E450008
 
-[Max Money P3]
+[Max Money P3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Money P3
 // Max Money P3
 patch=1,EE,200C023C,extended,ACA10014
-
-[No Money P3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Money P3
-// No Money P3
-patch=1,EE,200C0238,extended,8E450008
 
 [No Money P3]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -114,17 +96,11 @@ description=Max Money P4
 // Max Money P4
 patch=1,EE,200C0240,extended,8E45000C
 
-[Max Money P4]
+[Max Money P4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Money P4
 // Max Money P4
 patch=1,EE,200C0244,extended,ACA10014
-
-[No Money P4]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Money P4
-// No Money P4
-patch=1,EE,200C0240,extended,8E45000C
 
 [No Money P4]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -138,17 +114,11 @@ description=Max Money P5
 // Max Money P5
 patch=1,EE,200C0248,extended,8E450010
 
-[Max Money P5]
+[Max Money P5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Money P5
 // Max Money P5
 patch=1,EE,200C024C,extended,ACA10014
-
-[No Money P5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Money P5
-// No Money P5
-patch=1,EE,200C0248,extended,8E450010
 
 [No Money P5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -162,17 +132,11 @@ description=Max Money P6
 // Max Money P6
 patch=1,EE,200C0250,extended,8E450014
 
-[Max Money P6]
+[Max Money P6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Money P6
 // Max Money P6
 patch=1,EE,200C0254,extended,ACA10014
-
-[No Money P6]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Money P6
-// No Money P6
-patch=1,EE,200C0250,extended,8E450014
 
 [No Money P6]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -192,19 +156,13 @@ description=P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money
 // P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money
 patch=1,EE,D0660FC2,extended,0000D7FF
 
-[P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money
-// P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money
-patch=1,EE,201A58D0,extended,00000000
-
-[P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money]
+[P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money
 // P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money
 patch=1,EE,D0660FC2,extended,0000FFFF
 
-[P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money]
+[P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money
 // P1 Press {R1}+{CIRCLE} To Call & Not Decrease Money
@@ -246,13 +204,13 @@ description=No Career Wins
 // No Career Wins
 patch=1,EE,1063F5DC,extended,00000000
 
-[Max Career Wins]
+[Max Career Wins (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Career Wins
 // Max Career Wins
 patch=1,EE,1063F5DE,extended,000001F3
 
-[No Career Wins]
+[No Career Wins (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Career Wins
 // No Career Wins
@@ -382,15 +340,9 @@ patch=1,EE,0063F63B,extended,00000003
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Skills
 // Max All Skills
-patch=1,EE,0063F635,extended,00000003
-
-[Max All Skills]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max All Skills
-// Max All Skills
 patch=1,EE,1063F636,extended,00000303
 
-[Max All Skills]
+[Max All Skills (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Skills
 // Max All Skills
@@ -480,7 +432,7 @@ description=All Trophies
 // All Trophies
 patch=1,EE,4063F668,extended,000D0001
 
-[All Trophies]
+[All Trophies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Trophies
 // All Trophies
@@ -594,8 +546,25 @@ description=All Trinkets
 // All Trinkets
 patch=1,EE,4063F69C,extended,00110001
 
-[All Trinkets]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Trinkets
-// All Trinkets
+[Cheats\Max Money P1]
+patch=1,EE,200C0228,extended,8E450000
+patch=1,EE,200C022C,extended,ACA10014
+
+[Cheats\P1 Press R1+Circle To Call & Not Decrease Money]
+patch=1,EE,D0660FC2,extended,0000D7FF
+patch=1,EE,201A58D0,extended,00000000
+patch=1,EE,D0660FC2,extended,0000FFFF
+patch=1,EE,201A58D0,extended,0C06CA7E
+
+[Cheats\Max All Skills]
+patch=1,EE,0063F635,extended,00000003
+patch=1,EE,1063F636,extended,00000303
+patch=1,EE,2063F638,extended,03030303
+
+[Cheats\Unlock All Trophies]
+patch=1,EE,4063F668,extended,000D0001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock All Trinkets]
+patch=1,EE,4063F69C,extended,00110001
 patch=1,EE,00000001,extended,00000000

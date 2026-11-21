@@ -1,0 +1,7 @@
+gametitle=パチパラ12 ～大海と夏のおもいで～ [SLPS-25574] [D40BADFD]
+
+[Cheats\Max Money]
+patch=1,EE,20344DFC,extended,0098967F
+
+[Cheats\Max Balls]
+patch=1,EE,00344DF4,extended,00000004

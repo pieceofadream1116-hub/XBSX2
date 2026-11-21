@@ -1,0 +1,4 @@
+gametitle=玻璃の薔薇 [SLPM-65373] [E4A275B2]
+
+[Cheats\Infinite Mind Points]
+patch=1,EE,1021897C,extended,000000FF

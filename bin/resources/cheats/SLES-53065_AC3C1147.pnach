@@ -1,0 +1,4 @@
+gametitle=SNK vs. Capcom - SVC Chaos [SLES-53065] [AC3C1147]
+
+[Cheats\Infinite Health Player 1]
+patch=1,EE,008DFFD8,extended,000000E0

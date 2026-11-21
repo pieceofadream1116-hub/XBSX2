@@ -1,0 +1,11 @@
+gametitle=TBS オールスター感謝祭 Vol.1 超豪華！ クイズ決定版 [SLPM-65261] [2D8F0CD9]
+
+[Cheats\Not reduced program mode right answer]
+patch=1,EE,201953D8,extended,00000001
+patch=1,EE,201953E0,extended,00000001
+
+[Cheats\Challenge mode clear time 0]
+patch=1,EE,201954B8,extended,00000000
+
+[Cheats\Correct number 500]
+patch=1,EE,201954C0,extended,000001F4

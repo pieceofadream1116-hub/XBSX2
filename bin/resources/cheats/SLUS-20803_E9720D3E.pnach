@@ -36,25 +36,25 @@ description=Infinite HP (In Battle)
 // Infinite HP (In Battle)
 patch=1,EE,201C426C,extended,3C030060
 
-[Infinite HP (In Battle)]
+[Infinite HP (In Battle) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP (In Battle)
 // Infinite HP (In Battle)
 patch=1,EE,201C4270,extended,8464C026
 
-[Infinite HP (In Battle)]
+[Infinite HP (In Battle) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP (In Battle)
 // Infinite HP (In Battle)
 patch=1,EE,201C4274,extended,44840000
 
-[Infinite HP (In Battle)]
+[Infinite HP (In Battle) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP (In Battle)
 // Infinite HP (In Battle)
 patch=1,EE,201C4278,extended,46800020
 
-[Infinite HP (In Battle)]
+[Infinite HP (In Battle) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP (In Battle)
 // Infinite HP (In Battle)
@@ -150,7 +150,7 @@ description=Have All Tokens
 // Have All Tokens
 patch=1,EE,005FC1CB,extended,000000FF
 
-[Have All Tokens]
+[Have All Tokens (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tokens
 // Have All Tokens
@@ -316,30 +316,6 @@ patch=1,EE,005FC0C4,extended,00000003
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Basluath
 // Basluath
-patch=1,EE,005FC0C4,extended,00000004
-
-[Claymore]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Claymore
-// Claymore
-patch=1,EE,005FC0C4,extended,00000001
-
-[Claidbeamh Soluis]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Claidbeamh Soluis
-// Claidbeamh Soluis
-patch=1,EE,005FC0C4,extended,00000002
-
-[Lochaber Axe]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lochaber Axe
-// Lochaber Axe
-patch=1,EE,005FC0C4,extended,00000003
-
-[Frecraid]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Frecraid
-// Frecraid
 patch=1,EE,005FC0C4,extended,00000004
 
 [Longbow]
@@ -521,3 +497,10 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ossian's Lute
 // Ossian's Lute
 patch=1,EE,005FC0C7,extended,0000000C
+
+[Cheats\Infinite HP In Battle]
+patch=1,EE,201C426C,extended,3C030060
+patch=1,EE,201C4270,extended,8464C026
+patch=1,EE,201C4274,extended,44840000
+patch=1,EE,201C4278,extended,46800020
+patch=1,EE,201C427C,extended,E6000068

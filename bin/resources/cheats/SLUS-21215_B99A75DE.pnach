@@ -90,55 +90,55 @@ description=Max Infinite Health
 // Max Infinite Health
 patch=1,EE,2065A684,extended,09C409C4
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,1065A804,extended,000009C4
 
-[Max Health]
+[Max Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,1065A806,extended,000009C4
 
-[Max Infinite Health]
+[Max Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Health
 // Max Infinite Health
 patch=1,EE,2065A804,extended,09C409C4
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,1065A984,extended,000009C4
 
-[Max Health]
+[Max Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,1065A986,extended,000009C4
 
-[Max Infinite Health]
+[Max Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Health
 // Max Infinite Health
 patch=1,EE,2065A984,extended,09C409C4
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,1065AB04,extended,000009C4
 
-[Max Health]
+[Max Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,1065AB06,extended,000009C4
 
-[Max Infinite Health]
+[Max Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Health
 // Max Infinite Health
@@ -288,145 +288,145 @@ description=All Replay Levels
 // All Replay Levels
 patch=1,EE,406FE8F8,extended,00140001
 
-[All Replay Levels]
+[All Replay Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Replay Levels
 // All Replay Levels
 patch=1,EE,00000000,extended,00000000
 
-[Coney-1-New Blood]
+[Coney-1-New Blood (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Coney-1-New Blood
 // Coney-1-New Blood
 patch=1,EE,206FE79C,extended,0098967F
 
-[Coney-2-Real Live Bunch]
+[Coney-2-Real Live Bunch (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Coney-2-Real Live Bunch
 // Coney-2-Real Live Bunch
 patch=1,EE,206FE7A8,extended,0098967F
 
-[East Coney-3-Payback]
+[East Coney-3-Payback (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=East Coney-3-Payback
 // East Coney-3-Payback
 patch=1,EE,206FE7B4,extended,0098967F
 
-[Riverside-4-Blackout]
+[Riverside-4-Blackout (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Riverside-4-Blackout
 // Riverside-4-Blackout
 patch=1,EE,206FE7C0,extended,0098967F
 
-[Tremont-5-Real Heavy Rep]
+[Tremont-5-Real Heavy Rep (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tremont-5-Real Heavy Rep
 // Tremont-5-Real Heavy Rep
 patch=1,EE,206FE7CC,extended,0098967F
 
-[Soho-6-Writer's Block]
+[Soho-6-Writer's Block (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Soho-6-Writer's Block
 // Soho-6-Writer's Block
 patch=1,EE,206FE7D8,extended,0098967F
 
-[East Harlem-7-Adios Amigo]
+[East Harlem-7-Adios Amigo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=East Harlem-7-Adios Amigo
 // East Harlem-7-Adios Amigo
 patch=1,EE,206FE7E4,extended,0098967F
 
-[Coney-8-Encore]
+[Coney-8-Encore (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Coney-8-Encore
 // Coney-8-Encore
 patch=1,EE,206FE7F0,extended,0098967F
 
-[Coney-9-Payin' The Cost]
+[Coney-9-Payin' The Cost (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Coney-9-Payin' The Cost
 // Coney-9-Payin' The Cost
 patch=1,EE,206FE7FC,extended,0098967F
 
-[East Coney-10-Destroyed]
+[East Coney-10-Destroyed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=East Coney-10-Destroyed
 // East Coney-10-Destroyed
 patch=1,EE,206FE808,extended,0098967F
 
-[Pelham-11-Boys In Blue]
+[Pelham-11-Boys In Blue (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pelham-11-Boys In Blue
 // Pelham-11-Boys In Blue
 patch=1,EE,206FE814,extended,0098967F
 
-[Bensonhurst-12-Set Up]
+[Bensonhurst-12-Set Up (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bensonhurst-12-Set Up
 // Bensonhurst-12-Set Up
 patch=1,EE,206FE820,extended,0098967F
 
-[Trainyard-13-All-City]
+[Trainyard-13-All-City (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Trainyard-13-All-City
 // Trainyard-13-All-City
 patch=1,EE,206FE82C,extended,0098967F
 
-[Gunhill-14-Desperate Dudes]
+[Gunhill-14-Desperate Dudes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Gunhill-14-Desperate Dudes
 // Gunhill-14-Desperate Dudes
 patch=1,EE,206FE838,extended,0098967F
 
-[Tremont-15-No Permits, No Parley]
+[Tremont-15-No Permits, No Parley (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tremont-15-No Permits, No Parley
 // Tremont-15-No Permits, No Parley
 patch=1,EE,206FE844,extended,0098967F
 
-[Riverside-16-Home Run]
+[Riverside-16-Home Run (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Riverside-16-Home Run
 // Riverside-16-Home Run
 patch=1,EE,206FE850,extended,0098967F
 
-[Bowery-17-Friendly Faces]
+[Bowery-17-Friendly Faces (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bowery-17-Friendly Faces
 // Bowery-17-Friendly Faces
 patch=1,EE,206FE85C,extended,0098967F
 
-[Coney-18-Come Out To Play]
+[Coney-18-Come Out To Play (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Coney-18-Come Out To Play
 // Coney-18-Come Out To Play
 patch=1,EE,206FE868,extended,0098967F
 
-[East Cony-A-Roots]
+[East Cony-A-Roots (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=East Cony-A-Roots
 // East Cony-A-Roots
 patch=1,EE,206FE874,extended,0098967F
 
-[Coney-B-The Best]
+[Coney-B-The Best (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Coney-B-The Best
 // Coney-B-The Best
 patch=1,EE,206FE880,extended,0098967F
 
-[East Coney-C-Heavy Muscle]
+[East Coney-C-Heavy Muscle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=East Coney-C-Heavy Muscle
 // East Coney-C-Heavy Muscle
 patch=1,EE,206FE88C,extended,0098967F
 
-[Chinatown-D-Scout's Honor]
+[Chinatown-D-Scout's Honor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Chinatown-D-Scout's Honor
 // Chinatown-D-Scout's Honor
 patch=1,EE,206FE898,extended,0098967F
 
-[Harlem-E-Sharp Dressed Man]
+[Harlem-E-Sharp Dressed Man (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Harlem-E-Sharp Dressed Man
 // Harlem-E-Sharp Dressed Man
@@ -438,41 +438,23 @@ description=Armies Of The Night
 // Armies Of The Night
 patch=1,EE,206FE8BC,extended,0098967E
 
-[Infinite Health]
+[Infinite Health (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,1065BA04,extended,000009C4
 
-[Max Health]
+[Max Health (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Health
 // Max Health
 patch=1,EE,1065BA06,extended,000009C4
 
-[Max Infinite Health]
+[Max Infinite Health (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Health
 // Max Infinite Health
 patch=1,EE,2065BA04,extended,09C409C4
-
-[Infinite Health]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health
-// Infinite Health
-patch=1,EE,1065A684,extended,000009C4
-
-[Max Health]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Health
-// Max Health
-patch=1,EE,1065A686,extended,000009C4
-
-[Max Infinite Health]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Infinite Health
-// Max Infinite Health
-patch=1,EE,2065A684,extended,09C409C4
 
 [Quick Points Gain]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -492,8 +474,27 @@ description=Infinite Credits
 // Infinite Credits
 patch=1,EE,20619910,extended,00000063
 
-[Infinite Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Time
-// Infinite Time
-patch=1,EE,204234A4,extended,00000000
+[60 FPS BETA]
+author=Gabominated
+description=Press R2+Up to enable and press R2+Down to disable
+patch=1,EE,D05DE3C2,extended,FDBF
+patch=1,EE,2048BE28,extended,24020001
+patch=1,EE,E0020001,extended,0048BE28
+patch=1,EE,20B8F9D0,extended,3f800000
+patch=1,EE,205102cc,extended,3d088889
+patch=1,EE,D05DE3C2,extended,FDEF
+patch=1,EE,2048BE28,extended,24020002
+patch=1,EE,E0020002,extended,0048BE28
+patch=1,EE,20B8F9D0,extended,40000000
+patch=1,EE,205102cc,extended,3c888889
+
+[Cheats\Infinite Health]
+patch=1,EE,200C2010,extended,84620146
+patch=1,EE,200C2014,extended,A4620144
+patch=1,EE,200C2018,extended,03E00008
+patch=1,EE,200C201C,extended,28420002
+patch=1,EE,20221130,extended,0C030804
+
+[Cheats\Unlock All Replay Levels]
+patch=1,EE,406FE8F8,extended,00140001
+patch=1,EE,00000000,extended,00000000

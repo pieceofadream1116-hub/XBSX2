@@ -1,0 +1,19 @@
+gametitle=Tak 2 - The Staff of Dreams NTSC-U SLUS-20952 55F99E5C
+
+[Cheats\Infinite Health]
+patch=1,EE,20210468,extended,C6410264
+patch=1,EE,20210474,extended,E6410260
+
+[Cheats\Max Infinite Mana]
+patch=1,EE,20218C7C,extended,C6000110
+
+[Cheats\Infinite Mana Usage]
+patch=1,EE,20218E84,extended,00000000
+
+[Cheats\Unlock All Extras]
+patch=1,EE,2051AA84,extended,00000001
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (130%).
+patch=0,EE,00169B8C,word,24040001

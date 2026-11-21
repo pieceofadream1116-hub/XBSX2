@@ -1,0 +1,7 @@
+gametitle=Akira Psycho Ball [SLES-50919] [CCBADADD]
+
+[Cheats\Infinite Balls]
+patch=1,EE,201FFB10,extended,00000005
+
+[Cheats\Max Score]
+patch=1,EE,201FFB48,extended,35A65858

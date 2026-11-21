@@ -12,7 +12,7 @@ description=Unlock Everything
 // Unlock Everything
 patch=1,EE,2088B7B8,extended,FFFFFFFF
 
-[Unlock Everything]
+[Unlock Everything (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Everything
 // Unlock Everything
@@ -30,19 +30,13 @@ description=P1 Press {L1}+{SELECT} To Stop Timer
 // P1 Press {L1}+{SELECT} To Stop Timer
 patch=1,EE,D091E502,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Stop Timer]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{SELECT} To Stop Timer
-// P1 Press {L1}+{SELECT} To Stop Timer
-patch=1,EE,2017AEF0,extended,00000000
-
 [P1 Press {L2}+{SELECT} To Restart Timer]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To Restart Timer
 // P1 Press {L2}+{SELECT} To Restart Timer
 patch=1,EE,D091E502,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} To Restart Timer]
+[P1 Press {L2}+{SELECT} To Restart Timer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To Restart Timer
 // P1 Press {L2}+{SELECT} To Restart Timer
@@ -54,23 +48,11 @@ description=P2 Press {L1}+{SELECT} To Stop Timer
 // P2 Press {L1}+{SELECT} To Stop Timer
 patch=1,EE,D091E602,extended,0000FBFE
 
-[P2 Press {L1}+{SELECT} To Stop Timer]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L1}+{SELECT} To Stop Timer
-// P2 Press {L1}+{SELECT} To Stop Timer
-patch=1,EE,2017AEF0,extended,00000000
-
 [P2 Press {L2}+{SELECT} To Restart Timer]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {L2}+{SELECT} To Restart Timer
 // P2 Press {L2}+{SELECT} To Restart Timer
 patch=1,EE,D091E602,extended,0000FEFE
-
-[P2 Press {L2}+{SELECT} To Restart Timer]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L2}+{SELECT} To Restart Timer
-// P2 Press {L2}+{SELECT} To Restart Timer
-patch=1,EE,2017AEF0,extended,ACC50748
 
 [Max Coins P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -90,19 +72,13 @@ description=P1 Press {R1}+{SELECT} For Max Coins P1
 // P1 Press {R1}+{SELECT} For Max Coins P1
 patch=1,EE,D091E502,extended,0000F7FE
 
-[P1 Press {R1}+{SELECT} For Max Coins P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {R1}+{SELECT} For Max Coins P1
-// P1 Press {R1}+{SELECT} For Max Coins P1
-patch=1,EE,20888484,extended,0000270F
-
 [P1 Press {R2}+{SELECT} For No Coins P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+{SELECT} For No Coins P2
 // P1 Press {R2}+{SELECT} For No Coins P2
 patch=1,EE,D091E502,extended,0000FDFE
 
-[P1 Press {R2}+{SELECT} For No Coins P2]
+[P1 Press {R2}+{SELECT} For No Coins P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+{SELECT} For No Coins P2
 // P1 Press {R2}+{SELECT} For No Coins P2
@@ -114,35 +90,17 @@ description=Max Coins P2
 // Max Coins P2
 patch=1,EE,2088B004,extended,0000270F
 
-[No Coins P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Coins P2
-// No Coins P2
-patch=1,EE,2088B004,extended,00000000
-
 [P2 Press {R1}+{SELECT} For Max Coins P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {R1}+{SELECT} For Max Coins P2
 // P2 Press {R1}+{SELECT} For Max Coins P2
 patch=1,EE,D091E602,extended,0000F7FE
 
-[P2 Press {R1}+{SELECT} For Max Coins P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R1}+{SELECT} For Max Coins P2
-// P2 Press {R1}+{SELECT} For Max Coins P2
-patch=1,EE,2088B004,extended,0000270F
-
 [P2 Press {R2}+{SELECT} For No Coins P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {R2}+{SELECT} For No Coins P1
 // P2 Press {R2}+{SELECT} For No Coins P1
 patch=1,EE,D091E602,extended,0000FDFE
-
-[P2 Press {R2}+{SELECT} For No Coins P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R2}+{SELECT} For No Coins P1
-// P2 Press {R2}+{SELECT} For No Coins P1
-patch=1,EE,20888484,extended,00000000
 
 [Coco Town]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -197,3 +155,16 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Levels
 // All Levels
 patch=1,EE,7088B222,extended,000000FF
+
+[Cheats\Infinite Health P1]
+patch=1,EE,20888294,extended,00000002
+
+[Cheats\Collect 1 Coin for Instant Win]
+patch=1,EE,2016AE6C,extended,08030800
+
+[Cheats\Infinite Time]
+patch=1,EE,2017AEE8,extended,24E50000
+
+[Cheats\Unlock All Modes & Levels]
+patch=1,EE,2088B7B8,extended,FFFFFFFF
+patch=1,EE,2088B7BC,extended,FFFFFFFF

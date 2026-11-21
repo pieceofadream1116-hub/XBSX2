@@ -12,7 +12,7 @@ description=Infinite Life
 // Infinite Life
 patch=1,EE,202C3554,extended,84410548
 
-[Infinite Life]
+[Infinite Life (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life
 // Infinite Life
@@ -96,8 +96,20 @@ description=Have All Techniques
 // Have All Techniques
 patch=1,EE,202C912C,extended,34420007
 
-[Have All Techniques]
+[Have All Techniques (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Techniques
 // Have All Techniques
+patch=1,EE,202C9130,extended,AC62000C
+
+[Cheats\Infinite Health]
+patch=1,EE,2012C290,extended,00000000
+
+[Cheats\Infinite TP Press SELECT to stop Godhand mode]
+patch=1,EE,205CB004,extended,44480000
+patch=1,EE,D05E8142,extended,0000FFFE
+patch=1,EE,205CB004,extended,00000000
+
+[Cheats\Have All Techniques]
+patch=1,EE,202C912C,extended,34420007
 patch=1,EE,202C9130,extended,AC62000C

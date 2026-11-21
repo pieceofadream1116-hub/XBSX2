@@ -1,0 +1,5 @@
+gametitle=ヴィクトリー・ウイングス ～ゼロ・パイロット シリーズ～ [SLPM-62511] [0D6AF16A]
+
+[Cheats\Unlock All Free Combat Mode]
+patch=1,EE,4077C974,extended,00370001
+patch=1,EE,FFFFFFFF,extended,00000000

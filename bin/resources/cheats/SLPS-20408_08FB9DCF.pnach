@@ -1,0 +1,5 @@
+gametitle=カードキャプターさくら 「さくらちゃんとあそぼ！」 [SLPS-20408] [08FB9DCF]
+
+[Cheats\Unlock All Clow Card Book]
+patch=1,EE,4148D4D0,extended,000D0001
+patch=1,EE,01010101,extended,00000000

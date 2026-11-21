@@ -1,0 +1,4 @@
+gametitle=Guncom 2 [SLES-52620] [6149414E]
+
+[Cheats\Infinite Credits]
+patch=1,EE,20413A80,extended,00000063

@@ -1,0 +1,49 @@
+gametitle=Okami PAL-M SLES-54439 891F223F
+
+[Disable post-processing effect]
+author=Gabominated
+description=Disable all post-processing effect.
+patch=1,EE,00190A5C,word,00000000 //0C06191A
+patch=1,EE,00190A24,word,00000000 //0C063A6C
+patch=1,EE,00190B34,word,00000000 //0C063710
+patch=1,EE,001916D4,word,00000000 //0C060E70
+
+[Cheats\Infinite Money]
+patch=1,EE,204AE370,extended,05F5E0FF
+
+[Cheats\Infinite Health]
+patch=1,EE,20686770,extended,11941194
+
+[Cheats\Infinite Ink Pot]
+patch=1,EE,204AE368,extended,00025800
+patch=1,EE,204AE36C,extended,00025800
+
+[Cheats\Max Astral Pouches]
+patch=1,EE,10686776,extended,00000320
+
+[Cheats\Max Purse]
+patch=1,EE,104AE374,extended,00000103
+
+[Cheats\Unlock All Brush Powers]
+patch=1,EE,204F5728,extended,FFFFFFFF
+
+[Cheats\Max Yen]
+patch=1,EE,204ACEF0,extended,0001869F
+
+[Cheats\Max Health]
+patch=1,EE,10683270,extended,00002328
+
+[Cheats\Infinite Health (2)]
+patch=1,EE,10683272,extended,00002328
+
+[Cheats\Max Solar Energy]
+patch=1,EE,004ACEF5,extended,0000000C
+
+[Cheats\Max Ink Pot]
+patch=1,EE,204ACEE8,extended,00025800
+
+[Cheats\Max Ink Pot Capacity]
+patch=1,EE,204ACEEC,extended,00025800
+
+[Cheats\Have All Celestial Brush Techniques]
+patch=1,EE,204F22A8,extended,FFFFFFFF

@@ -18,19 +18,19 @@ description=Always Low Play Time
 // Always Low Play Time
 patch=1,EE,20BD1E08,extended,00000000
 
-[Always Low Play Time]
+[Always Low Play Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Play Time
 // Always Low Play Time
 patch=1,EE,20BD1E0C,extended,00000000
 
-[Always Low Play Time]
+[Always Low Play Time (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Play Time
 // Always Low Play Time
 patch=1,EE,20BD2618,extended,00000000
 
-[Always Low Play Time]
+[Always Low Play Time (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Play Time
 // Always Low Play Time
@@ -42,7 +42,7 @@ description=Infinite Total Ark
 // Infinite Total Ark
 patch=1,EE,10BD1E30,extended,0000FFFF
 
-[Infinite Total Ark]
+[Infinite Total Ark (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Total Ark
 // Infinite Total Ark
@@ -54,7 +54,7 @@ description=Max Total Ark
 // Max Total Ark
 patch=1,EE,20BD1E30,extended,05F5E0FF
 
-[Max Total Ark]
+[Max Total Ark (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Total Ark
 // Max Total Ark
@@ -66,7 +66,7 @@ description=Infinite Total Warl
 // Infinite Total Warl
 patch=1,EE,10BD1E38,extended,0000FFFF
 
-[Infinite Total Warl]
+[Infinite Total Warl (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Total Warl
 // Infinite Total Warl
@@ -78,7 +78,7 @@ description=Max Total Warl
 // Max Total Warl
 patch=1,EE,20BD1E38,extended,05F5E0FF
 
-[Max Total Warl]
+[Max Total Warl (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Total Warl
 // Max Total Warl
@@ -108,7 +108,7 @@ description=P1 Press {L1}+{SELECT} For Infinite Time
 // P1 Press {L1}+{SELECT} For Infinite Time
 patch=1,EE,D04C4A42,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} For Infinite Time]
+[P1 Press {L1}+{SELECT} For Infinite Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} For Infinite Time
 // P1 Press {L1}+{SELECT} For Infinite Time
@@ -120,7 +120,7 @@ description=P1 Press {L2}+{SELECT} For Infinite Time
 // P1 Press {L2}+{SELECT} For Infinite Time
 patch=1,EE,D04C4A42,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} For Infinite Time]
+[P1 Press {L2}+{SELECT} For Infinite Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} For Infinite Time
 // P1 Press {L2}+{SELECT} For Infinite Time
@@ -132,7 +132,7 @@ description=Malphas
 // Malphas
 patch=1,EE,20BD1EBC,extended,00000001
 
-[Malphas]
+[Malphas (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Malphas
 // Malphas
@@ -144,7 +144,7 @@ description=Commander Hertzog
 // Commander Hertzog
 patch=1,EE,20BD1EC4,extended,00000001
 
-[Commander Hertzog]
+[Commander Hertzog (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Commander Hertzog
 // Commander Hertzog
@@ -156,7 +156,7 @@ description=Queen Catalina
 // Queen Catalina
 patch=1,EE,20BD1EC8,extended,00000001
 
-[Queen Catalina]
+[Queen Catalina (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Queen Catalina
 // Queen Catalina
@@ -168,7 +168,7 @@ description=Handmaid Rachel
 // Handmaid Rachel
 patch=1,EE,20BD1ECC,extended,00000001
 
-[Handmaid Rachel]
+[Handmaid Rachel (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Handmaid Rachel
 // Handmaid Rachel
@@ -180,7 +180,7 @@ description=Swordsman Finnegan
 // Swordsman Finnegan
 patch=1,EE,20BD1EDC,extended,00000001
 
-[Swordsman Finnegan]
+[Swordsman Finnegan (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Swordsman Finnegan
 // Swordsman Finnegan
@@ -192,7 +192,7 @@ description=Great Wizard Bertran
 // Great Wizard Bertran
 patch=1,EE,20BD1EE4,extended,00000001
 
-[Great Wizard Bertran]
+[Great Wizard Bertran (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Great Wizard Bertran
 // Great Wizard Bertran
@@ -204,7 +204,7 @@ description=Knight Jais
 // Knight Jais
 patch=1,EE,20BD1EEC,extended,00000001
 
-[Knight Jais]
+[Knight Jais (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knight Jais
 // Knight Jais
@@ -216,7 +216,7 @@ description=Warrior Glen
 // Warrior Glen
 patch=1,EE,20BD1EF8,extended,00000001
 
-[Warrior Glen]
+[Warrior Glen (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Glen
 // Warrior Glen
@@ -228,7 +228,7 @@ description=Warrior Edward
 // Warrior Edward
 patch=1,EE,20BD1EFC,extended,00000001
 
-[Warrior Edward]
+[Warrior Edward (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Edward
 // Warrior Edward
@@ -240,7 +240,7 @@ description=Warrior Alan
 // Warrior Alan
 patch=1,EE,20BD1F00,extended,00000001
 
-[Warrior Alan]
+[Warrior Alan (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Alan
 // Warrior Alan
@@ -252,7 +252,7 @@ description=Warrior Macrus
 // Warrior Macrus
 patch=1,EE,20BD1F04,extended,00000001
 
-[Warrior Macrus]
+[Warrior Macrus (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Macrus
 // Warrior Macrus
@@ -264,7 +264,7 @@ description=Warrior Damninda
 // Warrior Damninda
 patch=1,EE,20BD1F08,extended,00000001
 
-[Warrior Damninda]
+[Warrior Damninda (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Damninda
 // Warrior Damninda
@@ -276,7 +276,7 @@ description=Warrior Vulcano
 // Warrior Vulcano
 patch=1,EE,20BD1F0C,extended,00000001
 
-[Warrior Vulcano]
+[Warrior Vulcano (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Vulcano
 // Warrior Vulcano
@@ -288,7 +288,7 @@ description=Warrior Andrew
 // Warrior Andrew
 patch=1,EE,20BD1F10,extended,00000001
 
-[Warrior Andrew]
+[Warrior Andrew (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Andrew
 // Warrior Andrew
@@ -300,7 +300,7 @@ description=Warrior Jeremiah
 // Warrior Jeremiah
 patch=1,EE,20BD1F14,extended,00000001
 
-[Warrior Jeremiah]
+[Warrior Jeremiah (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Jeremiah
 // Warrior Jeremiah
@@ -312,7 +312,7 @@ description=Warrior Morris
 // Warrior Morris
 patch=1,EE,20BD1F18,extended,00000001
 
-[Warrior Morris]
+[Warrior Morris (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Morris
 // Warrior Morris
@@ -324,7 +324,7 @@ description=Warrior Raymond
 // Warrior Raymond
 patch=1,EE,20BD1F1C,extended,00000001
 
-[Warrior Raymond]
+[Warrior Raymond (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Raymond
 // Warrior Raymond
@@ -336,7 +336,7 @@ description=Warrior Johnny
 // Warrior Johnny
 patch=1,EE,20BD1F24,extended,00000001
 
-[Warrior Johnny]
+[Warrior Johnny (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Johnny
 // Warrior Johnny
@@ -348,7 +348,7 @@ description=Warrior Elvin
 // Warrior Elvin
 patch=1,EE,20BD1F30,extended,00000001
 
-[Warrior Elvin]
+[Warrior Elvin (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Elvin
 // Warrior Elvin
@@ -360,7 +360,7 @@ description=Warrior Roger
 // Warrior Roger
 patch=1,EE,20BD1F34,extended,00000001
 
-[Warrior Roger]
+[Warrior Roger (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Roger
 // Warrior Roger
@@ -372,7 +372,7 @@ description=Warrior Gordon
 // Warrior Gordon
 patch=1,EE,20BD1F38,extended,00000001
 
-[Warrior Gordon]
+[Warrior Gordon (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Gordon
 // Warrior Gordon
@@ -384,7 +384,7 @@ description=Warrior Elmer
 // Warrior Elmer
 patch=1,EE,20BD1F3C,extended,00000001
 
-[Warrior Elmer]
+[Warrior Elmer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Elmer
 // Warrior Elmer
@@ -396,7 +396,7 @@ description=Warrior Ralph
 // Warrior Ralph
 patch=1,EE,20BD1F40,extended,00000001
 
-[Warrior Ralph]
+[Warrior Ralph (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Warrior Ralph
 // Warrior Ralph
@@ -408,7 +408,7 @@ description=Knight Rick
 // Knight Rick
 patch=1,EE,20BD1F50,extended,00000001
 
-[Knight Rick]
+[Knight Rick (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knight Rick
 // Knight Rick
@@ -420,7 +420,7 @@ description=Knight Alvin
 // Knight Alvin
 patch=1,EE,20BD1F54,extended,00000001
 
-[Knight Alvin]
+[Knight Alvin (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knight Alvin
 // Knight Alvin
@@ -432,7 +432,7 @@ description=Knight Conrad
 // Knight Conrad
 patch=1,EE,20BD1F58,extended,00000001
 
-[Knight Conrad]
+[Knight Conrad (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knight Conrad
 // Knight Conrad
@@ -444,7 +444,7 @@ description=Knight Hamilton
 // Knight Hamilton
 patch=1,EE,20BD1F60,extended,00000001
 
-[Knight Hamilton]
+[Knight Hamilton (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knight Hamilton
 // Knight Hamilton
@@ -456,7 +456,7 @@ description=Knight Adolphus
 // Knight Adolphus
 patch=1,EE,20BD1F64,extended,00000001
 
-[Knight Adolphus]
+[Knight Adolphus (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knight Adolphus
 // Knight Adolphus
@@ -468,7 +468,7 @@ description=Knight Justin
 // Knight Justin
 patch=1,EE,20BD1F68,extended,00000001
 
-[Knight Justin]
+[Knight Justin (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knight Justin
 // Knight Justin
@@ -480,7 +480,7 @@ description=Knight Gerald
 // Knight Gerald
 patch=1,EE,20BD1F6C,extended,00000001
 
-[Knight Gerald]
+[Knight Gerald (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knight Gerald
 // Knight Gerald
@@ -492,7 +492,7 @@ description=Knight Alfons
 // Knight Alfons
 patch=1,EE,20BD1F70,extended,00000001
 
-[Knight Alfons]
+[Knight Alfons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knight Alfons
 // Knight Alfons
@@ -504,7 +504,7 @@ description=Knight Arthur
 // Knight Arthur
 patch=1,EE,20BD1F74,extended,00000001
 
-[Knight Arthur]
+[Knight Arthur (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Knight Arthur
 // Knight Arthur
@@ -516,7 +516,7 @@ description=Archer Myra
 // Archer Myra
 patch=1,EE,20BD1F9C,extended,00000001
 
-[Archer Myra]
+[Archer Myra (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Archer Myra
 // Archer Myra
@@ -528,7 +528,7 @@ description=Archer Erika
 // Archer Erika
 patch=1,EE,20BD1FA0,extended,00000001
 
-[Archer Erika]
+[Archer Erika (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Archer Erika
 // Archer Erika
@@ -540,7 +540,7 @@ description=Archer Sharon
 // Archer Sharon
 patch=1,EE,20BD1FA4,extended,00000001
 
-[Archer Sharon]
+[Archer Sharon (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Archer Sharon
 // Archer Sharon
@@ -552,7 +552,7 @@ description=Archer Ellen
 // Archer Ellen
 patch=1,EE,20BD1FA8,extended,00000001
 
-[Archer Ellen]
+[Archer Ellen (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Archer Ellen
 // Archer Ellen
@@ -564,7 +564,7 @@ description=Archer Miranda
 // Archer Miranda
 patch=1,EE,20BD1FAC,extended,00000001
 
-[Archer Miranda]
+[Archer Miranda (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Archer Miranda
 // Archer Miranda
@@ -576,7 +576,7 @@ description=Archer Alma
 // Archer Alma
 patch=1,EE,20BD1FB0,extended,00000001
 
-[Archer Alma]
+[Archer Alma (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Archer Alma
 // Archer Alma
@@ -588,7 +588,7 @@ description=Archer Julia
 // Archer Julia
 patch=1,EE,20BD1FB4,extended,00000001
 
-[Archer Julia]
+[Archer Julia (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Archer Julia
 // Archer Julia
@@ -600,7 +600,7 @@ description=Archer Veronica
 // Archer Veronica
 patch=1,EE,20BD1FB8,extended,00000001
 
-[Archer Veronica]
+[Archer Veronica (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Archer Veronica
 // Archer Veronica
@@ -612,7 +612,7 @@ description=Archer Helena
 // Archer Helena
 patch=1,EE,20BD1FBC,extended,00000001
 
-[Archer Helena]
+[Archer Helena (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Archer Helena
 // Archer Helena
@@ -624,7 +624,7 @@ description=Bow Knight Ursula
 // Bow Knight Ursula
 patch=1,EE,20BD1FD8,extended,00000001
 
-[Bow Knight Ursula]
+[Bow Knight Ursula (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bow Knight Ursula
 // Bow Knight Ursula
@@ -636,7 +636,7 @@ description=Bow Knight Lavinia
 // Bow Knight Lavinia
 patch=1,EE,20BD1FDC,extended,00000001
 
-[Bow Knight Lavinia]
+[Bow Knight Lavinia (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bow Knight Lavinia
 // Bow Knight Lavinia
@@ -648,7 +648,7 @@ description=Bow Knight Eileen
 // Bow Knight Eileen
 patch=1,EE,20BD1FE4,extended,00000001
 
-[Bow Knight Eileen]
+[Bow Knight Eileen (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bow Knight Eileen
 // Bow Knight Eileen
@@ -660,7 +660,7 @@ description=Bow Knight Lilly
 // Bow Knight Lilly
 patch=1,EE,20BD1FE8,extended,00000001
 
-[Bow Knight Lilly]
+[Bow Knight Lilly (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bow Knight Lilly
 // Bow Knight Lilly
@@ -672,7 +672,7 @@ description=Bow Knight Michelle
 // Bow Knight Michelle
 patch=1,EE,20BD1FEC,extended,00000001
 
-[Bow Knight Michelle]
+[Bow Knight Michelle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bow Knight Michelle
 // Bow Knight Michelle
@@ -684,7 +684,7 @@ description=Bow Knight Brigette
 // Bow Knight Brigette
 patch=1,EE,20BD1FF0,extended,00000001
 
-[Bow Knight Brigette]
+[Bow Knight Brigette (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bow Knight Brigette
 // Bow Knight Brigette
@@ -696,7 +696,7 @@ description=Axe Knight Cesar
 // Axe Knight Cesar
 patch=1,EE,20BD1FFC,extended,00000001
 
-[Axe Knight Cesar]
+[Axe Knight Cesar (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe Knight Cesar
 // Axe Knight Cesar
@@ -708,7 +708,7 @@ description=Axe Knight Colonia
 // Axe Knight Colonia
 patch=1,EE,20BD2000,extended,00000001
 
-[Axe Knight Colonia]
+[Axe Knight Colonia (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe Knight Colonia
 // Axe Knight Colonia
@@ -720,7 +720,7 @@ description=Axe Knight Lionel
 // Axe Knight Lionel
 patch=1,EE,20BD2004,extended,00000001
 
-[Axe Knight Lionel]
+[Axe Knight Lionel (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe Knight Lionel
 // Axe Knight Lionel
@@ -732,7 +732,7 @@ description=Axe Knight Gabriel
 // Axe Knight Gabriel
 patch=1,EE,20BD2008,extended,00000001
 
-[Axe Knight Gabriel]
+[Axe Knight Gabriel (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe Knight Gabriel
 // Axe Knight Gabriel
@@ -744,7 +744,7 @@ description=Axe Knight Basil
 // Axe Knight Basil
 patch=1,EE,20BD200C,extended,00000001
 
-[Axe Knight Basil]
+[Axe Knight Basil (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Axe Knight Basil
 // Axe Knight Basil
@@ -756,7 +756,7 @@ description=Spear Knight Bernhardt
 // Spear Knight Bernhardt
 patch=1,EE,20BD202C,extended,00000001
 
-[Spear Knight Bernhardt]
+[Spear Knight Bernhardt (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear Knight Bernhardt
 // Spear Knight Bernhardt
@@ -768,7 +768,7 @@ description=Spear Knight Isaac
 // Spear Knight Isaac
 patch=1,EE,20BD2034,extended,00000001
 
-[Spear Knight Isaac]
+[Spear Knight Isaac (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear Knight Isaac
 // Spear Knight Isaac
@@ -780,7 +780,7 @@ description=Spear Knight Steve
 // Spear Knight Steve
 patch=1,EE,20BD2038,extended,00000001
 
-[Spear Knight Steve]
+[Spear Knight Steve (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear Knight Steve
 // Spear Knight Steve
@@ -792,7 +792,7 @@ description=Spear Knight Francis
 // Spear Knight Francis
 patch=1,EE,20BD203C,extended,00000001
 
-[Spear Knight Francis]
+[Spear Knight Francis (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spear Knight Francis
 // Spear Knight Francis
@@ -804,7 +804,7 @@ description=Fire Mage Celena
 // Fire Mage Celena
 patch=1,EE,20BD204C,extended,00000001
 
-[Fire Mage Celena]
+[Fire Mage Celena (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fire Mage Celena
 // Fire Mage Celena
@@ -816,7 +816,7 @@ description=Fire Mage Barbara
 // Fire Mage Barbara
 patch=1,EE,20BD2054,extended,00000001
 
-[Fire Mage Barbara]
+[Fire Mage Barbara (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fire Mage Barbara
 // Fire Mage Barbara
@@ -828,7 +828,7 @@ description=Fire Mage Vaglumo
 // Fire Mage Vaglumo
 patch=1,EE,20BD2060,extended,00000001
 
-[Fire Mage Vaglumo]
+[Fire Mage Vaglumo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fire Mage Vaglumo
 // Fire Mage Vaglumo
@@ -840,7 +840,7 @@ description=Thunder Mage Iluminado
 // Thunder Mage Iluminado
 patch=1,EE,20BD2070,extended,00000001
 
-[Thunder Mage Iluminado]
+[Thunder Mage Iluminado (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Thunder Mage Iluminado
 // Thunder Mage Iluminado
@@ -852,7 +852,7 @@ description=Thunder Mage Purateno
 // Thunder Mage Purateno
 patch=1,EE,20BD2074,extended,00000001
 
-[Thunder Mage Purateno]
+[Thunder Mage Purateno (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Thunder Mage Purateno
 // Thunder Mage Purateno
@@ -864,7 +864,7 @@ description=Thunder Mage Vulcanon
 // Thunder Mage Vulcanon
 patch=1,EE,20BD2084,extended,00000001
 
-[Thunder Mage Vulcanon]
+[Thunder Mage Vulcanon (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Thunder Mage Vulcanon
 // Thunder Mage Vulcanon
@@ -876,7 +876,7 @@ description=Thunder Mage Alder
 // Thunder Mage Alder
 patch=1,EE,20BD2088,extended,00000001
 
-[Thunder Mage Alder]
+[Thunder Mage Alder (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Thunder Mage Alder
 // Thunder Mage Alder
@@ -888,7 +888,7 @@ description=Thunder Mage Trident
 // Thunder Mage Trident
 patch=1,EE,20BD208C,extended,00000001
 
-[Thunder Mage Trident]
+[Thunder Mage Trident (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Thunder Mage Trident
 // Thunder Mage Trident
@@ -900,7 +900,7 @@ description=Ice Mage Frida
 // Ice Mage Frida
 patch=1,EE,20BD20A0,extended,00000001
 
-[Ice Mage Frida]
+[Ice Mage Frida (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ice Mage Frida
 // Ice Mage Frida
@@ -912,7 +912,7 @@ description=Ice Mage Friska
 // Ice Mage Friska
 patch=1,EE,20BD20A4,extended,00000001
 
-[Ice Mage Friska]
+[Ice Mage Friska (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ice Mage Friska
 // Ice Mage Friska
@@ -924,7 +924,7 @@ description=Ice Mage Frosta
 // Ice Mage Frosta
 patch=1,EE,20BD20A8,extended,00000001
 
-[Ice Mage Frosta]
+[Ice Mage Frosta (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ice Mage Frosta
 // Ice Mage Frosta
@@ -936,7 +936,7 @@ description=Ice Mage Lavango
 // Ice Mage Lavango
 patch=1,EE,20BD20B0,extended,00000001
 
-[Ice Mage Lavango]
+[Ice Mage Lavango (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ice Mage Lavango
 // Ice Mage Lavango
@@ -948,7 +948,7 @@ description=Ice Mage Schtormo
 // Ice Mage Schtormo
 patch=1,EE,20BD20B4,extended,00000001
 
-[Ice Mage Schtormo]
+[Ice Mage Schtormo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ice Mage Schtormo
 // Ice Mage Schtormo
@@ -960,7 +960,7 @@ description=Ice Mage Blizzardo
 // Ice Mage Blizzardo
 patch=1,EE,20BD20B8,extended,00000001
 
-[Ice Mage Blizzardo]
+[Ice Mage Blizzardo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ice Mage Blizzardo
 // Ice Mage Blizzardo
@@ -972,7 +972,7 @@ description=Priestess Angela
 // Priestess Angela
 patch=1,EE,20BD20D0,extended,00000001
 
-[Priestess Angela]
+[Priestess Angela (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Priestess Angela
 // Priestess Angela
@@ -984,7 +984,7 @@ description=Priestess Eleanor
 // Priestess Eleanor
 patch=1,EE,20BD20D4,extended,00000001
 
-[Priestess Eleanor]
+[Priestess Eleanor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Priestess Eleanor
 // Priestess Eleanor
@@ -996,7 +996,7 @@ description=Priestess Irene
 // Priestess Irene
 patch=1,EE,20BD20D8,extended,00000001
 
-[Priestess Irene]
+[Priestess Irene (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Priestess Irene
 // Priestess Irene
@@ -1008,7 +1008,7 @@ description=Wizard Meteorito
 // Wizard Meteorito
 patch=1,EE,20BD20F4,extended,00000001
 
-[Wizard Meteorito]
+[Wizard Meteorito (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wizard Meteorito
 // Wizard Meteorito
@@ -1020,7 +1020,7 @@ description=Wizard Smerald
 // Wizard Smerald
 patch=1,EE,20BD20F8,extended,00000001
 
-[Wizard Smerald]
+[Wizard Smerald (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wizard Smerald
 // Wizard Smerald
@@ -1032,7 +1032,7 @@ description=Wizard Benedict
 // Wizard Benedict
 patch=1,EE,20BD20FC,extended,00000001
 
-[Wizard Benedict]
+[Wizard Benedict (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wizard Benedict
 // Wizard Benedict
@@ -1044,7 +1044,7 @@ description=Wizard Diabolo
 // Wizard Diabolo
 patch=1,EE,20BD2100,extended,00000001
 
-[Wizard Diabolo]
+[Wizard Diabolo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wizard Diabolo
 // Wizard Diabolo
@@ -1056,7 +1056,7 @@ description=Dark Mage Fiona
 // Dark Mage Fiona
 patch=1,EE,20BD2108,extended,00000001
 
-[Dark Mage Fiona]
+[Dark Mage Fiona (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dark Mage Fiona
 // Dark Mage Fiona
@@ -1068,7 +1068,7 @@ description=Dark Mage Louisa
 // Dark Mage Louisa
 patch=1,EE,20BD2110,extended,00000001
 
-[Dark Mage Louisa]
+[Dark Mage Louisa (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dark Mage Louisa
 // Dark Mage Louisa
@@ -1080,7 +1080,7 @@ description=Dark Mage Tenebro
 // Dark Mage Tenebro
 patch=1,EE,20BD2114,extended,00000001
 
-[Dark Mage Tenebro]
+[Dark Mage Tenebro (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dark Mage Tenebro
 // Dark Mage Tenebro
@@ -1092,7 +1092,7 @@ description=Dark Mage Nocto
 // Dark Mage Nocto
 patch=1,EE,20BD2118,extended,00000001
 
-[Dark Mage Nocto]
+[Dark Mage Nocto (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dark Mage Nocto
 // Dark Mage Nocto
@@ -1104,7 +1104,7 @@ description=Peasant Brenda
 // Peasant Brenda
 patch=1,EE,20BD2124,extended,00000001
 
-[Peasant Brenda]
+[Peasant Brenda (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Peasant Brenda
 // Peasant Brenda
@@ -1116,7 +1116,7 @@ description=Peasant Hannah
 // Peasant Hannah
 patch=1,EE,20BD2128,extended,00000001
 
-[Peasant Hannah]
+[Peasant Hannah (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Peasant Hannah
 // Peasant Hannah
@@ -1128,7 +1128,7 @@ description=Peasant Eric
 // Peasant Eric
 patch=1,EE,20BD2138,extended,00000001
 
-[Peasant Eric]
+[Peasant Eric (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Peasant Eric
 // Peasant Eric
@@ -1140,7 +1140,7 @@ description=Peasant Geoff
 // Peasant Geoff
 patch=1,EE,20BD213C,extended,00000001
 
-[Peasant Geoff]
+[Peasant Geoff (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Peasant Geoff
 // Peasant Geoff
@@ -1152,7 +1152,7 @@ description=Peasant Bolide
 // Peasant Bolide
 patch=1,EE,20BD2140,extended,00000001
 
-[Peasant Bolide]
+[Peasant Bolide (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Peasant Bolide
 // Peasant Bolide
@@ -1164,7 +1164,7 @@ description=Mauler Douglas
 // Mauler Douglas
 patch=1,EE,20BD2160,extended,00000001
 
-[Mauler Douglas]
+[Mauler Douglas (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mauler Douglas
 // Mauler Douglas
@@ -1176,7 +1176,7 @@ description=Mauler Albert
 // Mauler Albert
 patch=1,EE,20BD2164,extended,00000001
 
-[Mauler Albert]
+[Mauler Albert (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mauler Albert
 // Mauler Albert
@@ -1188,7 +1188,7 @@ description=Mauler Dudley
 // Mauler Dudley
 patch=1,EE,20BD2168,extended,00000001
 
-[Mauler Dudley]
+[Mauler Dudley (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mauler Dudley
 // Mauler Dudley
@@ -1200,7 +1200,7 @@ description=Mauler Lloyd
 // Mauler Lloyd
 patch=1,EE,20BD216C,extended,00000001
 
-[Mauler Lloyd]
+[Mauler Lloyd (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mauler Lloyd
 // Mauler Lloyd
@@ -1212,7 +1212,7 @@ description=Thief Aladdin
 // Thief Aladdin
 patch=1,EE,20BD2188,extended,00000001
 
-[Thief Aladdin]
+[Thief Aladdin (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Thief Aladdin
 // Thief Aladdin
@@ -1224,7 +1224,7 @@ description=Thief Phillip
 // Thief Phillip
 patch=1,EE,20BD218C,extended,00000001
 
-[Thief Phillip]
+[Thief Phillip (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Thief Phillip
 // Thief Phillip
@@ -1236,7 +1236,7 @@ description=Thief Louis
 // Thief Louis
 patch=1,EE,20BD2190,extended,00000001
 
-[Thief Louis]
+[Thief Louis (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Thief Louis
 // Thief Louis
@@ -1248,7 +1248,7 @@ description=Assassin Oliver
 // Assassin Oliver
 patch=1,EE,20BD21BC,extended,00000001
 
-[Assassin Oliver]
+[Assassin Oliver (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Assassin Oliver
 // Assassin Oliver
@@ -1260,7 +1260,7 @@ description=Assassin Moses
 // Assassin Moses
 patch=1,EE,20BD21C0,extended,00000001
 
-[Assassin Moses]
+[Assassin Moses (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Assassin Moses
 // Assassin Moses
@@ -1272,7 +1272,7 @@ description=Assassin Valentine
 // Assassin Valentine
 patch=1,EE,20BD21C4,extended,00000001
 
-[Assassin Valentine]
+[Assassin Valentine (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Assassin Valentine
 // Assassin Valentine
@@ -1284,7 +1284,7 @@ description=Assassin Aaron
 // Assassin Aaron
 patch=1,EE,20BD21C8,extended,00000001
 
-[Assassin Aaron]
+[Assassin Aaron (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Assassin Aaron
 // Assassin Aaron
@@ -1296,7 +1296,7 @@ description=Assassin Rufus
 // Assassin Rufus
 patch=1,EE,20BD21CC,extended,00000001
 
-[Assassin Rufus]
+[Assassin Rufus (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Assassin Rufus
 // Assassin Rufus
@@ -1308,7 +1308,7 @@ description=Legionnaire Age
 // Legionnaire Age
 patch=1,EE,20BD21D8,extended,00000001
 
-[Legionnaire Age]
+[Legionnaire Age (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Legionnaire Age
 // Legionnaire Age
@@ -1320,8 +1320,32 @@ description=Legionnaire Hercule
 // Legionnaire Hercule
 patch=1,EE,20BD21DC,extended,00000001
 
-[Legionnaire Hercule]
+[Legionnaire Hercule (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Legionnaire Hercule
 // Legionnaire Hercule
 patch=1,EE,20BD29EC,extended,00000001
+
+[Cheats\Invincible]
+patch=1,EE,20176D18,extended,00000000
+patch=1,EE,20176D34,extended,00000000
+
+[Cheats\1 Hit Kill]
+patch=1,EE,2016CE34,extended,2403FFFF
+
+[Cheats\Max Ark After Clearing Mission]
+patch=1,EE,20170E94,extended,00000000
+
+[Cheats\Max Warl After Clearing Mission]
+patch=1,EE,20170Ec0,extended,00000000
+
+[Cheats\Max Combo 99]
+patch=1,EE,202D58DC,extended,00000000
+
+[Cheats\Zero Charge Time]
+patch=1,EE,20254B08,extended,00000000
+
+[Cheats\Unlock Costume Selective Possibility]
+patch=1,EE,20229CB4,extended,2402000F
+patch=1,EE,20229CD0,extended,AC820D14
+patch=1,EE,20229CD4,extended,10000004

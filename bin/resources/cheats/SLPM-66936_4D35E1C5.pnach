@@ -1,0 +1,7 @@
+gametitle=ナイトウィザード The VIDEO GAME ～Denial of the World～ [SLPM-66936] [4D35E1C5]
+
+[Cheats\Infinite HP Main Character]
+patch=1,EE,21BCB8F8,extended,00001770
+
+[Cheats\Infinite HP Second Character]
+patch=1,EE,21BCB964,extended,000010CC

@@ -1,0 +1,9 @@
+gametitle=CLANNAD 新版 [SLPM-66981] [7800DC84]
+
+[Cheats\Unlock All CG]
+patch=1,EE,40373EB4,extended,000F0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats\Unlock All Music]
+patch=1,EE,40373F70,extended,000C0001
+patch=1,EE,01010101,extended,00000000

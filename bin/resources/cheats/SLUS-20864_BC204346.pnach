@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,201283F4,extended,3C0143FA
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -24,7 +24,7 @@ description=No Recoil
 // No Recoil
 patch=1,EE,2017D380,extended,03E00008
 
-[No Recoil]
+[No Recoil (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Recoil
 // No Recoil
@@ -90,7 +90,7 @@ description=Infinite Ammo-All Other
 // Infinite Ammo-All Other
 patch=1,EE,201ECE48,extended,00000000
 
-[Infinite Ammo-All Other]
+[Infinite Ammo-All Other (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo-All Other
 // Infinite Ammo-All Other
@@ -198,7 +198,7 @@ description=Unlock All Levels
 // Unlock All Levels
 patch=1,EE,41B426D8,extended,00100007
 
-[Unlock All Levels]
+[Unlock All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Levels
 // Unlock All Levels
@@ -210,19 +210,13 @@ description=Have All Levels Complete
 // Have All Levels Complete
 patch=1,EE,41B426E4,extended,00100007
 
-[Have All Levels Complete]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Levels Complete
-// Have All Levels Complete
-patch=1,EE,00000001,extended,00000000
-
 [Max High Score-All Levels]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score-All Levels
 // Max High Score-All Levels
 patch=1,EE,41B426EC,extended,00100007
 
-[Max High Score-All Levels]
+[Max High Score-All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score-All Levels
 // Max High Score-All Levels
@@ -234,19 +228,19 @@ description=Totally Uncensored Executions
 // Totally Uncensored Executions
 patch=1,EE,004344F0,extended,00000000
 
-[Totally Uncensored Executions]
+[Totally Uncensored Executions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Totally Uncensored Executions
 // Totally Uncensored Executions
 patch=1,EE,0020B7E0,extended,00000070
 
-[Totally Uncensored Executions]
+[Totally Uncensored Executions (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Totally Uncensored Executions
 // Totally Uncensored Executions
 patch=1,EE,202C88D0,extended,03E00008
 
-[Totally Uncensored Executions]
+[Totally Uncensored Executions (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Totally Uncensored Executions
 // Totally Uncensored Executions
@@ -354,253 +348,253 @@ description=Max High Score
 // Max High Score
 patch=1,EE,21B426EC,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B426F4,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B42700,extended,00000001
 
-[Max High Score]
+[Max High Score (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B42708,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B42710,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B4271C,extended,00000001
 
-[Max High Score]
+[Max High Score (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B42724,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B42748,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B42754,extended,00000001
 
-[Max High Score]
+[Max High Score (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B4275C,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B42764,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B42770,extended,00000001
 
-[Max High Score]
+[Max High Score (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B42778,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B42780,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B4278C,extended,00000001
 
-[Max High Score]
+[Max High Score (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B42794,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B4279C,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B427A8,extended,00000001
 
-[Max High Score]
+[Max High Score (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B427B0,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B427B8,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B427C4,extended,00000001
 
-[Max High Score]
+[Max High Score (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B427CC,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B427D4,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B427E0,extended,00000001
 
-[Max High Score]
+[Max High Score (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B427E8,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B427F0,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B427FC,extended,00000001
 
-[Max High Score]
+[Max High Score (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B42804,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B4280C,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B42818,extended,00000001
 
-[Max High Score]
+[Max High Score (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B42820,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B42828,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B42834,extended,00000001
 
-[Max High Score]
+[Max High Score (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B4283C,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B42844,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B42850,extended,00000001
 
-[Max High Score]
+[Max High Score (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B42858,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B42860,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B4286C,extended,00000001
 
-[Max High Score]
+[Max High Score (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
 patch=1,EE,21B42874,extended,05F5E0FF
 
-[Unlock Level]
+[Unlock Level (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Level
 // Unlock Level
 patch=1,EE,21B4287C,extended,00000001
 
-[Have Level Completed]
+[Have Level Completed (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have Level Completed
 // Have Level Completed
 patch=1,EE,21B42888,extended,00000001
 
-[Max High Score]
+[Max High Score (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max High Score
 // Max High Score
@@ -756,19 +750,19 @@ description=All Flashbacks
 // All Flashbacks
 patch=1,EE,11B42C72,extended,00000101
 
-[All Flashbacks]
+[All Flashbacks (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Flashbacks
 // All Flashbacks
 patch=1,EE,41B42C74,extended,00050001
 
-[All Flashbacks]
+[All Flashbacks (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Flashbacks
 // All Flashbacks
 patch=1,EE,01010101,extended,00000000
 
-[All Flashbacks]
+[All Flashbacks (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Flashbacks
 // All Flashbacks
@@ -822,74 +816,92 @@ description=All Cheats
 // All Cheats
 patch=1,EE,21B42C64,extended,01010101
 
-[All Cheats]
+[All Cheats (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Cheats
 // All Cheats
 patch=1,EE,11B42C68,extended,00000101
 
-[All Cheats]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Cheats
-// All Cheats
-patch=1,EE,01B42C6A,extended,00000001
-
-[Invulnerability]
+[Invulnerability (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Invulnerability
 // Invulnerability
 patch=1,EE,01B42C6B,extended,00000001
 
-[Unlimiated Ammo]
+[Unlimiated Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlimiated Ammo
 // Unlimiated Ammo
 patch=1,EE,01B42C6C,extended,00000001
 
-[Unlimited Slaughter Mode]
+[Unlimited Slaughter Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlimited Slaughter Mode
 // Unlimited Slaughter Mode
 patch=1,EE,01B42C6D,extended,00000001
 
-[No Reload]
+[No Reload (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Reload
 // No Reload
 patch=1,EE,01B42C6E,extended,00000001
 
-[One Shot, One Kill]
+[One Shot, One Kill (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=One Shot, One Kill
 // One Shot, One Kill
 patch=1,EE,01B42C6F,extended,00000001
 
-[Gun Splitters]
+[Gun Splitters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Gun Splitters
 // Gun Splitters
 patch=1,EE,01B42C70,extended,00000001
 
-[Crazy Deaths]
+[Crazy Deaths (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Crazy Deaths
 // Crazy Deaths
 patch=1,EE,01B42C71,extended,00000001
 
-[All Cheats]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Cheats
-// All Cheats
-patch=1,EE,01B42C6B,extended,00000001
-
-[All Cheats]
+[All Cheats (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Cheats
 // All Cheats
 patch=1,EE,21B42C6C,extended,01010101
 
-[All Cheats]
+[All Cheats (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Cheats
 // All Cheats
 patch=1,EE,11B42C70,extended,00000101
+
+[Cheats\Infinite Health Press L2 On R2 Off When Interrogating Enemies]
+patch=1,EE,E001FEFF,extended,01A5E602
+patch=1,EE,201F30C8,extended,00000000
+patch=1,EE,E001FDFF,extended,01A5E602
+patch=1,EE,201F30C8,extended,E6810284
+
+[Cheats\Infinite Shotgun Ammo]
+patch=1,EE,2028CD04,extended,24630000
+
+[Cheats\Infinite Grenades]
+patch=1,EE,2023C984,extended,24630000
+
+[Cheats\Unlock All Levels]
+patch=1,EE,41B426D8,extended,00100007
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock All Flashbacks]
+patch=1,EE,11B42C72,extended,00000101
+patch=1,EE,21B42C74,extended,01010101
+patch=1,EE,21B42C78,extended,01010101
+patch=1,EE,21B42C7C,extended,01010101
+patch=1,EE,21B42C80,extended,01010101
+patch=1,EE,21B42C84,extended,01010101
+patch=1,EE,21B42C88,extended,01010101
+
+[Cheats\Unlock All Cheats]
+patch=1,EE,21B42C64,extended,01010101
+patch=1,EE,11B42C68,extended,00000101
+patch=1,EE,01B42C6A,extended,00000001

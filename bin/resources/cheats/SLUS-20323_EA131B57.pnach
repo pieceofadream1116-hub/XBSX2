@@ -24,13 +24,13 @@ description=Have All Training Trial Missions Complete
 // Have All Training Trial Missions Complete
 patch=1,EE,205EB3B8,extended,FFFFFFFF
 
-[Have All Training Trial Missions Complete]
+[Have All Training Trial Missions Complete (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Training Trial Missions Complete
 // Have All Training Trial Missions Complete
 patch=1,EE,205EB3BC,extended,FFFFFFFF
 
-[Have All Training Trial Missions Complete]
+[Have All Training Trial Missions Complete (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Training Trial Missions Complete
 // Have All Training Trial Missions Complete
@@ -42,17 +42,11 @@ description=Start On Final Stage (Arcade Mode)
 // Start On Final Stage (Arcade Mode)
 patch=1,EE,D0315E76,extended,00000000
 
-[Start On Final Stage (Arcade Mode)]
+[Start On Final Stage (Arcade Mode) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Final Stage (Arcade Mode)
 // Start On Final Stage (Arcade Mode)
 patch=1,EE,00315E77,extended,0000000C
-
-[Start On Bonus Stage (Arcade Mode)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Bonus Stage (Arcade Mode)
-// Start On Bonus Stage (Arcade Mode)
-patch=1,EE,D0315E76,extended,00000000
 
 [Start On Bonus Stage (Arcade Mode)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -78,17 +72,11 @@ description=75% Health P1
 // 75% Health P1
 patch=1,EE,D0879C20,extended,000000C9
 
-[75% Health P1]
+[75% Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P1
 // 75% Health P1
 patch=1,EE,10879C20,extended,00000096
-
-[50% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=50% Health P1
-// 50% Health P1
-patch=1,EE,D0879C20,extended,000000C9
 
 [50% Health P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -100,19 +88,7 @@ patch=1,EE,10879C20,extended,00000064
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P1
 // 25% Health P1
-patch=1,EE,D0879C20,extended,000000C9
-
-[25% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=25% Health P1
-// 25% Health P1
 patch=1,EE,10879C20,extended,00000032
-
-[1-Hit Death P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=1-Hit Death P1
-// 1-Hit Death P1
-patch=1,EE,D0879C20,extended,000000C9
 
 [1-Hit Death P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -132,17 +108,11 @@ description=P1 Starts With 1 Win
 // P1 Starts With 1 Win
 patch=1,EE,D0315E68,extended,00000000
 
-[P1 Starts With 1 Win]
+[P1 Starts With 1 Win (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Starts With 1 Win
 // P1 Starts With 1 Win
 patch=1,EE,00315E68,extended,00000001
-
-[P1 Starts With 2 Wins]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 2 Wins
-// P1 Starts With 2 Wins
-patch=1,EE,D0315E68,extended,00000000
 
 [P1 Starts With 2 Wins]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -154,19 +124,7 @@ patch=1,EE,00315E68,extended,00000002
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Starts With 3 Wins
 // P1 Starts With 3 Wins
-patch=1,EE,D0315E68,extended,00000000
-
-[P1 Starts With 3 Wins]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 3 Wins
-// P1 Starts With 3 Wins
 patch=1,EE,00315E68,extended,00000003
-
-[P1 Starts With 4 Wins]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 4 Wins
-// P1 Starts With 4 Wins
-patch=1,EE,D0315E68,extended,00000000
 
 [P1 Starts With 4 Wins]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -198,17 +156,11 @@ description=75% Health P2
 // 75% Health P2
 patch=1,EE,D087A3C8,extended,000000C9
 
-[75% Health P2]
+[75% Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P2
 // 75% Health P2
 patch=1,EE,1087A3C8,extended,00000096
-
-[50% Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=50% Health P2
-// 50% Health P2
-patch=1,EE,D087A3C8,extended,000000C9
 
 [50% Health P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -220,19 +172,7 @@ patch=1,EE,1087A3C8,extended,00000064
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P2
 // 25% Health P2
-patch=1,EE,D087A3C8,extended,000000C9
-
-[25% Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=25% Health P2
-// 25% Health P2
 patch=1,EE,1087A3C8,extended,00000032
-
-[1-Hit Death P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=1-Hit Death P2
-// 1-Hit Death P2
-patch=1,EE,D087A3C8,extended,000000C9
 
 [1-Hit Death P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -252,17 +192,11 @@ description=P2 Starts With 1 Wins
 // P2 Starts With 1 Wins
 patch=1,EE,D0315E69,extended,00000000
 
-[P2 Starts With 1 Wins]
+[P2 Starts With 1 Wins (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Starts With 1 Wins
 // P2 Starts With 1 Wins
 patch=1,EE,00315E69,extended,00000001
-
-[P2 Starts With 2 Wins]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 2 Wins
-// P2 Starts With 2 Wins
-patch=1,EE,D0315E69,extended,00000000
 
 [P2 Starts With 2 Wins]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -274,19 +208,7 @@ patch=1,EE,00315E69,extended,00000002
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Starts With 3 Wins
 // P2 Starts With 3 Wins
-patch=1,EE,D0315E69,extended,00000000
-
-[P2 Starts With 3 Wins]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 3 Wins
-// P2 Starts With 3 Wins
 patch=1,EE,00315E69,extended,00000003
-
-[P2 Starts With 4 Wins]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 4 Wins
-// P2 Starts With 4 Wins
-patch=1,EE,D0315E69,extended,00000000
 
 [P2 Starts With 4 Wins]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -318,26 +240,27 @@ description=No Wins
 // No Wins
 patch=1,EE,108786A0,extended,00000000
 
-[Max Losses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Losses
-// Max Losses
-patch=1,EE,108786A0,extended,0000C350
-
-[No Losses]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Losses
-// No Losses
-patch=1,EE,108786A0,extended,00000000
-
 [Have All Items]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,40590A64,extended,00280001
 
-[Have All Items]
+[Have All Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,00000001,extended,00000000
+
+[Cheats\1 Hit Death Player 2]
+patch=1,EE,D087A3C8,extended,000000C9
+patch=1,EE,1087A3C8,extended,00000000
+
+[Cheats\Have All Items]
+patch=1,EE,40590A64,extended,00280001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Have All Training Trial Missions Complete]
+patch=1,EE,205EB3B8,extended,FFFFFFFF
+patch=1,EE,205EB3BC,extended,FFFFFFFF
+patch=1,EE,205EB3C0,extended,FFFFFFFF

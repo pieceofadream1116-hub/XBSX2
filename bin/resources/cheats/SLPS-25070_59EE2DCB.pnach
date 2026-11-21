@@ -1,0 +1,5 @@
+gametitle=サンライズ英雄譚2 [SLPS-25070] [59EE2DCB]
+
+[Cheats\Max Money]
+patch=1,EE,202396E8,extended,4876E7FF
+patch=1,EE,202396EC,extended,00000017

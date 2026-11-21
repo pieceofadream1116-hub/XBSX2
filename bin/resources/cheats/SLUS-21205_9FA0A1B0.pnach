@@ -12,31 +12,31 @@ description=Infinite Health (Hold {SELECT} If Stuck)
 // Infinite Health (Hold {SELECT} If Stuck)
 patch=1,EE,E002FFFF,extended,00705642
 
-[Infinite Health (Hold {SELECT} If Stuck)]
+[Infinite Health (Hold {SELECT} If Stuck) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Hold {SELECT} If Stuck)
 // Infinite Health (Hold {SELECT} If Stuck)
 patch=1,EE,202B29C0,extended,C4810900
 
-[Infinite Health (Hold {SELECT} If Stuck)]
+[Infinite Health (Hold {SELECT} If Stuck) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Hold {SELECT} If Stuck)
 // Infinite Health (Hold {SELECT} If Stuck)
 patch=1,EE,202B29C8,extended,E48108FC
 
-[Infinite Health (Hold {SELECT} If Stuck)]
+[Infinite Health (Hold {SELECT} If Stuck) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Hold {SELECT} If Stuck)
 // Infinite Health (Hold {SELECT} If Stuck)
 patch=1,EE,E002FFFE,extended,00705642
 
-[Infinite Health (Hold {SELECT} If Stuck)]
+[Infinite Health (Hold {SELECT} If Stuck) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Hold {SELECT} If Stuck)
 // Infinite Health (Hold {SELECT} If Stuck)
 patch=1,EE,202B29C0,extended,C48108FC
 
-[Infinite Health (Hold {SELECT} If Stuck)]
+[Infinite Health (Hold {SELECT} If Stuck) (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health (Hold {SELECT} If Stuck)
 // Infinite Health (Hold {SELECT} If Stuck)
@@ -48,19 +48,19 @@ description=Max Style
 // Max Style
 patch=1,EE,200C0220,extended,3C01447A
 
-[Max Style]
+[Max Style (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Style
 // Max Style
 patch=1,EE,200C0224,extended,03E00008
 
-[Max Style]
+[Max Style (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Style
 // Max Style
 patch=1,EE,200C0228,extended,AC812B0C
 
-[Max Style]
+[Max Style (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Style
 // Max Style
@@ -90,7 +90,7 @@ description=Unlock All Capsules
 // Unlock All Capsules
 patch=1,EE,20276348,extended,24040001
 
-[Unlock All Capsules]
+[Unlock All Capsules (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Capsules
 // Unlock All Capsules
@@ -210,44 +210,73 @@ description=All Cheats
 // All Cheats
 patch=1,EE,20614EDC,extended,FFFFFFFF
 
-[God Mode]
+[God Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=God Mode
 // God Mode
 patch=1,EE,20501240,extended,00000001
 
-[Unlimited Ammo]
+[Unlimited Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlimited Ammo
 // Unlimited Ammo
 patch=1,EE,20501264,extended,00000001
 
-[Unlimited Health]
+[Unlimited Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlimited Health
 // Unlimited Health
 patch=1,EE,2050761C,extended,00000001
 
-[Free Fatalities]
+[Free Fatalities (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Free Fatalities
 // Free Fatalities
 patch=1,EE,20507628,extended,00000001
 
-[One Strike Kills]
+[One Strike Kills (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=One Strike Kills
 // One Strike Kills
 patch=1,EE,2050762C,extended,00000001
 
-[Action Movie]
+[Action Movie (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Action Movie
 // Action Movie
 patch=1,EE,20507630,extended,00000001
 
-[Unlimited Power Strikes]
+[Unlimited Power Strikes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlimited Power Strikes
 // Unlimited Power Strikes
 patch=1,EE,20507654,extended,00000001
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (300%).
+patch=1,EE,00616464,word,00000001
+
+[Cheats\1 Hit Kill]
+patch=1,EE,2047D6A4,extended,AC8008FC
+
+[Cheats\Infinite Armour and Health Ball Mode]
+patch=1,EE,2019BBD8,extended,00000000
+
+[Cheats\Infinite Health if you get stuck, P1 Hold Select to retry from last checkpoint]
+patch=1,EE,E002FFFF,extended,00705642
+patch=1,EE,202B29C0,extended,C4810900
+patch=1,EE,202B29C8,extended,E48108FC
+patch=1,EE,E002FFFE,extended,00705642
+patch=1,EE,202B29C0,extended,C48108FC
+patch=1,EE,202B29C8,extended,AC8008FC
+
+[Cheats\Max Style]
+patch=1,EE,200C0220,extended,3C01447A
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,AC812B0C
+patch=1,EE,202B6090,extended,08030088
+
+[Cheats\Unlock All Capsules]
+patch=1,EE,20276348,extended,24040001
+patch=1,EE,2027634C,extended,AC640084

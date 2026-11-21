@@ -1,0 +1,4 @@
+gametitle=SIMPLE2000シリーズ Vol.46 THE 漢字クイズ～チャレンジ！漢字検定～ [SLPM-62474] [7DA10993]
+
+[Cheats\Kanji Verification Mode Right Answer]
+patch=1,EE,001E32BC,extended,00000000

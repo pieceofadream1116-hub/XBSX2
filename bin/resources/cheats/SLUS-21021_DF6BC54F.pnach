@@ -102,7 +102,7 @@ description=P1 Press {L1}+{SELECT} To Activate No Clipping Mode
 // P1 Press {L1}+{SELECT} To Activate No Clipping Mode
 patch=1,EE,D05AAEC2,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Activate No Clipping Mode]
+[P1 Press {L1}+{SELECT} To Activate No Clipping Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Activate No Clipping Mode
 // P1 Press {L1}+{SELECT} To Activate No Clipping Mode
@@ -114,7 +114,7 @@ description=P1 Press {L2}+{SELECT} To Deactivate No Clipping Mode
 // P1 Press {L2}+{SELECT} To Deactivate No Clipping Mode
 patch=1,EE,D05AAEC2,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} To Deactivate No Clipping Mode]
+[P1 Press {L2}+{SELECT} To Deactivate No Clipping Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To Deactivate No Clipping Mode
 // P1 Press {L2}+{SELECT} To Deactivate No Clipping Mode

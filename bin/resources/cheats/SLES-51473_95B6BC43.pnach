@@ -1,0 +1,17 @@
+gametitle=Kya - Dark Lineage PAL-M SLES-51473 95B6BC43
+
+[Cheats\Infinite Max Health]
+patch=1,EE,200FFF00,extended,3C014348
+patch=1,EE,200FFF04,extended,AC810008
+patch=1,EE,200FFF08,extended,AC81000C
+patch=1,EE,200FFF0C,extended,08069CE1
+patch=1,EE,201A737C,extended,0803FFC0
+
+[Cheats\Infinite Nooties]
+patch=1,EE,1048EABC,extended,0000270F
+
+[NTSC Mode]
+author=GamingDragon93
+description=NTSC mode at start. FMVs skip.
+patch=0,EE,001BA8D4,word,10400004
+patch=0,EE,00336B54,word,1083001E

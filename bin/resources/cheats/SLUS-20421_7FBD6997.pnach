@@ -18,19 +18,19 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,C6400444
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,080694B0
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,E6400440
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -102,19 +102,19 @@ description=Wingmen Options
 // Wingmen Options
 patch=1,EE,0031B74A,extended,00000001
 
-[Invincibility]
+[Invincibility (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Invincibility
 // Invincibility
 patch=1,EE,20258724,extended,00000001
 
-[Missiles Maxed Out]
+[Missiles Maxed Out (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Missiles Maxed Out
 // Missiles Maxed Out
 patch=1,EE,2025E340,extended,00000001
 
-[Wingmen Options]
+[Wingmen Options (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wingmen Options
 // Wingmen Options
@@ -126,14 +126,20 @@ description=Unlock All Code Unlockables
 // Unlock All Code Unlockables
 patch=1,EE,1031B702,extended,00000101
 
-[Unlock All Code Unlockables]
+[Unlock All Code Unlockables (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Code Unlockables
 // Unlock All Code Unlockables
 patch=1,EE,4031B704,extended,00100001
 
-[Unlock All Code Unlockables]
+[Unlock All Code Unlockables (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Code Unlockables
 // Unlock All Code Unlockables
 patch=1,EE,01010101,extended,00000000
+
+[Cheats\Infinite Health]
+patch=1,EE,200C0220,extended,C6400444
+patch=1,EE,200C0224,extended,080694B0
+patch=1,EE,200C0228,extended,E6400440
+patch=1,EE,201A92CC,extended,0C030088

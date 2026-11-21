@@ -12,7 +12,7 @@ description=Enable Extra Modes
 // Enable Extra Modes
 patch=1,EE,1020D5F4,extended,0000FFFF
 
-[Enable Extra Modes]
+[Enable Extra Modes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enable Extra Modes
 // Enable Extra Modes
@@ -102,85 +102,85 @@ description=Uranus
 // Uranus
 patch=1,EE,101F539E,extended,0000000E
 
-[Alice]
+[Alice (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Alice
 // Alice
 patch=1,EE,101F53F6,extended,00000001
 
-[Bakuryu]
+[Bakuryu (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bakuryu
 // Bakuryu
 patch=1,EE,101F53F6,extended,00000002
 
-[Busuzima]
+[Busuzima (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Busuzima
 // Busuzima
 patch=1,EE,101F53F6,extended,00000003
 
-[Gado]
+[Gado (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Gado
 // Gado
 patch=1,EE,101F53F6,extended,00000004
 
-[Jenny]
+[Jenny (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Jenny
 // Jenny
 patch=1,EE,101F53F6,extended,00000005
 
-[Long]
+[Long (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Long
 // Long
 patch=1,EE,101F53F6,extended,00000006
 
-[Shiva]
+[Shiva (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shiva
 // Shiva
 patch=1,EE,101F53F6,extended,00000007
 
-[Shenlong]
+[Shenlong (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Shenlong
 // Shenlong
 patch=1,EE,101F53F6,extended,00000008
 
-[Xion]
+[Xion (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Xion
 // Xion
 patch=1,EE,101F53F6,extended,00000009
 
-[Stun]
+[Stun (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stun
 // Stun
 patch=1,EE,101F53F6,extended,0000000A
 
-[Uriko]
+[Uriko (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Uriko
 // Uriko
 patch=1,EE,101F53F6,extended,0000000B
 
-[Yugo]
+[Yugo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yugo
 // Yugo
 patch=1,EE,101F53F6,extended,0000000C
 
-[Kohryu]
+[Kohryu (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Kohryu
 // Kohryu
 patch=1,EE,101F53F6,extended,0000000D
 
-[Uranus]
+[Uranus (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Uranus
 // Uranus

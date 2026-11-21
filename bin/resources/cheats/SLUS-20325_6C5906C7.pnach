@@ -18,35 +18,23 @@ description=Instant Win (Arcade Mode)
 // Instant Win (Arcade Mode)
 patch=1,EE,103B7E1E,extended,00000000
 
-[Instant Win (Arcade Mode)]
+[Instant Win (Arcade Mode) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Instant Win (Arcade Mode)
 // Instant Win (Arcade Mode)
 patch=1,EE,103B7E64,extended,00000009
 
-[Instant Win (Arcade Mode)]
+[Instant Win (Arcade Mode) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Instant Win (Arcade Mode)
 // Instant Win (Arcade Mode)
 patch=1,EE,103B7E4C,extended,0000270F
-
-[Max Fish Caught P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Fish Caught P1
-// Max Fish Caught P1
-patch=1,EE,103B7E64,extended,00000009
 
 [No Fish Caught P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fish Caught P1
 // No Fish Caught P1
 patch=1,EE,103B7E64,extended,00000000
-
-[Max Total Weight P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Total Weight P1
-// Max Total Weight P1
-patch=1,EE,103B7E4C,extended,0000270F
 
 [No Total Weight P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -77,3 +65,14 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Total Weight P2
 // No Total Weight P2
 patch=1,EE,103B7E50,extended,00000000
+
+[Cheats\Arcade Mode P1 Has 5 Fish]
+patch=1,EE,203B7E64,extended,00000005
+
+[Cheats\Arcade Mode P1 Has Big Weight]
+patch=1,EE,203B7E4C,extended,000007D0
+
+[Cheats\Instant Win Arcade Mode]
+patch=1,EE,103B7E1E,extended,00000000
+patch=1,EE,103B7E64,extended,00000009
+patch=1,EE,103B7E4C,extended,0000270F

@@ -1,0 +1,5 @@
+gametitle=デストロイ オール ヒューマンズ！ [SLPM-66430] [42F30E55]
+
+[Cheats\Infinite Defensive Shield]
+patch=1,EE,20266920,extended,10000005
+patch=1,EE,20272450,extended,1000014C

@@ -1,0 +1,5 @@
+gametitle=ジャイアントロボ THE ANIMATION 地球が静止する日 [SLPM-62526] [223C7B5E]
+
+[Cheats\Unlock Robo & All Characters]
+patch=1,EE,2027CEF8,extended,000000FF
+patch=1,EE,2027CEFC,extended,000000FF

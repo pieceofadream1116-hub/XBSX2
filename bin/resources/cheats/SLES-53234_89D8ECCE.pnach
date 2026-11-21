@@ -36,7 +36,7 @@ description=P1 Press {L1}+{SELECT} For Full Master Gauge
 // P1 Press {L1}+{SELECT} For Full Master Gauge
 patch=1,EE,D02E3F42,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} For Full Master Gauge]
+[P1 Press {L1}+{SELECT} For Full Master Gauge (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} For Full Master Gauge
 // P1 Press {L1}+{SELECT} For Full Master Gauge
@@ -210,7 +210,7 @@ description=Little Baby
 // Little Baby
 patch=1,EE,002E6C00,extended,00000001
 
-[Faceless]
+[Faceless (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Faceless
 // Faceless
@@ -276,29 +276,11 @@ description=All Characters
 // All Characters
 patch=1,EE,402E6BF0,extended,00060001
 
-[All Characters]
+[All Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Characters
 // All Characters
 patch=1,EE,01010101,extended,00000000
-
-[All Characters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Characters
-// All Characters
-patch=1,EE,002E6C08,extended,00000001
-
-[All Characters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Characters
-// All Characters
-patch=1,EE,002E6BB1,extended,000000FF
-
-[All Characters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Characters
-// All Characters
-patch=1,EE,002E8258,extended,00000001
 
 [Demon Horns]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -486,7 +468,7 @@ description=Samurai Shldr R
 // Samurai Shldr R
 patch=1,EE,002E74A3,extended,00000001
 
-[Samurai Shldr R]
+[Samurai Shldr R (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Samurai Shldr R
 // Samurai Shldr R
@@ -724,37 +706,19 @@ patch=1,EE,002E74CA,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Accessories
 // All Accessories
-patch=1,EE,002E7485,extended,00000001
-
-[All Accessories]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Accessories
-// All Accessories
 patch=1,EE,102E7486,extended,00000101
 
-[All Accessories]
+[All Accessories (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Accessories
 // All Accessories
 patch=1,EE,402E7488,extended,00100001
 
-[All Accessories]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Accessories
-// All Accessories
-patch=1,EE,01010101,extended,00000000
-
-[All Accessories]
+[All Accessories (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Accessories
 // All Accessories
 patch=1,EE,102E74C8,extended,00000101
-
-[All Accessories]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Accessories
-// All Accessories
-patch=1,EE,002E74CA,extended,00000001
 
 [Torakaton]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -894,14 +858,27 @@ description=All Weapons
 // All Weapons
 patch=1,EE,402E76D8,extended,00050001
 
-[All Weapons]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Weapons
-// All Weapons
-patch=1,EE,01010101,extended,00000000
-
-[All Weapons]
+[All Weapons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Weapons
 // All Weapons
 patch=1,EE,102E76EC,extended,00000101
+
+[Cheats\Infinite Health]
+patch=1,EE,202E871C,extended,00000064
+
+[Cheats\Infinite Health Player 2]
+patch=1,EE,202E871E,extended,00000064
+
+[Cheats\Infinite Coins in Level 1 99999]
+patch=1,EE,206A62B0,extended,0001869F
+
+[Cheats\Unlock All Stages]
+patch=1,EE,202E8EBC,extended,FFFFFFFF
+
+[Cheats\Unlock All Characters]
+patch=1,EE,402E6BF0,extended,00070001
+patch=1,EE,01011901,extended,00000000
+patch=1,EE,202E8F40,extended,00000001
+patch=1,EE,202E8F98,extended,00000001
+patch=1,EE,202E9A58,extended,00000001

@@ -54,7 +54,7 @@ description=Infinite Double Jumps
 // Infinite Double Jumps
 patch=1,EE,202ACA90,extended,00000000
 
-[Infinite Double Jumps]
+[Infinite Double Jumps (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Double Jumps
 // Infinite Double Jumps
@@ -66,7 +66,7 @@ description=Unlock All Monkey Fables
 // Unlock All Monkey Fables
 patch=1,EE,403E0904,extended,00140001
 
-[Unlock All Monkey Fables]
+[Unlock All Monkey Fables (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Monkey Fables
 // Unlock All Monkey Fables
@@ -84,19 +84,19 @@ description=Unlock All Movies
 // Unlock All Movies
 patch=1,EE,003E0957,extended,00000001
 
-[Unlock All Movies]
+[Unlock All Movies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Movies
 // Unlock All Movies
 patch=1,EE,203E0958,extended,01010101
 
-[Unlock All Movies]
+[Unlock All Movies (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Movies
 // Unlock All Movies
 patch=1,EE,103E095C,extended,00000101
 
-[Unlock All Movies]
+[Unlock All Movies (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Movies
 // Unlock All Movies
@@ -108,19 +108,19 @@ description=Unlock All Soundtracks
 // Unlock All Soundtracks
 patch=1,EE,003E095F,extended,00000001
 
-[Unlock All Soundtracks]
+[Unlock All Soundtracks (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Soundtracks
 // Unlock All Soundtracks
 patch=1,EE,403E0960,extended,000C0001
 
-[Unlock All Soundtracks]
+[Unlock All Soundtracks (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Soundtracks
 // Unlock All Soundtracks
 patch=1,EE,01010101,extended,00000000
 
-[Unlock All Soundtracks]
+[Unlock All Soundtracks (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Soundtracks
 // Unlock All Soundtracks
@@ -132,13 +132,13 @@ description=Unlock All RC Cars
 // Unlock All RC Cars
 patch=1,EE,003E0991,extended,00000001
 
-[Unlock All RC Cars]
+[Unlock All RC Cars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All RC Cars
 // Unlock All RC Cars
 patch=1,EE,103E0992,extended,00000101
 
-[Unlock All RC Cars]
+[Unlock All RC Cars (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All RC Cars
 // Unlock All RC Cars
@@ -150,25 +150,19 @@ description=Unlock All Comic Strips
 // Unlock All Comic Strips
 patch=1,EE,003E0995,extended,00000001
 
-[Unlock All Comic Strips]
+[Unlock All Comic Strips (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Comic Strips
 // Unlock All Comic Strips
 patch=1,EE,103E0996,extended,00000101
 
-[Unlock All Comic Strips]
+[Unlock All Comic Strips (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Comic Strips
 // Unlock All Comic Strips
 patch=1,EE,403E0998,extended,00030001
 
-[Unlock All Comic Strips]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Comic Strips
-// Unlock All Comic Strips
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Comic Strips]
+[Unlock All Comic Strips (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Comic Strips
 // Unlock All Comic Strips
@@ -180,17 +174,11 @@ description=Unlock All Concept Arts
 // Unlock All Concept Arts
 patch=1,EE,103E09A6,extended,00000101
 
-[Unlock All Concept Arts]
+[Unlock All Concept Arts (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Concept Arts
 // Unlock All Concept Arts
 patch=1,EE,403E09A8,extended,000C0001
-
-[Unlock All Concept Arts]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Concept Arts
-// Unlock All Concept Arts
-patch=1,EE,01010101,extended,00000000
 
 [Unlock All Secret Photos]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -198,13 +186,7 @@ description=Unlock All Secret Photos
 // Unlock All Secret Photos
 patch=1,EE,403E09D8,extended,000C0001
 
-[Unlock All Secret Photos]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Secret Photos
-// Unlock All Secret Photos
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Secret Photos]
+[Unlock All Secret Photos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Secret Photos
 // Unlock All Secret Photos
@@ -216,17 +198,11 @@ description=Unlock All Enemy Photos
 // Unlock All Enemy Photos
 patch=1,EE,103E0A0A,extended,00000101
 
-[Unlock All Enemy Photos]
+[Unlock All Enemy Photos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Enemy Photos
 // Unlock All Enemy Photos
 patch=1,EE,403E0A0C,extended,00060001
-
-[Unlock All Enemy Photos]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Enemy Photos
-// Unlock All Enemy Photos
-patch=1,EE,01010101,extended,00000000
 
 [Unlock All Stage Photos]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -234,32 +210,81 @@ description=Unlock All Stage Photos
 // Unlock All Stage Photos
 patch=1,EE,003E0A25,extended,00000001
 
-[Unlock All Stage Photos]
+[Unlock All Stage Photos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Stage Photos
 // Unlock All Stage Photos
 patch=1,EE,103E0A26,extended,00000101
 
-[Unlock All Stage Photos]
+[Unlock All Stage Photos (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Stage Photos
 // Unlock All Stage Photos
 patch=1,EE,403E0A28,extended,00050001
 
-[Unlock All Stage Photos]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Stage Photos
-// Unlock All Stage Photos
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Stage Photos]
+[Unlock All Stage Photos (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Stage Photos
 // Unlock All Stage Photos
 patch=1,EE,103E0A3C,extended,00000101
 
-[Unlock All Stage Photos]
+[Unlock All Stage Photos (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Stage Photos
 // Unlock All Stage Photos
+patch=1,EE,003E0A3E,extended,00000001
+
+[Cheats\Infinite Double Jumps]
+patch=1,EE,202ACA90,extended,00000000
+patch=1,EE,202ACA9C,extended,00000000
+
+[Cheats\Unlock All Monkey Fables]
+patch=1,EE,403E0904,extended,00140001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Unlock All Movies]
+patch=1,EE,003E0957,extended,00000001
+patch=1,EE,203E0958,extended,01010101
+patch=1,EE,103E095C,extended,00000101
+patch=1,EE,003E095E,extended,00000001
+
+[Cheats\Unlock All Soundtracks]
+patch=1,EE,003E095F,extended,00000001
+patch=1,EE,403E0960,extended,000C0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,003E0990,extended,00000001
+
+[Cheats\Unlock All RC Cars]
+patch=1,EE,003E0991,extended,00000001
+patch=1,EE,103E0992,extended,00000101
+patch=1,EE,003E0994,extended,00000001
+
+[Cheats\Unlock All Comic Strips]
+patch=1,EE,003E0995,extended,00000001
+patch=1,EE,103E0996,extended,00000101
+patch=1,EE,403E0998,extended,00030001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,103E09A4,extended,00000101
+
+[Cheats\Unlock All Concept Arts]
+patch=1,EE,103E09A6,extended,00000101
+patch=1,EE,403E09A8,extended,000C0001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Unlock All Secret Photos]
+patch=1,EE,403E09D8,extended,000C0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,103E0A08,extended,00000101
+
+[Cheats\Unlock - Unlock All Enemy Photos]
+patch=1,EE,103E0A0A,extended,00000101
+patch=1,EE,403E0A0C,extended,00060001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Unlock - Unlock All Stage Photos]
+patch=1,EE,003E0A25,extended,00000001
+patch=1,EE,103E0A26,extended,00000101
+patch=1,EE,403E0A28,extended,00050001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,103E0A3C,extended,00000101
 patch=1,EE,003E0A3E,extended,00000001

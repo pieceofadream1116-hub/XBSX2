@@ -24,25 +24,25 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,00A0802D
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,2402012C
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C022C,extended,AE42026C
 
-[Infinite Health]
+[Infinite Health (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -54,7 +54,7 @@ description=Infinite Armor
 // Infinite Armor
 patch=1,EE,20173B54,extended,2402000A
 
-[Infinite Armor]
+[Infinite Armor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Armor
 // Infinite Armor
@@ -66,7 +66,7 @@ description=View Weapon In Inventory For Max Damage
 // View Weapon In Inventory For Max Damage
 patch=1,EE,20178A14,extended,24820020
 
-[View Weapon In Inventory For Max Damage]
+[View Weapon In Inventory For Max Damage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Weapon In Inventory For Max Damage
 // View Weapon In Inventory For Max Damage
@@ -84,20 +84,61 @@ description=View Weapon In Inventory For Max Clips
 // View Weapon In Inventory For Max Clips
 patch=1,EE,200C0230,extended,8E820090
 
-[View Weapon In Inventory For Max Clips]
+[View Weapon In Inventory For Max Clips (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Weapon In Inventory For Max Clips
 // View Weapon In Inventory For Max Clips
 patch=1,EE,200C0234,extended,03E00008
 
-[View Weapon In Inventory For Max Clips]
+[View Weapon In Inventory For Max Clips (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Weapon In Inventory For Max Clips
 // View Weapon In Inventory For Max Clips
 patch=1,EE,200C0238,extended,AEA20044
 
-[View Weapon In Inventory For Max Clips]
+[View Weapon In Inventory For Max Clips (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Weapon In Inventory For Max Clips
 // View Weapon In Inventory For Max Clips
+patch=1,EE,20178B78,extended,0C03008C
+
+[60fps]
+author=Gabominated
+description=Still missing speeds.
+patch=1,EE,201d0b20,extended,28420001 //28420002 fps 1
+patch=1,EE,201C0D54,extended,3c013c88 //3c013d08 npc 2
+patch=1,EE,201c0d50,extended,3c013c88 //3c013d08 npc and doors
+patch=1,EE,201c0b5c,extended,3c013c88 //3c013d08 animation ambiente 2
+patch=1,EE,201c0e38,extended,3c013c88 //3c013d08 animation ambiente
+patch=1,EE,20198ab8,extended,3c01BF80 //3c013f80 traverse
+patch=1,EE,2019B890,extended,3C011F83 //3C013F06 main character
+
+[30fps]
+patch=1,EE,201d0b20,extended,28420002 //fps 1
+patch=1,EE,201C0D54,extended,3c013d08 //npc 2
+patch=1,EE,201c0d50,extended,3c013d08 //npc and doors
+patch=1,EE,201c0b5c,extended,3c013d08 //animation ambiente 2
+patch=1,EE,201c0e38,extended,3c013d08 //animation ambiente
+patch=1,EE,20198ab8,extended,3c013f80 //traverse 1
+patch=1,EE,2019B890,extended,3C013F06 //main character
+
+[Cheats\Infinite Health]
+patch=1,EE,200C0220,extended,00A0802D
+patch=1,EE,200C0224,extended,2402012C
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,AE42026C
+patch=1,EE,2013F8AC,extended,0C030088
+
+[Cheats\Infinite Armor]
+patch=1,EE,20173B54,extended,2402000A
+patch=1,EE,20173B5C,extended,AC620224
+
+[Cheats\View Weapon In Inventory For Max Damage]
+patch=1,EE,20178A14,extended,24820020
+patch=1,EE,20178A18,extended,AEA2002C
+
+[Cheats\View Weapon In Inventory For Max Clips]
+patch=1,EE,200C0230,extended,8E820090
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,AEA20044
 patch=1,EE,20178B78,extended,0C03008C

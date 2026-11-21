@@ -30,41 +30,11 @@ description=Home Team Start With 50
 // Home Team Start With 50
 patch=1,EE,D055FE14,extended,00000000
 
-[Home Team Start With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 50
-// Home Team Start With 50
-patch=1,EE,0055FE14,extended,00000032
-
-[Home Team Start With 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 20
-// Home Team Start With 20
-patch=1,EE,D055FE14,extended,00000000
-
-[Home Team Start With 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 20
-// Home Team Start With 20
-patch=1,EE,0055FE14,extended,00000014
-
-[Home Team Start With 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 10
-// Home Team Start With 10
-patch=1,EE,D055FE14,extended,00000000
-
 [Home Team Start With 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Home Team Start With 10
 // Home Team Start With 10
 patch=1,EE,0055FE14,extended,0000000A
-
-[Home Team Start With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 5
-// Home Team Start With 5
-patch=1,EE,D055FE14,extended,00000000
 
 [Home Team Start With 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -90,47 +60,11 @@ description=Away Team Scores 0
 // Away Team Scores 0
 patch=1,EE,0055FE15,extended,00000000
 
-[Away Team Start With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 50
-// Away Team Start With 50
-patch=1,EE,D055FE14,extended,00000000
-
-[Away Team Start With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 50
-// Away Team Start With 50
-patch=1,EE,0055FE15,extended,00000032
-
-[Away Team Start With 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 20
-// Away Team Start With 20
-patch=1,EE,D055FE14,extended,00000000
-
-[Away Team Start With 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 20
-// Away Team Start With 20
-patch=1,EE,0055FE15,extended,00000014
-
-[Away Team Start With 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 10
-// Away Team Start With 10
-patch=1,EE,D055FE14,extended,00000000
-
 [Away Team Start With 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Away Team Start With 10
 // Away Team Start With 10
 patch=1,EE,0055FE15,extended,0000000A
-
-[Away Team Start With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 5
-// Away Team Start With 5
-patch=1,EE,D055FE14,extended,00000000
 
 [Away Team Start With 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -144,7 +78,7 @@ description=P1 Press {L1}+{SELECT} For Low Time 1st Half
 // P1 Press {L1}+{SELECT} For Low Time 1st Half
 patch=1,EE,D053EF42,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} For Low Time 1st Half]
+[P1 Press {L1}+{SELECT} For Low Time 1st Half (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} For Low Time 1st Half
 // P1 Press {L1}+{SELECT} For Low Time 1st Half
@@ -156,7 +90,7 @@ description=P1 Press {L2}+{SELECT} To End 1st Half
 // P1 Press {L2}+{SELECT} To End 1st Half
 patch=1,EE,D053EF42,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} To End 1st Half]
+[P1 Press {L2}+{SELECT} To End 1st Half (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} To End 1st Half
 // P1 Press {L2}+{SELECT} To End 1st Half
@@ -168,19 +102,13 @@ description=P1 Press {R1}+{SELECT} For Low Time 2nd Half
 // P1 Press {R1}+{SELECT} For Low Time 2nd Half
 patch=1,EE,D053EF42,extended,0000F7FE
 
-[P1 Press {R1}+{SELECT} For Low Time 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {R1}+{SELECT} For Low Time 2nd Half
-// P1 Press {R1}+{SELECT} For Low Time 2nd Half
-patch=1,EE,2047CAC8,extended,43700000
-
 [P1 Press {R2}+{SELECT} To End 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+{SELECT} To End 2nd Half
 // P1 Press {R2}+{SELECT} To End 2nd Half
 patch=1,EE,D053EF42,extended,0000FDFE
 
-[P1 Press {R2}+{SELECT} To End 2nd Half]
+[P1 Press {R2}+{SELECT} To End 2nd Half (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R2}+{SELECT} To End 2nd Half
 // P1 Press {R2}+{SELECT} To End 2nd Half
@@ -192,23 +120,11 @@ description=P2 Press {L1}+{SELECT} For Low Time 1st Half
 // P2 Press {L1}+{SELECT} For Low Time 1st Half
 patch=1,EE,D053F0C2,extended,0000FBFE
 
-[P2 Press {L1}+{SELECT} For Low Time 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L1}+{SELECT} For Low Time 1st Half
-// P2 Press {L1}+{SELECT} For Low Time 1st Half
-patch=1,EE,2047CAC8,extended,00000000
-
 [P2 Press {L2}+{SELECT} To End 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {L2}+{SELECT} To End 1st Half
 // P2 Press {L2}+{SELECT} To End 1st Half
 patch=1,EE,D053F0C2,extended,0000FEFE
-
-[P2 Press {L2}+{SELECT} To End 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L2}+{SELECT} To End 1st Half
-// P2 Press {L2}+{SELECT} To End 1st Half
-patch=1,EE,2047CAC8,extended,43700000
 
 [P2 Press {R1}+{SELECT} For Low Time 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -216,23 +132,11 @@ description=P2 Press {R1}+{SELECT} For Low Time 2nd Half
 // P2 Press {R1}+{SELECT} For Low Time 2nd Half
 patch=1,EE,D053F0C2,extended,0000F7FE
 
-[P2 Press {R1}+{SELECT} For Low Time 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R1}+{SELECT} For Low Time 2nd Half
-// P2 Press {R1}+{SELECT} For Low Time 2nd Half
-patch=1,EE,2047CAC8,extended,43700000
-
 [P2 Press {R2}+{SELECT} To End 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {R2}+{SELECT} To End 2nd Half
 // P2 Press {R2}+{SELECT} To End 2nd Half
 patch=1,EE,D053F0C2,extended,0000FDFE
-
-[P2 Press {R2}+{SELECT} To End 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R2}+{SELECT} To End 2nd Half
-// P2 Press {R2}+{SELECT} To End 2nd Half
-patch=1,EE,2047CAC8,extended,43F00000
 
 [P3 Press {L1}+{SELECT} For Low Time 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -240,23 +144,11 @@ description=P3 Press {L1}+{SELECT} For Low Time 1st Half
 // P3 Press {L1}+{SELECT} For Low Time 1st Half
 patch=1,EE,D053F242,extended,0000FBFE
 
-[P3 Press {L1}+{SELECT} For Low Time 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {L1}+{SELECT} For Low Time 1st Half
-// P3 Press {L1}+{SELECT} For Low Time 1st Half
-patch=1,EE,2047CAC8,extended,00000000
-
 [P3 Press {L2}+{SELECT} To End 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P3 Press {L2}+{SELECT} To End 1st Half
 // P3 Press {L2}+{SELECT} To End 1st Half
 patch=1,EE,D053F242,extended,0000FEFE
-
-[P3 Press {L2}+{SELECT} To End 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {L2}+{SELECT} To End 1st Half
-// P3 Press {L2}+{SELECT} To End 1st Half
-patch=1,EE,2047CAC8,extended,43700000
 
 [P3 Press {R1}+{SELECT} For Low Time 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -264,23 +156,11 @@ description=P3 Press {R1}+{SELECT} For Low Time 2nd Half
 // P3 Press {R1}+{SELECT} For Low Time 2nd Half
 patch=1,EE,D053F242,extended,0000F7FE
 
-[P3 Press {R1}+{SELECT} For Low Time 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {R1}+{SELECT} For Low Time 2nd Half
-// P3 Press {R1}+{SELECT} For Low Time 2nd Half
-patch=1,EE,2047CAC8,extended,43700000
-
 [P3 Press {R2}+{SELECT} To End 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P3 Press {R2}+{SELECT} To End 2nd Half
 // P3 Press {R2}+{SELECT} To End 2nd Half
 patch=1,EE,D053F242,extended,0000FDFE
-
-[P3 Press {R2}+{SELECT} To End 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {R2}+{SELECT} To End 2nd Half
-// P3 Press {R2}+{SELECT} To End 2nd Half
-patch=1,EE,2047CAC8,extended,43F00000
 
 [P4 Press {L1}+{SELECT} For Low Time 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -288,23 +168,11 @@ description=P4 Press {L1}+{SELECT} For Low Time 1st Half
 // P4 Press {L1}+{SELECT} For Low Time 1st Half
 patch=1,EE,D053F3C2,extended,0000FBFE
 
-[P4 Press {L1}+{SELECT} For Low Time 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {L1}+{SELECT} For Low Time 1st Half
-// P4 Press {L1}+{SELECT} For Low Time 1st Half
-patch=1,EE,2047CAC8,extended,00000000
-
 [P4 Press {L2}+{SELECT} To End 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P4 Press {L2}+{SELECT} To End 1st Half
 // P4 Press {L2}+{SELECT} To End 1st Half
 patch=1,EE,D053F3C2,extended,0000FEFE
-
-[P4 Press {L2}+{SELECT} To End 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {L2}+{SELECT} To End 1st Half
-// P4 Press {L2}+{SELECT} To End 1st Half
-patch=1,EE,2047CAC8,extended,43700000
 
 [P4 Press {R1}+{SELECT} For Low Time 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -312,23 +180,11 @@ description=P4 Press {R1}+{SELECT} For Low Time 2nd Half
 // P4 Press {R1}+{SELECT} For Low Time 2nd Half
 patch=1,EE,D053F3C2,extended,0000F7FE
 
-[P4 Press {R1}+{SELECT} For Low Time 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {R1}+{SELECT} For Low Time 2nd Half
-// P4 Press {R1}+{SELECT} For Low Time 2nd Half
-patch=1,EE,2047CAC8,extended,43700000
-
 [P4 Press {R2}+{SELECT} To End 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P4 Press {R2}+{SELECT} To End 2nd Half
 // P4 Press {R2}+{SELECT} To End 2nd Half
 patch=1,EE,D053F3C2,extended,0000FDFE
-
-[P4 Press {R2}+{SELECT} To End 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {R2}+{SELECT} To End 2nd Half
-// P4 Press {R2}+{SELECT} To End 2nd Half
-patch=1,EE,2047CAC8,extended,43F00000
 
 [P5 Press {L1}+{SELECT} For Low Time 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -336,23 +192,11 @@ description=P5 Press {L1}+{SELECT} For Low Time 1st Half
 // P5 Press {L1}+{SELECT} For Low Time 1st Half
 patch=1,EE,D053F6C2,extended,0000FBFE
 
-[P5 Press {L1}+{SELECT} For Low Time 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {L1}+{SELECT} For Low Time 1st Half
-// P5 Press {L1}+{SELECT} For Low Time 1st Half
-patch=1,EE,2047CAC8,extended,00000000
-
 [P5 Press {L2}+{SELECT} To End 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P5 Press {L2}+{SELECT} To End 1st Half
 // P5 Press {L2}+{SELECT} To End 1st Half
 patch=1,EE,D053F6C2,extended,0000FEFE
-
-[P5 Press {L2}+{SELECT} To End 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {L2}+{SELECT} To End 1st Half
-// P5 Press {L2}+{SELECT} To End 1st Half
-patch=1,EE,2047CAC8,extended,43700000
 
 [P5 Press {R1}+{SELECT} For Low Time 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -360,23 +204,11 @@ description=P5 Press {R1}+{SELECT} For Low Time 2nd Half
 // P5 Press {R1}+{SELECT} For Low Time 2nd Half
 patch=1,EE,D053F6C2,extended,0000F7FE
 
-[P5 Press {R1}+{SELECT} For Low Time 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {R1}+{SELECT} For Low Time 2nd Half
-// P5 Press {R1}+{SELECT} For Low Time 2nd Half
-patch=1,EE,2047CAC8,extended,43700000
-
 [P5 Press {R2}+{SELECT} To End 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P5 Press {R2}+{SELECT} To End 2nd Half
 // P5 Press {R2}+{SELECT} To End 2nd Half
 patch=1,EE,D053F6C2,extended,0000FDFE
-
-[P5 Press {R2}+{SELECT} To End 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {R2}+{SELECT} To End 2nd Half
-// P5 Press {R2}+{SELECT} To End 2nd Half
-patch=1,EE,2047CAC8,extended,43F00000
 
 [P6 Press {L1}+{SELECT} For Low Time 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -384,23 +216,11 @@ description=P6 Press {L1}+{SELECT} For Low Time 1st Half
 // P6 Press {L1}+{SELECT} For Low Time 1st Half
 patch=1,EE,D053F842,extended,0000FBFE
 
-[P6 Press {L1}+{SELECT} For Low Time 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {L1}+{SELECT} For Low Time 1st Half
-// P6 Press {L1}+{SELECT} For Low Time 1st Half
-patch=1,EE,2047CAC8,extended,00000000
-
 [P6 Press {L2}+{SELECT} To End 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P6 Press {L2}+{SELECT} To End 1st Half
 // P6 Press {L2}+{SELECT} To End 1st Half
 patch=1,EE,D053F842,extended,0000FEFE
-
-[P6 Press {L2}+{SELECT} To End 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {L2}+{SELECT} To End 1st Half
-// P6 Press {L2}+{SELECT} To End 1st Half
-patch=1,EE,2047CAC8,extended,43700000
 
 [P6 Press {R1}+{SELECT} For Low Time 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -408,23 +228,11 @@ description=P6 Press {R1}+{SELECT} For Low Time 2nd Half
 // P6 Press {R1}+{SELECT} For Low Time 2nd Half
 patch=1,EE,D053F842,extended,0000F7FE
 
-[P6 Press {R1}+{SELECT} For Low Time 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {R1}+{SELECT} For Low Time 2nd Half
-// P6 Press {R1}+{SELECT} For Low Time 2nd Half
-patch=1,EE,2047CAC8,extended,43700000
-
 [P6 Press {R2}+{SELECT} To End 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P6 Press {R2}+{SELECT} To End 2nd Half
 // P6 Press {R2}+{SELECT} To End 2nd Half
 patch=1,EE,D053F842,extended,0000FDFE
-
-[P6 Press {R2}+{SELECT} To End 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {R2}+{SELECT} To End 2nd Half
-// P6 Press {R2}+{SELECT} To End 2nd Half
-patch=1,EE,2047CAC8,extended,43F00000
 
 [P7 Press {L1}+{SELECT} For Low Time 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -432,23 +240,11 @@ description=P7 Press {L1}+{SELECT} For Low Time 1st Half
 // P7 Press {L1}+{SELECT} For Low Time 1st Half
 patch=1,EE,D053F9C2,extended,0000FBFE
 
-[P7 Press {L1}+{SELECT} For Low Time 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {L1}+{SELECT} For Low Time 1st Half
-// P7 Press {L1}+{SELECT} For Low Time 1st Half
-patch=1,EE,2047CAC8,extended,00000000
-
 [P7 Press {L2}+{SELECT} To End 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P7 Press {L2}+{SELECT} To End 1st Half
 // P7 Press {L2}+{SELECT} To End 1st Half
 patch=1,EE,D053F9C2,extended,0000FEFE
-
-[P7 Press {L2}+{SELECT} To End 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {L2}+{SELECT} To End 1st Half
-// P7 Press {L2}+{SELECT} To End 1st Half
-patch=1,EE,2047CAC8,extended,43700000
 
 [P7 Press {R1}+{SELECT} For Low Time 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -456,23 +252,11 @@ description=P7 Press {R1}+{SELECT} For Low Time 2nd Half
 // P7 Press {R1}+{SELECT} For Low Time 2nd Half
 patch=1,EE,D053F9C2,extended,0000F7FE
 
-[P7 Press {R1}+{SELECT} For Low Time 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {R1}+{SELECT} For Low Time 2nd Half
-// P7 Press {R1}+{SELECT} For Low Time 2nd Half
-patch=1,EE,2047CAC8,extended,43700000
-
 [P7 Press {R2}+{SELECT} To End 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P7 Press {R2}+{SELECT} To End 2nd Half
 // P7 Press {R2}+{SELECT} To End 2nd Half
 patch=1,EE,D053F9C2,extended,0000FDFE
-
-[P7 Press {R2}+{SELECT} To End 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {R2}+{SELECT} To End 2nd Half
-// P7 Press {R2}+{SELECT} To End 2nd Half
-patch=1,EE,2047CAC8,extended,43F00000
 
 [P8 Press {L1}+{SELECT} For Low Time 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -480,23 +264,11 @@ description=P8 Press {L1}+{SELECT} For Low Time 1st Half
 // P8 Press {L1}+{SELECT} For Low Time 1st Half
 patch=1,EE,D053FB42,extended,0000FBFE
 
-[P8 Press {L1}+{SELECT} For Low Time 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {L1}+{SELECT} For Low Time 1st Half
-// P8 Press {L1}+{SELECT} For Low Time 1st Half
-patch=1,EE,2047CAC8,extended,00000000
-
 [P8 Press {L2}+{SELECT} To End 1st Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P8 Press {L2}+{SELECT} To End 1st Half
 // P8 Press {L2}+{SELECT} To End 1st Half
 patch=1,EE,D053FB42,extended,0000FEFE
-
-[P8 Press {L2}+{SELECT} To End 1st Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {L2}+{SELECT} To End 1st Half
-// P8 Press {L2}+{SELECT} To End 1st Half
-patch=1,EE,2047CAC8,extended,43700000
 
 [P8 Press {R1}+{SELECT} For Low Time 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -504,23 +276,11 @@ description=P8 Press {R1}+{SELECT} For Low Time 2nd Half
 // P8 Press {R1}+{SELECT} For Low Time 2nd Half
 patch=1,EE,D053FB42,extended,0000F7FE
 
-[P8 Press {R1}+{SELECT} For Low Time 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {R1}+{SELECT} For Low Time 2nd Half
-// P8 Press {R1}+{SELECT} For Low Time 2nd Half
-patch=1,EE,2047CAC8,extended,43700000
-
 [P8 Press {R2}+{SELECT} To End 2nd Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P8 Press {R2}+{SELECT} To End 2nd Half
 // P8 Press {R2}+{SELECT} To End 2nd Half
 patch=1,EE,D053FB42,extended,0000FDFE
-
-[P8 Press {R2}+{SELECT} To End 2nd Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {R2}+{SELECT} To End 2nd Half
-// P8 Press {R2}+{SELECT} To End 2nd Half
-patch=1,EE,2047CAC8,extended,43F00000
 
 [Using Collected Tokens Doesnt Decrease Tokens]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -552,7 +312,7 @@ description=School Playing Fields
 // School Playing Fields
 patch=1,EE,2072DBE8,extended,00000001
 
-[School Playing Fields]
+[School Playing Fields (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=School Playing Fields
 // School Playing Fields
@@ -564,7 +324,7 @@ description=School Pitch
 // School Pitch
 patch=1,EE,2072DCE8,extended,00000001
 
-[School Pitch]
+[School Pitch (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=School Pitch
 // School Pitch
@@ -576,7 +336,7 @@ description=Municipal Ground
 // Municipal Ground
 patch=1,EE,2072DDD8,extended,00000001
 
-[Municipal Ground]
+[Municipal Ground (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Municipal Ground
 // Municipal Ground
@@ -588,7 +348,7 @@ description=Amateur Ground
 // Amateur Ground
 patch=1,EE,2072DEC8,extended,00000001
 
-[Amateur Ground]
+[Amateur Ground (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Amateur Ground
 // Amateur Ground
@@ -600,7 +360,7 @@ description=Estacio Duiroga Poroon
 // Estacio Duiroga Poroon
 patch=1,EE,20730F88,extended,00000001
 
-[Estacio Duiroga Poroon]
+[Estacio Duiroga Poroon (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Estacio Duiroga Poroon
 // Estacio Duiroga Poroon
@@ -612,7 +372,7 @@ description=Windsor Castle Ground
 // Windsor Castle Ground
 patch=1,EE,20731078,extended,00000001
 
-[Windsor Castle Ground]
+[Windsor Castle Ground (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Windsor Castle Ground
 // Windsor Castle Ground
@@ -624,7 +384,7 @@ description=Jungle Ground
 // Jungle Ground
 patch=1,EE,20731168,extended,00000001
 
-[Jungle Ground]
+[Jungle Ground (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Jungle Ground
 // Jungle Ground
@@ -636,7 +396,7 @@ description=World Superteam
 // World Superteam
 patch=1,EE,20731258,extended,00000001
 
-[World Superteam]
+[World Superteam (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=World Superteam
 // World Superteam
@@ -648,7 +408,7 @@ description=Euro Superteam
 // Euro Superteam
 patch=1,EE,20731368,extended,00000001
 
-[Euro Superteam]
+[Euro Superteam (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Euro Superteam
 // Euro Superteam
@@ -660,7 +420,7 @@ description=African Superteam
 // African Superteam
 patch=1,EE,20731478,extended,00000001
 
-[African Superteam]
+[African Superteam (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=African Superteam
 // African Superteam
@@ -672,7 +432,7 @@ description=South American Superteam
 // South American Superteam
 patch=1,EE,20731588,extended,00000001
 
-[South American Superteam]
+[South American Superteam (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=South American Superteam
 // South American Superteam
@@ -684,7 +444,7 @@ description=North American Superteam
 // North American Superteam
 patch=1,EE,20731698,extended,00000001
 
-[North American Superteam]
+[North American Superteam (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=North American Superteam
 // North American Superteam
@@ -696,7 +456,7 @@ description=Asia & Oceania Superteam
 // Asia & Oceania Superteam
 patch=1,EE,20732098,extended,00000001
 
-[Asia & Oceania Superteam]
+[Asia & Oceania Superteam (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Asia & Oceania Superteam
 // Asia & Oceania Superteam
@@ -708,7 +468,7 @@ description=English League Allstars
 // English League Allstars
 patch=1,EE,207321A8,extended,00000001
 
-[English League Allstars]
+[English League Allstars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=English League Allstars
 // English League Allstars
@@ -720,7 +480,7 @@ description=Scottish League Allstars
 // Scottish League Allstars
 patch=1,EE,20732298,extended,00000001
 
-[Scottish League Allstars]
+[Scottish League Allstars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Scottish League Allstars
 // Scottish League Allstars
@@ -732,7 +492,7 @@ description=French League Allstars
 // French League Allstars
 patch=1,EE,20732388,extended,00000001
 
-[French League Allstars]
+[French League Allstars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=French League Allstars
 // French League Allstars
@@ -744,7 +504,7 @@ description=Spanish League Allstars
 // Spanish League Allstars
 patch=1,EE,20732478,extended,00000001
 
-[Spanish League Allstars]
+[Spanish League Allstars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spanish League Allstars
 // Spanish League Allstars
@@ -756,7 +516,7 @@ description=Italian League Allstars
 // Italian League Allstars
 patch=1,EE,207325E8,extended,00000001
 
-[Italian League Allstars]
+[Italian League Allstars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Italian League Allstars
 // Italian League Allstars
@@ -768,7 +528,7 @@ description=German League Allstars
 // German League Allstars
 patch=1,EE,207326D8,extended,00000001
 
-[German League Allstars]
+[German League Allstars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=German League Allstars
 // German League Allstars
@@ -780,7 +540,7 @@ description=Austrian League Allstars
 // Austrian League Allstars
 patch=1,EE,207327C8,extended,00000001
 
-[Austrian League Allstars]
+[Austrian League Allstars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Austrian League Allstars
 // Austrian League Allstars
@@ -792,7 +552,7 @@ description=Dutch League Allstars
 // Dutch League Allstars
 patch=1,EE,207328E8,extended,00000001
 
-[Dutch League Allstars]
+[Dutch League Allstars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dutch League Allstars
 // Dutch League Allstars
@@ -804,7 +564,7 @@ description=4 Development Teams
 // 4 Development Teams
 patch=1,EE,207329D8,extended,00000001
 
-[4 Development Teams]
+[4 Development Teams (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=4 Development Teams
 // 4 Development Teams
@@ -816,7 +576,7 @@ description=Brazil 1970
 // Brazil 1970
 patch=1,EE,20732B48,extended,00000001
 
-[Brazil 1970]
+[Brazil 1970 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Brazil 1970
 // Brazil 1970
@@ -828,7 +588,7 @@ description=Uruguay 1950
 // Uruguay 1950
 patch=1,EE,20732C58,extended,00000001
 
-[Uruguay 1950]
+[Uruguay 1950 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Uruguay 1950
 // Uruguay 1950
@@ -840,7 +600,7 @@ description=Holland 1974
 // Holland 1974
 patch=1,EE,20732D68,extended,00000001
 
-[Holland 1974]
+[Holland 1974 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Holland 1974
 // Holland 1974
@@ -852,7 +612,7 @@ description=England 1966
 // England 1966
 patch=1,EE,20732E78,extended,00000001
 
-[England 1966]
+[England 1966 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=England 1966
 // England 1966
@@ -864,7 +624,7 @@ description=France 1995
 // France 1995
 patch=1,EE,20732F88,extended,00000001
 
-[France 1995]
+[France 1995 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=France 1995
 // France 1995
@@ -876,7 +636,7 @@ description=Spain 1950
 // Spain 1950
 patch=1,EE,207330B8,extended,00000001
 
-[Spain 1950]
+[Spain 1950 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Spain 1950
 // Spain 1950
@@ -888,7 +648,7 @@ description=Italy 1962
 // Italy 1962
 patch=1,EE,207331C8,extended,00000001
 
-[Italy 1962]
+[Italy 1962 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Italy 1962
 // Italy 1962
@@ -900,7 +660,7 @@ description=Argentina 1986
 // Argentina 1986
 patch=1,EE,207332D8,extended,00000001
 
-[Argentina 1986]
+[Argentina 1986 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Argentina 1986
 // Argentina 1986
@@ -912,7 +672,7 @@ description=Germany 1990
 // Germany 1990
 patch=1,EE,207333E8,extended,00000001
 
-[Germany 1990]
+[Germany 1990 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Germany 1990
 // Germany 1990
@@ -924,7 +684,7 @@ description=Korea 1994
 // Korea 1994
 patch=1,EE,207334F8,extended,00000001
 
-[Korea 1994]
+[Korea 1994 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Korea 1994
 // Korea 1994
@@ -936,7 +696,7 @@ description=Japan 1992
 // Japan 1992
 patch=1,EE,20733608,extended,00000001
 
-[Japan 1992]
+[Japan 1992 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Japan 1992
 // Japan 1992
@@ -948,7 +708,7 @@ description=Cameroon 1990
 // Cameroon 1990
 patch=1,EE,20733718,extended,00000001
 
-[Cameroon 1990]
+[Cameroon 1990 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cameroon 1990
 // Cameroon 1990
@@ -960,7 +720,7 @@ description=Scotland 1978
 // Scotland 1978
 patch=1,EE,20733828,extended,00000001
 
-[Scotland 1978]
+[Scotland 1978 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Scotland 1978
 // Scotland 1978
@@ -972,7 +732,7 @@ description=Republic Of Ireland 1990
 // Republic Of Ireland 1990
 patch=1,EE,20733968,extended,00000001
 
-[Republic Of Ireland 1990]
+[Republic Of Ireland 1990 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Republic Of Ireland 1990
 // Republic Of Ireland 1990
@@ -984,7 +744,7 @@ description=Hungary 1954
 // Hungary 1954
 patch=1,EE,20733A78,extended,00000001
 
-[Hungary 1954]
+[Hungary 1954 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hungary 1954
 // Hungary 1954
@@ -996,7 +756,7 @@ description=Columbia 1990
 // Columbia 1990
 patch=1,EE,20733B88,extended,00000001
 
-[Columbia 1990]
+[Columbia 1990 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Columbia 1990
 // Columbia 1990
@@ -1008,7 +768,7 @@ description=Denmark 1992
 // Denmark 1992
 patch=1,EE,20733C98,extended,00000001
 
-[Denmark 1992]
+[Denmark 1992 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Denmark 1992
 // Denmark 1992
@@ -1020,7 +780,7 @@ description=Wales 1958
 // Wales 1958
 patch=1,EE,20733DA8,extended,00000001
 
-[Wales 1958]
+[Wales 1958 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wales 1958
 // Wales 1958
@@ -1032,7 +792,7 @@ description=Australia 2001
 // Australia 2001
 patch=1,EE,20733EB8,extended,00000001
 
-[Australia 2001]
+[Australia 2001 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Australia 2001
 // Australia 2001
@@ -1044,7 +804,7 @@ description=USA 1994
 // USA 1994
 patch=1,EE,20733FC8,extended,00000001
 
-[USA 1994]
+[USA 1994 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=USA 1994
 // USA 1994
@@ -1056,7 +816,7 @@ description=Sweden 1958
 // Sweden 1958
 patch=1,EE,20734118,extended,00000001
 
-[Sweden 1958]
+[Sweden 1958 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sweden 1958
 // Sweden 1958
@@ -1068,7 +828,7 @@ description=Belgium 1986
 // Belgium 1986
 patch=1,EE,20734208,extended,00000001
 
-[Belgium 1986]
+[Belgium 1986 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Belgium 1986
 // Belgium 1986
@@ -1080,7 +840,7 @@ description=Norway 1994
 // Norway 1994
 patch=1,EE,20734318,extended,00000001
 
-[Norway 1994]
+[Norway 1994 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Norway 1994
 // Norway 1994

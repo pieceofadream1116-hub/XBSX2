@@ -30,7 +30,7 @@ description=Idiot AI
 // Idiot AI
 patch=1,EE,201E0C10,extended,03E00008
 
-[Idiot AI]
+[Idiot AI (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
@@ -161,3 +161,13 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=7 Opponents
 // 7 Opponents
 patch=1,EE,2041232C,extended,00000007
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,00438438,word,00000000 //00000001
+patch=1,EE,003EA4A0,word,3c888889 //3d088889
+
+[Cheats\Idiot AI]
+patch=1,EE,201E0C10,extended,03E00008
+patch=1,EE,201E0C14,extended,00000000

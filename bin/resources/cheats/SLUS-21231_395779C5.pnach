@@ -12,25 +12,25 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,3C0142C8
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,AC410028
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,080AF1AC
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C022C,extended,C4400028
 
-[Infinite Health]
+[Infinite Health (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -42,7 +42,7 @@ description=Always Low Heart Rate
 // Always Low Heart Rate
 patch=1,EE,202A8A14,extended,3C010000
 
-[Always Low Heart Rate]
+[Always Low Heart Rate (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Heart Rate
 // Always Low Heart Rate
@@ -53,12 +53,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always High Heart Rate
 // Always High Heart Rate
 patch=1,EE,202A8A14,extended,3C0142C8
-
-[Always High Heart Rate]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always High Heart Rate
-// Always High Heart Rate
-patch=1,EE,202A8A18,extended,AE010020
 
 [Infinite Ammo]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -90,19 +84,19 @@ description=Rapid Fire P1
 // Rapid Fire P1
 patch=1,EE,D05C3B42,extended,0000F7FF
 
-[Rapid Fire P1]
+[Rapid Fire P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rapid Fire P1
 // Rapid Fire P1
 patch=1,EE,2024440C,extended,00000000
 
-[Rapid Fire P1]
+[Rapid Fire P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rapid Fire P1
 // Rapid Fire P1
 patch=1,EE,D05C3B42,extended,0000FFFF
 
-[Rapid Fire P1]
+[Rapid Fire P1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rapid Fire P1
 // Rapid Fire P1
@@ -114,29 +108,11 @@ description=Rapid Fire P2
 // Rapid Fire P2
 patch=1,EE,D05C3C82,extended,0000F7FF
 
-[Rapid Fire P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Rapid Fire P2
-// Rapid Fire P2
-patch=1,EE,2024440C,extended,00000000
-
-[Rapid Fire P2]
+[Rapid Fire P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rapid Fire P2
 // Rapid Fire P2
 patch=1,EE,D05C3C82,extended,0000FFFF
-
-[Rapid Fire P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Rapid Fire P2
-// Rapid Fire P2
-patch=1,EE,2024440C,extended,AE420014
-
-[Rapid Fire (Both Players)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Rapid Fire (Both Players)
-// Rapid Fire (Both Players)
-patch=1,EE,2024440C,extended,00000000
 
 [Infinite Saves Left]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -155,3 +131,31 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Saves Left
 // Max Infinite Saves Left
 patch=1,EE,2038683C,extended,24120063
+
+[60 FPS]
+author=Gabominated
+description=Might need enable EE Overclock.
+patch=1,EE,00199018,word,1460000A //1060000A
+
+[Remove Blur/Bloom]
+author=Gabominated
+description=Might need to set Shade Boost, Brightnes:60, Contrast:48 and Saturation:40.
+patch=1,EE,0017B090,word,00000000
+patch=1,EE,0017B10C,word,00000000
+
+[Cheats\Infinite Health]
+patch=1,EE,200C0220,extended,3C0142C8
+patch=1,EE,200C0224,extended,AC410028
+patch=1,EE,200C0228,extended,080AF1AC
+patch=1,EE,200C022C,extended,C4400028
+patch=1,EE,202BC6AC,extended,08030088
+
+[Cheats\Always Low Heart Rate]
+patch=1,EE,202A8A14,extended,3C010000
+patch=1,EE,202A8A18,extended,AE010020
+
+[Cheats\Stealth Suit]
+patch=1,EE,20230BE4,extended,24110003
+patch=1,EE,202AD84C,extended,24020003
+patch=1,EE,2081D134,extended,00000001
+patch=1,EE,2096AA2C,extended,00000000

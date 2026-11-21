@@ -12,17 +12,11 @@ description=Lap 2
 // Lap 2
 patch=1,EE,D03EBD8C,extended,00000001
 
-[Lap 2]
+[Lap 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lap 2
 // Lap 2
 patch=1,EE,103EBD8C,extended,00000001
-
-[Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 3
-// Lap 3
-patch=1,EE,D03EBD8C,extended,00000001
 
 [Lap 3]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -34,19 +28,7 @@ patch=1,EE,103EBD8C,extended,00000002
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lap 4
 // Lap 4
-patch=1,EE,D03EBD8C,extended,00000001
-
-[Lap 4]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 4
-// Lap 4
 patch=1,EE,103EBD8C,extended,00000003
-
-[Lap 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 5
-// Lap 5
-patch=1,EE,D03EBD8C,extended,00000001
 
 [Lap 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -58,19 +40,7 @@ patch=1,EE,103EBD8C,extended,00000004
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lap 6
 // Lap 6
-patch=1,EE,D03EBD8C,extended,00000001
-
-[Lap 6]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 6
-// Lap 6
 patch=1,EE,103EBD8C,extended,00000005
-
-[Lap 7]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 7
-// Lap 7
-patch=1,EE,D03EBD8C,extended,00000001
 
 [Lap 7]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -82,31 +52,13 @@ patch=1,EE,103EBD8C,extended,00000006
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lap 8
 // Lap 8
-patch=1,EE,D03EBD8C,extended,00000001
-
-[Lap 8]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 8
-// Lap 8
 patch=1,EE,103EBD8C,extended,00000007
 
 [Lap 9]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lap 9
 // Lap 9
-patch=1,EE,D03EBD8C,extended,00000001
-
-[Lap 9]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 9
-// Lap 9
 patch=1,EE,103EBD8C,extended,00000008
-
-[Lap 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 10
-// Lap 10
-patch=1,EE,D03EBD8C,extended,00000001
 
 [Lap 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -120,7 +72,7 @@ description=Max Points (Championship Mode)
 // Max Points (Championship Mode)
 patch=1,EE,10518DF4,extended,000003E7
 
-[Max Points (Championship Mode)]
+[Max Points (Championship Mode) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Points (Championship Mode)
 // Max Points (Championship Mode)
@@ -144,7 +96,7 @@ description=Have All Cars-All Teams
 // Have All Cars-All Teams
 patch=1,EE,41C3DF34,extended,00060063
 
-[Have All Cars-All Teams]
+[Have All Cars-All Teams (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Cars-All Teams
 // Have All Cars-All Teams
@@ -156,8 +108,21 @@ description=Unlock All Challenges
 // Unlock All Challenges
 patch=1,EE,41C3EBF4,extended,000F0043
 
-[Unlock All Challenges]
+[Unlock All Challenges (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Challenges
 // Unlock All Challenges
 patch=1,EE,00000001,extended,00000000
+
+[50 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,00109BD4,word,0C04B26A //0C04B244
+patch=1,EE,00109cd4,word,3c023ca3 //3c023d23
+
+[Cheats\Start On 3rd Lap]
+patch=1,EE,103D430C,extended,00000003
+
+[Cheats\Turn Off CPU AI]
+patch=1,EE,20107E50,extended,00000000
+patch=1,EE,20107F64,extended,00000000

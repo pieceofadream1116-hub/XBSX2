@@ -1,0 +1,5 @@
+gametitle=テニスの王子様 ～Kiss of Prince～ Flame version [SLPM-65398] [21C00BBF]
+
+[Cheats\Unlock All Gallery]
+patch=1,EE,40402634,extended,00280001
+patch=1,EE,FFFFFFFF,extended,00000000

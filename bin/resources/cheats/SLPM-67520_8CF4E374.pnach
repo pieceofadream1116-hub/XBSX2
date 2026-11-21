@@ -1,0 +1,4 @@
+gametitle=타잔: 언테임드 [SLPM-67520] [8CF4E374]
+
+[Cheats\Infinite Lives Story Mode]
+patch=1,EE,00FA6DC0,extended,00000009

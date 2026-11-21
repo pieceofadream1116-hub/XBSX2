@@ -1,0 +1,5 @@
+gametitle=for Symphony ～with all one's heart～ [SLPS-25506] [45695C66]
+
+[Cheats\Unlock All Album]
+patch=1,EE,40231DDC,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000

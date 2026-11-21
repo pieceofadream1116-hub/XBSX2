@@ -1,0 +1,7 @@
+gametitle=RTL Ski Jumping 2004 [SLES-51888] [2014D322]
+
+[Cheats\Infinite Skill Points]
+patch=1,EE,20525B30,extended,42480000
+
+[Cheats\Infinite Power Points]
+patch=1,EE,20525B38,extended,00000064

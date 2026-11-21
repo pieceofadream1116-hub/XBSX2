@@ -18,19 +18,19 @@ description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,D05B2E70,extended,00000000
 
-[Infinite Health P1]
+[Infinite Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,205B1A1C,extended,000000FA
 
-[Infinite Health P1]
+[Infinite Health P1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1
 // Infinite Health P1
 patch=1,EE,D05B2E70,extended,0000FFFF
 
-[Infinite Health P1]
+[Infinite Health P1 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1
 // Infinite Health P1
@@ -40,21 +40,9 @@ patch=1,EE,205B1A54,extended,000000FA
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Health P1
 // No Health P1
-patch=1,EE,D05B2E70,extended,00000000
-
-[No Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P1
-// No Health P1
 patch=1,EE,205B1A1C,extended,00000000
 
-[No Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P1
-// No Health P1
-patch=1,EE,D05B2E70,extended,0000FFFF
-
-[No Health P1]
+[No Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Health P1
 // No Health P1
@@ -64,21 +52,9 @@ patch=1,EE,205B1A54,extended,00000000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ultimate Gauge P1
 // Infinite Ultimate Gauge P1
-patch=1,EE,D05B2E70,extended,00000000
-
-[Infinite Ultimate Gauge P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Ultimate Gauge P1
-// Infinite Ultimate Gauge P1
 patch=1,EE,205B1A2C,extended,000000FA
 
-[Infinite Ultimate Gauge P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Ultimate Gauge P1
-// Infinite Ultimate Gauge P1
-patch=1,EE,D05B2E70,extended,0000FFFF
-
-[Infinite Ultimate Gauge P1]
+[Infinite Ultimate Gauge P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ultimate Gauge P1
 // Infinite Ultimate Gauge P1
@@ -88,120 +64,12 @@ patch=1,EE,205B1A64,extended,000000FA
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Ultimate Gauge P1
 // No Ultimate Gauge P1
-patch=1,EE,D05B2E70,extended,00000000
-
-[No Ultimate Gauge P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Ultimate Gauge P1
-// No Ultimate Gauge P1
 patch=1,EE,205B1A2C,extended,00000000
 
-[No Ultimate Gauge P1]
+[No Ultimate Gauge P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Ultimate Gauge P1
 // No Ultimate Gauge P1
-patch=1,EE,D05B2E70,extended,0000FFFF
-
-[No Ultimate Gauge P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Ultimate Gauge P1
-// No Ultimate Gauge P1
-patch=1,EE,205B1A64,extended,00000000
-
-[Infinite Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2
-// Infinite Health P2
-patch=1,EE,D05B2E70,extended,0000FFFF
-
-[Infinite Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2
-// Infinite Health P2
-patch=1,EE,205B1A1C,extended,000000FA
-
-[Infinite Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2
-// Infinite Health P2
-patch=1,EE,D05B2E70,extended,00000000
-
-[Infinite Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2
-// Infinite Health P2
-patch=1,EE,205B1A54,extended,000000FA
-
-[No Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P2
-// No Health P2
-patch=1,EE,D05B2E70,extended,0000FFFF
-
-[No Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P2
-// No Health P2
-patch=1,EE,205B1A1C,extended,00000000
-
-[No Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P2
-// No Health P2
-patch=1,EE,D05B2E70,extended,00000000
-
-[No Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Health P2
-// No Health P2
-patch=1,EE,205B1A54,extended,00000000
-
-[Infinite Ultimate Gauge P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Ultimate Gauge P2
-// Infinite Ultimate Gauge P2
-patch=1,EE,D05B2E70,extended,0000FFFF
-
-[Infinite Ultimate Gauge P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Ultimate Gauge P2
-// Infinite Ultimate Gauge P2
-patch=1,EE,205B1A2C,extended,000000FA
-
-[Infinite Ultimate Gauge P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Ultimate Gauge P2
-// Infinite Ultimate Gauge P2
-patch=1,EE,D05B2E70,extended,00000000
-
-[Infinite Ultimate Gauge P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Ultimate Gauge P2
-// Infinite Ultimate Gauge P2
-patch=1,EE,205B1A64,extended,000000FA
-
-[No Ultimate Gauge P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Ultimate Gauge P2
-// No Ultimate Gauge P2
-patch=1,EE,D05B2E70,extended,0000FFFF
-
-[No Ultimate Gauge P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Ultimate Gauge P2
-// No Ultimate Gauge P2
-patch=1,EE,205B1A2C,extended,00000000
-
-[No Ultimate Gauge P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Ultimate Gauge P2
-// No Ultimate Gauge P2
-patch=1,EE,D05B2E70,extended,00000000
-
-[No Ultimate Gauge P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Ultimate Gauge P2
-// No Ultimate Gauge P2
 patch=1,EE,205B1A64,extended,00000000
 
 [Unlock All Characters]
@@ -216,8 +84,40 @@ description=Have All Dragon Balls-All Characters
 // Have All Dragon Balls-All Characters
 patch=1,EE,405E7BAC,extended,001E0029
 
-[Have All Dragon Balls-All Characters]
+[Have All Dragon Balls-All Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Dragon Balls-All Characters
 // Have All Dragon Balls-All Characters
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats\Trainings Mode Infinite Super Energy Player 1]
+patch=1,EE,005B1A2C,extended,000000f0
+
+[Cheats\Trainings Mode Infinite Super Energy Player 1 R3+R1 on  R3+R2 off]
+patch=1,EE,D0502e82,extended,0000f7fb
+patch=1,EE,000ffff0,extended,00000001
+patch=1,EE,D0502e82,extended,0000fdfb
+patch=1,EE,000ffff0,extended,00000000
+patch=1,EE,D00ffff0,extended,00000001
+patch=1,EE,005B1A2C,extended,000000f0
+
+[Cheats\Trainings Mode Infinite Health]
+patch=1,EE,005B1A1C,extended,000000fa
+
+[Cheats\Orginal Mode Infinite Super Energy Player 1]
+patch=1,EE,005B1A64,extended,000000f0
+
+[Cheats\Orginal Mode Infinite Super Energy Player 1 R3+R1 on R3+R2 off]
+patch=1,EE,D0502e82,extended,0000f7fb
+patch=1,EE,000ffff0,extended,00000001
+patch=1,EE,D0502e82,extended,0000fdfb
+patch=1,EE,000ffff0,extended,00000000
+patch=1,EE,D00ffff0,extended,00000001
+patch=1,EE,005B1A64,extended,000000f0
+
+[Cheats\Orginal Mode Infinite Health]
+patch=1,EE,005B1A54,extended,000000fa
+
+[Cheats\Unlock All Dragon Balls All Characters]
+patch=1,EE,405E7BAC,extended,001E0029
 patch=1,EE,FFFFFFFF,extended,00000000

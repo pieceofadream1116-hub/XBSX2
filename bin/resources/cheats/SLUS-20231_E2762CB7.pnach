@@ -24,24 +24,6 @@ description=No Doops Dead
 // No Doops Dead
 patch=1,EE,20350908,extended,00000000
 
-[Max Doops]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max Doops
-// Max Doops
-patch=1,EE,20350900,extended,000003E7
-
-[No Doops Left To Find]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Doops Left To Find
-// No Doops Left To Find
-patch=1,EE,20350904,extended,00000000
-
-[No Doops Dead]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=No Doops Dead
-// No Doops Dead
-patch=1,EE,20350908,extended,00000000
-
 [Max Gromps]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Gromps
@@ -84,13 +66,13 @@ description=Have All Items
 // Have All Items
 patch=1,EE,0035227B,extended,00000005
 
-[Have All Items]
+[Have All Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
 patch=1,EE,2035227C,extended,04030201
 
-[Have All Items]
+[Have All Items (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Items
 // Have All Items
@@ -120,7 +102,7 @@ description=Start With 99 Bells
 // Start With 99 Bells
 patch=1,EE,D0350B20,extended,00200062
 
-[Start With 99 Bells]
+[Start With 99 Bells (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With 99 Bells
 // Start With 99 Bells
@@ -138,7 +120,7 @@ description=Enable All Level Codes (On Map)
 // Enable All Level Codes (On Map)
 patch=1,EE,20267034,extended,24020001
 
-[Enable All Level Codes (On Map)]
+[Enable All Level Codes (On Map) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enable All Level Codes (On Map)
 // Enable All Level Codes (On Map)
@@ -150,8 +132,21 @@ description=Unlock All Secrets
 // Unlock All Secrets
 patch=1,EE,403A9120,extended,00140001
 
-[Unlock All Secrets]
+[Unlock All Secrets (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Secrets
 // Unlock All Secrets
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Have All Items]
+patch=1,EE,0035227B,extended,00000005
+patch=1,EE,2035227C,extended,04030201
+patch=1,EE,00352284,extended,00000005
+
+[Cheats\Unlock Enable All Level On Map]
+patch=1,EE,20267034,extended,24020001
+patch=1,EE,20267038,extended,AE420000
+
+[Cheats\Unlock All Secrets]
+patch=1,EE,403A9120,extended,00140001
 patch=1,EE,00000001,extended,00000000

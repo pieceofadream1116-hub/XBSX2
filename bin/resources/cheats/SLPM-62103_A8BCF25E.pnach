@@ -1,0 +1,4 @@
+gametitle=EX億万長者ゲーム - THE MONEY BATTLE [SLPM-62103] [A8BCF25E]
+
+[Cheats\Player 1 Has 999999 Money]
+patch=1,EE,2032CFF0,extended,000F423F

@@ -1,0 +1,5 @@
+gametitle=SIMPLE2000シリーズ Vol.4 THE ダブル麻雀パズル [SLPM-62160] [6FEBD893]
+
+[Cheats\Enable Debug Menu At Boot]
+patch=1,EE,202C7130,extended,0026C040
+patch=1,EE,202C7218,extended,002C7130

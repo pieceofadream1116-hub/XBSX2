@@ -1,0 +1,9 @@
+gametitle=いちご100% ストロベリーダイアリー [SLPM-65822] [C2F7D31D]
+
+[Cheats\Max Money]
+patch=1,EE,204B033C,extended,0001869F
+
+[Cheats\Unlock All Movies]
+patch=1,EE,201D7C60,extended,FFFFFFFF
+patch=1,EE,201D7C64,extended,FFFFFFFF
+patch=1,EE,201D7C68,extended,FFFFFFFF

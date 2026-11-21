@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,201696A8,extended,C6400058
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -24,7 +24,7 @@ description=Infinite Stamina
 // Infinite Stamina
 patch=1,EE,2015EC48,extended,00000000
 
-[Infinite Stamina]
+[Infinite Stamina (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Stamina
 // Infinite Stamina
@@ -72,7 +72,7 @@ description=Max Items (upon Pickup)
 // Max Items (upon Pickup)
 patch=1,EE,202C2370,extended,24030063
 
-[Max Items (upon Pickup)]
+[Max Items (upon Pickup) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Items (upon Pickup)
 // Max Items (upon Pickup)
@@ -89,3 +89,28 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Extra/Special Mode
 // Unlock All Extra/Special Mode
 patch=1,EE,20CDCEEC,extended,FFFFFFFF
+
+[Cheats\All Characters Infinite Health]
+patch=1,EE,0015a4d4,word,46010030
+patch=1,EE,0015a49c,word,46000840
+
+[Cheats\Characters Never Exhausted When Running]
+patch=1,EE,0016048c,word,00401021
+
+[Cheats\Infinite Pistol Ammo]
+patch=1,EE,00360bbc,word,24420000
+
+[Cheats\Laser Never Overcharges With Infinite Ammo]
+patch=1,EE,0014a1a8,word,10000005
+patch=1,EE,0014a1ac,word,44820000
+patch=1,EE,0014a228,word,AE8001F0
+patch=1,EE,0014b270,word,AE8001F0
+
+[Cheats\Infinite Energy Drinks]
+patch=1,EE,001ad114,word,24630000
+
+[Cheats\Infinite Discs]
+patch=1,EE,002de564,word,24630000
+
+[Cheats\Infinite Pump-Action Shotgun Ammo]
+patch=1,EE,00359dd0,word,24420000

@@ -1,0 +1,5 @@
+gametitle=Darling Special Backlash ～恋のエキゾースト・ヒート～ [SLPM-65653] [98EDA560]
+
+[Cheats\Unlock All CG]
+patch=1,EE,4024C2B0,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000

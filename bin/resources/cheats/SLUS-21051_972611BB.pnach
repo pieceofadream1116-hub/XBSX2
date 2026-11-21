@@ -30,41 +30,11 @@ description=Home Team Start With 50
 // Home Team Start With 50
 patch=1,EE,D0652D38,extended,00000000
 
-[Home Team Start With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 50
-// Home Team Start With 50
-patch=1,EE,20652D38,extended,00000032
-
-[Home Team Start With 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 20
-// Home Team Start With 20
-patch=1,EE,D0652D38,extended,00000000
-
-[Home Team Start With 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 20
-// Home Team Start With 20
-patch=1,EE,20652D38,extended,00000014
-
-[Home Team Start With 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 10
-// Home Team Start With 10
-patch=1,EE,D0652D38,extended,00000000
-
 [Home Team Start With 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Home Team Start With 10
 // Home Team Start With 10
 patch=1,EE,20652D38,extended,0000000A
-
-[Home Team Start With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Home Team Start With 5
-// Home Team Start With 5
-patch=1,EE,D0652D38,extended,00000000
 
 [Home Team Start With 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -96,41 +66,11 @@ description=Away Team Start With 50
 // Away Team Start With 50
 patch=1,EE,D0652D3C,extended,00000000
 
-[Away Team Start With 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 50
-// Away Team Start With 50
-patch=1,EE,20652D3C,extended,00000032
-
-[Away Team Start With 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 20
-// Away Team Start With 20
-patch=1,EE,D0652D3C,extended,00000000
-
-[Away Team Start With 20]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 20
-// Away Team Start With 20
-patch=1,EE,20652D3C,extended,00000014
-
-[Away Team Start With 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 10
-// Away Team Start With 10
-patch=1,EE,D0652D3C,extended,00000000
-
 [Away Team Start With 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Away Team Start With 10
 // Away Team Start With 10
 patch=1,EE,20652D3C,extended,0000000A
-
-[Away Team Start With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Away Team Start With 5
-// Away Team Start With 5
-patch=1,EE,D0652D3C,extended,00000000
 
 [Away Team Start With 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -180,7 +120,7 @@ description=Idiot AI
 // Idiot AI
 patch=1,EE,201B0290,extended,03E00008
 
-[Idiot AI]
+[Idiot AI (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
@@ -204,25 +144,25 @@ description=Max Staff Upgrade Points
 // Max Staff Upgrade Points
 patch=1,EE,200C0220,extended,3C014CBE
 
-[Max Staff Upgrade Points]
+[Max Staff Upgrade Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Staff Upgrade Points
 // Max Staff Upgrade Points
 patch=1,EE,200C0224,extended,3421BC20
 
-[Max Staff Upgrade Points]
+[Max Staff Upgrade Points (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Staff Upgrade Points
 // Max Staff Upgrade Points
 patch=1,EE,200C0228,extended,03E00008
 
-[Max Staff Upgrade Points]
+[Max Staff Upgrade Points (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Staff Upgrade Points
 // Max Staff Upgrade Points
 patch=1,EE,200C022C,extended,AC610000
 
-[Max Staff Upgrade Points]
+[Max Staff Upgrade Points (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Staff Upgrade Points
 // Max Staff Upgrade Points
@@ -234,7 +174,7 @@ description=P1 Press {L1}+{L2} For More Time
 // P1 Press {L1}+{L2} For More Time
 patch=1,EE,D0708B42,extended,0000FAFF
 
-[P1 Press {L1}+{L2} For More Time]
+[P1 Press {L1}+{L2} For More Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{L2} For More Time
 // P1 Press {L1}+{L2} For More Time
@@ -246,7 +186,7 @@ description=P1 Press {R1}+{R2} To End Half
 // P1 Press {R1}+{R2} To End Half
 patch=1,EE,D0708B42,extended,0000F5FF
 
-[P1 Press {R1}+{R2} To End Half]
+[P1 Press {R1}+{R2} To End Half (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {R1}+{R2} To End Half
 // P1 Press {R1}+{R2} To End Half
@@ -258,23 +198,11 @@ description=P2 Press {L1}+{L2} For More Time
 // P2 Press {L1}+{L2} For More Time
 patch=1,EE,D0708C42,extended,0000FAFF
 
-[P2 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L1}+{L2} For More Time
-// P2 Press {L1}+{L2} For More Time
-patch=1,EE,106559C0,extended,00000000
-
 [P2 Press {R1}+{R2} To End Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {R1}+{R2} To End Half
 // P2 Press {R1}+{R2} To End Half
 patch=1,EE,D0708C42,extended,0000F5FF
-
-[P2 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {R1}+{R2} To End Half
-// P2 Press {R1}+{R2} To End Half
-patch=1,EE,106559C0,extended,00000170
 
 [P3 Press {L1}+{L2} For More Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -282,23 +210,11 @@ description=P3 Press {L1}+{L2} For More Time
 // P3 Press {L1}+{L2} For More Time
 patch=1,EE,D0708D42,extended,0000FAFF
 
-[P3 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {L1}+{L2} For More Time
-// P3 Press {L1}+{L2} For More Time
-patch=1,EE,106559C0,extended,00000000
-
 [P3 Press {R1}+{R2} To End Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P3 Press {R1}+{R2} To End Half
 // P3 Press {R1}+{R2} To End Half
 patch=1,EE,D0708D42,extended,0000F5FF
-
-[P3 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {R1}+{R2} To End Half
-// P3 Press {R1}+{R2} To End Half
-patch=1,EE,106559C0,extended,00000170
 
 [P4 Press {L1}+{L2} For More Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -306,23 +222,11 @@ description=P4 Press {L1}+{L2} For More Time
 // P4 Press {L1}+{L2} For More Time
 patch=1,EE,D0708E42,extended,0000FAFF
 
-[P4 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {L1}+{L2} For More Time
-// P4 Press {L1}+{L2} For More Time
-patch=1,EE,106559C0,extended,00000000
-
 [P4 Press {R1}+{R2} To End Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P4 Press {R1}+{R2} To End Half
 // P4 Press {R1}+{R2} To End Half
 patch=1,EE,D0708E42,extended,0000F5FF
-
-[P4 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {R1}+{R2} To End Half
-// P4 Press {R1}+{R2} To End Half
-patch=1,EE,106559C0,extended,00000170
 
 [P5 Press {L1}+{L2} For More Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -330,23 +234,11 @@ description=P5 Press {L1}+{L2} For More Time
 // P5 Press {L1}+{L2} For More Time
 patch=1,EE,D0708F42,extended,0000FAFF
 
-[P5 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {L1}+{L2} For More Time
-// P5 Press {L1}+{L2} For More Time
-patch=1,EE,106559C0,extended,00000000
-
 [P5 Press {R1}+{R2} To End Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P5 Press {R1}+{R2} To End Half
 // P5 Press {R1}+{R2} To End Half
 patch=1,EE,D0708F42,extended,0000F5FF
-
-[P5 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {R1}+{R2} To End Half
-// P5 Press {R1}+{R2} To End Half
-patch=1,EE,106559C0,extended,00000170
 
 [P6 Press {L1}+{L2} For More Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -354,23 +246,11 @@ description=P6 Press {L1}+{L2} For More Time
 // P6 Press {L1}+{L2} For More Time
 patch=1,EE,D0709042,extended,0000FAFF
 
-[P6 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {L1}+{L2} For More Time
-// P6 Press {L1}+{L2} For More Time
-patch=1,EE,106559C0,extended,00000000
-
 [P6 Press {R1}+{R2} To End Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P6 Press {R1}+{R2} To End Half
 // P6 Press {R1}+{R2} To End Half
 patch=1,EE,D0709042,extended,0000F5FF
-
-[P6 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {R1}+{R2} To End Half
-// P6 Press {R1}+{R2} To End Half
-patch=1,EE,106559C0,extended,00000170
 
 [P7 Press {L1}+{L2} For More Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -378,23 +258,11 @@ description=P7 Press {L1}+{L2} For More Time
 // P7 Press {L1}+{L2} For More Time
 patch=1,EE,D0709142,extended,0000FAFF
 
-[P7 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {L1}+{L2} For More Time
-// P7 Press {L1}+{L2} For More Time
-patch=1,EE,106559C0,extended,00000000
-
 [P7 Press {R1}+{R2} To End Half]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P7 Press {R1}+{R2} To End Half
 // P7 Press {R1}+{R2} To End Half
 patch=1,EE,D0709142,extended,0000F5FF
-
-[P7 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {R1}+{R2} To End Half
-// P7 Press {R1}+{R2} To End Half
-patch=1,EE,106559C0,extended,00000170
 
 [P8 Press {L1}+{L2} For More Time]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -402,35 +270,11 @@ description=P8 Press {L1}+{L2} For More Time
 // P8 Press {L1}+{L2} For More Time
 patch=1,EE,D0709242,extended,0000FAFF
 
-[P8 Press {L1}+{L2} For More Time]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {L1}+{L2} For More Time
-// P8 Press {L1}+{L2} For More Time
-patch=1,EE,106559C0,extended,00000000
-
-[P8 Press {R1}+{R2} To End Half]
+[P8 Press {R1}+{R2} To End Half (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P8 Press {R1}+{R2} To End Half
 // P8 Press {R1}+{R2} To End Half
 patch=1,EE,D0709242,extended,0000F5FF
-
-[P8 Press {R1}+{R2} To End Half]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {R1}+{R2} To End Half
-// P8 Press {R1}+{R2} To End Half
-patch=1,EE,106559C0,extended,00000170
-
-[Infinite FIFA 2005 Points]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite FIFA 2005 Points
-// Infinite FIFA 2005 Points
-patch=1,EE,1061ED60,extended,0000FFFF
-
-[Max FIFA 2005 Points]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Max FIFA 2005 Points
-// Max FIFA 2005 Points
-patch=1,EE,2061ED60,extended,05F5E0FF
 
 [Max Total Shots]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -516,85 +360,85 @@ description=No Tackles
 // No Tackles
 patch=1,EE,10654F26,extended,00000000
 
-[Max Total Shots]
+[Max Total Shots (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Total Shots
 // Max Total Shots
 patch=1,EE,206552AC,extended,00000063
 
-[No Total Shots]
+[No Total Shots (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Total Shots
 // No Total Shots
 patch=1,EE,206552AC,extended,00000000
 
-[Max Shots On Target]
+[Max Shots On Target (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Shots On Target
 // Max Shots On Target
 patch=1,EE,206552B4,extended,00000063
 
-[No Shots On Target]
+[No Shots On Target (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Shots On Target
 // No Shots On Target
 patch=1,EE,206552B4,extended,00000000
 
-[Max Corners]
+[Max Corners (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Corners
 // Max Corners
 patch=1,EE,206552B8,extended,00000063
 
-[No Corners]
+[No Corners (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Corners
 // No Corners
 patch=1,EE,206552B8,extended,00000000
 
-[Max Bookings]
+[Max Bookings (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Bookings
 // Max Bookings
 patch=1,EE,206552C4,extended,00000063
 
-[No Bookings]
+[No Bookings (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Bookings
 // No Bookings
 patch=1,EE,206552C4,extended,00000000
 
-[Max Fouls]
+[Max Fouls (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fouls
 // Max Fouls
 patch=1,EE,206552CC,extended,00000063
 
-[No Fouls]
+[No Fouls (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Fouls
 // No Fouls
 patch=1,EE,206552CC,extended,00000000
 
-[Max Offsides]
+[Max Offsides (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Offsides
 // Max Offsides
 patch=1,EE,206552D0,extended,00000063
 
-[No Offsides]
+[No Offsides (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Offsides
 // No Offsides
 patch=1,EE,206552D0,extended,00000000
 
-[Max Tackles]
+[Max Tackles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Tackles
 // Max Tackles
 patch=1,EE,106552E6,extended,00000063
 
-[No Tackles]
+[No Tackles (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Tackles
 // No Tackles

@@ -42,7 +42,7 @@ description=Max HP
 // Max HP
 patch=1,EE,10909138,extended,000003E7
 
-[Max HP]
+[Max HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
@@ -60,7 +60,7 @@ description=Max ATK
 // Max ATK
 patch=1,EE,1090913C,extended,000003E7
 
-[Max ATK]
+[Max ATK (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
@@ -72,7 +72,7 @@ description=Max DEF
 // Max DEF
 patch=1,EE,1090913E,extended,000003E7
 
-[Max DEF]
+[Max DEF (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
@@ -84,7 +84,7 @@ description=Max SP
 // Max SP
 patch=1,EE,1090920C,extended,000003E7
 
-[Max SP]
+[Max SP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max SP
 // Max SP
@@ -95,3 +95,19 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite SP
 // Infinite SP
 patch=1,EE,10909212,extended,000003E7
+
+[Cheats\Sei Max HP]
+patch=1,EE,10909138,extended,000003E7
+patch=1,EE,10909140,extended,000003E7
+
+[Cheats\Sei Max SP]
+patch=1,EE,1090920C,extended,000003E7
+patch=1,EE,1090920E,extended,000003E7
+
+[Cheats\Sei Max ATK]
+patch=1,EE,1090913C,extended,000003E7
+patch=1,EE,10909142,extended,000003E7
+
+[Cheats\Sei Max DEF]
+patch=1,EE,1090913E,extended,000003E7
+patch=1,EE,10909144,extended,000003E7

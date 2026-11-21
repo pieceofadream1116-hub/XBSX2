@@ -1,0 +1,8 @@
+gametitle=エヴァーグレイスⅡ [SLPS-25044] [E26D2E7D]
+
+[Cheats\Max Ein]
+patch=1,EE,203FC7C4,extended,0001869F
+
+[Cheats\Max Soul Gauge]
+patch=1,EE,103FC7C0,extended,0000270F
+patch=1,EE,103FC7C2,extended,0000270F

@@ -1,0 +1,5 @@
+gametitle=最終試験くじら−Alive− [SLPM-66809] [DB2083C1]
+
+[Cheats\Unlock All Memories]
+patch=1,EE,404DD88C,extended,017F0001
+patch=1,EE,01010101,extended,00000000

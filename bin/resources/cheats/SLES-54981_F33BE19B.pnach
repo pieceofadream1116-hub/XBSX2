@@ -1,0 +1,4 @@
+gametitle=Bob the Builder - Festival of Fun [SLES-54981] [F33BE19B]
+
+[Cheats\Infinite Time]
+patch=1,EE,209C24A0,extended,41E29D47

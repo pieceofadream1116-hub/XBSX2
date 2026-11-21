@@ -1,0 +1,7 @@
+gametitle=Sitting Ducks [SLES-52116] [6B8D216E]
+
+[Cheats\Infinite Time]
+patch=1,EE,211A2310,extended,429E5BFA
+
+[Cheats\Have 99 Feathers Energy]
+patch=1,EE,2093FACC,extended,00000063

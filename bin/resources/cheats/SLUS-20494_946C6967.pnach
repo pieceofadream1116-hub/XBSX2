@@ -48,19 +48,19 @@ description=Unlock All Gallery Rider Posters
 // Unlock All Gallery Rider Posters
 patch=1,EE,2043B524,extended,FFFFFFFF
 
-[Unlock All Gallery Rider Posters]
+[Unlock All Gallery Rider Posters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Rider Posters
 // Unlock All Gallery Rider Posters
 patch=1,EE,2043B528,extended,FFFFFFFF
 
-[Unlock All Gallery Rider Posters]
+[Unlock All Gallery Rider Posters (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Rider Posters
 // Unlock All Gallery Rider Posters
 patch=1,EE,2043B52C,extended,FFFFFFFF
 
-[Unlock All Gallery Rider Posters]
+[Unlock All Gallery Rider Posters (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Rider Posters
 // Unlock All Gallery Rider Posters
@@ -72,25 +72,25 @@ description=Unlock All Gallery Babe Posters
 // Unlock All Gallery Babe Posters
 patch=1,EE,2043B534,extended,FFFFFFFF
 
-[Unlock All Gallery Babe Posters]
+[Unlock All Gallery Babe Posters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Babe Posters
 // Unlock All Gallery Babe Posters
 patch=1,EE,2043B538,extended,FFFFFFFF
 
-[Unlock All Gallery Babe Posters]
+[Unlock All Gallery Babe Posters (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Babe Posters
 // Unlock All Gallery Babe Posters
 patch=1,EE,2043B53C,extended,FFFFFFFF
 
-[Unlock All Gallery Babe Posters]
+[Unlock All Gallery Babe Posters (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Babe Posters
 // Unlock All Gallery Babe Posters
 patch=1,EE,2043B540,extended,FFFFFFFF
 
-[Unlock All Gallery Babe Posters]
+[Unlock All Gallery Babe Posters (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Babe Posters
 // Unlock All Gallery Babe Posters
@@ -102,25 +102,25 @@ description=Unlock All Gallery Making Of Posters
 // Unlock All Gallery Making Of Posters
 patch=1,EE,2043B548,extended,FFFFFFFF
 
-[Unlock All Gallery Making Of Posters]
+[Unlock All Gallery Making Of Posters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Making Of Posters
 // Unlock All Gallery Making Of Posters
 patch=1,EE,2043B54C,extended,FFFFFFFF
 
-[Unlock All Gallery Making Of Posters]
+[Unlock All Gallery Making Of Posters (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Making Of Posters
 // Unlock All Gallery Making Of Posters
 patch=1,EE,2043B550,extended,FFFFFFFF
 
-[Unlock All Gallery Making Of Posters]
+[Unlock All Gallery Making Of Posters (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Making Of Posters
 // Unlock All Gallery Making Of Posters
 patch=1,EE,2043B554,extended,FFFFFFFF
 
-[Unlock All Gallery Making Of Posters]
+[Unlock All Gallery Making Of Posters (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery Making Of Posters
 // Unlock All Gallery Making Of Posters
@@ -192,7 +192,7 @@ description=Max Cash
 // Max Cash
 patch=1,EE,21D75360,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
@@ -216,770 +216,795 @@ description=Unlock Character
 // Unlock Character
 patch=1,EE,01D75F79,extended,00000002
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D76030,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D7603B,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D7603C,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D76040,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D76040,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D76044,extended,00000028
 
-[Max All Stats]
+[Max All Stats (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D76048,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D76C00,extended,FFFFFFFF
 
-[Unlock Character]
+[Unlock Character (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Character
 // Unlock Character
 patch=1,EE,01D76C59,extended,00000002
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D76D10,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D76D1B,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D76D1C,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D76D20,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D76D20,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D76D24,extended,00000028
 
-[Max All Stats]
+[Max All Stats (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D76D28,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D778E0,extended,FFFFFFFF
 
-[Unlock Character]
+[Unlock Character (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Character
 // Unlock Character
 patch=1,EE,01D77939,extended,00000002
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D779F0,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D779FB,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D779FC,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D77A00,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D77A00,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D77A04,extended,00000028
 
-[Max All Stats]
+[Max All Stats (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D77A08,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D785C0,extended,FFFFFFFF
 
-[Unlock Character]
+[Unlock Character (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Character
 // Unlock Character
 patch=1,EE,01D78619,extended,00000002
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D786D0,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D786DB,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D786DC,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D786E0,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D786E0,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D786E4,extended,00000028
 
-[Max All Stats]
+[Max All Stats (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D786E8,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D792A0,extended,FFFFFFFF
 
-[Unlock Character]
+[Unlock Character (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Character
 // Unlock Character
 patch=1,EE,01D792F9,extended,00000002
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D793B0,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D793BB,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D793BC,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D793C0,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D793C0,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D793C4,extended,00000028
 
-[Max All Stats]
+[Max All Stats (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D793C8,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D79F80,extended,FFFFFFFF
 
-[Unlock Character]
+[Unlock Character (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Character
 // Unlock Character
 patch=1,EE,01D79FD9,extended,00000002
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D7A090,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D7A09B,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D7A09C,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D7A0A0,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D7A0A0,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D7A0A4,extended,00000028
 
-[Max All Stats]
+[Max All Stats (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D7A0A8,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D7AC60,extended,FFFFFFFF
 
-[Unlock Character]
+[Unlock Character (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Character
 // Unlock Character
 patch=1,EE,01D7ACB9,extended,00000002
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D7AD70,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D7AD7B,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D7AD7C,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D7AD80,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D7AD80,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D7AD84,extended,00000028
 
-[Max All Stats]
+[Max All Stats (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D7AD88,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D7B940,extended,FFFFFFFF
 
-[Unlock Character]
+[Unlock Character (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Character
 // Unlock Character
 patch=1,EE,01D7B999,extended,00000002
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D7BA50,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D7BA5B,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D7BA5C,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D7BA60,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D7BA60,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D7BA64,extended,00000028
 
-[Max All Stats]
+[Max All Stats (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D7BA68,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D7C620,extended,FFFFFFFF
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D7C730,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D7C73B,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D7C73C,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D7C740,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D7C740,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D7C744,extended,00000028
 
-[Max All Stats]
+[Max All Stats (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D7C748,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D7D300,extended,FFFFFFFF
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D7D410,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D7D41B,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D7D41C,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D7D420,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D7D420,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D7D424,extended,00000028
 
-[Max All Stats]
+[Max All Stats (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D7D428,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D7DFE0,extended,FFFFFFFF
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D7E0F0,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D7E0FB,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D7E0FC,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D7E100,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D7E100,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D7E104,extended,00000028
 
-[Max All Stats]
+[Max All Stats (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D7E108,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D7ECC0,extended,FFFFFFFF
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D7EDD0,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D7EDDB,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D7EDDC,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D7EDE0,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D7EDE0,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D7EDE4,extended,00000028
 
-[Max All Stats]
+[Max All Stats (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D7EDE8,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D7F9A0,extended,FFFFFFFF
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D7FAB0,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D7FABB,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D7FABC,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D7FAC0,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D7FAC0,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D7FAC4,extended,00000028
 
-[Max All Stats]
+[Max All Stats (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D7FAC8,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D80680,extended,FFFFFFFF
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D80790,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D8079B,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D8079C,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D807A0,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D807A0,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D807A4,extended,00000028
 
-[Max All Stats]
+[Max All Stats (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D807A8,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D81360,extended,FFFFFFFF
 
-[Unlock Character]
+[Unlock Character (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Character
 // Unlock Character
 patch=1,EE,01D813B9,extended,00000002
 
-[Infinite DareDevil Tickets]
+[Infinite DareDevil Tickets (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite DareDevil Tickets
 // Infinite DareDevil Tickets
 patch=1,EE,01D81470,extended,00000063
 
-[Have All Challenges Complete]
+[Have All Challenges Complete (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Complete
 // Have All Challenges Complete
 patch=1,EE,01D8147B,extended,00000050
 
-[Have All Events Won]
+[Have All Events Won (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Events Won
 // Have All Events Won
 patch=1,EE,01D8147C,extended,00000026
 
-[Infinite Cash]
+[Infinite Cash (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Cash
 // Infinite Cash
 patch=1,EE,11D81480,extended,0000FFFF
 
-[Max Cash]
+[Max Cash (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
 patch=1,EE,21D81480,extended,05F5E0FF
 
-[Infinite Points Available]
+[Infinite Points Available (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Points Available
 // Infinite Points Available
 patch=1,EE,21D81484,extended,00000028
 
-[Max All Stats]
+[Max All Stats (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
 patch=1,EE,21D81488,extended,0A0A0A0A
 
-[Have All Tutorials Completed]
+[Have All Tutorials Completed (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Tutorials Completed
 // Have All Tutorials Completed
 patch=1,EE,21D82040,extended,FFFFFFFF
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,003E6554,word,00000001 //00000002
+
+[Cheats\Unlock All Gallery Rider Posters]
+patch=1,EE,2043B524,extended,FFFFFFFF
+patch=1,EE,2043B528,extended,FFFFFFFF
+patch=1,EE,2043B52C,extended,FFFFFFFF
+patch=1,EE,2043B530,extended,FFFFFFFF
+
+[Cheats\Unlock All Gallery Babe Posters]
+patch=1,EE,2043B534,extended,FFFFFFFF
+patch=1,EE,2043B538,extended,FFFFFFFF
+patch=1,EE,2043B53C,extended,FFFFFFFF
+patch=1,EE,2043B540,extended,FFFFFFFF
+patch=1,EE,2043B544,extended,FFFFFFFF
+
+[Cheats\Unlock All Gallery Making Of Posters]
+patch=1,EE,2043B548,extended,FFFFFFFF
+patch=1,EE,2043B54C,extended,FFFFFFFF
+patch=1,EE,2043B550,extended,FFFFFFFF
+patch=1,EE,2043B554,extended,FFFFFFFF
+patch=1,EE,2043B558,extended,FFFFFFFF

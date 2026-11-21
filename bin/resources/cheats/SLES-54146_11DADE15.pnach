@@ -1,0 +1,4 @@
+gametitle=Crusty Demons [SLES-54146] [11DADE15]
+
+[Cheats\Max Points]
+patch=1,EE,2191E510,extended,000F423F

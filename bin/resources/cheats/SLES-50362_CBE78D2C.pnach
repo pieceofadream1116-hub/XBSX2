@@ -1,0 +1,4 @@
+gametitle=Jonny Moseley Mad Trix [SLES-50362] [CBE78D2C]
+
+[Cheats\Infinite Time]
+patch=1,EE,2042B318,extended,42C5E760

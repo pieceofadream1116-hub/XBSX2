@@ -24,12 +24,6 @@ description=Always Have Guide Line (All Modes)
 // Always Have Guide Line (All Modes)
 patch=1,EE,10144206,extended,00001000
 
-[Always Have Guide Line (All Modes)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Have Guide Line (All Modes)
-// Always Have Guide Line (All Modes)
-patch=1,EE,1031E544,extended,00000001
-
 [Quick Score Gain P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Score Gain P1
@@ -54,7 +48,7 @@ description=P1 Press {L3} For Super Bubble
 // P1 Press {L3} For Super Bubble
 patch=1,EE,D0582A02,extended,0000FFFD
 
-[P1 Press {L3} For Super Bubble]
+[P1 Press {L3} For Super Bubble (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L3} For Super Bubble
 // P1 Press {L3} For Super Bubble
@@ -78,7 +72,7 @@ description=P1 Needs 1 Win To Win
 // P1 Needs 1 Win To Win
 patch=1,EE,D031E484,extended,00000000
 
-[P1 Needs 1 Win To Win]
+[P1 Needs 1 Win To Win (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Needs 1 Win To Win
 // P1 Needs 1 Win To Win
@@ -102,7 +96,7 @@ description=Ceiling Always Closes In P1
 // Ceiling Always Closes In P1
 patch=1,EE,D03D7F20,extended,00000000
 
-[Ceiling Always Closes In P1]
+[Ceiling Always Closes In P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ceiling Always Closes In P1
 // Ceiling Always Closes In P1
@@ -132,7 +126,7 @@ description=P2 Press {L3} For Super Bubble
 // P2 Press {L3} For Super Bubble
 patch=1,EE,D0582C02,extended,0000FFFD
 
-[P2 Press {L3} For Super Bubble]
+[P2 Press {L3} For Super Bubble (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {L3} For Super Bubble
 // P2 Press {L3} For Super Bubble
@@ -156,7 +150,7 @@ description=P2 Needs 1 Win To Win
 // P2 Needs 1 Win To Win
 patch=1,EE,D031E486,extended,00000000
 
-[P2 Needs 1 Win To Win]
+[P2 Needs 1 Win To Win (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Needs 1 Win To Win
 // P2 Needs 1 Win To Win
@@ -180,7 +174,7 @@ description=Ceiling Always Closes In P2
 // Ceiling Always Closes In P2
 patch=1,EE,D046EA60,extended,00000000
 
-[Ceiling Always Closes In P2]
+[Ceiling Always Closes In P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ceiling Always Closes In P2
 // Ceiling Always Closes In P2
@@ -197,3 +191,13 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ceiling Never Closes In (Both Players)
 // Ceiling Never Closes In (Both Players)
 patch=1,EE,2014D348,extended,00000000
+
+[Cheats\Have Guide Line]
+patch=1,EE,10332544,extended,00000001
+
+[Cheats\Always Super Bubble]
+patch=1,EE,103456F0,extended,00000020
+
+[Cheats\P1 Needs 1 Win To Win]
+patch=1,EE,D031E484,extended,00000000
+patch=1,EE,1031E484,extended,00000001

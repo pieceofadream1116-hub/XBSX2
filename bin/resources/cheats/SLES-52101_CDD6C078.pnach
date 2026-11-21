@@ -1,0 +1,4 @@
+gametitle=Wrath Unleashed [SLES-52101] [CDD6C078]
+
+[Cheats\Infinite Magic In Battle]
+patch=1,EE,2035FE80,extended,00000000

@@ -12,7 +12,7 @@ description=Idiot AI
 // Idiot AI
 patch=1,EE,2027D600,extended,03E00008
 
-[Idiot AI]
+[Idiot AI (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
@@ -24,7 +24,7 @@ description=Access All Worlds
 // Access All Worlds
 patch=1,EE,203255C0,extended,03E00008
 
-[Access All Worlds]
+[Access All Worlds (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Worlds
 // Access All Worlds
@@ -36,7 +36,7 @@ description=Access All Tracks
 // Access All Tracks
 patch=1,EE,20325610,extended,03E00008
 
-[Access All Tracks]
+[Access All Tracks (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Tracks
 // Access All Tracks
@@ -48,7 +48,7 @@ description=Access All Bonus
 // Access All Bonus
 patch=1,EE,203256D0,extended,03E00008
 
-[Access All Bonus]
+[Access All Bonus (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Bonus
 // Access All Bonus
@@ -60,7 +60,7 @@ description=Access All Cars
 // Access All Cars
 patch=1,EE,203259B0,extended,03E00008
 
-[Access All Cars]
+[Access All Cars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Cars
 // Access All Cars
@@ -83,3 +83,23 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Cars
 // Have All Cars
 patch=1,EE,20432C48,extended,FFFFFFFF
+
+[Cheats\Idiot AI]
+patch=1,EE,2027D600,extended,03E00008
+patch=1,EE,2027D604,extended,00000000
+
+[Cheats\Access All Worlds]
+patch=1,EE,203255C0,extended,03E00008
+patch=1,EE,203255C4,extended,24020001
+
+[Cheats\Access All Tracks]
+patch=1,EE,20325610,extended,03E00008
+patch=1,EE,20325614,extended,24020001
+
+[Cheats\Access All Bonus]
+patch=1,EE,203256D0,extended,03E00008
+patch=1,EE,203256D4,extended,24020001
+
+[Cheats\Access All Cars]
+patch=1,EE,203259B0,extended,03E00008
+patch=1,EE,203259B4,extended,24020001

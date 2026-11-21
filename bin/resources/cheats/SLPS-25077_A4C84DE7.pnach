@@ -1,0 +1,5 @@
+gametitle=ヴァンパイアナイト [SLPS-25077] [A4C84DE7]
+
+[Cheats\Infinite Health and Ammo Player 1]
+patch=1,EE,10493830,extended,0000000A
+patch=1,EE,1049386C,extended,000003E7

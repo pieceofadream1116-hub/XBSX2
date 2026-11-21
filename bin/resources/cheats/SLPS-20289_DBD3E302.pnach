@@ -1,0 +1,5 @@
+gametitle=山佐DigiワールドSP 海一番R [SLPS-20289] [DBD3E302]
+
+[Cheats\Unlock All Museum]
+patch=1,EE,21629F98,extended,FFFFFFFF
+patch=1,EE,21629F9C,extended,FFFFFFFF

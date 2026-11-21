@@ -1,0 +1,4 @@
+gametitle=Real Rode [通常版] [SLPM-55104] [CB603388]
+
+[Cheats\New Game = Debug Menu]
+patch=1,EE,0016D408,extended,00000018

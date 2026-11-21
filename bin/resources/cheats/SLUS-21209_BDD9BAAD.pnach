@@ -18,17 +18,11 @@ description=75% Health P1
 // 75% Health P1
 patch=1,EE,D05A5FC8,extended,000005DC
 
-[75% Health P1]
+[75% Health P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P1
 // 75% Health P1
 patch=1,EE,105A5FC8,extended,00000465
-
-[50% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=50% Health P1
-// 50% Health P1
-patch=1,EE,D05A5FC8,extended,000005DC
 
 [50% Health P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -40,19 +34,7 @@ patch=1,EE,105A5FC8,extended,000002EE
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P1
 // 25% Health P1
-patch=1,EE,D05A5FC8,extended,000005DC
-
-[25% Health P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=25% Health P1
-// 25% Health P1
 patch=1,EE,105A5FC8,extended,00000177
-
-[1-Hit Death P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=1-Hit Death P1
-// 1-Hit Death P1
-patch=1,EE,D05A5FC8,extended,000005DC
 
 [1-Hit Death P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -72,7 +54,7 @@ description=Head Always Good Condition P1
 // Head Always Good Condition P1
 patch=1,EE,105A5FCC,extended,0000013B
 
-[Head Always Good Condition P1]
+[Head Always Good Condition P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Head Always Good Condition P1
 // Head Always Good Condition P1
@@ -84,19 +66,13 @@ description=Head Always Bad Condition P1
 // Head Always Bad Condition P1
 patch=1,EE,105A5FCC,extended,00000000
 
-[Head Always Bad Condition P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Head Always Bad Condition P1
-// Head Always Bad Condition P1
-patch=1,EE,105A5FD2,extended,0000013B
-
 [Torso Always Good Condition P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Torso Always Good Condition P1
 // Torso Always Good Condition P1
 patch=1,EE,105A5FCE,extended,0000013B
 
-[Torso Always Good Condition P1]
+[Torso Always Good Condition P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Torso Always Good Condition P1
 // Torso Always Good Condition P1
@@ -108,19 +84,13 @@ description=Torso Always Bad Condition P1
 // Torso Always Bad Condition P1
 patch=1,EE,105A5FCE,extended,00000000
 
-[Torso Always Bad Condition P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Torso Always Bad Condition P1
-// Torso Always Bad Condition P1
-patch=1,EE,105A5FD4,extended,0000013B
-
 [Legs Always Good Condition P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Legs Always Good Condition P1
 // Legs Always Good Condition P1
 patch=1,EE,105A5FD0,extended,0000013B
 
-[Legs Always Good Condition P1]
+[Legs Always Good Condition P1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Legs Always Good Condition P1
 // Legs Always Good Condition P1
@@ -131,12 +101,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Legs Always Bad Condition P1
 // Legs Always Bad Condition P1
 patch=1,EE,105A5FD0,extended,00000000
-
-[Legs Always Bad Condition P1]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Legs Always Bad Condition P1
-// Legs Always Bad Condition P1
-patch=1,EE,105A5FD6,extended,0000013B
 
 [Max Special Arts Gauge P1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -162,17 +126,11 @@ description=75% Health P2
 // 75% Health P2
 patch=1,EE,D05AF718,extended,000005DC
 
-[75% Health P2]
+[75% Health P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=75% Health P2
 // 75% Health P2
 patch=1,EE,105AF718,extended,00000465
-
-[50% Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=50% Health P2
-// 50% Health P2
-patch=1,EE,D05AF718,extended,000005DC
 
 [50% Health P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -184,19 +142,7 @@ patch=1,EE,105AF718,extended,000002EE
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=25% Health P2
 // 25% Health P2
-patch=1,EE,D05AF718,extended,000005DC
-
-[25% Health P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=25% Health P2
-// 25% Health P2
 patch=1,EE,105AF718,extended,00000177
-
-[1-Hit Death P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=1-Hit Death P2
-// 1-Hit Death P2
-patch=1,EE,D05AF718,extended,000005DC
 
 [1-Hit Death P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -216,7 +162,7 @@ description=Head Always Good Condition P2
 // Head Always Good Condition P2
 patch=1,EE,105AF71C,extended,0000013B
 
-[Head Always Good Condition P2]
+[Head Always Good Condition P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Head Always Good Condition P2
 // Head Always Good Condition P2
@@ -228,19 +174,13 @@ description=Head Always Bad Condition P2
 // Head Always Bad Condition P2
 patch=1,EE,105AF71C,extended,00000000
 
-[Head Always Bad Condition P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Head Always Bad Condition P2
-// Head Always Bad Condition P2
-patch=1,EE,105AF722,extended,0000013B
-
 [Torso Always Good Condition P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Torso Always Good Condition P2
 // Torso Always Good Condition P2
 patch=1,EE,105AF71E,extended,0000013B
 
-[Torso Always Good Condition P2]
+[Torso Always Good Condition P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Torso Always Good Condition P2
 // Torso Always Good Condition P2
@@ -252,19 +192,13 @@ description=Torso Always Bad Condition P2
 // Torso Always Bad Condition P2
 patch=1,EE,105AF71E,extended,00000000
 
-[Torso Always Bad Condition P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Torso Always Bad Condition P2
-// Torso Always Bad Condition P2
-patch=1,EE,105AF724,extended,0000013B
-
 [Legs Always Good Condition P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Legs Always Good Condition P2
 // Legs Always Good Condition P2
 patch=1,EE,105AF720,extended,0000013B
 
-[Legs Always Good Condition P2]
+[Legs Always Good Condition P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Legs Always Good Condition P2
 // Legs Always Good Condition P2
@@ -275,12 +209,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Legs Always Bad Condition P2
 // Legs Always Bad Condition P2
 patch=1,EE,105AF720,extended,00000000
-
-[Legs Always Bad Condition P2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Legs Always Bad Condition P2
-// Legs Always Bad Condition P2
-patch=1,EE,105AF726,extended,0000013B
 
 [Max Special Arts Gauge P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -306,19 +234,19 @@ description=Save Story Mode For Mission Completion 100%
 // Save Story Mode For Mission Completion 100%
 patch=1,EE,10946D72,extended,00000001
 
-[Save Story Mode For Mission Completion 100%]
+[Save Story Mode For Mission Completion 100% (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Save Story Mode For Mission Completion 100%
 // Save Story Mode For Mission Completion 100%
 patch=1,EE,40946D74,extended,00310001
 
-[Save Story Mode For Mission Completion 100%]
+[Save Story Mode For Mission Completion 100% (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Save Story Mode For Mission Completion 100%
 // Save Story Mode For Mission Completion 100%
 patch=1,EE,00010001,extended,00000000
 
-[Save Story Mode For Mission Completion 100%]
+[Save Story Mode For Mission Completion 100% (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Save Story Mode For Mission Completion 100%
 // Save Story Mode For Mission Completion 100%
@@ -502,25 +430,7 @@ patch=1,EE,10946674,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Weapons
 // All Weapons
-patch=1,EE,1094663A,extended,00000001
-
-[All Weapons]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Weapons
-// All Weapons
 patch=1,EE,4094663C,extended,000E0001
-
-[All Weapons]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Weapons
-// All Weapons
-patch=1,EE,00010001,extended,00000000
-
-[All Weapons]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Weapons
-// All Weapons
-patch=1,EE,10946674,extended,00000001
 
 [Brad Hawk]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -886,22 +796,30 @@ patch=1,EE,10946718,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Fighter/Files
 // All Fighter/Files
-patch=1,EE,1094668E,extended,00000001
-
-[All Fighter/Files]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Fighter/Files
-// All Fighter/Files
 patch=1,EE,40946694,extended,001D0001
 
-[All Fighter/Files]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Fighter/Files
-// All Fighter/Files
-patch=1,EE,00010001,extended,00000000
+[Cheats\Player 1 Infinite Health]
+patch=1,EE,205A5FC8,extended,05DC05DC
 
-[All Fighter/Files]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Fighter/Files
-// All Fighter/Files
-patch=1,EE,10946718,extended,00000001
+[Cheats\Player 1 Infinite Special Arts]
+patch=1,EE,205A5FF0,extended,03E80000
+
+[Cheats\1 Hit Death P2]
+patch=1,EE,D05AF718,extended,000005DC
+patch=1,EE,105AF718,extended,00000001
+
+[Cheats\Save Story Mode For Mission Completion 100%]
+patch=1,EE,10946D72,extended,00000001
+patch=1,EE,40946D74,extended,00310001
+patch=1,EE,00010001,extended,00000000
+patch=1,EE,10946E38,extended,00000001
+
+[Cheats\Unlock All Weapons]
+patch=1,EE,1094663A,extended,00000001
+patch=1,EE,4094663C,extended,000E0001
+patch=1,EE,00010001,extended,00000000
+patch=1,EE,10946674,extended,00000001
+
+[Cheats\Unlock All Fighters]
+patch=1,EE,409466B8,extended,00140001
+patch=1,EE,00010001,extended,00000000

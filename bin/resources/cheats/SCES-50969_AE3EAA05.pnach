@@ -1,0 +1,341 @@
+gametitle=Kingdom Hearts [UNKNOWN] [AE3EAA05]
+
+[Rescue All Dalmations]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Rescue All Dalmations
+// Rescue All Dalmations
+patch=1,EE,FEBFC30B,extended,BCA99B82
+
+[Rescue All Dalmations (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Rescue All Dalmations
+// Rescue All Dalmations
+patch=1,EE,DEBFC30A,extended,BBA89A82
+
+[Rescue All Dalmations (3)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Rescue All Dalmations
+// Rescue All Dalmations
+patch=1,EE,DEBFC316,extended,BBA89A82
+
+[Rescue All Dalmations (4)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Rescue All Dalmations
+// Rescue All Dalmations
+patch=1,EE,DEBFC312,extended,3BA89A82
+
+[Have All Trinities]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Trinities
+// Have All Trinities
+patch=1,EE,FEBFC623,extended,BCA99B02
+
+[Have Dumbo Summon]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have Dumbo Summon
+// Have Dumbo Summon
+patch=1,EE,FEBFD25E,extended,BCA99B83
+
+[Have Simba Summon]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have Simba Summon
+// Have Simba Summon
+patch=1,EE,FEBFD25A,extended,BCA99B88
+
+[Have Genie Summon]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have Genie Summon
+// Have Genie Summon
+patch=1,EE,FEBFD265,extended,BCA99B85
+
+[Have All Gummi Parts]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1B86,extended,1F0CFEE6
+
+[Have All Gummi Parts (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1B82,extended,1F0CFEE6
+
+[Have All Gummi Parts (3)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1B8E,extended,1F0CFEE6
+
+[Have All Gummi Parts (4)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1B8A,extended,1F0CFEE6
+
+[Have All Gummi Parts (5)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1B96,extended,1F0CFEE6
+
+[Have All Gummi Parts (6)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1B92,extended,1F0CFEE6
+
+[Have All Gummi Parts (7)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1B9E,extended,1F0CFEE6
+
+[Have All Gummi Parts (8)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1B9A,extended,1F0CFEE6
+
+[Have All Gummi Parts (9)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1BA6,extended,1F0CFEE6
+
+[Have All Gummi Parts (10)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1BA2,extended,1F0CFEE6
+
+[Have All Gummi Parts (11)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1BAE,extended,1F0CFEE6
+
+[Have All Gummi Parts (12)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1BAA,extended,1F0CFEE6
+
+[Have All Gummi Parts (13)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1BB6,extended,1F0CFEE6
+
+[Have All Gummi Parts (14)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1BB2,extended,1F0CFEE6
+
+[Have All Gummi Parts (15)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1BBE,extended,1F0CFEE6
+
+[Have All Gummi Parts (16)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1BBA,extended,1F0CFEE6
+
+[Have All Gummi Parts (17)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,DEBF1B46,extended,BDAA9C84
+
+[Have All Gummi Parts (18)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,CEBF1B42,extended,BCA99C84
+
+[Have All Gummi Parts (19)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Gummi Parts
+// Have All Gummi Parts
+patch=1,EE,FEBF1B4C,extended,BCA99B84
+
+[Have All Blueprints]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Blueprints
+// Have All Blueprints
+patch=1,EE,FEBF1B4F,extended,BCA99B84
+
+[Have All Blueprints (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Blueprints
+// Have All Blueprints
+patch=1,EE,DEBF1B4E,extended,BDAA9C84
+
+[Have All Blueprints (3)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Blueprints
+// Have All Blueprints
+patch=1,EE,DEBF1B4A,extended,BDAA9C84
+
+[Have All Blueprints (4)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Blueprints
+// Have All Blueprints
+patch=1,EE,DEBF1B56,extended,BDAA9C84
+
+[Have All Blueprints (5)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Blueprints
+// Have All Blueprints
+patch=1,EE,DEBF1B52,extended,BDAA9C84
+
+[Have All Blueprints (6)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Blueprints
+// Have All Blueprints
+patch=1,EE,DEBF1B5E,extended,BDAA9C84
+
+[Have All Blueprints (7)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Blueprints
+// Have All Blueprints
+patch=1,EE,DEBF1B5A,extended,BDAA9C84
+
+[Have All Blueprints (8)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Blueprints
+// Have All Blueprints
+patch=1,EE,DEBF1B66,extended,BDAA9C84
+
+[Have All Blueprints (9)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Blueprints
+// Have All Blueprints
+patch=1,EE,DEBF1B62,extended,BDAA9C84
+
+[Have All Blueprints (10)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Have All Blueprints
+// Have All Blueprints
+patch=1,EE,DEBF1B6E,extended,BDAA9C84
+
+[Sora - All Magic]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Sora - All Magic
+// Sora - All Magic
+patch=1,EE,FEBFD9FA,extended,BCA99B02
+
+[Sora - Max Level]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Sora - Max Level
+// Sora - Max Level
+patch=1,EE,FEBFDA0A,extended,BCA99BE7
+
+[Sora - Max HP]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Sora - Max HP
+// Sora - Max HP
+patch=1,EE,FEBFDA14,extended,BCA99BE6
+
+[Sora - Max MP]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Sora - Max MP
+// Sora - Max MP
+patch=1,EE,FEBFDA16,extended,BCA99BE6
+
+[Sora - Max STR]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Sora - Max STR
+// Sora - Max STR
+patch=1,EE,FEBFDA10,extended,BCA99BE6
+
+[Sora - Have Spellbinder]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Sora - Have Spellbinder
+// Sora - Have Spellbinder
+patch=1,EE,FEBFDD05,extended,BCA99B84
+
+[Sora - Have Metal Chocobo]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Sora - Have Metal Chocobo
+// Sora - Have Metal Chocobo
+patch=1,EE,FEBFDD06,extended,BCA99B84
+
+[Sora - Have Ultima Weapon]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Sora - Have Ultima Weapon
+// Sora - Have Ultima Weapon
+patch=1,EE,FEBFDD0D,extended,BCA99B84
+
+[Cheats\Infinite Munny]
+patch=1,EE,2040A10C,extended,0001869F
+
+[Cheats\Must Be On For Battle Codes]
+patch=1,EE,20142280,extended,0803FFC0
+patch=1,EE,200FFF20,extended,080508A1
+patch=1,EE,200FFF24,extended,8C830044
+
+[Cheats\In Battle Infinite HP All Characters]
+patch=1,EE,200FFF04,extended,24020072
+patch=1,EE,200FFF08,extended,AC82003C
+patch=1,EE,200FFF0C,extended,AC820040
+
+[Cheats\In Battle Infinite MP All Characters]
+patch=1,EE,200FFF14,extended,24020013
+patch=1,EE,200FFF18,extended,AC820044
+patch=1,EE,200FFF1C,extended,AC820048
+
+[Cheats\In Battle Infinite Armour Gummi Ship]
+patch=1,EE,00FACB70,extended,000000FF
+
+[Cheats\In Battle Infinite Power Gummi Ship]
+patch=1,EE,00FACB78,extended,000000FF
+
+[Cheats\All Trinities Available]
+patch=1,EE,203F5908,extended,FFFFFFFF
+
+[Cheats\All Dalmations]
+patch=1,EE,003F53F3,extended,000000FF
+patch=1,EE,203F53F4,extended,FFFFFFFF
+patch=1,EE,203F53F8,extended,FFFFFFFF
+patch=1,EE,203F53F8,extended,7FFFFFFF
+
+[Cheats\Unlock World Traverse Town]
+patch=1,EE,003F5BE0,extended,00000004
+
+[Cheats\Unlock World Wonderland]
+patch=1,EE,003F5BE1,extended,00000004
+
+[Cheats\Unlock World Olympus Coliseum]
+patch=1,EE,003F5BE2,extended,00000004
+
+[Cheats\Unlock World Deep Jungle]
+patch=1,EE,103F5C02,extended,0000F0FE
+patch=1,EE,003F5BE3,extended,00000004
+
+[Cheats\Unlock World Agrabah]
+patch=1,EE,003F5BE4,extended,00000004
+
+[Cheats\Unlock World Halloween Town]
+patch=1,EE,003F5BE5,extended,00000004
+
+[Cheats\Unlock World Monstro]
+patch=1,EE,103F5C04,extended,000000FC
+patch=1,EE,003F5BEA,extended,00000004
+
+[Cheats\Unlock World Atlantica]
+patch=1,EE,003F5BE6,extended,00000004
+
+[Cheats\Unlock World Neverland]
+patch=1,EE,003F5BE7,extended,00000003
+
+[Cheats\Unlock World Hollow Bastian]
+patch=1,EE,103F5C04,extended,000000FC
+patch=1,EE,003F5BE8,extended,00000004
+
+[Cheats\Unlock World End Of The World]
+patch=1,EE,103F5C06,extended,000000E0
+patch=1,EE,003F5BE9,extended,00000004

@@ -66,13 +66,13 @@ description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,40561110,extended,00040001
 
-[Unlock All Characters]
+[Unlock All Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Unlock All Characters]
+[Unlock All Characters (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
@@ -84,7 +84,7 @@ description=Unlock All Music
 // Unlock All Music
 patch=1,EE,20561150,extended,FFFFFFFF
 
-[Unlock All Music]
+[Unlock All Music (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Music
 // Unlock All Music
@@ -136,19 +136,7 @@ patch=1,EE,0055F618,extended,00000063
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Weapons
 // All Weapons
-patch=1,EE,0055F613,extended,00000063
-
-[All Weapons]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Weapons
-// All Weapons
 patch=1,EE,2055F614,extended,63636363
-
-[All Weapons]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Weapons
-// All Weapons
-patch=1,EE,0055F618,extended,00000063
 
 [Spartan Brace]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -336,7 +324,7 @@ description=Wheel Of Gale-II
 // Wheel Of Gale-II
 patch=1,EE,005610B2,extended,00000063
 
-[Wheel Of Gale-II]
+[Wheel Of Gale-II (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wheel Of Gale-II
 // Wheel Of Gale-II
@@ -636,13 +624,13 @@ description=All Items
 // All Items
 patch=1,EE,40561094,extended,00140001
 
-[All Items]
+[All Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items
 // All Items
 patch=1,EE,63636363,extended,00000000
 
-[Max HP]
+[Max HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
@@ -666,266 +654,284 @@ description=Max Fury Drive
 // Max Fury Drive
 patch=1,EE,20561734,extended,00000008
 
-[Max HP]
+[Max HP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,20561908,extended,00013880
 
-[Max ATK]
+[Max ATK (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
 patch=1,EE,2056190C,extended,00000BB8
 
-[Max DEF]
+[Max DEF (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,20561910,extended,00000BB8
 
-[Max Fury Drive]
+[Max Fury Drive (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fury Drive
 // Max Fury Drive
 patch=1,EE,20561914,extended,00000008
 
-[Max HP]
+[Max HP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,20561AE8,extended,00013880
 
-[Max ATK]
+[Max ATK (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
 patch=1,EE,20561AEC,extended,00000BB8
 
-[Max DEF]
+[Max DEF (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,20561AF0,extended,00000BB8
 
-[Max Fury Drive]
+[Max Fury Drive (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fury Drive
 // Max Fury Drive
 patch=1,EE,20561AF4,extended,00000008
 
-[Max HP]
+[Max HP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,20561CC8,extended,00013880
 
-[Max ATK]
+[Max ATK (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
 patch=1,EE,20561CCC,extended,00000BB8
 
-[Max DEF]
+[Max DEF (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,20561CD0,extended,00000BB8
 
-[Max Fury Drive]
+[Max Fury Drive (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fury Drive
 // Max Fury Drive
 patch=1,EE,20561CD4,extended,00000008
 
-[Max HP]
+[Max HP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,20561EA8,extended,00013880
 
-[Max ATK]
+[Max ATK (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
 patch=1,EE,20561EAC,extended,00000BB8
 
-[Max DEF]
+[Max DEF (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,20561EB0,extended,00000BB8
 
-[Max Fury Drive]
+[Max Fury Drive (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fury Drive
 // Max Fury Drive
 patch=1,EE,20561EB4,extended,00000008
 
-[Max HP]
+[Max HP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,20562088,extended,00013880
 
-[Max ATK]
+[Max ATK (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
 patch=1,EE,2056208C,extended,00000BB8
 
-[Max DEF]
+[Max DEF (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,20562090,extended,00000BB8
 
-[Max Fury Drive]
+[Max Fury Drive (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fury Drive
 // Max Fury Drive
 patch=1,EE,20562094,extended,00000008
 
-[Max HP]
+[Max HP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,20562448,extended,00013880
 
-[Max ATK]
+[Max ATK (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
 patch=1,EE,2056244C,extended,00000BB8
 
-[Max DEF]
+[Max DEF (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,20562450,extended,00000BB8
 
-[Max Fury Drive]
+[Max Fury Drive (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fury Drive
 // Max Fury Drive
 patch=1,EE,20562454,extended,00000008
 
-[Max HP]
+[Max HP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,20562268,extended,00013880
 
-[Max ATK]
+[Max ATK (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
 patch=1,EE,2056226C,extended,00000BB8
 
-[Max DEF]
+[Max DEF (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,20562270,extended,00000BB8
 
-[Max Fury Drive]
+[Max Fury Drive (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fury Drive
 // Max Fury Drive
 patch=1,EE,20562274,extended,00000008
 
-[Max HP]
+[Max HP (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,20562628,extended,00013880
 
-[Max ATK]
+[Max ATK (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
 patch=1,EE,2056262C,extended,00000BB8
 
-[Max DEF]
+[Max DEF (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,20562630,extended,00000BB8
 
-[Max Fury Drive]
+[Max Fury Drive (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fury Drive
 // Max Fury Drive
 patch=1,EE,20562634,extended,00000008
 
-[Max HP]
+[Max HP (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,205629E8,extended,00013880
 
-[Max ATK]
+[Max ATK (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
 patch=1,EE,205629EC,extended,00000BB8
 
-[Max DEF]
+[Max DEF (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,205629F0,extended,00000BB8
 
-[Max Fury Drive]
+[Max Fury Drive (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fury Drive
 // Max Fury Drive
 patch=1,EE,205629F4,extended,00000008
 
-[Max HP]
+[Max HP (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,20562DA8,extended,00013880
 
-[Max ATK]
+[Max ATK (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
 patch=1,EE,20562DAC,extended,00000BB8
 
-[Max DEF]
+[Max DEF (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,20562DB0,extended,00000BB8
 
-[Max Fury Drive]
+[Max Fury Drive (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fury Drive
 // Max Fury Drive
 patch=1,EE,20562DB4,extended,00000008
 
-[Max HP]
+[Max HP (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,20563168,extended,00013880
 
-[Max ATK]
+[Max ATK (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max ATK
 // Max ATK
 patch=1,EE,2056316C,extended,00000BB8
 
-[Max DEF]
+[Max DEF (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,20563170,extended,00000BB8
 
-[Max Fury Drive]
+[Max Fury Drive (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fury Drive
 // Max Fury Drive
 patch=1,EE,20563174,extended,00000008
+
+[Cheats\Quick Level Up With Immortal Status In Battle]
+patch=1,EE,217C93A4,extended,000003E7
+
+[Cheats\Infinite Fury]
+patch=1,EE,217C93E4,extended,00004E20
+
+[Cheats\Max Fury]
+patch=1,EE,217C93EC,extended,00004E20
+
+[Cheats\All Characters]
+patch=1,EE,40561110,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,2056114C,extended,FFFFFFFF
+
+[Cheats\Unlock All Music]
+patch=1,EE,20561150,extended,FFFFFFFF
+patch=1,EE,20561154,extended,FFFFFFFF

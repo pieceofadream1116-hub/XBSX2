@@ -1,0 +1,5 @@
+gametitle=SIMPLE2000シリーズ Vol.88 THE ミニ美女警官 [SLPS-20440] [8DD94147]
+
+[Cheats\Infinite HP]
+patch=1,EE,205FE3F8,extended,00000BB8
+patch=1,EE,205FE3FC,extended,00000BB8

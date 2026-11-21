@@ -1,0 +1,7 @@
+gametitle=機動戦士ガンダムSEED [SLPS-20300] [A8700356]
+
+[Cheats\Infinite PS Gauge]
+patch=1,EE,201A0EC8,extended,24420000
+
+[Cheats\Infinite SP]
+patch=1,EE,20291EB0,extended,24420000

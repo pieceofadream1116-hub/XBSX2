@@ -12,7 +12,7 @@ description=Max Reputation
 // Max Reputation
 patch=1,EE,20120A58,extended,3C0142C8
 
-[Max Reputation]
+[Max Reputation (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Reputation
 // Max Reputation
@@ -42,7 +42,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,2015ABD8,extended,8E040BAC
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -78,7 +78,7 @@ description=Always Low Game Time
 // Always Low Game Time
 patch=1,EE,2040B1F4,extended,00000000
 
-[Always Low Game Time]
+[Always Low Game Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Game Time
 // Always Low Game Time
@@ -90,7 +90,7 @@ description=Never Blurred Vision
 // Never Blurred Vision
 patch=1,EE,2040E138,extended,00000000
 
-[Never Blurred Vision]
+[Never Blurred Vision (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Blurred Vision
 // Never Blurred Vision
@@ -102,7 +102,7 @@ description=P1 Press {L1}+Up For Super Game Speed
 // P1 Press {L1}+Up For Super Game Speed
 patch=1,EE,D0448642,extended,0000FBEF
 
-[P1 Press {L1}+Up For Super Game Speed]
+[P1 Press {L1}+Up For Super Game Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Up For Super Game Speed
 // P1 Press {L1}+Up For Super Game Speed
@@ -114,19 +114,13 @@ description=P1 Press {L1}+Down For Hyper Game Speed
 // P1 Press {L1}+Down For Hyper Game Speed
 patch=1,EE,D0448642,extended,0000FBBF
 
-[P1 Press {L1}+Down For Hyper Game Speed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+Down For Hyper Game Speed
-// P1 Press {L1}+Down For Hyper Game Speed
-patch=1,EE,2040E114,extended,3F800000
-
 [P1 Press {L1}+Left For Slow Game Speed]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Left For Slow Game Speed
 // P1 Press {L1}+Left For Slow Game Speed
 patch=1,EE,D0448642,extended,0000FB7F
 
-[P1 Press {L1}+Left For Slow Game Speed]
+[P1 Press {L1}+Left For Slow Game Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Left For Slow Game Speed
 // P1 Press {L1}+Left For Slow Game Speed
@@ -138,7 +132,7 @@ description=P1 Press {L1}+Right For Super Slow Game Speed
 // P1 Press {L1}+Right For Super Slow Game Speed
 patch=1,EE,D0448642,extended,0000FBDF
 
-[P1 Press {L1}+Right For Super Slow Game Speed]
+[P1 Press {L1}+Right For Super Slow Game Speed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+Right For Super Slow Game Speed
 // P1 Press {L1}+Right For Super Slow Game Speed
@@ -150,8 +144,22 @@ description=P1 Press {L1}+{L2} For Normal Game Speed
 // P1 Press {L1}+{L2} For Normal Game Speed
 patch=1,EE,D0448642,extended,0000FAFF
 
-[P1 Press {L1}+{L2} For Normal Game Speed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{L2} For Normal Game Speed
-// P1 Press {L1}+{L2} For Normal Game Speed
-patch=1,EE,2040E114,extended,3F800000
+[Cheats\Infinite Health]
+patch=1,EE,201483FC,extended,00000000
+
+[Cheats\Infinite Armor]
+patch=1,EE,202690E0,extended,00000000
+
+[Cheats\Low Game Time]
+patch=1,EE,2040B1F4,extended,42C80000
+
+[Cheats\Low Game Time Batmobile Levels]
+patch=1,EE,2040BF00,extended,41584FF0
+
+[Cheats\Max Reputation]
+patch=1,EE,20120A58,extended,3C0142C8
+patch=1,EE,20120A5C,extended,AC610528
+
+[Cheats\Never Blurred Vision]
+patch=1,EE,2040E138,extended,00000000
+patch=1,EE,2040E13C,extended,00000000

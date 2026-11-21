@@ -312,13 +312,13 @@ description=Security Tag
 // Security Tag
 patch=1,EE,1021FBE0,extended,00000063
 
-[ERS .4D]
+[ERS .4D (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=ERS .4D
 // ERS .4D
 patch=1,EE,1021FBE6,extended,00000063
 
-[Handley 17g]
+[Handley 17g (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Handley 17g
 // Handley 17g
@@ -330,49 +330,49 @@ description=Heklock P9
 // Heklock P9
 patch=1,EE,1021FBEA,extended,00000063
 
-[Orion 44Mag]
+[Orion 44Mag (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Orion 44Mag
 // Orion 44Mag
 patch=1,EE,1021FBEC,extended,00000063
 
-[Tragerri M11]
+[Tragerri M11 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tragerri M11
 // Tragerri M11
 patch=1,EE,1021FBEE,extended,00000063
 
-[T17 Carbine]
+[T17 Carbine (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=T17 Carbine
 // T17 Carbine
 patch=1,EE,1021FBF0,extended,00000063
 
-[Galeili MAR]
+[Galeili MAR (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Galeili MAR
 // Galeili MAR
 patch=1,EE,1021FBF2,extended,00000063
 
-[OSK]
+[OSK (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=OSK
 // OSK
 patch=1,EE,1021FBF4,extended,00000063
 
-[G-Butterfly]
+[G-Butterfly (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=G-Butterfly
 // G-Butterfly
 patch=1,EE,1021FBF6,extended,00000063
 
-[G.N.Ring]
+[G.N.Ring (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=G.N.Ring
 // G.N.Ring
 patch=1,EE,1021FBF8,extended,00000063
 
-[Stun Shaver]
+[Stun Shaver (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stun Shaver
 // Stun Shaver
@@ -396,62 +396,70 @@ description=Ultimatum Video
 // Ultimatum Video
 patch=1,EE,1021FC00,extended,00000001
 
-[ERS .4D]
+[ERS .4D (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=ERS .4D
 // ERS .4D
 patch=1,EE,1021FC06,extended,00000063
 
-[Handley 17G]
+[Handley 17G (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Handley 17G
 // Handley 17G
 patch=1,EE,1021FC08,extended,00000063
 
-[Heklock P9]
+[Heklock P9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Heklock P9
 // Heklock P9
 patch=1,EE,1021FC0A,extended,00000063
 
-[Orion 44Mag]
+[Orion 44Mag (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Orion 44Mag
 // Orion 44Mag
 patch=1,EE,1021FC0C,extended,00000063
 
-[Tragerri M11]
+[Tragerri M11 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tragerri M11
 // Tragerri M11
 patch=1,EE,1021FC0E,extended,00000063
 
-[T17 Carbine]
+[T17 Carbine (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=T17 Carbine
 // T17 Carbine
 patch=1,EE,1021FC10,extended,00000063
 
-[Galeili MAR]
+[Galeili MAR (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Galeili MAR
 // Galeili MAR
 patch=1,EE,1021FC12,extended,00000063
 
-[OSK]
+[OSK (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=OSK
 // OSK
 patch=1,EE,1021FC14,extended,00000063
 
-[G-Butterfly]
+[G-Butterfly (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=G-Butterfly
 // G-Butterfly
 patch=1,EE,1021FC16,extended,00000063
 
-[G.N.Ring]
+[G.N.Ring (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=G.N.Ring
 // G.N.Ring
 patch=1,EE,1021FC18,extended,00000063
+
+[Cheats\Infinite Health]
+patch=1,EE,105AA038,extended,00000088
+
+[Cheats\Unlock All Garbology]
+patch=1,EE,70048D70,extended,00000000
+patch=1,EE,4021F780,extended,00090001
+patch=1,EE,FFFFFFFF,extended,00000000

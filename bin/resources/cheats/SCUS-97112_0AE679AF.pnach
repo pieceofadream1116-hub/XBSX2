@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,208104D0,extended,42C80000
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -24,7 +24,7 @@ description=Never Infected
 // Never Infected
 patch=1,EE,108104DA,extended,00000000
 
-[Never Infected]
+[Never Infected (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Infected
 // Never Infected
@@ -66,7 +66,7 @@ description=Infinite Battery
 // Infinite Battery
 patch=1,EE,00810CB2,extended,00000030
 
-[Infinite Battery]
+[Infinite Battery (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Battery
 // Infinite Battery
@@ -84,7 +84,7 @@ description=Thorn Mode
 // Thorn Mode
 patch=1,EE,D0810CA4,extended,0010FF02
 
-[Thorn Mode]
+[Thorn Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Thorn Mode
 // Thorn Mode
@@ -96,7 +96,7 @@ description=Have All Weapon Parts
 // Have All Weapon Parts
 patch=1,EE,40810C64,extended,00040001
 
-[Have All Weapon Parts]
+[Have All Weapon Parts (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Weapon Parts
 // Have All Weapon Parts
@@ -324,25 +324,19 @@ description=Have All Dennis' Memos
 // Have All Dennis' Memos
 patch=1,EE,00810CC3,extended,00000001
 
-[Have All Dennis' Memos]
+[Have All Dennis' Memos (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Dennis' Memos
 // Have All Dennis' Memos
 patch=1,EE,40810CC4,extended,00070001
 
-[Have All Dennis' Memos]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Dennis' Memos
-// Have All Dennis' Memos
-patch=1,EE,01010101,extended,00000000
-
-[Have All Dennis' Memos]
+[Have All Dennis' Memos (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Dennis' Memos
 // Have All Dennis' Memos
 patch=1,EE,10810CE0,extended,00000101
 
-[Have All Dennis' Memos]
+[Have All Dennis' Memos (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Dennis' Memos
 // Have All Dennis' Memos
@@ -354,17 +348,11 @@ description=Have All Operation Manuals
 // Have All Operation Manuals
 patch=1,EE,00810CE3,extended,00000001
 
-[Have All Operation Manuals]
+[Have All Operation Manuals (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Operation Manuals
 // Have All Operation Manuals
 patch=1,EE,40810CE4,extended,00050001
-
-[Have All Operation Manuals]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Operation Manuals
-// Have All Operation Manuals
-patch=1,EE,01010101,extended,00000000
 
 [Have All Staff Logs]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -372,31 +360,25 @@ description=Have All Staff Logs
 // Have All Staff Logs
 patch=1,EE,00810CF5,extended,00000001
 
-[Have All Staff Logs]
+[Have All Staff Logs (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Staff Logs
 // Have All Staff Logs
 patch=1,EE,10810CF6,extended,00000101
 
-[Have All Staff Logs]
+[Have All Staff Logs (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Staff Logs
 // Have All Staff Logs
 patch=1,EE,40810CF8,extended,00040001
 
-[Have All Staff Logs]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Staff Logs
-// Have All Staff Logs
-patch=1,EE,01010101,extended,00000000
-
-[Have All Staff Logs]
+[Have All Staff Logs (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Staff Logs
 // Have All Staff Logs
 patch=1,EE,10810D08,extended,00000101
 
-[Have All Staff Logs]
+[Have All Staff Logs (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Staff Logs
 // Have All Staff Logs
@@ -408,29 +390,17 @@ description=Have All Classified Files
 // Have All Classified Files
 patch=1,EE,00810D0B,extended,00000001
 
-[Have All Classified Files]
+[Have All Classified Files (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Classified Files
 // Have All Classified Files
 patch=1,EE,40810D0C,extended,00050001
-
-[Have All Classified Files]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Classified Files
-// Have All Classified Files
-patch=1,EE,01010101,extended,00000000
 
 [Have All Top Secret Files]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Top Secret Files
 // Have All Top Secret Files
 patch=1,EE,40810D20,extended,00040001
-
-[Have All Top Secret Files]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Top Secret Files
-// Have All Top Secret Files
-patch=1,EE,01010101,extended,00000000
 
 [Tag 1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -521,3 +491,15 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Tag 15
 // Tag 15
 patch=1,EE,00810C9F,extended,00000001
+
+[Cheats\Infinite Health]
+patch=1,EE,208104D0,extended,42C80000
+patch=1,EE,20810858,extended,42C80000
+
+[Cheats\Never Infected]
+patch=1,EE,108104DA,extended,00000000
+patch=1,EE,1081085E,extended,00000000
+
+[Cheats\Infinite Battery]
+patch=1,EE,00810CB2,extended,00000030
+patch=1,EE,00810CB7,extended,00000030

@@ -18,17 +18,11 @@ description=Lap 2
 // Lap 2
 patch=1,EE,D042CD04,extended,00000001
 
-[Lap 2]
+[Lap 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lap 2
 // Lap 2
 patch=1,EE,1042CD04,extended,00000002
-
-[Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 3
-// Lap 3
-patch=1,EE,D042CD04,extended,00000001
 
 [Lap 3]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -40,19 +34,7 @@ patch=1,EE,1042CD04,extended,00000003
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lap 4
 // Lap 4
-patch=1,EE,D042CD04,extended,00000001
-
-[Lap 4]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 4
-// Lap 4
 patch=1,EE,1042CD04,extended,00000004
-
-[Lap 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 5
-// Lap 5
-patch=1,EE,D042CD04,extended,00000001
 
 [Lap 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -64,19 +46,7 @@ patch=1,EE,1042CD04,extended,00000005
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lap 6
 // Lap 6
-patch=1,EE,D042CD04,extended,00000001
-
-[Lap 6]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 6
-// Lap 6
 patch=1,EE,1042CD04,extended,00000006
-
-[Lap 7]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 7
-// Lap 7
-patch=1,EE,D042CD04,extended,00000001
 
 [Lap 7]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -88,19 +58,7 @@ patch=1,EE,1042CD04,extended,00000007
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Lap 8
 // Lap 8
-patch=1,EE,D042CD04,extended,00000001
-
-[Lap 8]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 8
-// Lap 8
 patch=1,EE,1042CD04,extended,00000008
-
-[Lap 9]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Lap 9
-// Lap 9
-patch=1,EE,D042CD04,extended,00000001
 
 [Lap 9]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -161,3 +119,7 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Credits
 // View Credits
 patch=1,EE,00403858,extended,00000001
+
+[Cheats\Lap 2]
+patch=1,EE,D042CD04,extended,00000001
+patch=1,EE,1042CD04,extended,00000002

@@ -12,19 +12,19 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,C44102C0
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,0808D435
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,E44102C4
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -53,3 +53,16 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ability Energy
 // Infinite Ability Energy
 patch=1,EE,201DF7B4,extended,00000000
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,10354A74,extended,2442FFFE
+patch=1,EE,E0010001,extended,00651FE0
+patch=1,EE,10354A74,extended,2442FFFF
+
+[Cheats\Infinite Health]
+patch=1,EE,200C0220,extended,C44102C0
+patch=1,EE,200C0224,extended,0808D435
+patch=1,EE,200C0228,extended,E44102C4
+patch=1,EE,202350D0,extended,0C030088

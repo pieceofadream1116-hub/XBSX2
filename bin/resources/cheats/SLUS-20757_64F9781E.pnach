@@ -12,7 +12,7 @@ description=Unlock All Characters
 // Unlock All Characters
 patch=1,EE,20212130,extended,24010001
 
-[Unlock All Characters]
+[Unlock All Characters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Characters
 // Unlock All Characters
@@ -24,13 +24,13 @@ description=Unlock All Normal Courses
 // Unlock All Normal Courses
 patch=1,EE,202121F0,extended,24010001
 
-[Unlock All Normal Courses]
+[Unlock All Normal Courses (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Normal Courses
 // Unlock All Normal Courses
 patch=1,EE,202121F4,extended,A061003A
 
-[Unlock All Normal Courses]
+[Unlock All Normal Courses (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Normal Courses
 // Unlock All Normal Courses
@@ -42,7 +42,7 @@ description=Unlock All Tiger's Dream Courses
 // Unlock All Tiger's Dream Courses
 patch=1,EE,20214A04,extended,24010001
 
-[Unlock All Tiger's Dream Courses]
+[Unlock All Tiger's Dream Courses (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Tiger's Dream Courses
 // Unlock All Tiger's Dream Courses
@@ -84,7 +84,7 @@ description=Always Hole In One P1-All Holes
 // Always Hole In One P1-All Holes
 patch=1,EE,40327144,extended,00120001
 
-[Always Hole In One P1-All Holes]
+[Always Hole In One P1-All Holes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Hole In One P1-All Holes
 // Always Hole In One P1-All Holes
@@ -94,12 +94,6 @@ patch=1,EE,00000000,extended,00000000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always 9 Strokes Recorded P1-All Holes
 // Always 9 Strokes Recorded P1-All Holes
-patch=1,EE,40327144,extended,00120001
-
-[Always 9 Strokes Recorded P1-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P1-All Holes
-// Always 9 Strokes Recorded P1-All Holes
 patch=1,EE,00000009,extended,00000000
 
 [Always Hole In One P2-All Holes]
@@ -108,71 +102,17 @@ description=Always Hole In One P2-All Holes
 // Always Hole In One P2-All Holes
 patch=1,EE,40328084,extended,00120001
 
-[Always Hole In One P2-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Hole In One P2-All Holes
-// Always Hole In One P2-All Holes
-patch=1,EE,00000000,extended,00000000
-
-[Always 9 Strokes Recorded P2-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P2-All Holes
-// Always 9 Strokes Recorded P2-All Holes
-patch=1,EE,40328084,extended,00120001
-
-[Always 9 Strokes Recorded P2-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P2-All Holes
-// Always 9 Strokes Recorded P2-All Holes
-patch=1,EE,00000009,extended,00000000
-
 [Always Hole In One P3-All Holes]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Hole In One P3-All Holes
 // Always Hole In One P3-All Holes
 patch=1,EE,40328FC4,extended,00120001
 
-[Always Hole In One P3-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Hole In One P3-All Holes
-// Always Hole In One P3-All Holes
-patch=1,EE,00000000,extended,00000000
-
-[Always 9 Strokes Recorded P3-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P3-All Holes
-// Always 9 Strokes Recorded P3-All Holes
-patch=1,EE,40328FC4,extended,00120001
-
-[Always 9 Strokes Recorded P3-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P3-All Holes
-// Always 9 Strokes Recorded P3-All Holes
-patch=1,EE,00000009,extended,00000000
-
 [Always Hole In One P4-All Holes]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Hole In One P4-All Holes
 // Always Hole In One P4-All Holes
 patch=1,EE,40329F04,extended,00120001
-
-[Always Hole In One P4-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always Hole In One P4-All Holes
-// Always Hole In One P4-All Holes
-patch=1,EE,00000000,extended,00000000
-
-[Always 9 Strokes Recorded P4-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P4-All Holes
-// Always 9 Strokes Recorded P4-All Holes
-patch=1,EE,40329F04,extended,00120001
-
-[Always 9 Strokes Recorded P4-All Holes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 9 Strokes Recorded P4-All Holes
-// Always 9 Strokes Recorded P4-All Holes
-patch=1,EE,00000009,extended,00000000
 
 [Sunday Tiger Woods]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -270,7 +210,7 @@ description=Unlock Almost Everything
 // Unlock Almost Everything
 patch=1,EE,202904F4,extended,2402FFFF
 
-[Unlock Almost Everything]
+[Unlock Almost Everything (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Almost Everything
 // Unlock Almost Everything
@@ -1547,3 +1487,24 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Monst Money In A Single Season
 // Monst Money In A Single Season
 patch=1,EE,01E99AF4,extended,00000001
+
+[Cheats\All Holes Always Hole In One P1]
+patch=1,EE,40327144,extended,00120001
+patch=1,EE,00000000,extended,00000000
+
+[Cheats\Unlock All Characters]
+patch=1,EE,20212130,extended,24010001
+patch=1,EE,20212134,extended,A061001C
+
+[Cheats\Unlock All Normal Courses]
+patch=1,EE,202121F0,extended,24010001
+patch=1,EE,202121F4,extended,A061003A
+patch=1,EE,20212200,extended,A1010000
+
+[Cheats\Unlock All Tiger's Dream Courses]
+patch=1,EE,20214A04,extended,24010001
+patch=1,EE,20214A08,extended,A0610051
+
+[Cheats\Unlock All Animations, Equipment, Apparel & Accessories]
+patch=1,EE,202904F4,extended,2402FFFF
+patch=1,EE,202904F8,extended,AC22B28C

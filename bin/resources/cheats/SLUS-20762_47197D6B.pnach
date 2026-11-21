@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,2043AC20,extended,3C01457A
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -30,7 +30,7 @@ description=Enter Campaign Hangar To Unlock All Aircraft
 // Enter Campaign Hangar To Unlock All Aircraft
 patch=1,EE,2047B454,extended,34630010
 
-[Enter Campaign Hangar To Unlock All Aircraft]
+[Enter Campaign Hangar To Unlock All Aircraft (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enter Campaign Hangar To Unlock All Aircraft
 // Enter Campaign Hangar To Unlock All Aircraft
@@ -42,7 +42,7 @@ description=Enter Campaign Hangar For All Aircraft Upgrades
 // Enter Campaign Hangar For All Aircraft Upgrades
 patch=1,EE,2047B45C,extended,2401FFFF
 
-[Enter Campaign Hangar For All Aircraft Upgrades]
+[Enter Campaign Hangar For All Aircraft Upgrades (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Enter Campaign Hangar For All Aircraft Upgrades
 // Enter Campaign Hangar For All Aircraft Upgrades
@@ -84,8 +84,16 @@ description=Invulnerability
 // Invulnerability
 patch=1,EE,205A2B6C,extended,00000001
 
-[Infinite Ammo]
+[Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,205A2B70,extended,00000001
+
+[Cheats\Infinite Health]
+patch=1,EE,2043AC20,extended,3C01457A
+patch=1,EE,2043AC2C,extended,AC410160
+
+[Cheats\Unlock All Aircrafts]
+patch=1,EE,2047B454,extended,34630010
+patch=1,EE,2047B458,extended,A2430045

@@ -1,0 +1,141 @@
+gametitle=DragonBall Z Budokai 3 [UNKNOWN] [2A4B60EB]
+
+[Max Money]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Money
+// Max Money
+patch=1,EE,20278FC0,extended,3C0305F0
+
+[Infinite Creation Points Usage]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Creation Points Usage
+// Infinite Creation Points Usage
+patch=1,EE,202BE9A4,extended,2402000A
+
+[All Stages]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Stages
+// All Stages
+patch=1,EE,204B83EC,extended,FFFFFFFF
+
+[All Characters]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Characters
+// All Characters
+patch=1,EE,204B83F8,extended,FFFFFFFF
+
+[All Characters (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Characters
+// All Characters
+patch=1,EE,204B83FC,extended,FFFFFFFF
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,404E3318,extended,003F0001
+
+[All Capsules (2)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,01010101,extended,00000000
+
+[All Capsules (3)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,104E3414,extended,00000101
+
+[All Capsules (4)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,004E3416,extended,00000001
+
+[All Capsules (5)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,004E3417,extended,00000001
+
+[All Capsules (6)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,404E3418,extended,003F0001
+
+[All Capsules (7)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,104E3514,extended,00000101
+
+[All Capsules (8)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,404E3418,extended,00110001
+
+[All Capsules (9)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,004E345C,extended,00000001
+
+[Cheats\Infinite Zenie]
+patch=1,EE,10495568,extended,0000FFFF
+
+[Cheats\Max Zenie]
+patch=1,EE,20495568,extended,05F5E0FF
+
+[Cheats\Dragon Universe Max Health]
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E75C,extended,00000014
+
+[Cheats\Dragon Universe Max Ki]
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E760,extended,00000014
+
+[Cheats\Dragon Universe Max Attack]
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E764,extended,00000014
+
+[Cheats\Dragon Universe Max Guard]
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E768,extended,00000014
+
+[Cheats\Dragon Universe Max Arts]
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E76C,extended,00000014
+
+[Cheats\Dragon Universe Max Ability]
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E770,extended,00000014
+
+[Cheats\Dragon Universe Max Com]
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E774,extended,00000014
+
+[Cheats\Dragon Universe Max Exp]
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E794,extended,05F5E0FF
+
+[Cheats\Dragon Universe P1 Press L1+Select For 99 Points Remaining]
+patch=1,EE,D05868C2,extended,0000FBFE
+patch=1,EE,2089E8C4,extended,00000063
+
+[Cheats\Dragon Universe P1 Press L2+Select For 0 Points Remaining]
+patch=1,EE,D05868C2,extended,0000FEFE
+patch=1,EE,2089E8C4,extended,00000000
+
+[Cheats\Tournament Player 1 Infinite Health]
+patch=1,EE,D0427FBC,extended,00000000
+patch=1,EE,2044CF00,extended,453B8000
+patch=1,EE,D0427FBC,extended,00000001
+patch=1,EE,2044EF30,extended,453B8000
+
+[Cheats\Unlock All Characters]
+patch=1,EE,2046A668,extended,FFFFFFFF
+patch=1,EE,2046A66C,extended,FFFFFFFF

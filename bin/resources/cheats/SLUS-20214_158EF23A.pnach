@@ -54,7 +54,7 @@ description=Press {L1}+{L2} For Huge Player
 // Press {L1}+{L2} For Huge Player
 patch=1,EE,D01DFA42,extended,0000FAFF
 
-[Press {L1}+{L2} For Huge Player]
+[Press {L1}+{L2} For Huge Player (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{L2} For Huge Player
 // Press {L1}+{L2} For Huge Player
@@ -66,7 +66,7 @@ description=Press {R1}+{R2} For Tiny Player
 // Press {R1}+{R2} For Tiny Player
 patch=1,EE,D01DFA42,extended,0000F5FF
 
-[Press {R1}+{R2} For Tiny Player]
+[Press {R1}+{R2} For Tiny Player (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {R1}+{R2} For Tiny Player
 // Press {R1}+{R2} For Tiny Player
@@ -78,7 +78,7 @@ description=Press {L1}+{R1} For Normal Player
 // Press {L1}+{R1} For Normal Player
 patch=1,EE,D01DFA42,extended,0000F3FF
 
-[Press {L1}+{R1} For Normal Player]
+[Press {L1}+{R1} For Normal Player (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{R1} For Normal Player
 // Press {L1}+{R1} For Normal Player
@@ -138,31 +138,31 @@ description=Save Slot 5
 // Save Slot 5
 patch=1,EE,101DC060,extended,0000FFFF
 
-[Save Slot 1]
+[Save Slot 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Save Slot 1
 // Save Slot 1
 patch=1,EE,101DBF88,extended,00000009
 
-[Save Slot 2]
+[Save Slot 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Save Slot 2
 // Save Slot 2
 patch=1,EE,101DBFA0,extended,00000009
 
-[Save Slot 3]
+[Save Slot 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Save Slot 3
 // Save Slot 3
 patch=1,EE,101DBFB8,extended,00000009
 
-[Save Slot 4]
+[Save Slot 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Save Slot 4
 // Save Slot 4
 patch=1,EE,101DBFD0,extended,00000009
 
-[Save Slot 5]
+[Save Slot 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Save Slot 5
 // Save Slot 5
@@ -246,12 +246,6 @@ description=Stage 12
 // Stage 12
 patch=1,EE,201DB8AC,extended,00000001
 
-[Stage 13]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Stage 13
-// Stage 13
-patch=1,EE,201DB8A0,extended,00000001
-
 [Stage 14]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 14
@@ -287,3 +281,21 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 19
 // Stage 19
 patch=1,EE,201DB8C8,extended,00000001
+
+[Cheats\Chaos Complete All Chaos Levels & Modes Available]
+patch=1,EE,101DC000,extended,00005FF9
+patch=1,EE,101DD000,extended,00005FF9
+
+[Cheats\Enable Debug Menu Press L3 Enable R3 Disable In Game]
+patch=1,EE,D01DFA42,extended,0000FFFD
+patch=1,EE,201532B0,extended,00000000
+patch=1,EE,D01DFA42,extended,0000FFFD
+patch=1,EE,101532D4,extended,0000C6FE
+patch=1,EE,D01DFA42,extended,0000FFFB
+patch=1,EE,201532B0,extended,1040000B
+patch=1,EE,D01DFA42,extended,0000FFFB
+patch=1,EE,101532D4,extended,0000934A
+patch=1,EE,D01DFA42,extended,0000FFFB
+patch=1,EE,201DD014,extended,00000000
+patch=1,EE,D01DFA42,extended,0000FFFB
+patch=1,EE,0021DB60,extended,00000000

@@ -18,83 +18,47 @@ description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,200C0220,extended,C44001F8
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,200C0224,extended,50200001
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,200C0228,extended,46010001
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,200C022C,extended,03E00008
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,200C0230,extended,00000000
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,2014C134,extended,0C030088
 
-[Infinite Health P1 ONLY]
+[Infinite Health P1 ONLY (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 ONLY
 // Infinite Health P1 ONLY
 patch=1,EE,2014C138,extended,0232082B
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,200C0220,extended,C44001F8
 
 [Infinite Health P2 ONLY]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P2 ONLY
 // Infinite Health P2 ONLY
 patch=1,EE,200C0224,extended,54200001
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,200C0228,extended,46010001
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,200C022C,extended,03E00008
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,200C0230,extended,00000000
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,2014C134,extended,0C030088
-
-[Infinite Health P2 ONLY]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Health P2 ONLY
-// Infinite Health P2 ONLY
-patch=1,EE,2014C138,extended,0232082B
 
 [Infinite Health P1 & P2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -144,19 +108,19 @@ description=Unlock All Entrance Movies
 // Unlock All Entrance Movies
 patch=1,EE,0040953F,extended,00000001
 
-[Unlock All Entrance Movies]
+[Unlock All Entrance Movies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Entrance Movies
 // Unlock All Entrance Movies
 patch=1,EE,40409540,extended,00050001
 
-[Unlock All Entrance Movies]
+[Unlock All Entrance Movies (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Entrance Movies
 // Unlock All Entrance Movies
 patch=1,EE,01010101,extended,00000000
 
-[Unlock All Entrance Movies]
+[Unlock All Entrance Movies (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Entrance Movies
 // Unlock All Entrance Movies
@@ -168,23 +132,17 @@ description=Unlock All Revival Movies
 // Unlock All Revival Movies
 patch=1,EE,0040956D,extended,00000001
 
-[Unlock All Revival Movies]
+[Unlock All Revival Movies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Revival Movies
 // Unlock All Revival Movies
 patch=1,EE,1040956E,extended,00000101
 
-[Unlock All Revival Movies]
+[Unlock All Revival Movies (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Revival Movies
 // Unlock All Revival Movies
 patch=1,EE,40409570,extended,00050001
-
-[Unlock All Revival Movies]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Revival Movies
-// Unlock All Revival Movies
-patch=1,EE,01010101,extended,00000000
 
 [Unlock All Ending Movies]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -192,19 +150,13 @@ description=Unlock All Ending Movies
 // Unlock All Ending Movies
 patch=1,EE,40409584,extended,00050001
 
-[Unlock All Ending Movies]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Ending Movies
-// Unlock All Ending Movies
-patch=1,EE,01010101,extended,00000000
-
-[Unlock All Ending Movies]
+[Unlock All Ending Movies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Ending Movies
 // Unlock All Ending Movies
 patch=1,EE,10409598,extended,00000101
 
-[Unlock All Ending Movies]
+[Unlock All Ending Movies (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Ending Movies
 // Unlock All Ending Movies
@@ -216,8 +168,39 @@ description=Unlock All RoboK-1 Fighters
 // Unlock All RoboK-1 Fighters
 patch=1,EE,404094C4,extended,00160001
 
-[Unlock All RoboK-1 Fighters]
+[Unlock All RoboK-1 Fighters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All RoboK-1 Fighters
 // Unlock All RoboK-1 Fighters
+patch=1,EE,00000001,extended,00000000
+
+[Cheats\Infinite Health Player 1]
+patch=1,EE,200C0220,extended,C44001F8
+patch=1,EE,200C0224,extended,50200001
+patch=1,EE,200C0228,extended,46010001
+patch=1,EE,200C022C,extended,03E00008
+patch=1,EE,200C0230,extended,00000000
+patch=1,EE,2014C134,extended,0C030088
+patch=1,EE,2014C138,extended,0232082B
+
+[Cheats\Champion's Revolution Unlock All Entrance Movies]
+patch=1,EE,0040953F,extended,00000001
+patch=1,EE,40409540,extended,00050001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10409554,extended,00000101
+
+[Cheats\Champion's Revolution Unlock All Revival Movies]
+patch=1,EE,0040956D,extended,00000001
+patch=1,EE,1040956E,extended,00000101
+patch=1,EE,40409570,extended,00050001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Champion's Revolution Unlock All Ending Movies]
+patch=1,EE,40409584,extended,00050001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10409598,extended,00000101
+patch=1,EE,0040959A,extended,00000001
+
+[Cheats\Champion's Revolution Unlock All RoboK1 Fighters]
+patch=1,EE,404094C4,extended,00160001
 patch=1,EE,00000001,extended,00000000

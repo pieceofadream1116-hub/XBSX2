@@ -18,7 +18,7 @@ description=Max Damage
 // Max Damage
 patch=1,EE,2048322C,extended,FFFFFFFF
 
-[Max Damage]
+[Max Damage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Damage
 // Max Damage
@@ -30,7 +30,7 @@ description=Max Life
 // Max Life
 patch=1,EE,2048325C,extended,FFFFFFFF
 
-[Max Life]
+[Max Life (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Life
 // Max Life
@@ -42,7 +42,7 @@ description=Max Defense
 // Max Defense
 patch=1,EE,2048328C,extended,FFFFFFFF
 
-[Max Defense]
+[Max Defense (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
@@ -54,7 +54,7 @@ description=Max Magic
 // Max Magic
 patch=1,EE,204832BC,extended,FFFFFFFF
 
-[Max Magic]
+[Max Magic (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Magic
 // Max Magic
@@ -66,8 +66,14 @@ description=Max Lift
 // Max Lift
 patch=1,EE,204832EC,extended,FFFFFFFF
 
-[Max Lift]
+[Max Lift (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Lift
 // Max Lift
 patch=1,EE,204832F4,extended,0000000A
+
+[Cheats\ Dumb AI]
+patch=1,EE,2013DFE4,extended,00000000
+
+[Cheats\Infinite AP]
+patch=1,EE,0049AE8D,extended,00000001

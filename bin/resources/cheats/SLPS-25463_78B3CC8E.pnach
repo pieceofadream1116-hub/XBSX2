@@ -1,0 +1,4 @@
+gametitle=マイホームをつくろう2！匠 [SLPS-25463] [78B3CC8E]
+
+[Cheats\Max Gold]
+patch=1,EE,207DC020,extended,00018696

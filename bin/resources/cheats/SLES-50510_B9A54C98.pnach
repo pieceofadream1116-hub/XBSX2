@@ -30,7 +30,7 @@ description=Press {R1}+{R2} To Activate
 // Press {R1}+{R2} To Activate
 patch=1,EE,D02DE842,extended,0000F5FF
 
-[Press {R1}+{R2} To Activate]
+[Press {R1}+{R2} To Activate (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {R1}+{R2} To Activate
 // Press {R1}+{R2} To Activate
@@ -42,7 +42,7 @@ description=Press {L1}+{L2} To Deactivate
 // Press {L1}+{L2} To Deactivate
 patch=1,EE,D02DE842,extended,0000FAFF
 
-[Press {L1}+{L2} To Deactivate]
+[Press {L1}+{L2} To Deactivate (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{L2} To Deactivate
 // Press {L1}+{L2} To Deactivate
@@ -66,7 +66,7 @@ description=Press {L1}+{R1} To Display
 // Press {L1}+{R1} To Display
 patch=1,EE,D02DE842,extended,0000F3FF
 
-[Press {L1}+{R1} To Display]
+[Press {L1}+{R1} To Display (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{R1} To Display
 // Press {L1}+{R1} To Display
@@ -78,7 +78,7 @@ description=Press {L1}+{R2} To Hide
 // Press {L1}+{R2} To Hide
 patch=1,EE,D02DE842,extended,0000FCFF
 
-[Press {L1}+{R2} To Hide]
+[Press {L1}+{R2} To Hide (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Press {L1}+{R2} To Hide
 // Press {L1}+{R2} To Hide

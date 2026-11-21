@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,2017C544,extended,C4800014
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -24,7 +24,7 @@ description=Health Never Decreases
 // Health Never Decreases
 patch=1,EE,20318A58,extended,00000000
 
-[Health Never Decreases]
+[Health Never Decreases (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Health Never Decreases
 // Health Never Decreases
@@ -72,7 +72,7 @@ description=Have All Bonus Material
 // Have All Bonus Material
 patch=1,EE,405848E8,extended,00340001
 
-[Have All Bonus Material]
+[Have All Bonus Material (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Bonus Material
 // Have All Bonus Material
@@ -156,7 +156,7 @@ description=All Artifacts
 // All Artifacts
 patch=1,EE,404CD69C,extended,000C000B
 
-[All Artifacts]
+[All Artifacts (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Artifacts
 // All Artifacts
@@ -221,12 +221,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Spells
 // All Spells
 patch=1,EE,404CE440,extended,000A000B
-
-[All Spells]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Spells
-// All Spells
-patch=1,EE,00000000,extended,00000000
 
 [Scavenger Scout]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -342,12 +336,6 @@ description=All Demons
 // All Demons
 patch=1,EE,404CF18C,extended,0013000B
 
-[All Demons]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Demons
-// All Demons
-patch=1,EE,00000000,extended,00000000
-
 [Comic 1]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Comic 1
@@ -366,7 +354,7 @@ description=Story Movie 2
 // Story Movie 2
 patch=1,EE,005848BD,extended,00000001
 
-[Scavenger Scout]
+[Scavenger Scout (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Scavenger Scout
 // Scavenger Scout
@@ -424,27 +412,15 @@ patch=1,EE,005848CF,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Elriu's Apartment
 // All Elriu's Apartment
-patch=1,EE,005848BB,extended,00000001
-
-[All Elriu's Apartment]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Elriu's Apartment
-// All Elriu's Apartment
 patch=1,EE,205848BC,extended,01010101
 
-[All Elriu's Apartment]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Elriu's Apartment
-// All Elriu's Apartment
-patch=1,EE,005848C0,extended,00000001
-
-[All Elriu's Apartment]
+[All Elriu's Apartment (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Elriu's Apartment
 // All Elriu's Apartment
 patch=1,EE,105848CA,extended,00000101
 
-[All Elriu's Apartment]
+[All Elriu's Apartment (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Elriu's Apartment
 // All Elriu's Apartment
@@ -462,7 +438,7 @@ description=Story Movie 3
 // Story Movie 3
 patch=1,EE,005848DA,extended,00000001
 
-[Scavenger Soldier]
+[Scavenger Soldier (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Scavenger Soldier
 // Scavenger Soldier
@@ -526,33 +502,21 @@ patch=1,EE,005848ED,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Elriu's Basement
 // All Elriu's Basement
-patch=1,EE,005848D9,extended,00000001
-
-[All Elriu's Basement]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Elriu's Basement
-// All Elriu's Basement
 patch=1,EE,105848DA,extended,00000101
 
-[All Elriu's Basement]
+[All Elriu's Basement (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Elriu's Basement
 // All Elriu's Basement
 patch=1,EE,105848DC,extended,00000101
 
-[All Elriu's Basement]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Elriu's Basement
-// All Elriu's Basement
-patch=1,EE,005848DE,extended,00000001
-
-[All Elriu's Basement]
+[All Elriu's Basement (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Elriu's Basement
 // All Elriu's Basement
 patch=1,EE,205848E8,extended,01010101
 
-[All Elriu's Basement]
+[All Elriu's Basement (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Elriu's Basement
 // All Elriu's Basement
@@ -564,7 +528,7 @@ description=Comic 3
 // Comic 3
 patch=1,EE,005848F7,extended,00000001
 
-[Seplavite]
+[Seplavite (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Seplavite
 // Seplavite
@@ -634,31 +598,19 @@ patch=1,EE,00584902,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Edward Crowley Memory Library
 // All Edward Crowley Memory Library
-patch=1,EE,005848F7,extended,00000001
-
-[All Edward Crowley Memory Library]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Edward Crowley Memory Library
-// All Edward Crowley Memory Library
 patch=1,EE,205848F8,extended,01010101
 
-[All Edward Crowley Memory Library]
+[All Edward Crowley Memory Library (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Edward Crowley Memory Library
 // All Edward Crowley Memory Library
 patch=1,EE,205848FC,extended,01010101
 
-[All Edward Crowley Memory Library]
+[All Edward Crowley Memory Library (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Edward Crowley Memory Library
 // All Edward Crowley Memory Library
 patch=1,EE,10584900,extended,00000101
-
-[All Edward Crowley Memory Library]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Edward Crowley Memory Library
-// All Edward Crowley Memory Library
-patch=1,EE,00584902,extended,00000001
 
 [Comic 4]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -738,19 +690,19 @@ description=All The Mortuary
 // All The Mortuary
 patch=1,EE,10584906,extended,00000101
 
-[All The Mortuary]
+[All The Mortuary (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All The Mortuary
 // All The Mortuary
 patch=1,EE,20584908,extended,01010101
 
-[All The Mortuary]
+[All The Mortuary (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All The Mortuary
 // All The Mortuary
 patch=1,EE,2058490C,extended,01010101
 
-[All The Mortuary]
+[All The Mortuary (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All The Mortuary
 // All The Mortuary
@@ -762,7 +714,7 @@ description=Comic 5
 // Comic 5
 patch=1,EE,00584915,extended,00000001
 
-[Impaler]
+[Impaler (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Impaler
 // Impaler
@@ -834,29 +786,23 @@ description=All 13th Precinct House
 // All 13th Precinct House
 patch=1,EE,10584915,extended,00000001
 
-[All 13th Precinct House]
+[All 13th Precinct House (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All 13th Precinct House
 // All 13th Precinct House
 patch=1,EE,10584916,extended,00000101
 
-[All 13th Precinct House]
+[All 13th Precinct House (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All 13th Precinct House
 // All 13th Precinct House
 patch=1,EE,20584918,extended,01010101
 
-[All 13th Precinct House]
+[All 13th Precinct House (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All 13th Precinct House
 // All 13th Precinct House
 patch=1,EE,2058491C,extended,01010101
-
-[All 13th Precinct House]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All 13th Precinct House
-// All 13th Precinct House
-patch=1,EE,00584920,extended,00000001
 
 [Comic 6]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -864,7 +810,7 @@ description=Comic 6
 // Comic 6
 patch=1,EE,00584924,extended,00000001
 
-[Behemoth]
+[Behemoth (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Behemoth
 // Behemoth
@@ -900,13 +846,13 @@ description=Concept 21
 // Concept 21
 patch=1,EE,0058492A,extended,00000001
 
-[Crucifier]
+[Crucifier (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Crucifier
 // Crucifier
 patch=1,EE,0058492B,extended,00000001
 
-[Dragon's Breath]
+[Dragon's Breath (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dragon's Breath
 // Dragon's Breath
@@ -936,12 +882,6 @@ description=All Journey To Papa Midnite's
 // All Journey To Papa Midnite's
 patch=1,EE,40584924,extended,00030001
 
-[All Journey To Papa Midnite's]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Journey To Papa Midnite's
-// All Journey To Papa Midnite's
-patch=1,EE,01010101,extended,00000000
-
 [Comic 7]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Comic 7
@@ -954,7 +894,7 @@ description=Concept 21A
 // Concept 21A
 patch=1,EE,00584934,extended,00000001
 
-[Cleaver]
+[Cleaver (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cleaver
 // Cleaver
@@ -1018,31 +958,19 @@ patch=1,EE,0058493E,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Hell's Museum
 // All Hell's Museum
-patch=1,EE,00584933,extended,00000001
-
-[All Hell's Museum]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Hell's Museum
-// All Hell's Museum
 patch=1,EE,20584934,extended,01010101
 
-[All Hell's Museum]
+[All Hell's Museum (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Hell's Museum
 // All Hell's Museum
 patch=1,EE,20584938,extended,01010101
 
-[All Hell's Museum]
+[All Hell's Museum (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Hell's Museum
 // All Hell's Museum
 patch=1,EE,1058493C,extended,00000101
-
-[All Hell's Museum]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Hell's Museum
-// All Hell's Museum
-patch=1,EE,0058493E,extended,00000001
 
 [Comic 8]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -1098,7 +1026,7 @@ description=Lexicon
 // Lexicon
 patch=1,EE,0058494A,extended,00000001
 
-[Purger]
+[Purger (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Purger
 // Purger
@@ -1122,19 +1050,19 @@ description=All 20 Lanes Bowling Alley
 // All 20 Lanes Bowling Alley
 patch=1,EE,10584942,extended,00000101
 
-[All 20 Lanes Bowling Alley]
+[All 20 Lanes Bowling Alley (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All 20 Lanes Bowling Alley
 // All 20 Lanes Bowling Alley
 patch=1,EE,20584944,extended,01010101
 
-[All 20 Lanes Bowling Alley]
+[All 20 Lanes Bowling Alley (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All 20 Lanes Bowling Alley
 // All 20 Lanes Bowling Alley
 patch=1,EE,20584948,extended,01010101
 
-[All 20 Lanes Bowling Alley]
+[All 20 Lanes Bowling Alley (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All 20 Lanes Bowling Alley
 // All 20 Lanes Bowling Alley
@@ -1146,7 +1074,7 @@ description=Comic 9
 // Comic 9
 patch=1,EE,00584951,extended,00000001
 
-[Bastado]
+[Bastado (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bastado
 // Bastado
@@ -1158,7 +1086,7 @@ description=Sotry Movie 11
 // Sotry Movie 11
 patch=1,EE,00584953,extended,00000001
 
-[Concept 27]
+[Concept 27 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Concept 27
 // Concept 27
@@ -1216,31 +1144,19 @@ patch=1,EE,0058495C,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Hell's Highway
 // All Hell's Highway
-patch=1,EE,00584951,extended,00000001
-
-[All Hell's Highway]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Hell's Highway
-// All Hell's Highway
 patch=1,EE,10584952,extended,00000101
 
-[All Hell's Highway]
+[All Hell's Highway (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Hell's Highway
 // All Hell's Highway
 patch=1,EE,20584954,extended,01010101
 
-[All Hell's Highway]
+[All Hell's Highway (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Hell's Highway
 // All Hell's Highway
 patch=1,EE,20584958,extended,01010101
-
-[All Hell's Highway]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Hell's Highway
-// All Hell's Highway
-patch=1,EE,0058495C,extended,00000001
 
 [Comic 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -1320,12 +1236,6 @@ description=All Hell's Temple
 // All Hell's Temple
 patch=1,EE,40584960,extended,00030001
 
-[All Hell's Temple]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Hell's Temple
-// All Hell's Temple
-patch=1,EE,01010101,extended,00000000
-
 [Comic 11]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Comic 11
@@ -1402,27 +1312,15 @@ patch=1,EE,00584983,extended,00000001
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Balthazar Zymergy Registry Inc.
 // All Balthazar Zymergy Registry Inc.
-patch=1,EE,0058496F,extended,00000001
-
-[All Balthazar Zymergy Registry Inc.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Balthazar Zymergy Registry Inc.
-// All Balthazar Zymergy Registry Inc.
 patch=1,EE,20584970,extended,01010101
 
-[All Balthazar Zymergy Registry Inc.]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Balthazar Zymergy Registry Inc.
-// All Balthazar Zymergy Registry Inc.
-patch=1,EE,00584974,extended,00000001
-
-[All Balthazar Zymergy Registry Inc.]
+[All Balthazar Zymergy Registry Inc. (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Balthazar Zymergy Registry Inc.
 // All Balthazar Zymergy Registry Inc.
 patch=1,EE,1058497E,extended,00000101
 
-[Concept 46]
+[Concept 46 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Concept 46
 // Concept 46
@@ -1506,25 +1404,25 @@ description=All Ravenscar Hospital
 // All Ravenscar Hospital
 patch=1,EE,0058498D,extended,00000001
 
-[All Ravenscar Hospital]
+[All Ravenscar Hospital (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Ravenscar Hospital
 // All Ravenscar Hospital
 patch=1,EE,1058498E,extended,00000101
 
-[All Ravenscar Hospital]
+[All Ravenscar Hospital (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Ravenscar Hospital
 // All Ravenscar Hospital
 patch=1,EE,20584990,extended,01010101
 
-[All Ravenscar Hospital]
+[All Ravenscar Hospital (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Ravenscar Hospital
 // All Ravenscar Hospital
 patch=1,EE,20584994,extended,01010101
 
-[All Ravenscar Hospital]
+[All Ravenscar Hospital (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Ravenscar Hospital
 // All Ravenscar Hospital
@@ -1548,7 +1446,7 @@ description=Concept 51
 // Concept 51
 patch=1,EE,0058499E,extended,00000001
 
-[Witch's Curse]
+[Witch's Curse (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Witch's Curse
 // Witch's Curse
@@ -1608,8 +1506,22 @@ description=All Hydrotheraphy Pool Codes
 // All Hydrotheraphy Pool Codes
 patch=1,EE,4058499C,extended,00030001
 
-[All Hydrotheraphy Pool Codes]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Hydrotheraphy Pool Codes
-// All Hydrotheraphy Pool Codes
-patch=1,EE,01010101,extended,00000000
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=0,EE,0010233C,word,24020000
+
+[Cheats\Infinite Health]
+patch=1,EE,20318A58,extended,E48C0014
+patch=1,EE,20318A5C,extended,E4800014
+
+[Cheats\Infinite Ammo]
+patch=1,EE,2015F82C,extended,00000000
+
+[Cheats\Unlock All Levels]
+patch=1,EE,405849D4,extended,00030001
+patch=1,EE,00000011,extended,00000000
+
+[Cheats\Unlock All Bonus]
+patch=1,EE,405848BB,extended,00ED0001
+patch=1,EE,00000001,extended,00000000

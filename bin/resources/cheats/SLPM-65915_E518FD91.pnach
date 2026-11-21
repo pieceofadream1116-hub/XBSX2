@@ -1,0 +1,4 @@
+gametitle=Fallout BROTHERHOOD OF STEEL [SLPM-65915] [E518FD91]
+
+[Cheats\Max Money]
+patch=1,EE,20B11AE4,extended,0098967F

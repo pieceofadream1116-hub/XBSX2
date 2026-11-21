@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,2010F940,extended,C5E00044
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -281,3 +281,27 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Rioja Safehouses
 // No Rioja Safehouses
 patch=1,EE,21838C1C,extended,00000000
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (180%).
+patch=1,EE,007BEFDC,word,3EC00000
+
+[Cheats\Infinite Health]
+patch=1,EE,2010F940,extended,C5E00044
+patch=1,EE,2010F944,extended,E5E00048
+
+[Cheats\Infinite Ammo]
+patch=1,EE,203043D0,extended,25EF0000
+
+[Cheats\Infinite Grenades]
+patch=1,EE,2013E46C,extended,25EF0000
+
+[Cheats\Max Rioja Cartel Relations]
+patch=1,EE,1183C468,extended,00002710
+
+[Cheats\Max Guerrilla Relations]
+patch=1,EE,1183C478,extended,00002710
+
+[Cheats\Unlock Dirt Bike, GP, Gyrocopter, Boat]
+patch=1,EE,0183D668,extended,0000000F

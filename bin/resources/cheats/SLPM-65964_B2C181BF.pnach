@@ -1,0 +1,7 @@
+gametitle=まじかる☆ている ～ちっちゃな魔法使い～ [初回限定版] [SLPM-65964] [B2C181BF]
+
+[Cheats\Unlock All CG]
+patch=1,EE,20180EB4,extended,FFFFFFFF
+patch=1,EE,20180EB8,extended,FFFFFFFF
+patch=1,EE,20180EBC,extended,FFFFFFFF
+patch=1,EE,20180EC0,extended,FFFFFFFF

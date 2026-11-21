@@ -30,7 +30,7 @@ description=Quick Max Money
 // Quick Max Money
 patch=1,EE,20338AB4,extended,3C0205F5
 
-[Quick Max Money]
+[Quick Max Money (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Max Money
 // Quick Max Money
@@ -42,7 +42,7 @@ description=Quick Park Completion
 // Quick Park Completion
 patch=1,EE,203FE424,extended,2403001E
 
-[Quick Park Completion]
+[Quick Park Completion (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Park Completion
 // Quick Park Completion
@@ -227,3 +227,17 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ignore Unlocks On
 // Ignore Unlocks On
 patch=1,EE,206CC1C4,extended,00000001
+
+[Cheats\Quick Max Money]
+patch=1,EE,20338AB4,extended,3C0205F5
+patch=1,EE,20338AC0,extended,3442E0FF
+
+[Cheats\Quick Park Completion]
+patch=1,EE,203FE424,extended,2403001E
+patch=1,EE,203FE428,extended,A0A30000
+
+[Cheats\Quick Friends]
+patch=1,EE,201D8AE8,extended,24020064
+
+[Cheats\Quick Flirt]
+patch=1,EE,201D8AEC,extended,24030064

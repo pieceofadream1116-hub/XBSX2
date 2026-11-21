@@ -24,7 +24,7 @@ description=Max Infinite HP
 // Max Infinite HP
 patch=1,EE,2023B150,extended,4479C000
 
-[Max Infinite HP]
+[Max Infinite HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite HP
 // Max Infinite HP
@@ -66,7 +66,7 @@ description=Infinite Double Jumps
 // Infinite Double Jumps
 patch=1,EE,D023B3CC,extended,00000002
 
-[Infinite Double Jumps]
+[Infinite Double Jumps (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Double Jumps
 // Infinite Double Jumps
@@ -89,3 +89,19 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Continues
 // Extra Continues
 patch=1,EE,101B9EC8,extended,00000001
+
+[Cheats\Max Infinite HP]
+patch=1,EE,2023B150,extended,4479C000
+patch=1,EE,2023B158,extended,4479C000
+
+[Cheats\Infinite Double Jumps]
+patch=1,EE,D023B3CC,extended,00000002
+patch=1,EE,2023B3CC,extended,00000001
+
+[Cheats\Press L3 For Debug Menu]
+patch=1,EE,D023C938,extended,0000001D
+patch=1,EE,001B2240,extended,00000013
+patch=1,EE,D023C402,extended,0000FFFD
+patch=1,EE,0023C938,extended,00000000
+patch=1,EE,D023C402,extended,0000FFFD
+patch=1,EE,001B2240,extended,0000001C

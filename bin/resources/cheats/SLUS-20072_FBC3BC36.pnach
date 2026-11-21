@@ -18,7 +18,7 @@ description=Max Stunt Score
 // Max Stunt Score
 patch=1,EE,D0432448,extended,00000000
 
-[Max Stunt Score]
+[Max Stunt Score (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Stunt Score
 // Max Stunt Score
@@ -30,7 +30,7 @@ description=Idiot AI
 // Idiot AI
 patch=1,EE,201539E0,extended,03E00008
 
-[Idiot AI]
+[Idiot AI (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
@@ -60,7 +60,7 @@ description=Unlock All Modes
 // Unlock All Modes
 patch=1,EE,20353B04,extended,FFFFFFFF
 
-[Unlock All Modes]
+[Unlock All Modes (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Modes
 // Unlock All Modes
@@ -72,71 +72,41 @@ description=Start On Lap 3
 // Start On Lap 3
 patch=1,EE,200C0220,extended,50400001
 
-[Start On Lap 3]
+[Start On Lap 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 3
 // Start On Lap 3
 patch=1,EE,200C0224,extended,24020002
 
-[Start On Lap 3]
+[Start On Lap 3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 3
 // Start On Lap 3
 patch=1,EE,200C0228,extended,24460001
 
-[Start On Lap 3]
+[Start On Lap 3 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 3
 // Start On Lap 3
 patch=1,EE,200C022C,extended,03E00008
 
-[Start On Lap 3]
+[Start On Lap 3 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 3
 // Start On Lap 3
 patch=1,EE,200C0230,extended,AE220014
 
-[Start On Lap 3]
+[Start On Lap 3 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 3
 // Start On Lap 3
 patch=1,EE,20121558,extended,0C030088
-
-[Start On Lap 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 2
-// Start On Lap 2
-patch=1,EE,200C0220,extended,50400001
 
 [Start On Lap 2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
 patch=1,EE,200C0224,extended,24020001
-
-[Start On Lap 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 2
-// Start On Lap 2
-patch=1,EE,200C0228,extended,24460001
-
-[Start On Lap 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 2
-// Start On Lap 2
-patch=1,EE,200C022C,extended,03E00008
-
-[Start On Lap 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 2
-// Start On Lap 2
-patch=1,EE,200C0230,extended,AE220014
-
-[Start On Lap 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 2
-// Start On Lap 2
-patch=1,EE,20121558,extended,0C030088
 
 [Always Place 1st]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -239,3 +209,13 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=6 Opponents
 // 6 Opponents
 patch=1,EE,204328D0,extended,00000007
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=1,EE,002FC818,word,00000000 //00000001
+patch=1,EE,00144248,word,3c023c08 //3c023c88
+patch=1,EE,00145014,word,3c023c88 //3c023d08
+patch=1,EE,00191314,word,3c023c88 //3c023d08
+patch=1,EE,0012a564,word,3c023c88 //3c023d08
+patch=1,EE,00150638,word,3c023c88 //3c023d08

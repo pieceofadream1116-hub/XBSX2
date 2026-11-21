@@ -1,0 +1,6 @@
+gametitle=焼肉奉行 ボンファイア！ [SLPS-20287] [1A0A58A6]
+
+[Cheats\Max Satisfaction]
+patch=1,EE,101BAE76,extended,0000270F
+patch=1,EE,101BAE8E,extended,0000270F
+patch=1,EE,101BAEA6,extended,0000270F

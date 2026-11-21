@@ -1,0 +1,5 @@
+gametitle=SIMPLE2000シリーズ Vol.94 THE 赤ちゃんぴおん～COME ON BABY～ [SLPS-20455] [ED412FAB]
+
+[Cheats\Adventure Mode All Minigames Already Clear]
+patch=1,EE,40363948,extended,00070001
+patch=1,EE,01010101,extended,00000000

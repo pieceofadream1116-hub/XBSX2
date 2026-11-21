@@ -1,0 +1,10 @@
+gametitle=Knockout Kings 2001 [SLES-50130] [29423BC3]
+
+[Cheats\Infinite Ability Points]
+patch=1,EE,1024D028,extended,00000091
+
+[Cheats\Instant KO]
+patch=1,EE,1031A360,extended,0000000A
+
+[Cheats\Never Get KO]
+patch=1,EE,1031A360,extended,00000001

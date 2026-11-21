@@ -1,0 +1,4 @@
+gametitle=Serie de Catastróficas Desdichas de Lemony Snicket, Una [SLES-52825] [43A02228]
+
+[Cheats\Infinite Health]
+patch=1,EE,2043E2AE,extended,000042C8

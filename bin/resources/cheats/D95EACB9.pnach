@@ -1,0 +1,40 @@
+gametitle=Gallop Racer 6 - Revolution - [SLPS-25177] [D95EACB9]
+
+[Cheats\Max Points Earn jockey points to max]
+patch=1,EE,20157EBC,extended,00000000
+
+[Cheats\Max Money Earn prize money to max your money]
+patch=1,EE,20157E74,extended,00000000
+
+[Cheats\No Penalty Whip]
+patch=1,EE,20204FAC,extended,10000099
+
+[Cheats\Forced Breakaway Mode You can win without any operation from the gate in.]
+patch=1,EE,2020BB70,extended,00000000
+
+[Cheats\Always Good Start There is a side effect of making the replay strange.]
+patch=1,EE,20203288,extended,10000010
+
+[Cheats\Infinite Stamina]
+patch=1,EE,20205650,extended,00000000
+
+[Cheats\Max Physical Condition In Race]
+patch=1,EE,2016FD44,extended,00000000
+patch=1,EE,2016FD4C,extended,00000000
+
+[Cheats\Max Points]
+patch=1,EE,20130744,extended,00000000
+
+[Cheats\Max Money]
+patch=1,EE,201306FC,extended,00000000
+
+[Cheats\All Skills]
+patch=1,EE,4035B668,extended,00060001
+patch=1,EE,01010101,extended,1CDE2FEB
+
+[Cheats\Max Horseback To Start Parameter And Jockey 99]
+patch=1,EE,201335C4,extended,00000000
+
+[Cheats\Max Trainer 99 Times And Friendship]
+patch=1,EE,4035B650,extended,00060001
+patch=1,EE,00000063,extended,00000000

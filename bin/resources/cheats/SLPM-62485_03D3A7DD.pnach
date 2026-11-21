@@ -1,0 +1,7 @@
+gametitle=SIMPLE2000シリーズ Vol.49 THE ドッヂボール ～World Champion Dodge Baller～～ [SLPM-62485] [03D3A7DD]
+
+[Cheats\Infinite HP P1 First Character]
+patch=1,EE,101A0790,extended,000000FF
+
+[Cheats\Infinite HP P1 Second Character]
+patch=1,EE,101A0930,extended,000000FF

@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,20288144,extended,C60101FC
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -84,19 +84,19 @@ description=View Gun In Warehouse For Max Bullets
 // View Gun In Warehouse For Max Bullets
 patch=1,EE,202982A8,extended,240603E7
 
-[View Gun In Warehouse For Max Bullets]
+[View Gun In Warehouse For Max Bullets (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Gun In Warehouse For Max Bullets
 // View Gun In Warehouse For Max Bullets
 patch=1,EE,202982B0,extended,240703E7
 
-[View Gun In Warehouse For Max Bullets]
+[View Gun In Warehouse For Max Bullets (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Gun In Warehouse For Max Bullets
 // View Gun In Warehouse For Max Bullets
 patch=1,EE,202982BC,extended,A606000E
 
-[View Gun In Warehouse For Max Bullets]
+[View Gun In Warehouse For Max Bullets (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=View Gun In Warehouse For Max Bullets
 // View Gun In Warehouse For Max Bullets
@@ -108,7 +108,7 @@ description=Level 99 All Close Range Weapons
 // Level 99 All Close Range Weapons
 patch=1,EE,20298F7C,extended,24050063
 
-[Level 99 All Close Range Weapons]
+[Level 99 All Close Range Weapons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99 All Close Range Weapons
 // Level 99 All Close Range Weapons
@@ -120,59 +120,35 @@ description=Level 98 All Close Range Weapons
 // Level 98 All Close Range Weapons
 patch=1,EE,20298F7C,extended,24050062
 
-[Level 98 All Close Range Weapons]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Level 98 All Close Range Weapons
-// Level 98 All Close Range Weapons
-patch=1,EE,20298F80,extended,A245001C
-
 [Level 97 All Close Range Weapons]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 97 All Close Range Weapons
 // Level 97 All Close Range Weapons
 patch=1,EE,20298F7C,extended,24050061
 
-[Level 97 All Close Range Weapons]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Level 97 All Close Range Weapons
-// Level 97 All Close Range Weapons
-patch=1,EE,20298F80,extended,A245001C
-
-[Level 99 All Close Range Weapons]
+[Level 99 All Close Range Weapons (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99 All Close Range Weapons
 // Level 99 All Close Range Weapons
 patch=1,EE,20279944,extended,24050063
 
-[Level 99 All Close Range Weapons]
+[Level 99 All Close Range Weapons (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99 All Close Range Weapons
 // Level 99 All Close Range Weapons
 patch=1,EE,20279950,extended,A225001C
 
-[Level 98 All Close Range Weapons]
+[Level 98 All Close Range Weapons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 98 All Close Range Weapons
 // Level 98 All Close Range Weapons
 patch=1,EE,20279944,extended,24050062
 
-[Level 98 All Close Range Weapons]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Level 98 All Close Range Weapons
-// Level 98 All Close Range Weapons
-patch=1,EE,20279950,extended,A225001C
-
-[Level 97 All Close Range Weapons]
+[Level 97 All Close Range Weapons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 97 All Close Range Weapons
 // Level 97 All Close Range Weapons
 patch=1,EE,20279944,extended,24050061
-
-[Level 97 All Close Range Weapons]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Level 97 All Close Range Weapons
-// Level 97 All Close Range Weapons
-patch=1,EE,20279950,extended,A225001C
 
 [Attacks Do Hella Damage]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -192,13 +168,13 @@ description=Max AT
 // Max AT
 patch=1,EE,201ADE48,extended,240103E7
 
-[Max AT]
+[Max AT (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AT
 // Max AT
 patch=1,EE,201ADE4C,extended,44810000
 
-[Max AT]
+[Max AT (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AT
 // Max AT
@@ -210,13 +186,13 @@ description=Max DF
 // Max DF
 patch=1,EE,201ADE68,extended,240103E7
 
-[Max DF]
+[Max DF (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DF
 // Max DF
 patch=1,EE,201ADE6C,extended,44810000
 
-[Max DF]
+[Max DF (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DF
 // Max DF
@@ -270,49 +246,49 @@ description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C0220,extended,3C01003A
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C0224,extended,8C213BD8
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C0228,extended,8C210050
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C022C,extended,50310001
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C0230,extended,27FF0230
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C0234,extended,03E00008
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,200C0238,extended,00000000
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
 patch=1,EE,2012112C,extended,44801800
 
-[1-Hit Death (Enemies)]
+[1-Hit Death (Enemies) (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=1-Hit Death (Enemies)
 // 1-Hit Death (Enemies)
@@ -324,19 +300,19 @@ description=Max HP
 // Max HP
 patch=1,EE,103AEB98,extended,000003E7
 
-[Max HP]
+[Max HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,103AEBA0,extended,000003E7
 
-[Max AT]
+[Max AT (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AT
 // Max AT
 patch=1,EE,103AEBA8,extended,000003E7
 
-[Max DF]
+[Max DF (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DF
 // Max DF
@@ -372,7 +348,7 @@ description=Max Hand-To-Hand
 // Max Hand-To-Hand
 patch=1,EE,003AECA4,extended,00000006
 
-[Max Hand-To-Hand]
+[Max Hand-To-Hand (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Hand-To-Hand
 // Max Hand-To-Hand
@@ -384,7 +360,7 @@ description=Max Knife
 // Max Knife
 patch=1,EE,003AECA5,extended,00000005
 
-[Max Knife]
+[Max Knife (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Knife
 // Max Knife
@@ -396,7 +372,7 @@ description=Max Sword
 // Max Sword
 patch=1,EE,003AECA6,extended,00000006
 
-[Max Sword]
+[Max Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Sword
 // Max Sword
@@ -408,7 +384,7 @@ description=Max Blade
 // Max Blade
 patch=1,EE,003AECA7,extended,00000007
 
-[Max Blade]
+[Max Blade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Blade
 // Max Blade
@@ -420,7 +396,7 @@ description=Max Bi-Sword(Bk)
 // Max Bi-Sword(Bk)
 patch=1,EE,003AECA8,extended,00000008
 
-[Max Bi-Sword(Bk)]
+[Max Bi-Sword(Bk) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Bi-Sword(Bk)
 // Max Bi-Sword(Bk)
@@ -432,91 +408,91 @@ description=Max Bi-Sword(Fr)
 // Max Bi-Sword(Fr)
 patch=1,EE,003AECA9,extended,00000008
 
-[Max Bi-Sword(Fr)]
+[Max Bi-Sword(Fr) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Bi-Sword(Fr)
 // Max Bi-Sword(Fr)
 patch=1,EE,003AECB1,extended,00000003
 
-[Max HP]
+[Max HP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,103AECB8,extended,000003E7
 
-[Max HP]
+[Max HP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,103AECC0,extended,000003E7
 
-[Max AT]
+[Max AT (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AT
 // Max AT
 patch=1,EE,103AECC8,extended,000003E7
 
-[Max DF]
+[Max DF (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DF
 // Max DF
 patch=1,EE,103AECD0,extended,000003E7
 
-[Level 99]
+[Level 99 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,203AECE0,extended,00000063
 
-[Infinite MT]
+[Infinite MT (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MT
 // Infinite MT
 patch=1,EE,203AECE8,extended,00000064
 
-[Quick EXP Gain]
+[Quick EXP Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,103AECF0,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
 patch=1,EE,203AECF0,extended,000F423F
 
-[Max Hand-To-Hand]
+[Max Hand-To-Hand (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Hand-To-Hand
 // Max Hand-To-Hand
 patch=1,EE,003AEDC4,extended,00000005
 
-[Max Hand-To-Hand]
+[Max Hand-To-Hand (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Hand-To-Hand
 // Max Hand-To-Hand
 patch=1,EE,003AEDCC,extended,00000003
 
-[Max Knife]
+[Max Knife (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Knife
 // Max Knife
 patch=1,EE,003AEDC5,extended,00000004
 
-[Max Knife]
+[Max Knife (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Knife
 // Max Knife
 patch=1,EE,003AEDCD,extended,00000003
 
-[Max Sword]
+[Max Sword (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Sword
 // Max Sword
 patch=1,EE,003AEDC6,extended,00000005
 
-[Max Sword]
+[Max Sword (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Sword
 // Max Sword
@@ -528,7 +504,7 @@ description=Max Claw
 // Max Claw
 patch=1,EE,003AEDC7,extended,00000007
 
-[Max Claw]
+[Max Claw (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Claw
 // Max Claw
@@ -540,79 +516,79 @@ description=Max Buster Sword
 // Max Buster Sword
 patch=1,EE,003AEDC8,extended,00000006
 
-[Max Buster Sword]
+[Max Buster Sword (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Buster Sword
 // Max Buster Sword
 patch=1,EE,003AEDD0,extended,00000003
 
-[Max HP]
+[Max HP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,103AEDD8,extended,000003E7
 
-[Max HP]
+[Max HP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,103AEDE0,extended,000003E7
 
-[Max AT]
+[Max AT (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AT
 // Max AT
 patch=1,EE,103AEDE8,extended,000003E7
 
-[Max DF]
+[Max DF (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DF
 // Max DF
 patch=1,EE,103AEDF0,extended,000003E7
 
-[Level 99]
+[Level 99 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,203AEE00,extended,00000063
 
-[Infinite MT]
+[Infinite MT (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MT
 // Infinite MT
 patch=1,EE,203AEE08,extended,00000064
 
-[Quick EXP Gain]
+[Quick EXP Gain (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,103AEE10,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
 patch=1,EE,203AEE10,extended,000F423F
 
-[Max Hand-To-Hand]
+[Max Hand-To-Hand (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Hand-To-Hand
 // Max Hand-To-Hand
 patch=1,EE,003AEEE4,extended,00000006
 
-[Max Hand-To-Hand]
+[Max Hand-To-Hand (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Hand-To-Hand
 // Max Hand-To-Hand
 patch=1,EE,003AEEEC,extended,00000003
 
-[Max Blade]
+[Max Blade (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Blade
 // Max Blade
 patch=1,EE,003AEEE5,extended,00000006
 
-[Max Blade]
+[Max Blade (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Blade
 // Max Blade
@@ -768,19 +744,19 @@ description=All Movies
 // All Movies
 patch=1,EE,103AEB46,extended,00000101
 
-[All Movies]
+[All Movies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Movies
 // All Movies
 patch=1,EE,403AEB48,extended,00050001
 
-[All Movies]
+[All Movies (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Movies
 // All Movies
 patch=1,EE,01010101,extended,00000000
 
-[All Movies]
+[All Movies (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Movies
 // All Movies
@@ -960,19 +936,13 @@ description=All Monsters
 // All Monsters
 patch=1,EE,103AEB66,extended,00000101
 
-[All Monsters]
+[All Monsters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Monsters
 // All Monsters
 patch=1,EE,403AEB68,extended,00060001
 
-[All Monsters]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=All Monsters
-// All Monsters
-patch=1,EE,01010101,extended,00000000
-
-[All Monsters]
+[All Monsters (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Monsters
 // All Monsters
@@ -1122,290 +1092,366 @@ description=Slot 24
 // Slot 24
 patch=1,EE,203ACC5C,extended,00000063
 
-[Slot 1]
+[Slot 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 1
 // Slot 1
 patch=1,EE,103AC702,extended,0000270F
 
-[Slot 2]
+[Slot 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 2
 // Slot 2
 patch=1,EE,103AC73E,extended,0000270F
 
-[Slot 3]
+[Slot 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 3
 // Slot 3
 patch=1,EE,103AC77A,extended,0000270F
 
-[Slot 4]
+[Slot 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 4
 // Slot 4
 patch=1,EE,103AC7B6,extended,0000270F
 
-[Slot 5]
+[Slot 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 5
 // Slot 5
 patch=1,EE,103AC7F2,extended,0000270F
 
-[Slot 6]
+[Slot 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 6
 // Slot 6
 patch=1,EE,103AC82E,extended,0000270F
 
-[Slot 7]
+[Slot 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 7
 // Slot 7
 patch=1,EE,103AC86A,extended,0000270F
 
-[Slot 8]
+[Slot 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 8
 // Slot 8
 patch=1,EE,103AC8A6,extended,0000270F
 
-[Slot 9]
+[Slot 9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 9
 // Slot 9
 patch=1,EE,103AC8E2,extended,0000270F
 
-[Slot 10]
+[Slot 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 10
 // Slot 10
 patch=1,EE,103AC91E,extended,0000270F
 
-[Slot 11]
+[Slot 11 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 11
 // Slot 11
 patch=1,EE,103AC95A,extended,0000270F
 
-[Slot 12]
+[Slot 12 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 12
 // Slot 12
 patch=1,EE,103AC996,extended,0000270F
 
-[Slot 13]
+[Slot 13 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 13
 // Slot 13
 patch=1,EE,103AC9D2,extended,0000270F
 
-[Slot 14]
+[Slot 14 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 14
 // Slot 14
 patch=1,EE,103ACA0E,extended,0000270F
 
-[Slot 15]
+[Slot 15 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 15
 // Slot 15
 patch=1,EE,103ACA4A,extended,0000270F
 
-[Slot 16]
+[Slot 16 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 16
 // Slot 16
 patch=1,EE,103ACA86,extended,0000270F
 
-[Slot 17]
+[Slot 17 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 17
 // Slot 17
 patch=1,EE,103ACAC2,extended,0000270F
 
-[Slot 18]
+[Slot 18 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 18
 // Slot 18
 patch=1,EE,103ACAFE,extended,0000270F
 
-[Slot 19]
+[Slot 19 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 19
 // Slot 19
 patch=1,EE,103ACB3A,extended,0000270F
 
-[Slot 20]
+[Slot 20 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 20
 // Slot 20
 patch=1,EE,103ACB76,extended,0000270F
 
-[Slot 21]
+[Slot 21 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 21
 // Slot 21
 patch=1,EE,103ACBB2,extended,0000270F
 
-[Slot 22]
+[Slot 22 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 22
 // Slot 22
 patch=1,EE,103ACBEE,extended,0000270F
 
-[Slot 23]
+[Slot 23 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 23
 // Slot 23
 patch=1,EE,103ACC2A,extended,0000270F
 
-[Slot 24]
+[Slot 24 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 24
 // Slot 24
 patch=1,EE,103ACC66,extended,0000270F
 
-[Slot 1]
+[Slot 1 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 1
 // Slot 1
 patch=1,EE,103AC70A,extended,0000270F
 
-[Slot 2]
+[Slot 2 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 2
 // Slot 2
 patch=1,EE,103AC746,extended,0000270F
 
-[Slot 3]
+[Slot 3 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 3
 // Slot 3
 patch=1,EE,103AC782,extended,0000270F
 
-[Slot 4]
+[Slot 4 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 4
 // Slot 4
 patch=1,EE,103AC7BE,extended,0000270F
 
-[Slot 5]
+[Slot 5 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 5
 // Slot 5
 patch=1,EE,103AC7FA,extended,0000270F
 
-[Slot 6]
+[Slot 6 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 6
 // Slot 6
 patch=1,EE,103AC836,extended,0000270F
 
-[Slot 7]
+[Slot 7 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 7
 // Slot 7
 patch=1,EE,103AC872,extended,0000270F
 
-[Slot 8]
+[Slot 8 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 8
 // Slot 8
 patch=1,EE,103AC8AE,extended,0000270F
 
-[Slot 9]
+[Slot 9 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 9
 // Slot 9
 patch=1,EE,103AC8EA,extended,0000270F
 
-[Slot 10]
+[Slot 10 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 10
 // Slot 10
 patch=1,EE,103AC926,extended,0000270F
 
-[Slot 11]
+[Slot 11 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 11
 // Slot 11
 patch=1,EE,103AC962,extended,0000270F
 
-[Slot 12]
+[Slot 12 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 12
 // Slot 12
 patch=1,EE,103AC99E,extended,0000270F
 
-[Slot 13]
+[Slot 13 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 13
 // Slot 13
 patch=1,EE,103AC9DA,extended,0000270F
 
-[Slot 14]
+[Slot 14 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 14
 // Slot 14
 patch=1,EE,103ACA16,extended,0000270F
 
-[Slot 15]
+[Slot 15 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 15
 // Slot 15
 patch=1,EE,103ACA52,extended,0000270F
 
-[Slot 16]
+[Slot 16 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 16
 // Slot 16
 patch=1,EE,103ACA8E,extended,0000270F
 
-[Slot 17]
+[Slot 17 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 17
 // Slot 17
 patch=1,EE,103ACACA,extended,0000270F
 
-[Slot 18]
+[Slot 18 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 18
 // Slot 18
 patch=1,EE,103ACB06,extended,0000270F
 
-[Slot 19]
+[Slot 19 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 19
 // Slot 19
 patch=1,EE,103ACB42,extended,0000270F
 
-[Slot 20]
+[Slot 20 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 20
 // Slot 20
 patch=1,EE,103ACB7E,extended,0000270F
 
-[Slot 21]
+[Slot 21 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 21
 // Slot 21
 patch=1,EE,103ACBBA,extended,0000270F
 
-[Slot 22]
+[Slot 22 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 22
 // Slot 22
 patch=1,EE,103ACBF6,extended,0000270F
 
-[Slot 23]
+[Slot 23 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 23
 // Slot 23
 patch=1,EE,103ACC32,extended,0000270F
 
-[Slot 24]
+[Slot 24 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 24
 // Slot 24
 patch=1,EE,103ACC6E,extended,0000270F
+
+[Cheats\Infinte Money]
+patch=1,EE,203A79EC,extended,0098967F
+
+[Cheats\Infinte Health In Battle]
+patch=1,EE,201AA680,extended,C44001FC
+patch=1,EE,201AA684,extended,E4400200
+patch=1,EE,201AA688,extended,10000002
+
+[Cheats\Infinte Ammo]
+patch=1,EE,20203214,extended,00000000
+patch=1,EE,202032D4,extended,00000000
+patch=1,EE,2020407C,extended,00000000
+
+[Cheats\Infinte Bombs]
+patch=1,EE,202021EC,extended,00000000
+
+[Cheats\Asuka Max HP]
+patch=1,EE,103A9EE0,extended,000003E7
+
+[Cheats\Kaede Max HP]
+patch=1,EE,103AA000,extended,000003E7
+
+[Cheats\Tokyo Max HP]
+patch=1,EE,103AA120,extended,000003E7
+
+[Cheats\Asuka All Stats Max]
+patch=1,EE,103A9EE0,extended,000003E7
+patch=1,EE,103A9EE8,extended,000003E7
+patch=1,EE,103A9EF0,extended,000003E7
+patch=1,EE,203A9F10,extended,000F423F
+patch=1,EE,203A9FE4,extended,07060506
+patch=1,EE,103A9FE8,extended,00000808
+patch=1,EE,203A9FEC,extended,03030303
+patch=1,EE,103A9FF0,extended,00000303
+patch=1,EE,103A9F08,extended,00000000
+
+[Cheats\Kaede All Stats Max]
+patch=1,EE,103AA000,extended,000003E7
+patch=1,EE,103AA008,extended,000003E7
+patch=1,EE,103AA010,extended,000003E7
+patch=1,EE,203AA030,extended,000F423F
+patch=1,EE,203AA104,extended,07050405
+patch=1,EE,003AA108,extended,00000006
+patch=1,EE,203AA10C,extended,03030303
+patch=1,EE,003AA110,extended,00000003
+patch=1,EE,103AA028,extended,00000000
+
+[Cheats\Tokyo All Stats Max]
+patch=1,EE,103AA120,extended,000003E7
+patch=1,EE,103AA128,extended,000003E7
+patch=1,EE,103AA130,extended,000003E7
+patch=1,EE,203AA150,extended,000F423F
+patch=1,EE,103AA224,extended,00000606
+patch=1,EE,103AA22C,extended,00000303
+patch=1,EE,103AA148,extended,00000000
+
+[Cheats\Unlock Movie Viewer All Movies]
+patch=1,EE,203A9E88,extended,01010101
+patch=1,EE,203A9E8C,extended,01010101
+patch=1,EE,203A9E90,extended,01010101
+patch=1,EE,203A9E94,extended,01010101
+patch=1,EE,203A9E98,extended,01010101
+patch=1,EE,203A9E9C,extended,01010101
+patch=1,EE,103A9E86,extended,00000101
+patch=1,EE,103A9EA0,extended,00000101
+
+[Cheats\Unlock Monster Viewer All Monsters]
+patch=1,EE,203A9EA8,extended,01010101
+patch=1,EE,203A9EAC,extended,01010101
+patch=1,EE,203A9EB0,extended,01010101
+patch=1,EE,203A9EB4,extended,01010101
+patch=1,EE,203A9EB8,extended,01010101
+patch=1,EE,203A9EBC,extended,01010101
+patch=1,EE,103A9EA6,extended,00000101
+patch=1,EE,103A9EC0,extended,00000101

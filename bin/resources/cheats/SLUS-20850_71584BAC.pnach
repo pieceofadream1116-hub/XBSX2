@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,201AE084,extended,3C0142C8
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -36,7 +36,7 @@ description=Changes Weapons To Have Weapons
 // Changes Weapons To Have Weapons
 patch=1,EE,201A4FA8,extended,24020001
 
-[Changes Weapons To Have Weapons]
+[Changes Weapons To Have Weapons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Changes Weapons To Have Weapons
 // Changes Weapons To Have Weapons
@@ -48,13 +48,13 @@ description=Change Weapons For Max Ammo
 // Change Weapons For Max Ammo
 patch=1,EE,201A4FC4,extended,00000000
 
-[Change Weapons For Max Ammo]
+[Change Weapons For Max Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Change Weapons For Max Ammo
 // Change Weapons For Max Ammo
 patch=1,EE,201A4FDC,extended,24010063
 
-[Change Weapons For Max Ammo]
+[Change Weapons For Max Ammo (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Change Weapons For Max Ammo
 // Change Weapons For Max Ammo
@@ -66,7 +66,7 @@ description=Pause To Have All Weapons
 // Pause To Have All Weapons
 patch=1,EE,201C5A40,extended,24030001
 
-[Pause To Have All Weapons]
+[Pause To Have All Weapons (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pause To Have All Weapons
 // Pause To Have All Weapons
@@ -114,7 +114,7 @@ description=Area 1
 // Area 1
 patch=1,EE,20378FB8,extended,00000001
 
-[Area 1]
+[Area 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Area 1
 // Area 1
@@ -126,7 +126,7 @@ description=Area 2
 // Area 2
 patch=1,EE,20378FBC,extended,00000001
 
-[Area 2]
+[Area 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Area 2
 // Area 2
@@ -138,7 +138,7 @@ description=Area 3
 // Area 3
 patch=1,EE,20378FC0,extended,00000001
 
-[Area 3]
+[Area 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Area 3
 // Area 3
@@ -150,7 +150,7 @@ description=Area 4
 // Area 4
 patch=1,EE,20378FC4,extended,00000001
 
-[Area 4]
+[Area 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Area 4
 // Area 4
@@ -162,7 +162,7 @@ description=Area 5
 // Area 5
 patch=1,EE,20378FC8,extended,00000001
 
-[Area 5]
+[Area 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Area 5
 // Area 5
@@ -174,7 +174,7 @@ description=Area 6
 // Area 6
 patch=1,EE,20378FCC,extended,00000001
 
-[Area 6]
+[Area 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Area 6
 // Area 6
@@ -186,7 +186,7 @@ description=Area 7
 // Area 7
 patch=1,EE,20378FD0,extended,00000001
 
-[Area 7]
+[Area 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Area 7
 // Area 7
@@ -198,7 +198,7 @@ description=Area 8
 // Area 8
 patch=1,EE,20378FD4,extended,00000001
 
-[Area 8]
+[Area 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Area 8
 // Area 8
@@ -210,7 +210,7 @@ description=Area 9
 // Area 9
 patch=1,EE,20378FD8,extended,00000001
 
-[Area 9]
+[Area 9 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Area 9
 // Area 9
@@ -222,8 +222,66 @@ description=Area 10
 // Area 10
 patch=1,EE,20378FDC,extended,00000001
 
-[Area 10]
+[Area 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Area 10
 // Area 10
+patch=1,EE,20379DB4,extended,05F5E0FF
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,003BCE4C,word,00000000
+
+[Cheats\Infinite Health]
+patch=1,EE,201AE084,extended,3C0142C8
+patch=1,EE,201AE08C,extended,AE011DD4
+
+[Cheats\Change Weapons For Max Ammo]
+patch=1,EE,201A4FC4,extended,00000000
+patch=1,EE,201A4FDC,extended,24010063
+patch=1,EE,201A4FE0,extended,AC81029C
+
+[Cheats\Pause To Have All Weapons]
+patch=1,EE,201C5A40,extended,24030001
+patch=1,EE,201C5A48,extended,AC4302CC
+
+[Cheats\Unlock Level Area 1]
+patch=1,EE,20378FB8,extended,00000001
+patch=1,EE,20379D90,extended,05F5E0FF
+
+[Cheats\Unlock Level Area 2]
+patch=1,EE,20378FBC,extended,00000001
+patch=1,EE,20379D94,extended,05F5E0FF
+
+[Cheats\Unlock Level Area 3]
+patch=1,EE,20378FC0,extended,00000001
+patch=1,EE,20379D98,extended,05F5E0FF
+
+[Cheats\Unlock Level Area 4]
+patch=1,EE,20378FC4,extended,00000001
+patch=1,EE,20379D9C,extended,05F5E0FF
+
+[Cheats\Unlock Level Area 5]
+patch=1,EE,20378FC8,extended,00000001
+patch=1,EE,20379DA0,extended,05F5E0FF
+
+[Cheats\Unlock Level Area 6]
+patch=1,EE,20378FCC,extended,00000001
+patch=1,EE,20379DA4,extended,05F5E0FF
+
+[Cheats\Unlock Level Area 7]
+patch=1,EE,20378FD0,extended,00000001
+patch=1,EE,20379DA8,extended,05F5E0FF
+
+[Cheats\Unlock Level Area 8]
+patch=1,EE,20378FD4,extended,00000001
+patch=1,EE,20379DAC,extended,05F5E0FF
+
+[Cheats\Unlock Level Area 9]
+patch=1,EE,20378FD8,extended,00000001
+patch=1,EE,20379DB0,extended,05F5E0FF
+
+[Cheats\Unlock Level Area 10]
+patch=1,EE,20378FDC,extended,00000001
 patch=1,EE,20379DB4,extended,05F5E0FF

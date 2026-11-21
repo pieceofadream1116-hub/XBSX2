@@ -12,7 +12,7 @@ description=Start With 999 Screams
 // Start With 999 Screams
 patch=1,EE,D0B00620,extended,00000000
 
-[Start With 999 Screams]
+[Start With 999 Screams (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With 999 Screams
 // Start With 999 Screams
@@ -23,12 +23,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Get 1 Scream For 999 Screams
 // Get 1 Scream For 999 Screams
 patch=1,EE,D0B00620,extended,00000001
-
-[Get 1 Scream For 999 Screams]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Get 1 Scream For 999 Screams
-// Get 1 Scream For 999 Screams
-patch=1,EE,10B00620,extended,000003E7
 
 [Infinite Health]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -42,7 +36,7 @@ description=Start With 4 Canisters
 // Start With 4 Canisters
 patch=1,EE,D0B00628,extended,00000000
 
-[Start With 4 Canisters]
+[Start With 4 Canisters (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With 4 Canisters
 // Start With 4 Canisters
@@ -54,7 +48,7 @@ description=Start With 4 Mice
 // Start With 4 Mice
 patch=1,EE,D0B0062A,extended,00000000
 
-[Start With 4 Mice]
+[Start With 4 Mice (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start With 4 Mice
 // Start With 4 Mice
@@ -66,7 +60,7 @@ description=Always Have 999 Screams
 // Always Have 999 Screams
 patch=1,EE,201BB090,extended,240303E7
 
-[Always Have 999 Screams]
+[Always Have 999 Screams (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Have 999 Screams
 // Always Have 999 Screams
@@ -143,3 +137,19 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Yeti Says
 // Yeti Says
 patch=1,EE,20AFD9F8,extended,0000005A
+
+[Cheats\Start With 999 Screams]
+patch=1,EE,D0B00620,extended,00000000
+patch=1,EE,10B00620,extended,000003E7
+
+[Cheats\Start With 4 Canisters]
+patch=1,EE,D0B00628,extended,00000000
+patch=1,EE,10B00628,extended,00000004
+
+[Cheats\Start With 4 Mice]
+patch=1,EE,D0B0062A,extended,00000000
+patch=1,EE,10B0062A,extended,00000004
+
+[Cheats\Always Have 999 Screams]
+patch=1,EE,201BB090,extended,240303E7
+patch=1,EE,201BB09C,extended,A6630010

@@ -1,0 +1,4 @@
+gametitle=Assault Suits Valken [SLES-53233] [1E177BBC]
+
+[Cheats\Infinite Energy]
+patch=1,EE,21FFC43C,extended,000003E8

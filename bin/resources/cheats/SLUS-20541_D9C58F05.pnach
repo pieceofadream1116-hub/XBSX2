@@ -42,19 +42,13 @@ description=P1 Press {L1}+{SELECT} For Full Shot Clock
 // P1 Press {L1}+{SELECT} For Full Shot Clock
 patch=1,EE,D07BC542,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} For Full Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{SELECT} For Full Shot Clock
-// P1 Press {L1}+{SELECT} For Full Shot Clock
-patch=1,EE,207C2BB4,extended,00000000
-
 [P1 Press {L2}+{SELECT} For Expired Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} For Expired Shot Clock
 // P1 Press {L2}+{SELECT} For Expired Shot Clock
 patch=1,EE,D07BC542,extended,0000FEFE
 
-[P1 Press {L2}+{SELECT} For Expired Shot Clock]
+[P1 Press {L2}+{SELECT} For Expired Shot Clock (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L2}+{SELECT} For Expired Shot Clock
 // P1 Press {L2}+{SELECT} For Expired Shot Clock
@@ -66,23 +60,11 @@ description=P2 Press {L1}+{SELECT} For Full Shot Clock
 // P2 Press {L1}+{SELECT} For Full Shot Clock
 patch=1,EE,D07BC702,extended,0000FBFE
 
-[P2 Press {L1}+{SELECT} For Full Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L1}+{SELECT} For Full Shot Clock
-// P2 Press {L1}+{SELECT} For Full Shot Clock
-patch=1,EE,207C2BB4,extended,00000000
-
 [P2 Press {L2}+{SELECT} For Expired Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Press {L2}+{SELECT} For Expired Shot Clock
 // P2 Press {L2}+{SELECT} For Expired Shot Clock
 patch=1,EE,D07BC702,extended,0000FEFE
-
-[P2 Press {L2}+{SELECT} For Expired Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Press {L2}+{SELECT} For Expired Shot Clock
-// P2 Press {L2}+{SELECT} For Expired Shot Clock
-patch=1,EE,207C2BB4,extended,447A0000
 
 [P3 Press {L1}+{SELECT} For Full Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -90,23 +72,11 @@ description=P3 Press {L1}+{SELECT} For Full Shot Clock
 // P3 Press {L1}+{SELECT} For Full Shot Clock
 patch=1,EE,D07BC8C2,extended,0000FBFE
 
-[P3 Press {L1}+{SELECT} For Full Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {L1}+{SELECT} For Full Shot Clock
-// P3 Press {L1}+{SELECT} For Full Shot Clock
-patch=1,EE,207C2BB4,extended,00000000
-
 [P3 Press {L2}+{SELECT} For Expired Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P3 Press {L2}+{SELECT} For Expired Shot Clock
 // P3 Press {L2}+{SELECT} For Expired Shot Clock
 patch=1,EE,D07BC8C2,extended,0000FEFE
-
-[P3 Press {L2}+{SELECT} For Expired Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Press {L2}+{SELECT} For Expired Shot Clock
-// P3 Press {L2}+{SELECT} For Expired Shot Clock
-patch=1,EE,207C2BB4,extended,447A0000
 
 [P4 Press {L1}+{SELECT} For Full Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -114,23 +84,11 @@ description=P4 Press {L1}+{SELECT} For Full Shot Clock
 // P4 Press {L1}+{SELECT} For Full Shot Clock
 patch=1,EE,D07BCA82,extended,0000FBFE
 
-[P4 Press {L1}+{SELECT} For Full Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {L1}+{SELECT} For Full Shot Clock
-// P4 Press {L1}+{SELECT} For Full Shot Clock
-patch=1,EE,207C2BB4,extended,00000000
-
 [P4 Press {L2}+{SELECT} For Expired Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P4 Press {L2}+{SELECT} For Expired Shot Clock
 // P4 Press {L2}+{SELECT} For Expired Shot Clock
 patch=1,EE,D07BCA82,extended,0000FEFE
-
-[P4 Press {L2}+{SELECT} For Expired Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P4 Press {L2}+{SELECT} For Expired Shot Clock
-// P4 Press {L2}+{SELECT} For Expired Shot Clock
-patch=1,EE,207C2BB4,extended,447A0000
 
 [P5 Press {L1}+{SELECT} For Full Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -138,23 +96,11 @@ description=P5 Press {L1}+{SELECT} For Full Shot Clock
 // P5 Press {L1}+{SELECT} For Full Shot Clock
 patch=1,EE,D07BCC42,extended,0000FBFE
 
-[P5 Press {L1}+{SELECT} For Full Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {L1}+{SELECT} For Full Shot Clock
-// P5 Press {L1}+{SELECT} For Full Shot Clock
-patch=1,EE,207C2BB4,extended,00000000
-
 [P5 Press {L2}+{SELECT} For Expired Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P5 Press {L2}+{SELECT} For Expired Shot Clock
 // P5 Press {L2}+{SELECT} For Expired Shot Clock
 patch=1,EE,D07BCC42,extended,0000FEFE
-
-[P5 Press {L2}+{SELECT} For Expired Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P5 Press {L2}+{SELECT} For Expired Shot Clock
-// P5 Press {L2}+{SELECT} For Expired Shot Clock
-patch=1,EE,207C2BB4,extended,447A0000
 
 [P6 Press {L1}+{SELECT} For Full Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -162,23 +108,11 @@ description=P6 Press {L1}+{SELECT} For Full Shot Clock
 // P6 Press {L1}+{SELECT} For Full Shot Clock
 patch=1,EE,D07BCE02,extended,0000FBFE
 
-[P6 Press {L1}+{SELECT} For Full Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {L1}+{SELECT} For Full Shot Clock
-// P6 Press {L1}+{SELECT} For Full Shot Clock
-patch=1,EE,207C2BB4,extended,00000000
-
 [P6 Press {L2}+{SELECT} For Expired Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P6 Press {L2}+{SELECT} For Expired Shot Clock
 // P6 Press {L2}+{SELECT} For Expired Shot Clock
 patch=1,EE,D07BCE02,extended,0000FEFE
-
-[P6 Press {L2}+{SELECT} For Expired Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P6 Press {L2}+{SELECT} For Expired Shot Clock
-// P6 Press {L2}+{SELECT} For Expired Shot Clock
-patch=1,EE,207C2BB4,extended,447A0000
 
 [P7 Press {L1}+{SELECT} For Full Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -186,23 +120,11 @@ description=P7 Press {L1}+{SELECT} For Full Shot Clock
 // P7 Press {L1}+{SELECT} For Full Shot Clock
 patch=1,EE,D07BCFC2,extended,0000FBFE
 
-[P7 Press {L1}+{SELECT} For Full Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {L1}+{SELECT} For Full Shot Clock
-// P7 Press {L1}+{SELECT} For Full Shot Clock
-patch=1,EE,207C2BB4,extended,00000000
-
 [P7 Press {L2}+{SELECT} For Expired Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P7 Press {L2}+{SELECT} For Expired Shot Clock
 // P7 Press {L2}+{SELECT} For Expired Shot Clock
 patch=1,EE,D07BCFC2,extended,0000FEFE
-
-[P7 Press {L2}+{SELECT} For Expired Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P7 Press {L2}+{SELECT} For Expired Shot Clock
-// P7 Press {L2}+{SELECT} For Expired Shot Clock
-patch=1,EE,207C2BB4,extended,447A0000
 
 [P8 Press {L1}+{SELECT} For Full Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -210,23 +132,11 @@ description=P8 Press {L1}+{SELECT} For Full Shot Clock
 // P8 Press {L1}+{SELECT} For Full Shot Clock
 patch=1,EE,D07BD182,extended,0000FBFE
 
-[P8 Press {L1}+{SELECT} For Full Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {L1}+{SELECT} For Full Shot Clock
-// P8 Press {L1}+{SELECT} For Full Shot Clock
-patch=1,EE,207C2BB4,extended,00000000
-
 [P8 Press {L2}+{SELECT} For Expired Shot Clock]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P8 Press {L2}+{SELECT} For Expired Shot Clock
 // P8 Press {L2}+{SELECT} For Expired Shot Clock
 patch=1,EE,D07BD182,extended,0000FEFE
-
-[P8 Press {L2}+{SELECT} For Expired Shot Clock]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P8 Press {L2}+{SELECT} For Expired Shot Clock
-// P8 Press {L2}+{SELECT} For Expired Shot Clock
-patch=1,EE,207C2BB4,extended,447A0000
 
 [Access All Cribs]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -240,47 +150,35 @@ description=P1 Starts With 10
 // P1 Starts With 10
 patch=1,EE,200C0220,extended,8CA40000
 
-[P1 Starts With 10]
+[P1 Starts With 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Starts With 10
 // P1 Starts With 10
 patch=1,EE,200C0224,extended,54800001
 
-[P1 Starts With 10]
+[P1 Starts With 10 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Starts With 10
 // P1 Starts With 10
 patch=1,EE,200C0228,extended,2404000A
 
-[P1 Starts With 10]
+[P1 Starts With 10 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Starts With 10
 // P1 Starts With 10
 patch=1,EE,200C022C,extended,0809E6A1
 
-[P1 Starts With 10]
+[P1 Starts With 10 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Starts With 10
 // P1 Starts With 10
 patch=1,EE,200C0230,extended,ACA40000
 
-[P1 Starts With 10]
+[P1 Starts With 10 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Starts With 10
 // P1 Starts With 10
 patch=1,EE,20279A80,extended,08030088
-
-[P1 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 5
-// P1 Starts With 5
-patch=1,EE,200C0220,extended,8CA40000
-
-[P1 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 5
-// P1 Starts With 5
-patch=1,EE,200C0224,extended,54800001
 
 [P1 Starts With 5]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -288,59 +186,11 @@ description=P1 Starts With 5
 // P1 Starts With 5
 patch=1,EE,200C0228,extended,24040005
 
-[P1 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 5
-// P1 Starts With 5
-patch=1,EE,200C022C,extended,0809E6A1
-
-[P1 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 5
-// P1 Starts With 5
-patch=1,EE,200C0230,extended,ACA40000
-
-[P1 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 5
-// P1 Starts With 5
-patch=1,EE,20279A80,extended,08030088
-
-[P1 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 2
-// P1 Starts With 2
-patch=1,EE,200C0220,extended,8CA40000
-
-[P1 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 2
-// P1 Starts With 2
-patch=1,EE,200C0224,extended,54800001
-
 [P1 Starts With 2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Starts With 2
 // P1 Starts With 2
 patch=1,EE,200C0228,extended,24040002
-
-[P1 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 2
-// P1 Starts With 2
-patch=1,EE,200C022C,extended,0809E6A1
-
-[P1 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 2
-// P1 Starts With 2
-patch=1,EE,200C0230,extended,ACA40000
-
-[P1 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Starts With 2
-// P1 Starts With 2
-patch=1,EE,20279A80,extended,08030088
 
 [P2 Starts With 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -348,107 +198,11 @@ description=P2 Starts With 10
 // P2 Starts With 10
 patch=1,EE,200C0220,extended,8CA40004
 
-[P2 Starts With 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 10
-// P2 Starts With 10
-patch=1,EE,200C0224,extended,54800001
-
-[P2 Starts With 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 10
-// P2 Starts With 10
-patch=1,EE,200C0228,extended,2404000A
-
-[P2 Starts With 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 10
-// P2 Starts With 10
-patch=1,EE,200C022C,extended,0809E6A1
-
-[P2 Starts With 10]
+[P2 Starts With 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Starts With 10
 // P2 Starts With 10
 patch=1,EE,200C0230,extended,ACA40004
-
-[P2 Starts With 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 10
-// P2 Starts With 10
-patch=1,EE,20279A80,extended,08030088
-
-[P2 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 5
-// P2 Starts With 5
-patch=1,EE,200C0220,extended,8CA40004
-
-[P2 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 5
-// P2 Starts With 5
-patch=1,EE,200C0224,extended,54800001
-
-[P2 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 5
-// P2 Starts With 5
-patch=1,EE,200C0228,extended,24040005
-
-[P2 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 5
-// P2 Starts With 5
-patch=1,EE,200C022C,extended,0809E6A1
-
-[P2 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 5
-// P2 Starts With 5
-patch=1,EE,200C0230,extended,ACA40004
-
-[P2 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 5
-// P2 Starts With 5
-patch=1,EE,20279A80,extended,08030088
-
-[P2 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 2
-// P2 Starts With 2
-patch=1,EE,200C0220,extended,8CA40004
-
-[P2 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 2
-// P2 Starts With 2
-patch=1,EE,200C0224,extended,54800001
-
-[P2 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 2
-// P2 Starts With 2
-patch=1,EE,200C0228,extended,24040002
-
-[P2 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 2
-// P2 Starts With 2
-patch=1,EE,200C022C,extended,0809E6A1
-
-[P2 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 2
-// P2 Starts With 2
-patch=1,EE,200C0230,extended,ACA40004
-
-[P2 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Starts With 2
-// P2 Starts With 2
-patch=1,EE,20279A80,extended,08030088
 
 [P3 Starts With 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -456,107 +210,11 @@ description=P3 Starts With 10
 // P3 Starts With 10
 patch=1,EE,200C0220,extended,8CA40008
 
-[P3 Starts With 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 10
-// P3 Starts With 10
-patch=1,EE,200C0224,extended,54800001
-
-[P3 Starts With 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 10
-// P3 Starts With 10
-patch=1,EE,200C0228,extended,2404000A
-
-[P3 Starts With 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 10
-// P3 Starts With 10
-patch=1,EE,200C022C,extended,0809E6A1
-
-[P3 Starts With 10]
+[P3 Starts With 10 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P3 Starts With 10
 // P3 Starts With 10
 patch=1,EE,200C0230,extended,ACA40008
-
-[P3 Starts With 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 10
-// P3 Starts With 10
-patch=1,EE,20279A80,extended,08030088
-
-[P3 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 5
-// P3 Starts With 5
-patch=1,EE,200C0220,extended,8CA40008
-
-[P3 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 5
-// P3 Starts With 5
-patch=1,EE,200C0224,extended,54800001
-
-[P3 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 5
-// P3 Starts With 5
-patch=1,EE,200C0228,extended,24040005
-
-[P3 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 5
-// P3 Starts With 5
-patch=1,EE,200C022C,extended,0809E6A1
-
-[P3 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 5
-// P3 Starts With 5
-patch=1,EE,200C0230,extended,ACA40008
-
-[P3 Starts With 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 5
-// P3 Starts With 5
-patch=1,EE,20279A80,extended,08030088
-
-[P3 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 2
-// P3 Starts With 2
-patch=1,EE,200C0220,extended,8CA40008
-
-[P3 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 2
-// P3 Starts With 2
-patch=1,EE,200C0224,extended,54800001
-
-[P3 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 2
-// P3 Starts With 2
-patch=1,EE,200C0228,extended,24040002
-
-[P3 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 2
-// P3 Starts With 2
-patch=1,EE,200C022C,extended,0809E6A1
-
-[P3 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 2
-// P3 Starts With 2
-patch=1,EE,200C0230,extended,ACA40008
-
-[P3 Starts With 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Starts With 2
-// P3 Starts With 2
-patch=1,EE,20279A80,extended,08030088
 
 [P1 Never Scores]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -564,47 +222,23 @@ description=P1 Never Scores
 // P1 Never Scores
 patch=1,EE,200C0220,extended,ACA00000
 
-[P1 Never Scores]
+[P1 Never Scores (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Never Scores
 // P1 Never Scores
 patch=1,EE,200C0224,extended,0809E6A1
 
-[P1 Never Scores]
+[P1 Never Scores (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Never Scores
 // P1 Never Scores
 patch=1,EE,200C0228,extended,8CA40000
-
-[P1 Never Scores]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Never Scores
-// P1 Never Scores
-patch=1,EE,20279A80,extended,08030088
 
 [P2 Never Scores]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P2 Never Scores
 // P2 Never Scores
 patch=1,EE,200C0220,extended,ACA00004
-
-[P2 Never Scores]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Never Scores
-// P2 Never Scores
-patch=1,EE,200C0224,extended,0809E6A1
-
-[P2 Never Scores]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Never Scores
-// P2 Never Scores
-patch=1,EE,200C0228,extended,8CA40000
-
-[P2 Never Scores]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 Never Scores
-// P2 Never Scores
-patch=1,EE,20279A80,extended,08030088
 
 [P3 Never Scores]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -612,83 +246,23 @@ description=P3 Never Scores
 // P3 Never Scores
 patch=1,EE,200C0220,extended,ACA00008
 
-[P3 Never Scores]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Never Scores
-// P3 Never Scores
-patch=1,EE,200C0224,extended,0809E6A1
-
-[P3 Never Scores]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Never Scores
-// P3 Never Scores
-patch=1,EE,200C0228,extended,8CA40000
-
-[P3 Never Scores]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P3 Never Scores
-// P3 Never Scores
-patch=1,EE,20279A80,extended,08030088
-
-[P1 & P3 Never Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 & P3 Never Score
-// P1 & P3 Never Score
-patch=1,EE,200C0220,extended,ACA00000
-
 [P1 & P3 Never Score]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 & P3 Never Score
 // P1 & P3 Never Score
 patch=1,EE,200C0224,extended,ACA00008
 
-[P1 & P3 Never Score]
+[P1 & P3 Never Score (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 & P3 Never Score
 // P1 & P3 Never Score
 patch=1,EE,200C0228,extended,0809E6A1
 
-[P1 & P3 Never Score]
+[P1 & P3 Never Score (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 & P3 Never Score
 // P1 & P3 Never Score
 patch=1,EE,200C022C,extended,8CA40000
-
-[P1 & P3 Never Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 & P3 Never Score
-// P1 & P3 Never Score
-patch=1,EE,20279A80,extended,08030088
-
-[P2 & P3 Never Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 & P3 Never Score
-// P2 & P3 Never Score
-patch=1,EE,200C0220,extended,ACA00004
-
-[P2 & P3 Never Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 & P3 Never Score
-// P2 & P3 Never Score
-patch=1,EE,200C0224,extended,ACA00008
-
-[P2 & P3 Never Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 & P3 Never Score
-// P2 & P3 Never Score
-patch=1,EE,200C0228,extended,0809E6A1
-
-[P2 & P3 Never Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 & P3 Never Score
-// P2 & P3 Never Score
-patch=1,EE,200C022C,extended,8CA40000
-
-[P2 & P3 Never Score]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P2 & P3 Never Score
-// P2 & P3 Never Score
-patch=1,EE,20279A80,extended,08030088
 
 [Infinite Skill Points]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -708,7 +282,7 @@ description=Signing A Baller Doesnt Decrease Balance
 // Signing A Baller Doesnt Decrease Balance
 patch=1,EE,2029C47C,extended,00000000
 
-[Signing A Baller Doesnt Decrease Balance]
+[Signing A Baller Doesnt Decrease Balance (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Signing A Baller Doesnt Decrease Balance
 // Signing A Baller Doesnt Decrease Balance
@@ -720,7 +294,7 @@ description=Buying Cribs Doesnt Decrease Balance
 // Buying Cribs Doesnt Decrease Balance
 patch=1,EE,2029C824,extended,00000000
 
-[Buying Cribs Doesnt Decrease Balance]
+[Buying Cribs Doesnt Decrease Balance (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Buying Cribs Doesnt Decrease Balance
 // Buying Cribs Doesnt Decrease Balance
@@ -732,7 +306,7 @@ description=Buying Cars Doesnt Decrease Balance
 // Buying Cars Doesnt Decrease Balance
 patch=1,EE,203A72D8,extended,00000000
 
-[Buying Cars Doesnt Decrease Balance]
+[Buying Cars Doesnt Decrease Balance (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Buying Cars Doesnt Decrease Balance
 // Buying Cars Doesnt Decrease Balance
@@ -744,7 +318,7 @@ description=Quick Balance Gain
 // Quick Balance Gain
 patch=1,EE,10709B38,extended,0000FFFF
 
-[Quick Balance Gain]
+[Quick Balance Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Balance Gain
 // Quick Balance Gain
@@ -756,7 +330,7 @@ description=Max Balance
 // Max Balance
 patch=1,EE,20709B38,extended,05F5E0FF
 
-[Max Balance]
+[Max Balance (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Balance
 // Max Balance
@@ -774,7 +348,7 @@ description=Have All Ballers Signed
 // Have All Ballers Signed
 patch=1,EE,40709B04,extended,00070001
 
-[Have All Ballers Signed]
+[Have All Ballers Signed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Ballers Signed
 // Have All Ballers Signed
@@ -786,13 +360,13 @@ description=Have All Collectibles-Magazines
 // Have All Collectibles-Magazines
 patch=1,EE,20709B20,extended,FFFFFFFF
 
-[Have All Collectibles-Magazines]
+[Have All Collectibles-Magazines (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Magazines
 // Have All Collectibles-Magazines
 patch=1,EE,20709B24,extended,FFFFFFFF
 
-[Have All Collectibles-Magazines]
+[Have All Collectibles-Magazines (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Magazines
 // Have All Collectibles-Magazines
@@ -804,7 +378,7 @@ description=Have All Collectibles-Friends
 // Have All Collectibles-Friends
 patch=1,EE,00709B29,extended,000000FF
 
-[Have All Collectibles-Friends]
+[Have All Collectibles-Friends (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Friends
 // Have All Collectibles-Friends
@@ -816,7 +390,7 @@ description=Have All Collectibles-Big Shots
 // Have All Collectibles-Big Shots
 patch=1,EE,20709B2C,extended,FFFFFFFF
 
-[Have All Collectibles-Big Shots]
+[Have All Collectibles-Big Shots (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Big Shots
 // Have All Collectibles-Big Shots
@@ -828,7 +402,7 @@ description=Have All Collectibles-Midway
 // Have All Collectibles-Midway
 patch=1,EE,10709B32,extended,0000FFFF
 
-[Have All Collectibles-Midway]
+[Have All Collectibles-Midway (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Midway
 // Have All Collectibles-Midway
@@ -840,7 +414,7 @@ description=Unlock All Garage-Cars
 // Unlock All Garage-Cars
 patch=1,EE,20709B44,extended,FFFFFFFF
 
-[Unlock All Garage-Cars]
+[Unlock All Garage-Cars (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Garage-Cars
 // Unlock All Garage-Cars
@@ -852,31 +426,19 @@ description=Have All Ballers Cinema-Film Vault
 // Have All Ballers Cinema-Film Vault
 patch=1,EE,20709B7C,extended,FFFFFFFF
 
-[Have All Ballers Cinema-Film Vault]
+[Have All Ballers Cinema-Film Vault (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Ballers Cinema-Film Vault
 // Have All Ballers Cinema-Film Vault
 patch=1,EE,20709B80,extended,FFFFFFFF
 
-[Infinite Skill Points]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Infinite Skill Points
-// Infinite Skill Points
-patch=1,EE,203AACD4,extended,00000000
-
-[Change Stat Once For Max Stat]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Change Stat Once For Max Stat
-// Change Stat Once For Max Stat
-patch=1,EE,202B3D48,extended,24040023
-
-[Quick Balance Gain]
+[Quick Balance Gain (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Balance Gain
 // Quick Balance Gain
 patch=1,EE,1070AEEC,extended,0000FFFF
 
-[Max Balance]
+[Max Balance (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Balance
 // Max Balance
@@ -888,451 +450,433 @@ description=Unlock All Specials
 // Unlock All Specials
 patch=1,EE,2070AFAC,extended,00000000
 
-[Quick Balance Gain]
+[Quick Balance Gain (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Balance Gain
 // Quick Balance Gain
 patch=1,EE,107081D8,extended,0000FFFF
 
-[Quick Balance Gain]
+[Quick Balance Gain (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Balance Gain
 // Quick Balance Gain
 patch=1,EE,107081DC,extended,0000FFFF
 
-[Max Balance]
+[Max Balance (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Balance
 // Max Balance
 patch=1,EE,207081D8,extended,05F5E0FF
 
-[Max Balance]
+[Max Balance (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Balance
 // Max Balance
 patch=1,EE,207081DC,extended,05F5E0FF
 
-[Unlock All Cribs]
+[Unlock All Cribs (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Cribs
 // Unlock All Cribs
 patch=1,EE,207081A0,extended,FFFFFFFF
 
-[Have All Ballers Signed]
+[Have All Ballers Signed (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Ballers Signed
 // Have All Ballers Signed
 patch=1,EE,407081A4,extended,00070001
 
-[Have All Ballers Signed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Ballers Signed
-// Have All Ballers Signed
-patch=1,EE,FFFFFFFF,extended,00000000
-
-[Have All Collectibles-Magazines]
+[Have All Collectibles-Magazines (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Magazines
 // Have All Collectibles-Magazines
 patch=1,EE,207081C0,extended,FFFFFFFF
 
-[Have All Collectibles-Magazines]
+[Have All Collectibles-Magazines (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Magazines
 // Have All Collectibles-Magazines
 patch=1,EE,207081C4,extended,FFFFFFFF
 
-[Have All Collectibles-Magazines]
+[Have All Collectibles-Magazines (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Magazines
 // Have All Collectibles-Magazines
 patch=1,EE,007081C8,extended,000000FF
 
-[Have All Collectibles-Friends]
+[Have All Collectibles-Friends (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Friends
 // Have All Collectibles-Friends
 patch=1,EE,007081C9,extended,000000FF
 
-[Have All Collectibles-Friends]
+[Have All Collectibles-Friends (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Friends
 // Have All Collectibles-Friends
 patch=1,EE,107081CA,extended,0000FFFF
 
-[Have All Collectibles-Big Shots]
+[Have All Collectibles-Big Shots (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Big Shots
 // Have All Collectibles-Big Shots
 patch=1,EE,207081CC,extended,FFFFFFFF
 
-[Have All Collectibles-Big Shots]
+[Have All Collectibles-Big Shots (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Big Shots
 // Have All Collectibles-Big Shots
 patch=1,EE,107081D0,extended,0000FFFF
 
-[Have All Collectibles-Midway]
+[Have All Collectibles-Midway (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Midway
 // Have All Collectibles-Midway
 patch=1,EE,107081D2,extended,0000FFFF
 
-[Have All Collectibles-Midway]
+[Have All Collectibles-Midway (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Midway
 // Have All Collectibles-Midway
 patch=1,EE,107081D4,extended,0000FFFF
 
-[Unlock All Garage-Cars]
+[Unlock All Garage-Cars (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Garage-Cars
 // Unlock All Garage-Cars
 patch=1,EE,207081E4,extended,FFFFFFFF
 
-[Unlock All Garage-Cars]
+[Unlock All Garage-Cars (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Garage-Cars
 // Unlock All Garage-Cars
 patch=1,EE,007085E8,extended,000000FF
 
-[Have All Ballers Cinema-Film Vault]
+[Have All Ballers Cinema-Film Vault (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Ballers Cinema-Film Vault
 // Have All Ballers Cinema-Film Vault
 patch=1,EE,2070821C,extended,FFFFFFFF
 
-[Have All Ballers Cinema-Film Vault]
+[Have All Ballers Cinema-Film Vault (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Ballers Cinema-Film Vault
 // Have All Ballers Cinema-Film Vault
 patch=1,EE,20708220,extended,FFFFFFFF
 
-[Infinite Skill Points]
+[Infinite Skill Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Skill Points
 // Infinite Skill Points
 patch=1,EE,203A9374,extended,00000000
 
-[Change Stat Once For Max Stat]
+[Change Stat Once For Max Stat (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Change Stat Once For Max Stat
 // Change Stat Once For Max Stat
 patch=1,EE,202B23E8,extended,24040023
 
-[Quick Balance Gain]
+[Quick Balance Gain (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Balance Gain
 // Quick Balance Gain
 patch=1,EE,1070958C,extended,0000FFFF
 
-[Max Balance]
+[Max Balance (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Balance
 // Max Balance
 patch=1,EE,2070958C,extended,05F5E0FF
 
-[Unlock All Specials]
+[Unlock All Specials (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Specials
 // Unlock All Specials
 patch=1,EE,2070964C,extended,00000000
 
-[Quick Balance Gain]
+[Quick Balance Gain (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Balance Gain
 // Quick Balance Gain
 patch=1,EE,10706878,extended,0000FFFF
 
-[Quick Balance Gain]
+[Quick Balance Gain (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Balance Gain
 // Quick Balance Gain
 patch=1,EE,1070687C,extended,0000FFFF
 
-[Max Balance]
+[Max Balance (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Balance
 // Max Balance
 patch=1,EE,20706878,extended,05F5E0FF
 
-[Max Balance]
+[Max Balance (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Balance
 // Max Balance
 patch=1,EE,2070687C,extended,05F5E0FF
 
-[Unlock All Cribs]
+[Unlock All Cribs (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Cribs
 // Unlock All Cribs
 patch=1,EE,20706840,extended,FFFFFFFF
 
-[Have All Ballers Signed]
+[Have All Ballers Signed (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Ballers Signed
 // Have All Ballers Signed
 patch=1,EE,40706844,extended,00070001
 
-[Have All Ballers Signed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Ballers Signed
-// Have All Ballers Signed
-patch=1,EE,FFFFFFFF,extended,00000000
-
-[Have All Collectibles-Magazines]
+[Have All Collectibles-Magazines (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Magazines
 // Have All Collectibles-Magazines
 patch=1,EE,20706860,extended,FFFFFFFF
 
-[Have All Collectibles-Magazines]
+[Have All Collectibles-Magazines (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Magazines
 // Have All Collectibles-Magazines
 patch=1,EE,20706864,extended,FFFFFFFF
 
-[Have All Collectibles-Magazines]
+[Have All Collectibles-Magazines (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Magazines
 // Have All Collectibles-Magazines
 patch=1,EE,00706868,extended,000000FF
 
-[Have All Collectibles-Friends]
+[Have All Collectibles-Friends (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Friends
 // Have All Collectibles-Friends
 patch=1,EE,00706869,extended,000000FF
 
-[Have All Collectibles-Friends]
+[Have All Collectibles-Friends (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Friends
 // Have All Collectibles-Friends
 patch=1,EE,1070686A,extended,0000FFFF
 
-[Have All Collectibles-Big Shots]
+[Have All Collectibles-Big Shots (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Big Shots
 // Have All Collectibles-Big Shots
 patch=1,EE,2070686C,extended,FFFFFFFF
 
-[Have All Collectibles-Big Shots]
+[Have All Collectibles-Big Shots (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Big Shots
 // Have All Collectibles-Big Shots
 patch=1,EE,10706870,extended,0000FFFF
 
-[Have All Collectibles-Midway]
+[Have All Collectibles-Midway (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Midway
 // Have All Collectibles-Midway
 patch=1,EE,10706872,extended,0000FFFF
 
-[Have All Collectibles-Midway]
+[Have All Collectibles-Midway (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Midway
 // Have All Collectibles-Midway
 patch=1,EE,10706874,extended,0000FFFF
 
-[Unlock All Garage-Cars]
+[Unlock All Garage-Cars (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Garage-Cars
 // Unlock All Garage-Cars
 patch=1,EE,20706884,extended,FFFFFFFF
 
-[Unlock All Garage-Cars]
+[Unlock All Garage-Cars (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Garage-Cars
 // Unlock All Garage-Cars
 patch=1,EE,00706C88,extended,000000FF
 
-[Have All Ballers Cinema-Film Vault]
+[Have All Ballers Cinema-Film Vault (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Ballers Cinema-Film Vault
 // Have All Ballers Cinema-Film Vault
 patch=1,EE,207068BC,extended,FFFFFFFF
 
-[Have All Ballers Cinema-Film Vault]
+[Have All Ballers Cinema-Film Vault (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Ballers Cinema-Film Vault
 // Have All Ballers Cinema-Film Vault
 patch=1,EE,207068C0,extended,FFFFFFFF
 
-[Infinite Skill Points]
+[Infinite Skill Points (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Skill Points
 // Infinite Skill Points
 patch=1,EE,203A7A14,extended,00000000
 
-[Change Stat Once For Max Stat]
+[Change Stat Once For Max Stat (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Change Stat Once For Max Stat
 // Change Stat Once For Max Stat
 patch=1,EE,202B0A88,extended,24040023
 
-[Quick Balance Gain]
+[Quick Balance Gain (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Balance Gain
 // Quick Balance Gain
 patch=1,EE,10707C2C,extended,0000FFFF
 
-[Max Balance]
+[Max Balance (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Balance
 // Max Balance
 patch=1,EE,20707C2C,extended,05F5E0FF
 
-[Unlock All Specials]
+[Unlock All Specials (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Specials
 // Unlock All Specials
 patch=1,EE,20707CEC,extended,00000000
 
-[Quick Balance Gain]
+[Quick Balance Gain (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Balance Gain
 // Quick Balance Gain
 patch=1,EE,10704F18,extended,0000FFFF
 
-[Quick Balance Gain]
+[Quick Balance Gain (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Balance Gain
 // Quick Balance Gain
 patch=1,EE,10704F1C,extended,0000FFFF
 
-[Max Balance]
+[Max Balance (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Balance
 // Max Balance
 patch=1,EE,20704F18,extended,05F5E0FF
 
-[Max Balance]
+[Max Balance (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Balance
 // Max Balance
 patch=1,EE,20704F1C,extended,05F5E0FF
 
-[Unlock All Cribs]
+[Unlock All Cribs (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Cribs
 // Unlock All Cribs
 patch=1,EE,20704EE0,extended,FFFFFFFF
 
-[Have All Ballers Signed]
+[Have All Ballers Signed (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Ballers Signed
 // Have All Ballers Signed
 patch=1,EE,40704EE4,extended,00070001
 
-[Have All Ballers Signed]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Ballers Signed
-// Have All Ballers Signed
-patch=1,EE,FFFFFFFF,extended,00000000
-
-[Have All Collectibles-Magazines]
+[Have All Collectibles-Magazines (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Magazines
 // Have All Collectibles-Magazines
 patch=1,EE,20704F00,extended,FFFFFFFF
 
-[Have All Collectibles-Magazines]
+[Have All Collectibles-Magazines (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Magazines
 // Have All Collectibles-Magazines
 patch=1,EE,20704F04,extended,FFFFFFFF
 
-[Have All Collectibles-Magazines]
+[Have All Collectibles-Magazines (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Magazines
 // Have All Collectibles-Magazines
 patch=1,EE,00704F08,extended,000000FF
 
-[Have All Collectibles-Friends]
+[Have All Collectibles-Friends (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Friends
 // Have All Collectibles-Friends
 patch=1,EE,00704F09,extended,000000FF
 
-[Have All Collectibles-Friends]
+[Have All Collectibles-Friends (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Friends
 // Have All Collectibles-Friends
 patch=1,EE,10704F0A,extended,0000FFFF
 
-[Have All Collectibles-Big Shots]
+[Have All Collectibles-Big Shots (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Big Shots
 // Have All Collectibles-Big Shots
 patch=1,EE,20704F0C,extended,FFFFFFFF
 
-[Have All Collectibles-Big Shots]
+[Have All Collectibles-Big Shots (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Big Shots
 // Have All Collectibles-Big Shots
 patch=1,EE,10704F10,extended,0000FFFF
 
-[Have All Collectibles-Midway]
+[Have All Collectibles-Midway (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Midway
 // Have All Collectibles-Midway
 patch=1,EE,10704F12,extended,0000FFFF
 
-[Have All Collectibles-Midway]
+[Have All Collectibles-Midway (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Collectibles-Midway
 // Have All Collectibles-Midway
 patch=1,EE,10704F14,extended,0000FFFF
 
-[Unlock All Garage-Cars]
+[Unlock All Garage-Cars (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Garage-Cars
 // Unlock All Garage-Cars
 patch=1,EE,20704F24,extended,FFFFFFFF
 
-[Unlock All Garage-Cars]
+[Unlock All Garage-Cars (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Garage-Cars
 // Unlock All Garage-Cars
 patch=1,EE,00705328,extended,000000FF
 
-[Have All Ballers Cinema-Film Vault]
+[Have All Ballers Cinema-Film Vault (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Ballers Cinema-Film Vault
 // Have All Ballers Cinema-Film Vault
 patch=1,EE,20704F5C,extended,FFFFFFFF
 
-[Have All Ballers Cinema-Film Vault]
+[Have All Ballers Cinema-Film Vault (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Ballers Cinema-Film Vault
 // Have All Ballers Cinema-Film Vault
 patch=1,EE,20704F60,extended,FFFFFFFF
 
-[Infinite Skill Points]
+[Infinite Skill Points (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Skill Points
 // Infinite Skill Points
 patch=1,EE,203A60B4,extended,00000000
 
-[Change Stat Once For Max Stat]
+[Change Stat Once For Max Stat (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Change Stat Once For Max Stat
 // Change Stat Once For Max Stat
 patch=1,EE,202AF128,extended,24040023
 
-[Quick Balance Gain]
+[Quick Balance Gain (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Balance Gain
 // Quick Balance Gain
 patch=1,EE,107062CC,extended,0000FFFF
 
-[Max Balance]
+[Max Balance (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Balance
 // Max Balance
 patch=1,EE,207062CC,extended,05F5E0FF
 
-[Unlock All Specials]
+[Unlock All Specials (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Specials
 // Unlock All Specials

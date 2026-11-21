@@ -1,0 +1,19 @@
+gametitle=Twisted Metal - Black [SCES-50360] [2E93D897]
+
+[Cheats\Infinite Health Scrap & Salvage]
+patch=1,EE,2C1CCE35,extended,F8FC3B22
+
+[Cheats\Infinite Health Suburbs]
+patch=1,EE,2C22C835,extended,F8FC3B22
+
+[Cheats\Infinite Health Highway Loop]
+patch=1,EE,2C20AC35,extended,F8FC3B22
+
+[Cheats\Infinite Health Downtown]
+patch=1,EE,2C21E735,extended,F8FC3B22
+
+[Cheats\Infinite Health Highway Loop 2]
+patch=1,EE,2C226E35,extended,F8FC3B22
+
+[Cheats\Infinite Health Warhawks Rooftop]
+patch=1,EE,2C1CCE35,extended,F8FCFEF5

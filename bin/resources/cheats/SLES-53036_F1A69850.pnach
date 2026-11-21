@@ -1,0 +1,19 @@
+gametitle=Tak 2 - The Staff of Dreams PAL-M SLES-53036 F1A69850
+
+[Cheats\Infinite Health Level 1]
+patch=1,EE,21A69E10,extended,3F800000
+
+[Cheats\Infinite Health Level 2]
+patch=1,EE,21AD9110,extended,3F800000
+
+[50/60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (130%).
+patch=0,EE,00177894,word,24040001
+
+[NTSC Mode]
+author=GamingDragon93
+description=NTSC mode at start.
+patch=0,EE,003E14EC,word,24090002
+patch=0,EE,002A0EC8,word,241201c0
+//002A0EA4 FMVs issues

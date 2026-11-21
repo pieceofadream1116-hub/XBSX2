@@ -1,0 +1,4 @@
+gametitle=金鉱脈探査シミュレーション インゴット79 [SLPS-25166] [0C786CEF]
+
+[Cheats\Infinite Money]
+patch=1,EE,00101EE8,extended,00000000

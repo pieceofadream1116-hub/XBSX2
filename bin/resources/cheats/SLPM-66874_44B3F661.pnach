@@ -1,0 +1,5 @@
+gametitle=らき☆すた ～陵桜学園 桜藤祭～ [通常版] [SLPM-66874] [44B3F661]
+
+[Cheats\Unlock All Extra, Profile, Gallery and Sound]
+patch=1,EE,201DCD24,extended,10000177
+patch=1,EE,201DE334,extended,240900FF

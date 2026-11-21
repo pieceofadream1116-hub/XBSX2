@@ -1,0 +1,15 @@
+gametitle=Disney's Donald Duck - Goin' Quackers NTSC-U SLUS-20077 C573F3A2
+
+[Cheats\Infinite Lives]
+patch=1,EE,1087F074,extended,00000005
+
+[Cheats\Infinite Time]
+patch=1,EE,105C2D6C,extended,00009F9F
+
+[Cheats\Max Cogs]
+patch=1,EE,1087F070,extended,00000064
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (180%).
+patch=1,EE,003728C0,word,00000000

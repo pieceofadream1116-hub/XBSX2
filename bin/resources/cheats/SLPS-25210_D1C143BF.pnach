@@ -1,0 +1,4 @@
+gametitle=エキサイティングプロレス 4 [SLPS-25210] [D1C143BF]
+
+[Cheats\Max Creation Ability Points]
+patch=1,EE,202B80EC,extended,00000000

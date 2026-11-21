@@ -1,0 +1,4 @@
+gametitle=MAWAZA [SCPS-11027] [794D3E00]
+
+[Cheats\Infinite Time]
+patch=1,EE,201C5C58,extended,00011940

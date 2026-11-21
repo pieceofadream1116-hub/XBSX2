@@ -24,7 +24,7 @@ description=Always Low Time
 // Always Low Time
 patch=1,EE,206D2C14,extended,00000000
 
-[Always Low Time]
+[Always Low Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Low Time
 // Always Low Time
@@ -42,7 +42,7 @@ description=Max Hits
 // Max Hits
 patch=1,EE,206D49CC,extended,000F423F
 
-[Level 99]
+[Level 99 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
@@ -78,7 +78,7 @@ description=Max HP
 // Max HP
 patch=1,EE,206D2F54,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
@@ -120,469 +120,469 @@ description=Max Luck
 // Max Luck
 patch=1,EE,206D2F70,extended,0000270F
 
-[Level 99]
+[Level 99 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,106D3250,extended,00000063
 
-[Quick Exp Gain]
+[Quick Exp Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,106D3258,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,206D3258,extended,05F5E0FF
 
-[Infinite HP]
+[Infinite HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,206D325C,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
 patch=1,EE,206D3260,extended,000003E7
 
-[Max HP]
+[Max HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,206D32A4,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
 patch=1,EE,206D32A8,extended,000003E7
 
-[Max Physical Attack]
+[Max Physical Attack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Physical Attack
 // Max Physical Attack
 patch=1,EE,206D32AC,extended,0000270F
 
-[Max Fonic Attack]
+[Max Fonic Attack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fonic Attack
 // Max Fonic Attack
 patch=1,EE,206D32B0,extended,0000270F
 
-[Max Physical Defense]
+[Max Physical Defense (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Physical Defense
 // Max Physical Defense
 patch=1,EE,206D32B4,extended,0000270F
 
-[Max Fonic Defense]
+[Max Fonic Defense (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fonic Defense
 // Max Fonic Defense
 patch=1,EE,206D32B8,extended,0000270F
 
-[Max Agility]
+[Max Agility (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,206D32BC,extended,0000270F
 
-[Max Luck]
+[Max Luck (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,206D32C0,extended,0000270F
 
-[Level 99]
+[Level 99 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,106D35A0,extended,00000063
 
-[Quick Exp Gain]
+[Quick Exp Gain (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,106D35A8,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,206D35A8,extended,05F5E0FF
 
-[Infinite HP]
+[Infinite HP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,206D35AC,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
 patch=1,EE,206D35B0,extended,000003E7
 
-[Max HP]
+[Max HP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,206D35F4,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
 patch=1,EE,206D35F8,extended,000003E7
 
-[Max Physical Attack]
+[Max Physical Attack (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Physical Attack
 // Max Physical Attack
 patch=1,EE,206D35FC,extended,0000270F
 
-[Max Fonic Attack]
+[Max Fonic Attack (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fonic Attack
 // Max Fonic Attack
 patch=1,EE,206D3600,extended,0000270F
 
-[Max Physical Defense]
+[Max Physical Defense (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Physical Defense
 // Max Physical Defense
 patch=1,EE,206D3604,extended,0000270F
 
-[Max Fonic Defense]
+[Max Fonic Defense (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fonic Defense
 // Max Fonic Defense
 patch=1,EE,206D3608,extended,0000270F
 
-[Max Agility]
+[Max Agility (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,206D360C,extended,0000270F
 
-[Max Luck]
+[Max Luck (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,206D3610,extended,0000270F
 
-[Level 99]
+[Level 99 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,106D38F0,extended,00000063
 
-[Quick Exp Gain]
+[Quick Exp Gain (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,106D38F8,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,206D38F8,extended,05F5E0FF
 
-[Infinite HP]
+[Infinite HP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,206D38FC,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
 patch=1,EE,206D3900,extended,000003E7
 
-[Max HP]
+[Max HP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,206D3944,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
 patch=1,EE,206D3948,extended,000003E7
 
-[Max Physical Attack]
+[Max Physical Attack (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Physical Attack
 // Max Physical Attack
 patch=1,EE,206D394C,extended,0000270F
 
-[Max Fonic Attack]
+[Max Fonic Attack (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fonic Attack
 // Max Fonic Attack
 patch=1,EE,206D3950,extended,0000270F
 
-[Max Physical Defense]
+[Max Physical Defense (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Physical Defense
 // Max Physical Defense
 patch=1,EE,206D3954,extended,0000270F
 
-[Max Fonic Defense]
+[Max Fonic Defense (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fonic Defense
 // Max Fonic Defense
 patch=1,EE,206D3958,extended,0000270F
 
-[Max Agility]
+[Max Agility (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,206D395C,extended,0000270F
 
-[Max Luck]
+[Max Luck (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,206D3960,extended,0000270F
 
-[Level 99]
+[Level 99 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,106D3C40,extended,00000063
 
-[Quick Exp Gain]
+[Quick Exp Gain (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,106D3C48,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,206D3C48,extended,05F5E0FF
 
-[Infinite HP]
+[Infinite HP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,206D3C4C,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
 patch=1,EE,206D3C50,extended,000003E7
 
-[Max HP]
+[Max HP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,206D3C94,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
 patch=1,EE,206D3C98,extended,000003E7
 
-[Max Physical Attack]
+[Max Physical Attack (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Physical Attack
 // Max Physical Attack
 patch=1,EE,206D3C9C,extended,0000270F
 
-[Max Fonic Attack]
+[Max Fonic Attack (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fonic Attack
 // Max Fonic Attack
 patch=1,EE,206D3CA0,extended,0000270F
 
-[Max Physical Defense]
+[Max Physical Defense (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Physical Defense
 // Max Physical Defense
 patch=1,EE,206D3CA4,extended,0000270F
 
-[Max Fonic Defense]
+[Max Fonic Defense (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fonic Defense
 // Max Fonic Defense
 patch=1,EE,206D3CA8,extended,0000270F
 
-[Max Agility]
+[Max Agility (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,206D3CAC,extended,0000270F
 
-[Max Luck]
+[Max Luck (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,206D3CB0,extended,0000270F
 
-[Level 99]
+[Level 99 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,106D3F90,extended,00000063
 
-[Quick Exp Gain]
+[Quick Exp Gain (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,106D3F98,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,206D3F98,extended,05F5E0FF
 
-[Infinite HP]
+[Infinite HP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,206D3F9C,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
 patch=1,EE,206D3FA0,extended,000003E7
 
-[Max HP]
+[Max HP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,206D3FE4,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
 patch=1,EE,206D3FE8,extended,000003E7
 
-[Max Physical Attack]
+[Max Physical Attack (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Physical Attack
 // Max Physical Attack
 patch=1,EE,206D3FEC,extended,0000270F
 
-[Max Fonic Attack]
+[Max Fonic Attack (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fonic Attack
 // Max Fonic Attack
 patch=1,EE,206D3FF0,extended,0000270F
 
-[Max Physical Defense]
+[Max Physical Defense (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Physical Defense
 // Max Physical Defense
 patch=1,EE,206D3FF4,extended,0000270F
 
-[Max Fonic Defense]
+[Max Fonic Defense (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fonic Defense
 // Max Fonic Defense
 patch=1,EE,206D3FF8,extended,0000270F
 
-[Max Agility]
+[Max Agility (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,206D3FFC,extended,0000270F
 
-[Max Luck]
+[Max Luck (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
 patch=1,EE,206D4000,extended,0000270F
 
-[Level 99]
+[Level 99 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,106D42E0,extended,00000063
 
-[Quick Exp Gain]
+[Quick Exp Gain (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Exp Gain
 // Quick Exp Gain
 patch=1,EE,106D42E8,extended,0000FFFF
 
-[Max Exp]
+[Max Exp (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Exp
 // Max Exp
 patch=1,EE,206D42E8,extended,05F5E0FF
 
-[Infinite HP]
+[Infinite HP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,206D42EC,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
 patch=1,EE,206D42F0,extended,000003E7
 
-[Max HP]
+[Max HP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,206D4334,extended,0000270F
 
-[Infinite TP]
+[Infinite TP (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite TP
 // Infinite TP
 patch=1,EE,206D4338,extended,000003E7
 
-[Max Physical Attack]
+[Max Physical Attack (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Physical Attack
 // Max Physical Attack
 patch=1,EE,206D433C,extended,0000270F
 
-[Max Fonic Attack]
+[Max Fonic Attack (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fonic Attack
 // Max Fonic Attack
 patch=1,EE,206D4340,extended,0000270F
 
-[Max Physical Defense]
+[Max Physical Defense (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Physical Defense
 // Max Physical Defense
 patch=1,EE,206D4344,extended,0000270F
 
-[Max Fonic Defense]
+[Max Fonic Defense (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Fonic Defense
 // Max Fonic Defense
 patch=1,EE,206D4348,extended,0000270F
 
-[Max Agility]
+[Max Agility (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Agility
 // Max Agility
 patch=1,EE,206D434C,extended,0000270F
 
-[Max Luck]
+[Max Luck (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Luck
 // Max Luck
@@ -4314,7 +4314,7 @@ description=Holy Seal
 // Holy Seal
 patch=1,EE,006D2EB3,extended,00000063
 
-[Dark Seal]
+[Dark Seal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dark Seal
 // Dark Seal
@@ -4332,8 +4332,182 @@ description=All Items
 // All Items
 patch=1,EE,406D2C40,extended,009D0001
 
-[All Items]
+[All Items (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Items
 // All Items
 patch=1,EE,63636363,extended,00000000
+
+[Cheats\Luke Infinite & Max HP]
+patch=1,EE,206D2F0C,extended,0000270F
+patch=1,EE,206D2F54,extended,0000270F
+
+[Cheats\Luke Infinite & Max TP]
+patch=1,EE,206D2F10,extended,000003E7
+patch=1,EE,206D2F58,extended,000003E7
+
+[Cheats\Tear Infinite & Max HP]
+patch=1,EE,206D325C,extended,0000270F
+patch=1,EE,206D32A4,extended,0000270F
+
+[Cheats\Tear Infinite & Max TP]
+patch=1,EE,206D3260,extended,000003E7
+patch=1,EE,206D32A8,extended,000003E7
+
+[Cheats\Jade Infinite & Max HP]
+patch=1,EE,206D35AC,extended,0000270F
+patch=1,EE,206D35C4,extended,0000270F
+
+[Cheats\Jade Infinite & Max TP]
+patch=1,EE,206D35B0,extended,000003E7
+patch=1,EE,206D35C8,extended,000003E7
+
+[Cheats\Anise Infinite & Max HP]
+patch=1,EE,206D38FC,extended,0000270F
+patch=1,EE,206D3944,extended,0000270F
+
+[Cheats\Anise Infinite & Max TP]
+patch=1,EE,206D3900,extended,000003E7
+patch=1,EE,206D3948,extended,000003E7
+
+[Cheats\Guy Infinite & Max HP]
+patch=1,EE,206D3C4C,extended,0000270F
+patch=1,EE,206D3C94,extended,0000270F
+
+[Cheats\Guy Infinite & Max TP]
+patch=1,EE,206D3C50,extended,000003E7
+patch=1,EE,206D3C98,extended,000003E7
+
+[Cheats\Natalia Infinite & Max HP]
+patch=1,EE,206D3F9C,extended,0000270F
+patch=1,EE,206D3FE4,extended,0000270F
+
+[Cheats\Natalia Infinite & Max TP]
+patch=1,EE,206D3FA0,extended,000003E7
+patch=1,EE,206D3FE8,extended,000003E7
+
+[Cheats\Asch Infinite & Max HP]
+patch=1,EE,206D42EC,extended,0000270F
+patch=1,EE,206D4334,extended,0000270F
+
+[Cheats\Asch Infinite & Max TP]
+patch=1,EE,206D42F0,extended,000003E7
+patch=1,EE,206D4338,extended,000003E7
+
+[Cheats\Autopilot Enabled on World Map Usage in Towns and Dungeons will freeze the game. Use only on the world map]
+patch=1,EE,2039A9F0,extended,00000000
+patch=1,EE,2039AA24,extended,00000000
+patch=1,EE,2039AA34,extended,00000000
+patch=1,EE,2039AD8C,extended,00000000
+patch=1,EE,2039ADDC,extended,00000000
+patch=1,EE,2039ADFC,extended,00000000
+patch=1,EE,2039AE0C,extended,00000000
+patch=1,EE,2039B194,extended,00000000
+patch=1,EE,2039B1D0,extended,00000000
+patch=1,EE,2039B1E0,extended,00000000
+
+[Cheats\Infinite Cooking]
+patch=1,EE,20301894,extended,A0802114
+patch=1,EE,20301898,extended,1000000D
+
+[Cheats\Master any Recipe you cook]
+patch=1,EE,20300CC8,extended,00000000
+
+[Cheats\Save Anywhere]
+patch=1,EE,2034C83C,extended,1000002B
+
+[Cheats\Master FS Chamber Switch to max]
+patch=1,EE,20375E6C,extended,1000000A
+patch=1,EE,20375E70,extended,24020064
+
+[Cheats\No Encounters L2+L3 On R2+L3 Off]
+patch=1,EE,D0617382,extended,0000FEFD
+patch=1,EE,2024C870,extended,12520048
+patch=1,EE,D0617382,extended,0000FDFD
+patch=1,EE,2024C870,extended,10400048
+
+[Cheats\Unlock C.Core and FS Chamber Usage Enabled From The Start]
+patch=1,EE,2034C784,extended,10000054
+patch=1,EE,2034C7AC,extended,00000000
+patch=1,EE,2035C5FC,extended,00000000
+patch=1,EE,203766EC,extended,00000000
+
+[Cheats\Unlock All Titles All Characters]
+patch=1,EE,206D2F04,extended,003FFFFE
+patch=1,EE,206D3254,extended,0003FFFE
+patch=1,EE,206D35A4,extended,0000FFFE
+patch=1,EE,206D38F4,extended,0000FFFE
+patch=1,EE,206D3C44,extended,0003FFFE
+patch=1,EE,206D3F94,extended,00007FFE
+
+[Cheats\Unlock All Artes Natalia gets 1 new usable Beta Arcane Arte, Chronos Raid Tear gets 1 new usable Fonic Arte, Grand Fonic Hymn]
+patch=1,EE,206D2F9C,extended,FFFFFFFF
+patch=1,EE,206D32EC,extended,FFFFFFFF
+patch=1,EE,206D363C,extended,FFFFFFFF
+patch=1,EE,206D398C,extended,FFFFFFFF
+patch=1,EE,206D3CDC,extended,FFFFF7FF
+patch=1,EE,206D402C,extended,FFFFFF7F
+patch=1,EE,206D437C,extended,FFFFFFFF
+
+[Cheats\Unlock All Consumables and Herbs X15]
+patch=1,EE,406D2C40,extended,000A0001
+patch=1,EE,0F0F0F0F,extended,00000000
+patch=1,EE,106D2C68,extended,00000F0F
+
+[Cheats\Unlock All Food Items X15]
+patch=1,EE,006D2C73,extended,0000000F
+patch=1,EE,406D2C74,extended,00090001
+patch=1,EE,0F0F0F0F,extended,00000000
+patch=1,EE,106D2C98,extended,00000F0F
+patch=1,EE,006D2C9A,extended,0000000F
+
+[Cheats\Unlock All Armor X15]
+patch=1,EE,406D2D90,extended,001A0001
+patch=1,EE,0F0F0F0F,extended,00000000
+patch=1,EE,006D2DF8,extended,0000000F
+
+[Cheats\Unlock All Trade Goods X15]
+patch=1,EE,006D2CBD,extended,0000000F
+patch=1,EE,106D2CBE,extended,00000F0F
+patch=1,EE,406D2CC0,extended,000F0001
+patch=1,EE,0F0F0F0F,extended,00000000
+patch=1,EE,006D2CFC,extended,0000000F
+
+[Cheats\Unlock All Doll Accessories X15]
+patch=1,EE,406D2D84,extended,001A0001
+patch=1,EE,0F0F0F0F,extended,00000000
+
+[Cheats\Unlock All Weapons X15, Safe, omits the Catalyst Weapons and Key Items]
+patch=1,EE,006D2CFD,extended,0000000F
+patch=1,EE,106D2CFE,extended,00000F0F
+patch=1,EE,406D2D00,extended,00080001
+patch=1,EE,0F0F0F0F,extended,00000000
+patch=1,EE,106D2D20,extended,00000F0F
+patch=1,EE,006D2D22,extended,0000000F
+patch=1,EE,006D2D25,extended,0000000F
+patch=1,EE,406D2D28,extended,00070001
+patch=1,EE,0F0F0F0F,extended,00000000
+patch=1,EE,106D2D44,extended,00000F0F
+patch=1,EE,406D2D48,extended,00070001
+patch=1,EE,0F0F0F0F,extended,00000000
+patch=1,EE,106D2D64,extended,00000F0F
+patch=1,EE,006D2D66,extended,0000000F
+patch=1,EE,406D2D68,extended,00060001
+patch=1,EE,0F0F0F0F,extended,00000000
+patch=1,EE,106D2D80,extended,00000F0F
+patch=1,EE,006D2D82,extended,0000000F
+
+[Cheats\Unlock All Accesories X15, Safe, omits Key Items]
+patch=1,EE,006D2DF9,extended,0000000F
+patch=1,EE,106D2DFA,extended,00000F0F
+patch=1,EE,406D2DFC,extended,00150001
+patch=1,EE,0F0F0F0F,extended,00000000
+patch=1,EE,106D2E50,extended,00000F0F
+patch=1,EE,006D2E53,extended,0000000F
+patch=1,EE,406D2E54,extended,00070001
+patch=1,EE,0F0F0F0F,extended,00000000
+
+[Cheats\Unlock All FS Chambers X98]
+patch=1,EE,006D2CB9,extended,00000062
+patch=1,EE,106D2CBA,extended,00006262
+patch=1,EE,006D2CBC,extended,00000062

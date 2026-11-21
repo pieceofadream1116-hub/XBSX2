@@ -126,7 +126,7 @@ description=Infinite Health & Power
 // Infinite Health & Power
 patch=1,EE,101F7E60,extended,00000428
 
-[Infinite Health & Power]
+[Infinite Health & Power (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health & Power
 // Infinite Health & Power
@@ -756,34 +756,16 @@ description=Hover Boots L1
 // Hover Boots L1
 patch=1,EE,101F3388,extended,0000C099
 
-[Woven Boots L2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Woven Boots L2
-// Woven Boots L2
-patch=1,EE,101F3388,extended,0000C099
-
 [Hover Boots L2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hover Boots L2
 // Hover Boots L2
 patch=1,EE,101F3390,extended,0000C099
 
-[Woven Boots L2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Woven Boots L2
-// Woven Boots L2
-patch=1,EE,101F3390,extended,0000C099
-
 [Hover Boots L3]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hover Boots L3
 // Hover Boots L3
-patch=1,EE,101F3398,extended,0000C099
-
-[Woven Boots L3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Woven Boots L3
-// Woven Boots L3
 patch=1,EE,101F3398,extended,0000C099
 
 [Paldio Boots L1]
@@ -1044,7 +1026,7 @@ description=Sealed Key
 // Sealed Key
 patch=1,EE,101F34F8,extended,000004C1
 
-[Max Money]
+[Max Money (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Money
 // Max Money
@@ -1230,19 +1212,19 @@ description=Zul's Toy L3
 // Zul's Toy L3
 patch=1,EE,101F3668,extended,00004085
 
-[Azure Headband L1]
+[Azure Headband L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Azure Headband L1
 // Azure Headband L1
 patch=1,EE,101F3678,extended,0000408D
 
-[Azure Headband L2]
+[Azure Headband L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Azure Headband L2
 // Azure Headband L2
 patch=1,EE,101F3680,extended,0000408D
 
-[Azure Headband L3]
+[Azure Headband L3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Azure Headband L3
 // Azure Headband L3
@@ -1284,37 +1266,37 @@ description=Billiana Hood L3
 // Billiana Hood L3
 patch=1,EE,101F3700,extended,0000408D
 
-[Pot L1]
+[Pot L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pot L1
 // Pot L1
 patch=1,EE,101F3708,extended,0000408D
 
-[Pot L2]
+[Pot L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pot L2
 // Pot L2
 patch=1,EE,101F3710,extended,0000408D
 
-[Pot L3]
+[Pot L3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pot L3
 // Pot L3
 patch=1,EE,101F3718,extended,0000408D
 
-[Swan Beret L1]
+[Swan Beret L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Swan Beret L1
 // Swan Beret L1
 patch=1,EE,101F3720,extended,0000408D
 
-[Swan Beret L2]
+[Swan Beret L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Swan Beret L2
 // Swan Beret L2
 patch=1,EE,101F3728,extended,0000408D
 
-[Swan Beret L3]
+[Swan Beret L3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Swan Beret L3
 // Swan Beret L3
@@ -1338,91 +1320,91 @@ description=Cat Ears L3
 // Cat Ears L3
 patch=1,EE,101F3748,extended,0000408D
 
-[Rabbit Helmet L1]
+[Rabbit Helmet L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rabbit Helmet L1
 // Rabbit Helmet L1
 patch=1,EE,101F3750,extended,0000408D
 
-[Rabbit Helmet L2]
+[Rabbit Helmet L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rabbit Helmet L2
 // Rabbit Helmet L2
 patch=1,EE,101F3758,extended,0000408D
 
-[Rabbit Helmet L3]
+[Rabbit Helmet L3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rabbit Helmet L3
 // Rabbit Helmet L3
 patch=1,EE,101F3760,extended,0000408D
 
-[Armor Of Frost L1]
+[Armor Of Frost L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Armor Of Frost L1
 // Armor Of Frost L1
 patch=1,EE,101F3818,extended,00004095
 
-[Armor Of Frost L2]
+[Armor Of Frost L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Armor Of Frost L2
 // Armor Of Frost L2
 patch=1,EE,101F3820,extended,00004095
 
-[Armor Of Frost L3]
+[Armor Of Frost L3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Armor Of Frost L3
 // Armor Of Frost L3
 patch=1,EE,101F3828,extended,00004095
 
-[Flayed Skin Armor L1]
+[Flayed Skin Armor L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Flayed Skin Armor L1
 // Flayed Skin Armor L1
 patch=1,EE,101F3830,extended,00004095
 
-[Flayed Skin Armor L2]
+[Flayed Skin Armor L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Flayed Skin Armor L2
 // Flayed Skin Armor L2
 patch=1,EE,101F3838,extended,00004095
 
-[Flayed Skin Armor L3]
+[Flayed Skin Armor L3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Flayed Skin Armor L3
 // Flayed Skin Armor L3
 patch=1,EE,101F3840,extended,00004095
 
-[Paldio Breastplate L1]
+[Paldio Breastplate L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Paldio Breastplate L1
 // Paldio Breastplate L1
 patch=1,EE,101F3848,extended,00004095
 
-[Paldio Breastplate L2]
+[Paldio Breastplate L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Paldio Breastplate L2
 // Paldio Breastplate L2
 patch=1,EE,101F3850,extended,00004095
 
-[Paldio Breastplate L3]
+[Paldio Breastplate L3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Paldio Breastplate L3
 // Paldio Breastplate L3
 patch=1,EE,101F3858,extended,00004095
 
-[Volt Suit L1]
+[Volt Suit L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Volt Suit L1
 // Volt Suit L1
 patch=1,EE,101F3860,extended,00004095
 
-[Volt Suit L2]
+[Volt Suit L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Volt Suit L2
 // Volt Suit L2
 patch=1,EE,101F3868,extended,00004095
 
-[Volt Suit L3]
+[Volt Suit L3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Volt Suit L3
 // Volt Suit L3
@@ -1464,13 +1446,13 @@ description=Dragolos Armor L3
 // Dragolos Armor L3
 patch=1,EE,101F38A0,extended,00004095
 
-[Armor of Valor L1]
+[Armor of Valor L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Armor of Valor L1
 // Armor of Valor L1
 patch=1,EE,101F38A8,extended,00004095
 
-[Armor of Valor L2]
+[Armor of Valor L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Armor of Valor L2
 // Armor of Valor L2
@@ -1500,55 +1482,55 @@ description=HRL-000-A L3
 // HRL-000-A L3
 patch=1,EE,101F38D0,extended,00004095
 
-[Armored Boots L1]
+[Armored Boots L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Armored Boots L1
 // Armored Boots L1
 patch=1,EE,101F38F8,extended,0000409D
 
-[Armored Boots L2]
+[Armored Boots L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Armored Boots L2
 // Armored Boots L2
 patch=1,EE,101F3900,extended,0000409D
 
-[Armored Boots L3]
+[Armored Boots L3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Armored Boots L3
 // Armored Boots L3
 patch=1,EE,101F3908,extended,0000409D
 
-[Dragolos Boots L1]
+[Dragolos Boots L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dragolos Boots L1
 // Dragolos Boots L1
 patch=1,EE,101F3910,extended,0000409D
 
-[Dragolos Boots L2]
+[Dragolos Boots L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dragolos Boots L2
 // Dragolos Boots L2
 patch=1,EE,101F3918,extended,0000409D
 
-[Dragolos Boots L3]
+[Dragolos Boots L3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dragolos Boots L3
 // Dragolos Boots L3
 patch=1,EE,101F3920,extended,0000409D
 
-[Speed Boots L1]
+[Speed Boots L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Speed Boots L1
 // Speed Boots L1
 patch=1,EE,101F3928,extended,0000409D
 
-[Speed Boots L2]
+[Speed Boots L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Speed Boots L2
 // Speed Boots L2
 patch=1,EE,101F3930,extended,0000409D
 
-[Speed Boots L3]
+[Speed Boots L3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Speed Boots L3
 // Speed Boots L3
@@ -1572,19 +1554,19 @@ description=Woven Boots L3
 // Woven Boots L3
 patch=1,EE,101F3950,extended,0000409D
 
-[Paldio Boots L1]
+[Paldio Boots L1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Paldio Boots L1
 // Paldio Boots L1
 patch=1,EE,101F3958,extended,0000409D
 
-[Paldio Boots L2]
+[Paldio Boots L2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Paldio Boots L2
 // Paldio Boots L2
 patch=1,EE,101F3960,extended,0000409D
 
-[Paldio Boots L3]
+[Paldio Boots L3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Paldio Boots L3
 // Paldio Boots L3
@@ -1626,193 +1608,193 @@ description=Cat Feet L3
 // Cat Feet L3
 patch=1,EE,101F3998,extended,0000409D
 
-[Star Necklace]
+[Star Necklace (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Star Necklace
 // Star Necklace
 patch=1,EE,101F39B0,extended,000040A5
 
-[Pendant Of Hope]
+[Pendant Of Hope (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pendant Of Hope
 // Pendant Of Hope
 patch=1,EE,101F39B8,extended,000040A5
 
-[Icon Of Divinity]
+[Icon Of Divinity (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Icon Of Divinity
 // Icon Of Divinity
 patch=1,EE,101F39C0,extended,000040A5
 
-[Icon Of Loyalty]
+[Icon Of Loyalty (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Icon Of Loyalty
 // Icon Of Loyalty
 patch=1,EE,101F39C8,extended,000040A5
 
-[Band Of Clarity]
+[Band Of Clarity (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Band Of Clarity
 // Band Of Clarity
 patch=1,EE,101F39D0,extended,000040A5
 
-[Ring Of Blessing]
+[Ring Of Blessing (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ring Of Blessing
 // Ring Of Blessing
 patch=1,EE,101F39D8,extended,000040A5
 
-[Elder's Ring]
+[Elder's Ring (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Elder's Ring
 // Elder's Ring
 patch=1,EE,101F39E0,extended,000040A5
 
-[Amulet Of Purity]
+[Amulet Of Purity (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Amulet Of Purity
 // Amulet Of Purity
 patch=1,EE,101F39E8,extended,000040A5
 
-[Ring Of Resist]
+[Ring Of Resist (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ring Of Resist
 // Ring Of Resist
 patch=1,EE,101F39F0,extended,000040A5
 
-[Life Extract]
+[Life Extract (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Life Extract
 // Life Extract
 patch=1,EE,101F39F8,extended,000004C5
 
-[Antidote]
+[Antidote (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Antidote
 // Antidote
 patch=1,EE,101F3A00,extended,000004C5
 
-[Billiana Leaf]
+[Billiana Leaf (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Billiana Leaf
 // Billiana Leaf
 patch=1,EE,101F3A08,extended,000004C5
 
-[Release Emblem]
+[Release Emblem (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Release Emblem
 // Release Emblem
 patch=1,EE,101F3A10,extended,000004C5
 
-[Orb Of Atonement]
+[Orb Of Atonement (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Orb Of Atonement
 // Orb Of Atonement
 patch=1,EE,101F3A18,extended,000004C5
 
-[Billiana Extract]
+[Billiana Extract (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Billiana Extract
 // Billiana Extract
 patch=1,EE,101F3A20,extended,000004C5
 
-[Red Fruit]
+[Red Fruit (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Red Fruit
 // Red Fruit
 patch=1,EE,101F3A28,extended,000004C5
 
-[Blue Fruit]
+[Blue Fruit (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Blue Fruit
 // Blue Fruit
 patch=1,EE,101F3A30,extended,000004C5
 
-[Mushrooms]
+[Mushrooms (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Mushrooms
 // Mushrooms
 patch=1,EE,101F3A38,extended,000004C5
 
-[Palmira Ore]
+[Palmira Ore (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Palmira Ore
 // Palmira Ore
 patch=1,EE,101F3A40,extended,000004C5
 
-[Sword Star]
+[Sword Star (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sword Star
 // Sword Star
 patch=1,EE,101F3A48,extended,000004C5
 
-[Royal Medal]
+[Royal Medal (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Royal Medal
 // Royal Medal
 patch=1,EE,101F3A50,extended,000004C5
 
-[Red Sphere]
+[Red Sphere (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Red Sphere
 // Red Sphere
 patch=1,EE,101F3A58,extended,000004C5
 
-[Blue Sphere]
+[Blue Sphere (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Blue Sphere
 // Blue Sphere
 patch=1,EE,101F3A60,extended,000004C5
 
-[Master Key 2F]
+[Master Key 2F (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Master Key 2F
 // Master Key 2F
 patch=1,EE,101F3A68,extended,000004C5
 
-[Billiana Fruit]
+[Billiana Fruit (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Billiana Fruit
 // Billiana Fruit
 patch=1,EE,101F3A70,extended,000004C5
 
-[Right Winged Key]
+[Right Winged Key (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Right Winged Key
 // Right Winged Key
 patch=1,EE,101F3A78,extended,000004C5
 
-[Left Winged Key]
+[Left Winged Key (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Left Winged Key
 // Left Winged Key
 patch=1,EE,101F3A80,extended,000004C5
 
-[Red Sphere (B)]
+[Red Sphere (B) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Red Sphere (B)
 // Red Sphere (B)
 patch=1,EE,101F3A88,extended,000004C5
 
-[Blue Sphere (B)]
+[Blue Sphere (B) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Blue Sphere (B)
 // Blue Sphere (B)
 patch=1,EE,101F3A90,extended,000004C5
 
-[Scarlet Sphere]
+[Scarlet Sphere (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Scarlet Sphere
 // Scarlet Sphere
 patch=1,EE,101F3A98,extended,000004C5
 
-[Azure Sphere]
+[Azure Sphere (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Azure Sphere
 // Azure Sphere
 patch=1,EE,101F3AA0,extended,000004C5
 
-[Dark Guide Post]
+[Dark Guide Post (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Dark Guide Post
 // Dark Guide Post
@@ -1830,32 +1812,44 @@ description=Caped Stat Head
 // Caped Stat Head
 patch=1,EE,101F3AB8,extended,000004C5
 
-[Treasure Key]
+[Treasure Key (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Treasure Key
 // Treasure Key
 patch=1,EE,101F3AC0,extended,000004C5
 
-[Soul Of Goddess]
+[Soul Of Goddess (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Soul Of Goddess
 // Soul Of Goddess
 patch=1,EE,101F3AC8,extended,000004C5
 
-[Small Flower]
+[Small Flower (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Small Flower
 // Small Flower
 patch=1,EE,101F3AD0,extended,000004C5
 
-[Transpot Palmira]
+[Transpot Palmira (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Transpot Palmira
 // Transpot Palmira
 patch=1,EE,101F3AD8,extended,000004C5
 
-[Sealed Key]
+[Sealed Key (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sealed Key
 // Sealed Key
 patch=1,EE,101F3AE0,extended,000004C5
+
+[Cheats\Infinite Health & Power Both Characters]
+patch=1,EE,101F7E60,extended,00000428
+patch=1,EE,101F7E66,extended,00000428
+
+[Cheats\Use A Blue Fruit To Max Stats]
+patch=1,EE,101F75F5,extended,00000000
+patch=1,EE,101F75F6,extended,000000C8
+patch=1,EE,101F75F8,extended,000000C8
+patch=1,EE,101F75FA,extended,000000C8
+patch=1,EE,101F75FC,extended,000000C8
+patch=1,EE,101F75FE,extended,000000C8

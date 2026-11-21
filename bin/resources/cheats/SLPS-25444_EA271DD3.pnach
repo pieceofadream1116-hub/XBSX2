@@ -1,0 +1,4 @@
+gametitle=Cherry blossom ～チェリーブロッサム～ [SLPS-25444] [EA271DD3]
+
+[Cheats\Infinite Money 999999]
+patch=1,EE,20368AA8,extended,000F423F

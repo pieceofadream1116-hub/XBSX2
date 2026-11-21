@@ -1,0 +1,9 @@
+gametitle=FIFA トータルフットボール [SLPM-65527] [E3FB6E8F]
+
+[Cheats\Home Side Press L3+R3 Score 9 Goals]
+patch=1,EE,D06B6C02,extended,0000FFF9
+patch=1,EE,005E886C,extended,00000009
+
+[Cheats\Away Side Press L3+R3 Score 9 Goals]
+patch=1,EE,D06B6C02,extended,0000FFF9
+patch=1,EE,005E8868,extended,00000009

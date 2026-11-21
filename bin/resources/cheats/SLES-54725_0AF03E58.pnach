@@ -1,0 +1,4 @@
+gametitle=Kirikou and the Wild Beasts [SLES-54725] [0AF03E58]
+
+[Cheats\Have 9999 pots]
+patch=1,EE,205A7862,extended,0000270F

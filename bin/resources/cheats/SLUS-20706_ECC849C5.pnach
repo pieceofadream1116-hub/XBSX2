@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,2018DF40,extended,8E411330
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -59,3 +59,16 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Mission Select (Main Menu)
 // Unlock Mission Select (Main Menu)
 patch=1,EE,203CD5AC,extended,00000024
+
+[Cheats\Infinite Health]
+patch=1,EE,2018DF40,extended,8E411330
+patch=1,EE,2018DF48,extended,AE41132C
+
+[Cheats\Enable Debug Level Select]
+patch=1,EE,203B3010,extended,006DC318
+
+[Cheats\Enable Debug Options in Pause Menu in Game]
+patch=1,EE,20208350,extended,0C152DC0
+patch=1,EE,2054B700,extended,24110004
+patch=1,EE,2054B704,extended,AE110338
+patch=1,EE,2054B708,extended,03E00008

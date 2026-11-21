@@ -36,7 +36,7 @@ description=Have All Aircraft
 // Have All Aircraft
 patch=1,EE,203840F8,extended,81818181
 
-[Have All Aircraft]
+[Have All Aircraft (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Aircraft
 // Have All Aircraft
@@ -48,13 +48,13 @@ description=Have All Graphics
 // Have All Graphics
 patch=1,EE,20386690,extended,FFFFFFFF
 
-[Have All Graphics]
+[Have All Graphics (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Graphics
 // Have All Graphics
 patch=1,EE,20386694,extended,FFFFFFFF
 
-[Have All Graphics]
+[Have All Graphics (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Graphics
 // Have All Graphics
@@ -66,7 +66,7 @@ description=Have All Map Pieces
 // Have All Map Pieces
 patch=1,EE,0038415D,extended,00000085
 
-[Have All Map Pieces]
+[Have All Map Pieces (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Map Pieces
 // Have All Map Pieces
@@ -78,7 +78,7 @@ description=Have All Levels
 // Have All Levels
 patch=1,EE,40383C78,extended,00050001
 
-[Have All Levels]
+[Have All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels
 // Have All Levels
@@ -90,8 +90,27 @@ description=Max Scores
 // Max Scores
 patch=1,EE,40383C98,extended,000A0001
 
-[Max Scores]
+[Max Scores (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Scores
 // Max Scores
 patch=1,EE,42C80000,extended,00000000
+
+[Cheats\Unlock All Aircraft]
+patch=1,EE,203840F8,extended,81818181
+patch=1,EE,103840FC,extended,00008181
+
+[Cheats\Unlock All Graphics]
+patch=1,EE,20386690,extended,FFFFFFFF
+patch=1,EE,20386694,extended,FFFFFFFF
+patch=1,EE,10386698,extended,0000FFFF
+
+[Cheats\Unlock All Map Pieces]
+patch=1,EE,0038415D,extended,00000085
+patch=1,EE,1038415E,extended,00008986
+
+[Cheats\Press L3+R3 For Debug Menu in any of the main menus, or the title screen.Change options with L1- R1. Press Circle to enter an option. When in any sub-menu, press Start to go back]
+patch=1,EE,D0363B82,extended,0000FFF9
+patch=1,EE,20114790,extended,2410FFFF
+patch=1,EE,D0363B82,extended,0000FFFF
+patch=1,EE,20114790,extended,0040802D

@@ -1,0 +1,5 @@
+gametitle=探偵学園Q ～奇翁館の殺意～ [初回生産分] [SLPM-65450] [970FEAB8]
+
+[Cheats\Unlock All Trial Mode]
+patch=1,EE,21DBD7E0,extended,01010101
+patch=1,EE,21DBD7E4,extended,01010101

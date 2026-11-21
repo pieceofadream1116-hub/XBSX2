@@ -1,0 +1,4 @@
+gametitle=Motor Mayhem [SLES-50438] [CF012100]
+
+[Cheats\Infinite Lives Eliminator Tournament]
+patch=1,EE,101B3E60,extended,00000005

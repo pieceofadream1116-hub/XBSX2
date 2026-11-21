@@ -12,25 +12,25 @@ description=Infinite Life Bar
 // Infinite Life Bar
 patch=1,EE,200C0220,extended,8C61035C
 
-[Infinite Life Bar]
+[Infinite Life Bar (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life Bar
 // Infinite Life Bar
 patch=1,EE,200C0224,extended,AC610320
 
-[Infinite Life Bar]
+[Infinite Life Bar (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life Bar
 // Infinite Life Bar
 patch=1,EE,200C0228,extended,03E00008
 
-[Infinite Life Bar]
+[Infinite Life Bar (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life Bar
 // Infinite Life Bar
 patch=1,EE,200C022C,extended,C4640320
 
-[Infinite Life Bar]
+[Infinite Life Bar (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life Bar
 // Infinite Life Bar
@@ -42,25 +42,25 @@ description=Infinite Life Bar (Escorts)
 // Infinite Life Bar (Escorts)
 patch=1,EE,200C0240,extended,8C61035C
 
-[Infinite Life Bar (Escorts)]
+[Infinite Life Bar (Escorts) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life Bar (Escorts)
 // Infinite Life Bar (Escorts)
 patch=1,EE,200C0244,extended,AC610320
 
-[Infinite Life Bar (Escorts)]
+[Infinite Life Bar (Escorts) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life Bar (Escorts)
 // Infinite Life Bar (Escorts)
 patch=1,EE,200C0248,extended,03E00008
 
-[Infinite Life Bar (Escorts)]
+[Infinite Life Bar (Escorts) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life Bar (Escorts)
 // Infinite Life Bar (Escorts)
 patch=1,EE,200C024C,extended,C4630320
 
-[Infinite Life Bar (Escorts)]
+[Infinite Life Bar (Escorts) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life Bar (Escorts)
 // Infinite Life Bar (Escorts)
@@ -78,25 +78,25 @@ description=Always Max Infinite Turbo
 // Always Max Infinite Turbo
 patch=1,EE,200C0230,extended,3C013F80
 
-[Always Max Infinite Turbo]
+[Always Max Infinite Turbo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Infinite Turbo
 // Always Max Infinite Turbo
 patch=1,EE,200C0234,extended,AC410324
 
-[Always Max Infinite Turbo]
+[Always Max Infinite Turbo (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Infinite Turbo
 // Always Max Infinite Turbo
 patch=1,EE,200C0238,extended,080C34CF
 
-[Always Max Infinite Turbo]
+[Always Max Infinite Turbo (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Infinite Turbo
 // Always Max Infinite Turbo
 patch=1,EE,200C023C,extended,C4410324
 
-[Always Max Infinite Turbo]
+[Always Max Infinite Turbo (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always Max Infinite Turbo
 // Always Max Infinite Turbo
@@ -120,65 +120,35 @@ description=Instant Death (Enemies)
 // Instant Death (Enemies)
 patch=1,EE,200C0250,extended,52200001
 
-[Instant Death (Enemies)]
+[Instant Death (Enemies) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Instant Death (Enemies)
 // Instant Death (Enemies)
 patch=1,EE,200C0254,extended,44800800
 
-[Instant Death (Enemies)]
+[Instant Death (Enemies) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Instant Death (Enemies)
 // Instant Death (Enemies)
 patch=1,EE,200C0258,extended,E4610320
 
-[Instant Death (Enemies)]
+[Instant Death (Enemies) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Instant Death (Enemies)
 // Instant Death (Enemies)
 patch=1,EE,200C025C,extended,03E00008
 
-[Instant Death (Enemies)]
+[Instant Death (Enemies) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Instant Death (Enemies)
 // Instant Death (Enemies)
 patch=1,EE,200C0260,extended,44800000
 
-[Instant Death (Enemies)]
+[Instant Death (Enemies) (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Instant Death (Enemies)
 // Instant Death (Enemies)
 patch=1,EE,20255704,extended,0C030094
-
-[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
-// P1 Press {L1}+{SELECT} To Kill Enemy Racers
-patch=1,EE,200C0250,extended,52200001
-
-[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
-// P1 Press {L1}+{SELECT} To Kill Enemy Racers
-patch=1,EE,200C0254,extended,44800800
-
-[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
-// P1 Press {L1}+{SELECT} To Kill Enemy Racers
-patch=1,EE,200C0258,extended,E4610320
-
-[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
-// P1 Press {L1}+{SELECT} To Kill Enemy Racers
-patch=1,EE,200C025C,extended,03E00008
-
-[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
-// P1 Press {L1}+{SELECT} To Kill Enemy Racers
-patch=1,EE,200C0260,extended,44800000
 
 [P1 Press {L1}+{SELECT} To Kill Enemy Racers]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -186,19 +156,13 @@ description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
 // P1 Press {L1}+{SELECT} To Kill Enemy Racers
 patch=1,EE,D0892CC2,extended,0000FBFE
 
-[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
-// P1 Press {L1}+{SELECT} To Kill Enemy Racers
-patch=1,EE,20255704,extended,0C030094
-
-[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
+[P1 Press {L1}+{SELECT} To Kill Enemy Racers (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
 // P1 Press {L1}+{SELECT} To Kill Enemy Racers
 patch=1,EE,D0892CC2,extended,0000FFFF
 
-[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
+[P1 Press {L1}+{SELECT} To Kill Enemy Racers (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
 // P1 Press {L1}+{SELECT} To Kill Enemy Racers
@@ -222,13 +186,13 @@ description=Access All Missions
 // Access All Missions
 patch=1,EE,2048E454,extended,24020001
 
-[Access All Missions]
+[Access All Missions (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Missions
 // Access All Missions
 patch=1,EE,2047C838,extended,24020001
 
-[Access All Missions]
+[Access All Missions (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Access All Missions
 // Access All Missions
@@ -642,8 +606,37 @@ description=All Missions Completed
 // All Missions Completed
 patch=1,EE,4079F56C,extended,00420002
 
-[All Missions Completed]
+[All Missions Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Missions Completed
 // All Missions Completed
 patch=1,EE,00000001,extended,00000000
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock.
+patch=0,EE,005924E4,word,3C75C28F //3CF5C28F
+//patch=1,EE,001E8C28,word,C6000002 //C6000004
+
+[Cheats\Infinite Health]
+patch=1,EE,203096A8,extended,3C0142FA
+patch=1,EE,203096CC,extended,44812000
+patch=1,EE,203096D8,extended,AC610320
+
+[Cheats\Infinite Boost]
+patch=1,EE,201B5498,extended,00000000
+
+[Cheats\Infinite Ammo]
+patch=1,EE,202EAED0,extended,00000000
+
+[Cheats\Bypass Ammo Check]
+patch=1,EE,202EABF8,extended,24020001
+
+[Cheats\Unlock All Races]
+patch=1,EE,2048C224,extended,A05E0004
+patch=1,EE,2048C228,extended,00000000
+patch=1,EE,2048C230,extended,00000000
+
+[Cheats\Unlock All Cars]
+patch=1,EE,20464728,extended,24010001
+patch=1,EE,20464734,extended,A0410004

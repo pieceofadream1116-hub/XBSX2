@@ -1,0 +1,7 @@
+gametitle=風色サーフ [限定版] [SLPM-55166] [631E1BAB]
+
+[Cheats\Unlock All Gallery]
+patch=1,EE,41916F3F,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,21916F29,extended,FFFFFFFF
+patch=1,EE,11916F5F,extended,0000FFFF

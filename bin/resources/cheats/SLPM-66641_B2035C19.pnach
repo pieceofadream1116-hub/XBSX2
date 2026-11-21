@@ -1,0 +1,6 @@
+gametitle=すくぅ～る らぶっ！～恋と希望のメトロノーム～ [SLPM-66641] [B2035C19]
+
+[Cheats\Unlock All CG]
+patch=1,EE,4023DDD0,extended,00090001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,0023DDF4,extended,000000FF

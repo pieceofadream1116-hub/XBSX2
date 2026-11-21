@@ -24,7 +24,7 @@ description=Have All Challenges Completed
 // Have All Challenges Completed
 patch=1,EE,203A5890,extended,FFFFFFFF
 
-[Have All Challenges Completed]
+[Have All Challenges Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Challenges Completed
 // Have All Challenges Completed
@@ -48,7 +48,7 @@ description=Unlock All Challenges
 // Unlock All Challenges
 patch=1,EE,203A58C8,extended,FFFFFFFF
 
-[Unlock All Challenges]
+[Unlock All Challenges (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Challenges
 // Unlock All Challenges
@@ -101,3 +101,11 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Features Unlocked
 // Features Unlocked
 patch=1,EE,20248B04,extended,00000001
+
+[Cheats\Have All Challenges Completed]
+patch=1,EE,203A5890,extended,FFFFFFFF
+patch=1,EE,203A5894,extended,FFFFFFFF
+
+[Cheats\Unlock All Challenges]
+patch=1,EE,203A58C8,extended,FFFFFFFF
+patch=1,EE,203A58CC,extended,FFFFFFFF

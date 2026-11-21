@@ -24,19 +24,19 @@ description=Have All 101 Dalmatians
 // Have All 101 Dalmatians
 patch=1,EE,003F3393,extended,000000FF
 
-[Have All 101 Dalmatians]
+[Have All 101 Dalmatians (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All 101 Dalmatians
 // Have All 101 Dalmatians
 patch=1,EE,203F3394,extended,FFFFFFFF
 
-[Have All 101 Dalmatians]
+[Have All 101 Dalmatians (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All 101 Dalmatians
 // Have All 101 Dalmatians
 patch=1,EE,203F3398,extended,FFFFFFFF
 
-[Have All 101 Dalmatians]
+[Have All 101 Dalmatians (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All 101 Dalmatians
 // Have All 101 Dalmatians
@@ -156,49 +156,49 @@ description=Max Orange Meter?
 // Max Orange Meter?
 patch=1,EE,10524116,extended,000003E7
 
-[Infinite HP]
+[Infinite HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,20524178,extended,000003E7
 
-[Max HP]
+[Max HP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,2052417C,extended,000003E7
 
-[Infinite MP]
+[Infinite MP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,20524180,extended,000003E7
 
-[Max MP]
+[Max MP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,20524184,extended,000003E7
 
-[Infinite HP]
+[Infinite HP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,2052425C,extended,000003E7
 
-[Max HP]
+[Max HP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,20524260,extended,000003E7
 
-[Infinite MP]
+[Infinite MP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,20524264,extended,000003E7
 
-[Max MP]
+[Max MP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
@@ -210,25 +210,25 @@ description=Level 99
 // Level 99
 patch=1,EE,003F1C94,extended,00000063
 
-[Infinite HP]
+[Infinite HP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,003F1C95,extended,000000FF
 
-[Max HP]
+[Max HP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,003F1C96,extended,000000FF
 
-[Infinite MP]
+[Infinite MP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,003F1C97,extended,000000FF
 
-[Max MP]
+[Max MP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
@@ -264,31 +264,31 @@ description=Max EXP
 // Max EXP
 patch=1,EE,203F1CD0,extended,0098967F
 
-[Level 99]
+[Level 99 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,003F1D08,extended,00000063
 
-[Infinite HP]
+[Infinite HP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,003F1D09,extended,000000FF
 
-[Max HP]
+[Max HP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,003F1D0A,extended,000000FF
 
-[Infinite MP]
+[Infinite MP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,003F1D0B,extended,000000FF
 
-[Max MP]
+[Max MP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
@@ -300,505 +300,505 @@ description=Max AP/Max AP
 // Max AP/Max AP
 patch=1,EE,003F1D0D,extended,000000FF
 
-[Max STR]
+[Max STR (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max STR
 // Max STR
 patch=1,EE,003F1D0E,extended,000000FF
 
-[Max DEF]
+[Max DEF (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,003F1D0F,extended,000000FF
 
-[Quick EXP Gain]
+[Quick EXP Gain (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,103F1D44,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
 patch=1,EE,203F1D44,extended,0098967F
 
-[Level 99]
+[Level 99 (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,003F1D7C,extended,00000063
 
-[Infinite HP]
+[Infinite HP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,003F1D7D,extended,000000FF
 
-[Max HP]
+[Max HP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,003F1D7E,extended,000000FF
 
-[Infinite MP]
+[Infinite MP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,003F1D7F,extended,000000FF
 
-[Max MP]
+[Max MP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,003F1D80,extended,000000FF
 
-[Max AP/Max AP]
+[Max AP/Max AP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AP/Max AP
 // Max AP/Max AP
 patch=1,EE,003F1D81,extended,000000FF
 
-[Max STR]
+[Max STR (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max STR
 // Max STR
 patch=1,EE,003F1D82,extended,000000FF
 
-[Max DEF]
+[Max DEF (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,003F1D83,extended,000000FF
 
-[Quick EXP Gain]
+[Quick EXP Gain (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,103F1DB8,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
 patch=1,EE,203F1DB8,extended,0098967F
 
-[Level 99]
+[Level 99 (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,003F1DF0,extended,00000063
 
-[Infinite HP]
+[Infinite HP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,003F1DF1,extended,000000FF
 
-[Max HP]
+[Max HP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,003F1DF2,extended,000000FF
 
-[Infinite MP]
+[Infinite MP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,003F1DF3,extended,000000FF
 
-[Max MP]
+[Max MP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,003F1DF4,extended,000000FF
 
-[Max AP/Max AP]
+[Max AP/Max AP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AP/Max AP
 // Max AP/Max AP
 patch=1,EE,003F1DF5,extended,000000FF
 
-[Max STR]
+[Max STR (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max STR
 // Max STR
 patch=1,EE,003F1DF6,extended,000000FF
 
-[Max DEF]
+[Max DEF (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,003F1DF7,extended,000000FF
 
-[Quick EXP Gain]
+[Quick EXP Gain (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,103F1E2C,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
 patch=1,EE,203F1E2C,extended,0098967F
 
-[Level 99]
+[Level 99 (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,003F1E64,extended,00000063
 
-[Infinite HP]
+[Infinite HP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,003F1E65,extended,000000FF
 
-[Max HP]
+[Max HP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,003F1E66,extended,000000FF
 
-[Infinite MP]
+[Infinite MP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,003F1E67,extended,000000FF
 
-[Max MP]
+[Max MP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,003F1E68,extended,000000FF
 
-[Max AP/Max AP]
+[Max AP/Max AP (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AP/Max AP
 // Max AP/Max AP
 patch=1,EE,003F1E69,extended,000000FF
 
-[Max STR]
+[Max STR (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max STR
 // Max STR
 patch=1,EE,003F1E6A,extended,000000FF
 
-[Max DEF]
+[Max DEF (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,003F1E6B,extended,000000FF
 
-[Quick EXP Gain]
+[Quick EXP Gain (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,103F1EA0,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
 patch=1,EE,203F1EA0,extended,0098967F
 
-[Level 99]
+[Level 99 (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,003F1ED8,extended,00000063
 
-[Infinite HP]
+[Infinite HP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,003F1ED9,extended,000000FF
 
-[Max HP]
+[Max HP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,003F1EDA,extended,000000FF
 
-[Infinite MP]
+[Infinite MP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,003F1EDB,extended,000000FF
 
-[Max MP]
+[Max MP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,003F1EDC,extended,000000FF
 
-[Max AP/Max AP]
+[Max AP/Max AP (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AP/Max AP
 // Max AP/Max AP
 patch=1,EE,003F1EDD,extended,000000FF
 
-[Max STR]
+[Max STR (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max STR
 // Max STR
 patch=1,EE,003F1EDE,extended,000000FF
 
-[Max DEF]
+[Max DEF (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,003F1EDF,extended,000000FF
 
-[Quick EXP Gain]
+[Quick EXP Gain (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,103F1F14,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
 patch=1,EE,203F1F14,extended,0098967F
 
-[Level 99]
+[Level 99 (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,003F1F4C,extended,00000063
 
-[Infinite HP]
+[Infinite HP (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,003F1F4D,extended,000000FF
 
-[Max HP]
+[Max HP (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,003F1F4E,extended,000000FF
 
-[Infinite MP]
+[Infinite MP (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,003F1F4F,extended,000000FF
 
-[Max MP]
+[Max MP (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,003F1F50,extended,000000FF
 
-[Max AP/Max AP]
+[Max AP/Max AP (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AP/Max AP
 // Max AP/Max AP
 patch=1,EE,003F1F51,extended,000000FF
 
-[Max STR]
+[Max STR (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max STR
 // Max STR
 patch=1,EE,003F1F52,extended,000000FF
 
-[Max DEF]
+[Max DEF (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,003F1F53,extended,000000FF
 
-[Quick EXP Gain]
+[Quick EXP Gain (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,103F1F88,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
 patch=1,EE,203F1F88,extended,0098967F
 
-[Level 99]
+[Level 99 (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,003F1FC0,extended,00000063
 
-[Infinite HP]
+[Infinite HP (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,003F1FC1,extended,000000FF
 
-[Max HP]
+[Max HP (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,003F1FC2,extended,000000FF
 
-[Infinite MP]
+[Infinite MP (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,003F1FC3,extended,000000FF
 
-[Max MP]
+[Max MP (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,003F1FC4,extended,000000FF
 
-[Max AP/Max AP]
+[Max AP/Max AP (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AP/Max AP
 // Max AP/Max AP
 patch=1,EE,003F1FC5,extended,000000FF
 
-[Max STR]
+[Max STR (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max STR
 // Max STR
 patch=1,EE,003F1FC6,extended,000000FF
 
-[Max DEF]
+[Max DEF (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,003F1FC7,extended,000000FF
 
-[Quick EXP Gain]
+[Quick EXP Gain (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,103F1FFC,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
 patch=1,EE,203F1FFC,extended,0098967F
 
-[Level 99]
+[Level 99 (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,003F2034,extended,00000063
 
-[Infinite HP]
+[Infinite HP (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,003F2035,extended,000000FF
 
-[Max HP]
+[Max HP (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,003F2036,extended,000000FF
 
-[Infinite MP]
+[Infinite MP (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,003F2037,extended,000000FF
 
-[Max MP]
+[Max MP (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,003F2038,extended,000000FF
 
-[Max AP/Max AP]
+[Max AP/Max AP (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AP/Max AP
 // Max AP/Max AP
 patch=1,EE,003F2039,extended,000000FF
 
-[Max STR]
+[Max STR (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max STR
 // Max STR
 patch=1,EE,003F203A,extended,000000FF
 
-[Max DEF]
+[Max DEF (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,003F203B,extended,000000FF
 
-[Quick EXP Gain]
+[Quick EXP Gain (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,103F2070,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
 patch=1,EE,203F2070,extended,0098967F
 
-[Level 99]
+[Level 99 (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Level 99
 // Level 99
 patch=1,EE,003F20A8,extended,00000063
 
-[Infinite HP]
+[Infinite HP (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite HP
 // Infinite HP
 patch=1,EE,003F20A9,extended,000000FF
 
-[Max HP]
+[Max HP (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max HP
 // Max HP
 patch=1,EE,003F20AA,extended,000000FF
 
-[Infinite MP]
+[Infinite MP (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite MP
 // Infinite MP
 patch=1,EE,003F20AB,extended,000000FF
 
-[Max MP]
+[Max MP (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max MP
 // Max MP
 patch=1,EE,003F20AC,extended,000000FF
 
-[Max AP/Max AP]
+[Max AP/Max AP (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max AP/Max AP
 // Max AP/Max AP
 patch=1,EE,003F20AD,extended,000000FF
 
-[Max STR]
+[Max STR (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max STR
 // Max STR
 patch=1,EE,003F20AE,extended,000000FF
 
-[Max DEF]
+[Max DEF (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max DEF
 // Max DEF
 patch=1,EE,003F20AF,extended,000000FF
 
-[Quick EXP Gain]
+[Quick EXP Gain (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,103F20E4,extended,0000FFFF
 
-[Max EXP]
+[Max EXP (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max EXP
 // Max EXP
@@ -1470,19 +1470,19 @@ description=Have All Keys
 // Have All Keys
 patch=1,EE,103F217A,extended,00000101
 
-[Have All Keys]
+[Have All Keys (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys
 // Have All Keys
 patch=1,EE,403F217C,extended,00030001
 
-[Have All Keys]
+[Have All Keys (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys
 // Have All Keys
 patch=1,EE,01010101,extended,00000000
 
-[Have All Keys]
+[Have All Keys (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Keys
 // Have All Keys
@@ -1494,13 +1494,7 @@ description=Have All Staffs
 // Have All Staffs
 patch=1,EE,403F2190,extended,00030001
 
-[Have All Staffs]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Staffs
-// Have All Staffs
-patch=1,EE,01010101,extended,00000000
-
-[Have All Staffs]
+[Have All Staffs (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Staffs
 // Have All Staffs
@@ -1512,13 +1506,7 @@ description=Have All Shields
 // Have All Shields
 patch=1,EE,403F21A0,extended,00030001
 
-[Have All Shields]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Shields
-// Have All Shields
-patch=1,EE,01010101,extended,00000000
-
-[Have All Shields]
+[Have All Shields (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Shields
 // Have All Shields
@@ -1530,13 +1518,13 @@ description=Unlock All Paths
 // Unlock All Paths
 patch=1,EE,103F3BA2,extended,0000FFFF
 
-[Unlock All Paths]
+[Unlock All Paths (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Paths
 // Unlock All Paths
 patch=1,EE,103F3BA4,extended,0000FFFF
 
-[Unlock All Paths]
+[Unlock All Paths (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Paths
 // Unlock All Paths
@@ -1608,67 +1596,67 @@ description=Monstro
 // Monstro
 patch=1,EE,003F3B8A,extended,00000003
 
-[Traverse Town]
+[Traverse Town (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Traverse Town
 // Traverse Town
 patch=1,EE,003F3B80,extended,00000004
 
-[Wonderland]
+[Wonderland (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wonderland
 // Wonderland
 patch=1,EE,003F3B81,extended,00000004
 
-[Olympus Coliseum]
+[Olympus Coliseum (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Olympus Coliseum
 // Olympus Coliseum
 patch=1,EE,003F3B82,extended,00000004
 
-[Deep Jungle]
+[Deep Jungle (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Deep Jungle
 // Deep Jungle
 patch=1,EE,003F3B83,extended,00000004
 
-[Agrabah]
+[Agrabah (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Agrabah
 // Agrabah
 patch=1,EE,003F3B84,extended,00000004
 
-[Halloween Town]
+[Halloween Town (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Halloween Town
 // Halloween Town
 patch=1,EE,003F3B85,extended,00000004
 
-[Atlantica]
+[Atlantica (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Atlantica
 // Atlantica
 patch=1,EE,003F3B86,extended,00000004
 
-[Neverland]
+[Neverland (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Neverland
 // Neverland
 patch=1,EE,003F3B87,extended,00000004
 
-[Hollow Bastion]
+[Hollow Bastion (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Hollow Bastion
 // Hollow Bastion
 patch=1,EE,003F3B88,extended,00000004
 
-[End Of The World]
+[End Of The World (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=End Of The World
 // End Of The World
 patch=1,EE,003F3B89,extended,00000004
 
-[Monstro]
+[Monstro (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Monstro
 // Monstro
@@ -1680,17 +1668,11 @@ description=Have All Blueprints
 // Have All Blueprints
 patch=1,EE,003FDB4F,extended,00000001
 
-[Have All Blueprints]
+[Have All Blueprints (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Blueprints
 // Have All Blueprints
 patch=1,EE,403FDB50,extended,00090001
-
-[Have All Blueprints]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Have All Blueprints
-// Have All Blueprints
-patch=1,EE,01010101,extended,00000000
 
 [Max All Equipment]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -1698,20 +1680,105 @@ description=Max All Equipment
 // Max All Equipment
 patch=1,EE,103F213A,extended,00006363
 
-[Max All Equipment]
+[Max All Equipment (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Equipment
 // Max All Equipment
 patch=1,EE,403F213C,extended,00090001
 
-[Max All Equipment]
+[Max All Equipment (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Equipment
 // Max All Equipment
 patch=1,EE,63636363,extended,00000000
 
-[Max All Equipment]
+[Max All Equipment (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Equipment
 // Max All Equipment
 patch=1,EE,003F2160,extended,00000063
+
+[Cheats\Sora - Infinite HP In Battle]
+patch=1,EE,00524094,extended,00000063
+
+[Cheats\Slot 2 - Infinite HP In Battle do not use it if Sora alone]
+patch=1,EE,00524178,extended,00000063
+
+[Cheats\Slot 3 - Infinite HP In Battle do not use it if Sora alone]
+patch=1,EE,0052425C,extended,00000063
+
+[Cheats\Sora - Infinite & Max HP]
+patch=1,EE,003F1C95,extended,000000FF
+patch=1,EE,003F1C96,extended,00000063
+
+[Cheats\Sora - Infinite & Max MP]
+patch=1,EE,003F1C97,extended,00000063
+patch=1,EE,003F1C98,extended,00000063
+
+[Cheats\Sora - All Magic]
+patch=1,EE,003F1D04,extended,0000007F
+
+[Cheats\Sora - Max Level]
+patch=1,EE,003F1C94,extended,00000064
+
+[Cheats\Donald - Infinite & Max HP]
+patch=1,EE,003F1D09,extended,00000063
+patch=1,EE,003F1D0A,extended,00000063
+
+[Cheats\Goofy - Infinite & Max HP]
+patch=1,EE,003F1D7D,extended,00000063
+patch=1,EE,003F1D7E,extended,00000063
+
+[Cheats\Rescue All Dalmations]
+patch=1,EE,003F3393,extended,000000FF
+patch=1,EE,203F3394,extended,FFFFFFFF
+patch=1,EE,203F3398,extended,FFFFFFFF
+patch=1,EE,203F339C,extended,7FFFFFFF
+
+[Cheats\Quick Barrel Challenge]
+patch=1,EE,00384544,extended,00000000
+
+[Cheats\Have All Trinities]
+patch=1,EE,003F38AB,extended,0000007F
+
+[Cheats\Have Mushu Summon]
+patch=1,EE,003F2462,extended,00000004
+
+[Cheats\Have Simba Summon]
+patch=1,EE,003F2464,extended,00000005
+
+[Cheats\Have Genie Summon]
+patch=1,EE,003F2465,extended,00000002
+
+[Cheats\Have All Gummi Parts]
+patch=1,EE,203FDB08,extended,63636363
+patch=1,EE,203FDB0C,extended,63636363
+patch=1,EE,203FDB10,extended,63636363
+patch=1,EE,203FDB14,extended,63636363
+patch=1,EE,203FDB18,extended,63636363
+patch=1,EE,203FDB1C,extended,63636363
+patch=1,EE,203FDB20,extended,63636363
+patch=1,EE,203FDB24,extended,63636363
+patch=1,EE,203FDB28,extended,63636363
+patch=1,EE,203FDB2C,extended,63636363
+patch=1,EE,203FDB30,extended,63636363
+patch=1,EE,203FDB34,extended,63636363
+patch=1,EE,203FDB38,extended,63636363
+patch=1,EE,203FDB3C,extended,63636363
+patch=1,EE,203FDB40,extended,63636363
+patch=1,EE,203FDB44,extended,63636363
+patch=1,EE,203FDB48,extended,01010101
+patch=1,EE,103FDB4C,extended,00000101
+patch=1,EE,003FDB4E,extended,00000001
+
+[Cheats\Have All Blueprints]
+patch=1,EE,003FDB4F,extended,00000001
+patch=1,EE,203FDB50,extended,01010101
+patch=1,EE,203FDB54,extended,01010101
+patch=1,EE,203FDB58,extended,01010101
+patch=1,EE,203FDB5C,extended,01010101
+patch=1,EE,203FDB60,extended,01010101
+patch=1,EE,203FDB64,extended,01010101
+patch=1,EE,203FDB68,extended,01010101
+patch=1,EE,203FDB6C,extended,01010101
+patch=1,EE,203FDB70,extended,01010101

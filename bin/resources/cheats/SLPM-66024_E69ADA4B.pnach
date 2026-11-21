@@ -1,0 +1,4 @@
+gametitle=ふしぎ遊戯 玄武開伝 外伝 鏡の巫女 [通常版] [SLPM-66024] [E69ADA4B]
+
+[Cheats\Infinite Health In Battle]
+patch=1,EE,217A3D20,extended,0014FFFF

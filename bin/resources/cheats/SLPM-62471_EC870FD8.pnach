@@ -1,0 +1,7 @@
+gametitle=SuperLite 2000 テーブルゲーム UNO [SLPM-62471] [EC870FD8]
+
+[Cheats\Can Play Any Card]
+patch=1,EE,201D048C,extended,00000000
+
+[Cheats\Uno Is Always Called]
+patch=1,EE,201BDB24,extended,100002EC

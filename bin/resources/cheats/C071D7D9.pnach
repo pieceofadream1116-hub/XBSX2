@@ -1,0 +1,4 @@
+gametitle=山佐Digiワールド4 DX [SLPS-20257] [C071D7D9]
+
+[Cheats\Unlock Alll Photo Gallery]
+patch=1,EE,216D0060,extended,FFFFFFFF

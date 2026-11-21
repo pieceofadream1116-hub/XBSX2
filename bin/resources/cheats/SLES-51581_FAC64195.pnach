@@ -12,7 +12,7 @@ description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2020AF44,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
@@ -54,7 +54,7 @@ description=Unlock All Movies
 // Unlock All Movies
 patch=1,EE,40276394,extended,00130001
 
-[Unlock All Movies]
+[Unlock All Movies (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Movies
 // Unlock All Movies
@@ -65,12 +65,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Mini-Games
 // Unlock All Mini-Games
 patch=1,EE,402763E0,extended,00070001
-
-[Unlock All Mini-Games]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Unlock All Mini-Games
-// Unlock All Mini-Games
-patch=1,EE,00000001,extended,00000000
 
 [Infinite Bouncer Destraction (Hildy Dancing)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -125,3 +119,18 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Oxygen (Drowning)
 // Infinite Oxygen (Drowning)
 patch=1,EE,2042B48C,extended,3F800000
+
+[Cheats\Infinite Health]
+patch=1,EE,102522F0,extended,00000007
+
+[Cheats\Infinite Armour]
+patch=1,EE,10252260,extended,00000007
+
+[Cheats\Infinite Adrenaline]
+patch=1,EE,102521F4,extended,00000007
+
+[Cheats\One Shot Kill]
+patch=1,EE,102522A8,extended,00000007
+
+[Cheats\Unlock All Chapters]
+patch=1,EE,10252164,extended,00000007

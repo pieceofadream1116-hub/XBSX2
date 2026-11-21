@@ -1,0 +1,7 @@
+gametitle=あしたのジョー ～まっ白に燃え尽きろ！～ [SLPM-65441] [A0CD42B4]
+
+[Cheats\Infinite Health]
+patch=1,EE,002F3C38,extended,0000008C
+
+[Cheats\Infinite Deathblow Gauge]
+patch=1,EE,002F3C48,extended,0000008C

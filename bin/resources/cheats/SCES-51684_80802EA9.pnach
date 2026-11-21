@@ -1,0 +1,4 @@
+gametitle=WRC 3 [SCES-51684] [80802EA9]
+
+[Cheats\Static Timer]
+patch=1,EE,2048B870,extended,00000001

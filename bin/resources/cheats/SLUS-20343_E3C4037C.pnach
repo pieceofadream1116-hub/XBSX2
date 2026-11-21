@@ -24,25 +24,25 @@ description=Infinite PP
 // Infinite PP
 patch=1,EE,103FD8D0,extended,0000270F
 
-[Max Accessory Grade]
+[Max Accessory Grade (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accessory Grade
 // Max Accessory Grade
 patch=1,EE,103FD95A,extended,00000009
 
-[Infinite PP]
+[Infinite PP (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite PP
 // Infinite PP
 patch=1,EE,103FD95C,extended,0000270F
 
-[Max Accessory Grade]
+[Max Accessory Grade (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Accessory Grade
 // Max Accessory Grade
 patch=1,EE,103FD9E6,extended,00000009
 
-[Infinite PP]
+[Infinite PP (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite PP
 // Infinite PP
@@ -143,3 +143,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Slot 16
 // Slot 16
 patch=1,EE,20564D28,extended,00000063
+
+[Cheats\Darius Always In A Fine Condition]
+patch=1,EE,103FD770,extended,00000000

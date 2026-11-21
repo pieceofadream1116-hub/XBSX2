@@ -1,0 +1,8 @@
+gametitle=花と乙女に祝福を ～春風の贈り物～ [SLPM-55263] [85C23A89]
+
+[Cheats\Unlock Everything]
+patch=1,EE,2010B098,extended,0804EF3C
+patch=1,EE,2013BCF0,extended,2403FFFF
+patch=1,EE,2013BCF4,extended,A0430000
+patch=1,EE,2013BCF8,extended,08042C28
+patch=1,EE,2013BCFC,extended,90430000

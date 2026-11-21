@@ -12,7 +12,7 @@ description=Idiot AI
 // Idiot AI
 patch=1,EE,2017E598,extended,03E00008
 
-[Idiot AI]
+[Idiot AI (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
@@ -24,7 +24,7 @@ description=Infinite Stamina P1 & P2
 // Infinite Stamina P1 & P2
 patch=1,EE,20178CE8,extended,03E00008
 
-[Infinite Stamina P1 & P2]
+[Infinite Stamina P1 & P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Stamina P1 & P2
 // Infinite Stamina P1 & P2
@@ -48,7 +48,7 @@ description=Infinite Health P1 & P2
 // Infinite Health P1 & P2
 patch=1,EE,20178D88,extended,03E00008
 
-[Infinite Health P1 & P2]
+[Infinite Health P1 & P2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health P1 & P2
 // Infinite Health P1 & P2
@@ -114,8 +114,12 @@ description=Max All Stats
 // Max All Stats
 patch=1,EE,2024CB78,extended,FFFFFFFF
 
-[Max All Stats]
+[Max All Stats (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max All Stats
 // Max All Stats
+patch=1,EE,1024CB7C,extended,0000FFFF
+
+[Cheats\Max All Stats]
+patch=1,EE,2024CB78,extended,FFFFFFFF
 patch=1,EE,1024CB7C,extended,0000FFFF

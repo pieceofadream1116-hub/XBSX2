@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,201F04BC,extended,3C01437A
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -53,3 +53,54 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Extreme Difficulty
 // Unlock Extreme Difficulty
 patch=1,EE,00A55116,extended,00000001
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Gabominated
+description=Enable native widescreen.
+patch=1,EE,0046EF34,word,00000001 //00000000
+patch=1,EE,004F9480,word,01000000 //00000000
+
+[50/60 FPS]
+author=Gabominated
+description=Might need EE Overclock (130%).
+patch=0,EE,00256934,word,A3808814
+//patch=1,EE,00254638,word,24020002 //24020001
+
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,001449c8,word,240301c0 //24030200
+
+[480p Mode]
+author=Gabominated
+description=SDTV 480p mode at start.
+patch=1,EE,0025FA24,word,10620005 //14620005
+patch=1,EE,001449c8,word,240301c0 //24030200
+
+[Cheats\60 FPS]
+patch=1,EE,0046E404,extended,00000001
+
+[Cheats\Infinite Life]
+patch=1,EE,201F1634,extended,C6000874
+patch=1,EE,201F1640,extended,E6000530
+
+[Cheats\Infinite Health]
+patch=1,EE,200FFF00,extended,3C03442F
+patch=1,EE,200FFF04,extended,AC830530
+patch=1,EE,200FFF08,extended,8C990000
+patch=1,EE,200FFF0C,extended,8F390098
+patch=1,EE,200FFF10,extended,0807C118
+patch=1,EE,201F0458,extended,0803FFC0
+
+[Cheats\Infinite Ammmo No Reload]
+patch=1,EE,201F6B10,extended,24450000
+patch=1,EE,201F6AF8,extended,24450000
+patch=1,EE,202239B8,extended,00000000
+patch=1,EE,202239C4,extended,00000000
+
+[Cheats\Infinite Resistence]
+patch=1,EE,201EF394,extended,00000000
+
+[Cheats\UnlockAll Bonus Material]
+patch=1,EE,20345E48,extended,24020001

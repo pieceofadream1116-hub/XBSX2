@@ -12,7 +12,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,201BC618,extended,8C820040
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -71,3 +71,13 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,20295498,extended,00000000
+
+[Cheats\Infinite Funds]
+patch=1,EE,202906C8,extended,00002710
+
+[Cheats\Infinite Health]
+patch=1,EE,201BC618,extended,8C820040
+patch=1,EE,201BC61C,extended,AC82003C
+
+[Cheats\Infinite Turbo]
+patch=1,EE,2014294C,extended,00000000

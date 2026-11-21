@@ -1,0 +1,5 @@
+gametitle=機甲武装Gブレーカー レジェンド オブ クラウディア [SLPS-25059] [4F5840D7]
+
+[Cheats\Unlock All Models Can Be Selected]
+patch=1,EE,101B5E56,extended,00001480
+patch=1,EE,201B5E58,extended,000A1045

@@ -1,0 +1,7 @@
+gametitle=Forbidden Siren 2 SCES-53851 C040B6AB
+
+[Cheats\Infinite Health]
+patch=1,EE,20211534,extended,00000000
+
+[Cheats\Infinite Ammo]
+patch=1,EE,201820BC,extended,00000000

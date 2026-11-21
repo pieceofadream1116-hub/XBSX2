@@ -12,25 +12,25 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,3C01437A
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,AE0100B0
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C022C,extended,C60100B0
 
-[Infinite Health]
+[Infinite Health (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -66,17 +66,11 @@ description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,20213A58,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,20213AF8,extended,00000000
-
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,20213A58,extended,00000000
 
 [Extra Ammo]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -102,17 +96,11 @@ description=Infinite Ammo (Right Gun)
 // Infinite Ammo (Right Gun)
 patch=1,EE,20254C28,extended,00000000
 
-[Infinite Ammo (Right Gun)]
+[Infinite Ammo (Right Gun) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Right Gun)
 // Infinite Ammo (Right Gun)
 patch=1,EE,20254CC8,extended,00000000
-
-[Extra Ammo (Right Gun)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo (Right Gun)
-// Extra Ammo (Right Gun)
-patch=1,EE,20254C28,extended,00000000
 
 [Extra Ammo (Right Gun)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -126,7 +114,7 @@ description=Infinite Ammo (Left Gun)
 // Infinite Ammo (Left Gun)
 patch=1,EE,20254D68,extended,00000000
 
-[Infinite Ammo (Left Gun)]
+[Infinite Ammo (Left Gun) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Left Gun)
 // Infinite Ammo (Left Gun)
@@ -136,129 +124,99 @@ patch=1,EE,20254E08,extended,00000000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo (Left Gun)
 // Extra Ammo (Left Gun)
-patch=1,EE,20254D68,extended,00000000
-
-[Extra Ammo (Left Gun)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo (Left Gun)
-// Extra Ammo (Left Gun)
 patch=1,EE,20254E00,extended,00621021
 
-[Never Reload]
+[Never Reload (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
 patch=1,EE,20278D4C,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,202793C8,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,20279468,extended,00000000
 
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,202793C8,extended,00000000
-
-[Extra Ammo]
+[Extra Ammo (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo
 // Extra Ammo
 patch=1,EE,20279460,extended,00831821
 
-[Never Reload (Right Gun)]
+[Never Reload (Right Gun) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload (Right Gun)
 // Never Reload (Right Gun)
 patch=1,EE,2026419C,extended,00000000
 
-[Never Reload (Left Gun)]
+[Never Reload (Left Gun) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload (Left Gun)
 // Never Reload (Left Gun)
 patch=1,EE,202646CC,extended,00000000
 
-[Infinite Ammo (Right Gun)]
+[Infinite Ammo (Right Gun) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Right Gun)
 // Infinite Ammo (Right Gun)
 patch=1,EE,20263358,extended,00000000
 
-[Infinite Ammo (Right Gun)]
+[Infinite Ammo (Right Gun) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Right Gun)
 // Infinite Ammo (Right Gun)
 patch=1,EE,202633F8,extended,00000000
 
-[Extra Ammo (Right Gun)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo (Right Gun)
-// Extra Ammo (Right Gun)
-patch=1,EE,20263358,extended,00000000
-
-[Extra Ammo (Right Gun)]
+[Extra Ammo (Right Gun) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo (Right Gun)
 // Extra Ammo (Right Gun)
 patch=1,EE,202633F0,extended,00621021
 
-[Infinite Ammo (Left Gun)]
+[Infinite Ammo (Left Gun) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Left Gun)
 // Infinite Ammo (Left Gun)
 patch=1,EE,20263498,extended,00000000
 
-[Infinite Ammo (Left Gun)]
+[Infinite Ammo (Left Gun) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Left Gun)
 // Infinite Ammo (Left Gun)
 patch=1,EE,20263538,extended,00000000
 
-[Extra Ammo (Left Gun)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo (Left Gun)
-// Extra Ammo (Left Gun)
-patch=1,EE,20263498,extended,00000000
-
-[Extra Ammo (Left Gun)]
+[Extra Ammo (Left Gun) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo (Left Gun)
 // Extra Ammo (Left Gun)
 patch=1,EE,20263530,extended,00621021
 
-[Never Reload]
+[Never Reload (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
 patch=1,EE,202866CC,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,20286B58,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,20286BF8,extended,00000000
 
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,20286B58,extended,00000000
-
-[Extra Ammo]
+[Extra Ammo (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo
 // Extra Ammo
@@ -282,7 +240,7 @@ description=Infinite Ammo (Both Fire Modes)
 // Infinite Ammo (Both Fire Modes)
 patch=1,EE,2025FB58,extended,00000000
 
-[Infinite Ammo (Both Fire Modes)]
+[Infinite Ammo (Both Fire Modes) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Both Fire Modes)
 // Infinite Ammo (Both Fire Modes)
@@ -292,375 +250,297 @@ patch=1,EE,2025FBF8,extended,00000000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo (Both Fire Modes)
 // Extra Ammo (Both Fire Modes)
-patch=1,EE,2025FB58,extended,00000000
-
-[Extra Ammo (Both Fire Modes)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo (Both Fire Modes)
-// Extra Ammo (Both Fire Modes)
 patch=1,EE,2025FBF0,extended,00831821
 
-[Never Reload]
+[Never Reload (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
 patch=1,EE,2028DF7C,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2028E608,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2028E6A8,extended,00000000
 
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,2028E608,extended,00000000
-
-[Extra Ammo]
+[Extra Ammo (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo
 // Extra Ammo
 patch=1,EE,2028E6A0,extended,00831821
 
-[Never Reload]
+[Never Reload (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
 patch=1,EE,2027F598,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2027FACC,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2027FB80,extended,00000000
 
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,2027FACC,extended,00000000
-
-[Extra Ammo]
+[Extra Ammo (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo
 // Extra Ammo
 patch=1,EE,2027FB78,extended,00831821
 
-[Never Reload]
+[Never Reload (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
 patch=1,EE,2027C424,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2027C9DC,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,2027CA94,extended,00000000
 
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,2027C9DC,extended,00000000
-
-[Extra Ammo]
+[Extra Ammo (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo
 // Extra Ammo
 patch=1,EE,2027CA8C,extended,00831821
 
-[Never Reload (Primary Mode)]
+[Never Reload (Primary Mode) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload (Primary Mode)
 // Never Reload (Primary Mode)
 patch=1,EE,2029957C,extended,00000000
 
-[Never Reload (Secondary Mode)]
+[Never Reload (Secondary Mode) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload (Secondary Mode)
 // Never Reload (Secondary Mode)
 patch=1,EE,20299640,extended,00000000
 
-[Infinite Ammo (Both Fire Modes)]
+[Infinite Ammo (Both Fire Modes) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Both Fire Modes)
 // Infinite Ammo (Both Fire Modes)
 patch=1,EE,2029A440,extended,00000000
 
-[Infinite Ammo (Both Fire Modes)]
+[Infinite Ammo (Both Fire Modes) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Both Fire Modes)
 // Infinite Ammo (Both Fire Modes)
 patch=1,EE,2029A4C8,extended,00000000
 
-[Extra Ammo (Both Fire Modes)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo (Both Fire Modes)
-// Extra Ammo (Both Fire Modes)
-patch=1,EE,2029A440,extended,00000000
-
-[Extra Ammo (Both Fire Modes)]
+[Extra Ammo (Both Fire Modes) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo (Both Fire Modes)
 // Extra Ammo (Both Fire Modes)
 patch=1,EE,2029A4C0,extended,00831821
 
-[Never Reload]
+[Never Reload (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
 patch=1,EE,202C5FC8,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (13)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,202C643C,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (14)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,202C64F0,extended,00000000
 
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,202C643C,extended,00000000
-
-[Extra Ammo]
+[Extra Ammo (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo
 // Extra Ammo
 patch=1,EE,202C64E8,extended,00831821
 
-[Never Reload]
+[Never Reload (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
 patch=1,EE,202BF22C,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (15)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,202BF898,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (16)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,202BF938,extended,00000000
 
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,202BF898,extended,00000000
-
-[Extra Ammo]
+[Extra Ammo (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo
 // Extra Ammo
 patch=1,EE,202BF930,extended,00831821
 
-[Never Reload]
+[Never Reload (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
 patch=1,EE,202CA3CC,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (17)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,202CAA48,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (18)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,202CAAE8,extended,00000000
 
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,202CAA48,extended,00000000
-
-[Extra Ammo]
+[Extra Ammo (9)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo
 // Extra Ammo
 patch=1,EE,202CAAE0,extended,00831821
 
-[Never Reload (Right Gun)]
+[Never Reload (Right Gun) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload (Right Gun)
 // Never Reload (Right Gun)
 patch=1,EE,202E5D9C,extended,00000000
 
-[Never Reload (Left Gun)]
+[Never Reload (Left Gun) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload (Left Gun)
 // Never Reload (Left Gun)
 patch=1,EE,202E62CC,extended,00000000
 
-[Infinite Ammo (Right Gun)]
+[Infinite Ammo (Right Gun) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Right Gun)
 // Infinite Ammo (Right Gun)
 patch=1,EE,202E4F08,extended,00000000
 
-[Infinite Ammo (Right Gun)]
+[Infinite Ammo (Right Gun) (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Right Gun)
 // Infinite Ammo (Right Gun)
 patch=1,EE,202E4FA8,extended,00000000
 
-[Extra Ammo (Right Gun)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo (Right Gun)
-// Extra Ammo (Right Gun)
-patch=1,EE,202E4F08,extended,00000000
-
-[Extra Ammo (Right Gun)]
+[Extra Ammo (Right Gun) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo (Right Gun)
 // Extra Ammo (Right Gun)
 patch=1,EE,202E4FA0,extended,00621021
 
-[Infinite Ammo (Left Gun)]
+[Infinite Ammo (Left Gun) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Left Gun)
 // Infinite Ammo (Left Gun)
 patch=1,EE,202E5048,extended,00000000
 
-[Infinite Ammo (Left Gun)]
+[Infinite Ammo (Left Gun) (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo (Left Gun)
 // Infinite Ammo (Left Gun)
 patch=1,EE,202E50E8,extended,00000000
 
-[Extra Ammo (Left Gun)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo (Left Gun)
-// Extra Ammo (Left Gun)
-patch=1,EE,202E5048,extended,00000000
-
-[Extra Ammo (Left Gun)]
+[Extra Ammo (Left Gun) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo (Left Gun)
 // Extra Ammo (Left Gun)
 patch=1,EE,202E50E0,extended,00621021
 
-[Never Reload]
+[Never Reload (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
 patch=1,EE,202925DC,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (19)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,20292BAC,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (20)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,20292C60,extended,00000000
 
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,20292BAC,extended,00000000
-
-[Extra Ammo]
+[Extra Ammo (10)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo
 // Extra Ammo
 patch=1,EE,20292C58,extended,00831821
 
-[Never Reload]
+[Never Reload (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
 patch=1,EE,202B3904,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (21)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,202B480C,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (22)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,202B48C0,extended,00000000
 
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,202B480C,extended,00000000
-
-[Extra Ammo]
+[Extra Ammo (11)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo
 // Extra Ammo
 patch=1,EE,202B48B8,extended,00831821
 
-[Never Reload]
+[Never Reload (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
 patch=1,EE,202DCA7C,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (23)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,202DCD2C,extended,00000000
 
-[Infinite Ammo]
+[Infinite Ammo (24)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,202DCDE4,extended,00000000
 
-[Extra Ammo]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Extra Ammo
-// Extra Ammo
-patch=1,EE,202DCD2C,extended,00000000
-
-[Extra Ammo]
+[Extra Ammo (12)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo
 // Extra Ammo
@@ -930,7 +810,7 @@ description=Unlock All Cheats
 // Unlock All Cheats
 patch=1,EE,41CE11DC,extended,00030001
 
-[Unlock All Cheats]
+[Unlock All Cheats (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Cheats
 // Unlock All Cheats
@@ -942,25 +822,25 @@ description=Have All Levels Completed
 // Have All Levels Completed
 patch=1,EE,01CE1223,extended,00000002
 
-[Have All Levels Completed]
+[Have All Levels Completed (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels Completed
 // Have All Levels Completed
 patch=1,EE,41CE1224,extended,000A0001
 
-[Have All Levels Completed]
+[Have All Levels Completed (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels Completed
 // Have All Levels Completed
 patch=1,EE,02020202,extended,00000000
 
-[Have All Levels Completed]
+[Have All Levels Completed (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels Completed
 // Have All Levels Completed
 patch=1,EE,11CE124C,extended,00000102
 
-[Have All Levels Completed]
+[Have All Levels Completed (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Levels Completed
 // Have All Levels Completed
@@ -972,13 +852,13 @@ description=Super Health
 // Super Health
 patch=1,EE,01CE11E9,extended,00000001
 
-[Infinite Ammo]
+[Infinite Ammo (25)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,01CE11EA,extended,00000001
 
-[Infinite Grenades]
+[Infinite Grenades (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Grenades
 // Infinite Grenades
@@ -1404,7 +1284,7 @@ description=Objective 4 In Traffic Congestion
 // Objective 4 In Traffic Congestion
 patch=1,EE,01CE128C,extended,00000002
 
-[Objective 8 In Tank Gunner]
+[Objective 8 In Tank Gunner (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Objective 8 In Tank Gunner
 // Objective 8 In Tank Gunner
@@ -1434,8 +1314,35 @@ description=Objective 5 In Brothers In Arms
 // Objective 5 In Brothers In Arms
 patch=1,EE,01CE1291,extended,00000002
 
-[Objective 7 In Road To The Citadel]
+[Objective 7 In Road To The Citadel (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Objective 7 In Road To The Citadel
 // Objective 7 In Road To The Citadel
 patch=1,EE,01CE1292,extended,00000002
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00335020,word,00000001
+
+[Cheats\Infinite Health]
+patch=1,EE,200C0220,extended,3C01437A
+patch=1,EE,200C0224,extended,AE0100B0
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,C60100B0
+patch=1,EE,20127858,extended,0C030088
+
+[Cheats\Infinite Ammo]
+patch=1,EE,20213A58,extended,00000000
+patch=1,EE,20213AF8,extended,00000000
+
+[Cheats\Unlock All Cheats]
+patch=1,EE,41CE11DC,extended,00030001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats\Have All Levels Completed]
+patch=1,EE,01CE1223,extended,00000002
+patch=1,EE,41CE1224,extended,000A0001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,11CE124C,extended,00000102
+patch=1,EE,01CE124E,extended,00000002

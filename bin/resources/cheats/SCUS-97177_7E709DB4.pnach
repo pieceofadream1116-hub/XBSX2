@@ -78,7 +78,7 @@ description=Rider Profile
 // Rider Profile
 patch=1,EE,104C701E,extended,00000001
 
-[Rider Profile]
+[Rider Profile (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rider Profile
 // Rider Profile
@@ -132,7 +132,7 @@ description=Gamelbak Bonus
 // Gamelbak Bonus
 patch=1,EE,D036A8D0,extended,00300001
 
-[Gamelbak Bonus]
+[Gamelbak Bonus (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Gamelbak Bonus
 // Gamelbak Bonus
@@ -144,7 +144,7 @@ description=Sparky Tricks
 // Sparky Tricks
 patch=1,EE,D036A8D4,extended,00300001
 
-[Sparky Tricks]
+[Sparky Tricks (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Sparky Tricks
 // Sparky Tricks
@@ -156,7 +156,7 @@ description=Stretchy Mode
 // Stretchy Mode
 patch=1,EE,D036A8D8,extended,00300001
 
-[Stretchy Mode]
+[Stretchy Mode (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stretchy Mode
 // Stretchy Mode
@@ -168,7 +168,7 @@ description=Bonus Rider: ?????
 // Bonus Rider: ?????
 patch=1,EE,D036A8DC,extended,00300001
 
-[Bonus Rider: ?????]
+[Bonus Rider: ????? (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bonus Rider: ?????
 // Bonus Rider: ?????
@@ -180,7 +180,7 @@ description=Music 1: 5-Song Variety Pack
 // Music 1: 5-Song Variety Pack
 patch=1,EE,D036A8E0,extended,00300001
 
-[Music 1: 5-Song Variety Pack]
+[Music 1: 5-Song Variety Pack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Music 1: 5-Song Variety Pack
 // Music 1: 5-Song Variety Pack
@@ -192,7 +192,7 @@ description=Music 2: 5-Song Variety Pack
 // Music 2: 5-Song Variety Pack
 patch=1,EE,D036A8E4,extended,00300001
 
-[Music 2: 5-Song Variety Pack]
+[Music 2: 5-Song Variety Pack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Music 2: 5-Song Variety Pack
 // Music 2: 5-Song Variety Pack
@@ -204,7 +204,7 @@ description=Music 3: 5-Song Variety Pack
 // Music 3: 5-Song Variety Pack
 patch=1,EE,D036A8E8,extended,00300001
 
-[Music 3: 5-Song Variety Pack]
+[Music 3: 5-Song Variety Pack (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Music 3: 5-Song Variety Pack
 // Music 3: 5-Song Variety Pack
@@ -216,7 +216,7 @@ description=Bonus Level 1: Moshbowl
 // Bonus Level 1: Moshbowl
 patch=1,EE,D036A8EC,extended,00300001
 
-[Bonus Level 1: Moshbowl]
+[Bonus Level 1: Moshbowl (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bonus Level 1: Moshbowl
 // Bonus Level 1: Moshbowl
@@ -228,7 +228,7 @@ description=Bonus Level 2: Moshbowl
 // Bonus Level 2: Moshbowl
 patch=1,EE,D036A8F0,extended,00300001
 
-[Bonus Level 2: Moshbowl]
+[Bonus Level 2: Moshbowl (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bonus Level 2: Moshbowl
 // Bonus Level 2: Moshbowl
@@ -240,7 +240,7 @@ description=Bonus Level 3: Moshbowl
 // Bonus Level 3: Moshbowl
 patch=1,EE,D036A8F4,extended,00300001
 
-[Bonus Level 3: Moshbowl]
+[Bonus Level 3: Moshbowl (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bonus Level 3: Moshbowl
 // Bonus Level 3: Moshbowl
@@ -252,7 +252,7 @@ description=Video 1: Mountain Cross Clip
 // Video 1: Mountain Cross Clip
 patch=1,EE,D036A8F8,extended,00300001
 
-[Video 1: Mountain Cross Clip]
+[Video 1: Mountain Cross Clip (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Video 1: Mountain Cross Clip
 // Video 1: Mountain Cross Clip
@@ -264,7 +264,7 @@ description=Video 2: Freeride Clip
 // Video 2: Freeride Clip
 patch=1,EE,D036A8FC,extended,00300001
 
-[Video 2: Freeride Clip]
+[Video 2: Freeride Clip (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Video 2: Freeride Clip
 // Video 2: Freeride Clip
@@ -276,7 +276,7 @@ description=Video 3: Technical Downhill Clip
 // Video 3: Technical Downhill Clip
 patch=1,EE,D036A900,extended,00300001
 
-[Video 3: Technical Downhill Clip]
+[Video 3: Technical Downhill Clip (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Video 3: Technical Downhill Clip
 // Video 3: Technical Downhill Clip
@@ -288,7 +288,7 @@ description=Video 4: Crash Clip
 // Video 4: Crash Clip
 patch=1,EE,D036A904,extended,00300001
 
-[Video 4: Crash Clip]
+[Video 4: Crash Clip (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Video 4: Crash Clip
 // Video 4: Crash Clip
@@ -300,7 +300,7 @@ description=Video 5: Trick Clip
 // Video 5: Trick Clip
 patch=1,EE,D036A908,extended,00300001
 
-[Video 5: Trick Clip]
+[Video 5: Trick Clip (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Video 5: Trick Clip
 // Video 5: Trick Clip
@@ -312,7 +312,7 @@ description=Poster Maker
 // Poster Maker
 patch=1,EE,D036A90C,extended,00300001
 
-[Poster Maker]
+[Poster Maker (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Poster Maker
 // Poster Maker
@@ -324,7 +324,7 @@ description=Pickup Editor
 // Pickup Editor
 patch=1,EE,D036A910,extended,00300001
 
-[Pickup Editor]
+[Pickup Editor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Pickup Editor
 // Pickup Editor
@@ -336,7 +336,7 @@ description=Fog Editor
 // Fog Editor
 patch=1,EE,D036A914,extended,00300001
 
-[Fog Editor]
+[Fog Editor (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fog Editor
 // Fog Editor
@@ -348,7 +348,7 @@ description=Bonus Bike 1: Sheep
 // Bonus Bike 1: Sheep
 patch=1,EE,D036A918,extended,00300001
 
-[Bonus Bike 1: Sheep]
+[Bonus Bike 1: Sheep (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bonus Bike 1: Sheep
 // Bonus Bike 1: Sheep
@@ -360,7 +360,7 @@ description=Bonus Bike 2: Deer
 // Bonus Bike 2: Deer
 patch=1,EE,D036A91C,extended,00300001
 
-[Bonus Bike 2: Deer]
+[Bonus Bike 2: Deer (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bonus Bike 2: Deer
 // Bonus Bike 2: Deer
@@ -372,7 +372,7 @@ description=Bonus Bike 3: Llama
 // Bonus Bike 3: Llama
 patch=1,EE,D036A920,extended,00300001
 
-[Bonus Bike 3: Llama]
+[Bonus Bike 3: Llama (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bonus Bike 3: Llama
 // Bonus Bike 3: Llama
@@ -384,7 +384,7 @@ description=Prototype Bike
 // Prototype Bike
 patch=1,EE,D036A924,extended,00300001
 
-[Prototype Bike]
+[Prototype Bike (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Prototype Bike
 // Prototype Bike

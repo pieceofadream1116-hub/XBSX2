@@ -18,19 +18,19 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0230,extended,C44003D4
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0234,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0238,extended,E44003D0
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -48,7 +48,7 @@ description=Quick Max Scrap
 // Quick Max Scrap
 patch=1,EE,20114068,extended,2402270F
 
-[Quick Max Scrap]
+[Quick Max Scrap (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Quick Max Scrap
 // Quick Max Scrap
@@ -114,44 +114,56 @@ description=P1 Press {CROSS} For Moon Jump
 // P1 Press {CROSS} For Moon Jump
 patch=1,EE,200C0220,extended,3C0140A0
 
-[P1 Press {CROSS} For Moon Jump]
+[P1 Press {CROSS} For Moon Jump (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {CROSS} For Moon Jump
 // P1 Press {CROSS} For Moon Jump
 patch=1,EE,200C0224,extended,AE010148
 
-[P1 Press {CROSS} For Moon Jump]
+[P1 Press {CROSS} For Moon Jump (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {CROSS} For Moon Jump
 // P1 Press {CROSS} For Moon Jump
 patch=1,EE,200C0228,extended,03E00008
 
-[P1 Press {CROSS} For Moon Jump]
+[P1 Press {CROSS} For Moon Jump (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {CROSS} For Moon Jump
 // P1 Press {CROSS} For Moon Jump
 patch=1,EE,200C022C,extended,C6010148
 
-[P1 Press {CROSS} For Moon Jump]
+[P1 Press {CROSS} For Moon Jump (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {CROSS} For Moon Jump
 // P1 Press {CROSS} For Moon Jump
 patch=1,EE,D03A4F82,extended,0000BFFF
 
-[P1 Press {CROSS} For Moon Jump]
+[P1 Press {CROSS} For Moon Jump (6)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {CROSS} For Moon Jump
 // P1 Press {CROSS} For Moon Jump
 patch=1,EE,2011F27C,extended,0C030088
 
-[P1 Press {CROSS} For Moon Jump]
+[P1 Press {CROSS} For Moon Jump (7)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {CROSS} For Moon Jump
 // P1 Press {CROSS} For Moon Jump
 patch=1,EE,D03A4F82,extended,0000FFFF
 
-[P1 Press {CROSS} For Moon Jump]
+[P1 Press {CROSS} For Moon Jump (8)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=P1 Press {CROSS} For Moon Jump
 // P1 Press {CROSS} For Moon Jump
 patch=1,EE,2011F27C,extended,C6010148
+
+[60 FPS]
+author=Gabominated
+description=Might need EE overclock (130%).
+patch=1,EE,00195DB4,word,1400000A //1000000A
+patch=1,EE,0013B948,word,14000004 //10000004
+
+[Cheats\Infinite Health]
+patch=1,EE,200C0230,extended,C44003D4
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,E44003D0
+patch=1,EE,201B496C,extended,0C03008C

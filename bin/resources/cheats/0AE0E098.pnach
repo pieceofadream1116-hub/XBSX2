@@ -1,0 +1,7 @@
+gametitle=0AE0E098
+
+[Cheats\Infinite Health]
+patch=1,EE,D034C368,extended,0000010C
+patch=1,EE,2034C378,extended,3C017F00
+patch=1,EE,D034C368,extended,0000010C
+patch=1,EE,2034C388,extended,AC41010C

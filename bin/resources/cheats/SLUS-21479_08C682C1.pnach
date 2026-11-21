@@ -18,7 +18,7 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,201ECF64,extended,C4410004
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -36,7 +36,7 @@ description=Infinite Ammo-Pistols
 // Infinite Ammo-Pistols
 patch=1,EE,201064F0,extended,00000000
 
-[Infinite Ammo-Pistols]
+[Infinite Ammo-Pistols (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Ammo-Pistols
 // Infinite Ammo-Pistols
@@ -48,7 +48,7 @@ description=Max Infinite Ammo-Pistols
 // Max Infinite Ammo-Pistols
 patch=1,EE,201064EC,extended,240203E7
 
-[Max Infinite Ammo-Pistols]
+[Max Infinite Ammo-Pistols (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Infinite Ammo-Pistols
 // Max Infinite Ammo-Pistols
@@ -60,7 +60,7 @@ description=Extra Ammo-Pistols
 // Extra Ammo-Pistols
 patch=1,EE,201064EC,extended,00451021
 
-[Extra Ammo-Pistols]
+[Extra Ammo-Pistols (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Extra Ammo-Pistols
 // Extra Ammo-Pistols
@@ -126,7 +126,7 @@ description=Unlock All Levels
 // Unlock All Levels
 patch=1,EE,41DD8E24,extended,00100010
 
-[Unlock All Levels]
+[Unlock All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Levels
 // Unlock All Levels
@@ -138,17 +138,11 @@ description=Career Criminal Rank-All Levels
 // Career Criminal Rank-All Levels
 patch=1,EE,41DD8E20,extended,00100010
 
-[Career Criminal Rank-All Levels]
+[Career Criminal Rank-All Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Career Criminal Rank-All Levels
 // Career Criminal Rank-All Levels
 patch=1,EE,00000000,extended,00000000
-
-[Professional Rank-All Levels]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Professional Rank-All Levels
-// Professional Rank-All Levels
-patch=1,EE,41DD8E20,extended,00100010
 
 [Professional Rank-All Levels]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -160,31 +154,13 @@ patch=1,EE,3F000000,extended,00000000
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Consummuate Pro Rank-All Levels
 // Consummuate Pro Rank-All Levels
-patch=1,EE,41DD8E20,extended,00100010
-
-[Consummuate Pro Rank-All Levels]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Consummuate Pro Rank-All Levels
-// Consummuate Pro Rank-All Levels
 patch=1,EE,3F800000,extended,00000000
 
 [Psychopath Rank-All Levels]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Psychopath Rank-All Levels
 // Psychopath Rank-All Levels
-patch=1,EE,41DD8E20,extended,00100010
-
-[Psychopath Rank-All Levels]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Psychopath Rank-All Levels
-// Psychopath Rank-All Levels
 patch=1,EE,BF000000,extended,00000000
-
-[Stone Cold Psycho Rank-All Levels]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Stone Cold Psycho Rank-All Levels
-// Stone Cold Psycho Rank-All Levels
-patch=1,EE,41DD8E20,extended,00100010
 
 [Stone Cold Psycho Rank-All Levels]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -246,56 +222,64 @@ description=Time Out
 // Time Out
 patch=1,EE,21DE42BC,extended,477739AE
 
-[Unlock Levels]
+[Unlock Levels (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Levels
 // Unlock Levels
 patch=1,EE,21DE5224,extended,00000001
 
-[Unlock Art Gallery]
+[Unlock Art Gallery (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Art Gallery
 // Unlock Art Gallery
 patch=1,EE,21DE5228,extended,00000001
 
-[Unlock Movie Gallery]
+[Unlock Movie Gallery (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock Movie Gallery
 // Unlock Movie Gallery
 patch=1,EE,21DE522C,extended,00000001
 
-[Fully Loaded]
+[Fully Loaded (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Fully Loaded
 // Fully Loaded
 patch=1,EE,21DE5230,extended,00000001
 
-[Bulletproof]
+[Bulletproof (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Bulletproof
 // Bulletproof
 patch=1,EE,21DE5234,extended,00000001
 
-[Adrenaline Rush]
+[Adrenaline Rush (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Adrenaline Rush
 // Adrenaline Rush
 patch=1,EE,21DE5238,extended,00000001
 
-[Magic Bullet]
+[Magic Bullet (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Magic Bullet
 // Magic Bullet
 patch=1,EE,21DE523C,extended,00000001
 
-[Battering Ram]
+[Battering Ram (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Battering Ram
 // Battering Ram
 patch=1,EE,21DE5240,extended,00000001
 
-[Time Out]
+[Time Out (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Time Out
 // Time Out
 patch=1,EE,21DE5244,extended,00000001
+
+[Cheats\Infinite Health]
+patch=1,EE,201ECF64,extended,C4410004
+patch=1,EE,201ECF74,extended,E460154C
+
+[Cheats\Unlock All Levels]
+patch=1,EE,41DD8E64,extended,000F0010
+patch=1,EE,00000087,extended,00000000

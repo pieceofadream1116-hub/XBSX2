@@ -78,49 +78,49 @@ description=Stage 8
 // Stage 8
 patch=1,EE,11C6591C,extended,0000FFFF
 
-[Stage 1]
+[Stage 1 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 1
 // Stage 1
 patch=1,EE,11C65960,extended,0000FFFF
 
-[Stage 2]
+[Stage 2 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 2
 // Stage 2
 patch=1,EE,11C65964,extended,0000FFFF
 
-[Stage 3]
+[Stage 3 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 3
 // Stage 3
 patch=1,EE,11C65968,extended,0000FFFF
 
-[Stage 4]
+[Stage 4 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 4
 // Stage 4
 patch=1,EE,11C6596C,extended,0000FFFF
 
-[Stage 5]
+[Stage 5 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 5
 // Stage 5
 patch=1,EE,11C65970,extended,0000FFFF
 
-[Stage 6]
+[Stage 6 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 6
 // Stage 6
 patch=1,EE,11C65974,extended,0000FFFF
 
-[Stage 7]
+[Stage 7 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 7
 // Stage 7
 patch=1,EE,11C65978,extended,0000FFFF
 
-[Stage 8]
+[Stage 8 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 8
 // Stage 8

@@ -1,0 +1,4 @@
+gametitle=めいわく星人 パニックメーカー [SLPM-65642] [1AA93761]
+
+[Cheats\Infinite Coins 9999]
+patch=1,EE,1083A8F4,extended,0000270F

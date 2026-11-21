@@ -1,0 +1,7 @@
+gametitle=川のぬし釣り ワンダフルジャーニー [SLPS-25443] [0DDEE04E]
+
+[Cheats\Infinite Money]
+patch=1,EE,214C4470,extended,0001869F
+patch=1,EE,214C448C,extended,0001869F
+patch=1,EE,214C44A8,extended,0001869F
+patch=1,EE,214C44C4,extended,0001869F

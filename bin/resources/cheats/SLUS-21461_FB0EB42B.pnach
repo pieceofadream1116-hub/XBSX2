@@ -24,7 +24,7 @@ description=Cars Take No Damage
 // Cars Take No Damage
 patch=1,EE,201C9FA8,extended,03E00008
 
-[Cars Take No Damage]
+[Cars Take No Damage (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Cars Take No Damage
 // Cars Take No Damage
@@ -90,17 +90,11 @@ description=Start On Lap 100
 // Start On Lap 100
 patch=1,EE,D058EEE4,extended,00000000
 
-[Start On Lap 100]
+[Start On Lap 100 (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 100
 // Start On Lap 100
 patch=1,EE,1058EEE4,extended,00000064
-
-[Start On Lap 50]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 50
-// Start On Lap 50
-patch=1,EE,D058EEE4,extended,00000000
 
 [Start On Lap 50]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -112,19 +106,7 @@ patch=1,EE,1058EEE4,extended,00000032
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 25
 // Start On Lap 25
-patch=1,EE,D058EEE4,extended,00000000
-
-[Start On Lap 25]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 25
-// Start On Lap 25
 patch=1,EE,1058EEE4,extended,00000019
-
-[Start On Lap 10]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 10
-// Start On Lap 10
-patch=1,EE,D058EEE4,extended,00000000
 
 [Start On Lap 10]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -136,19 +118,7 @@ patch=1,EE,1058EEE4,extended,0000000A
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 5
 // Start On Lap 5
-patch=1,EE,D058EEE4,extended,00000000
-
-[Start On Lap 5]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 5
-// Start On Lap 5
 patch=1,EE,1058EEE4,extended,00000005
-
-[Start On Lap 4]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 4
-// Start On Lap 4
-patch=1,EE,D058EEE4,extended,00000000
 
 [Start On Lap 4]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -160,37 +130,13 @@ patch=1,EE,1058EEE4,extended,00000004
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 3
 // Start On Lap 3
-patch=1,EE,D058EEE4,extended,00000000
-
-[Start On Lap 3]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 3
-// Start On Lap 3
 patch=1,EE,1058EEE4,extended,00000003
 
 [Start On Lap 2]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Start On Lap 2
 // Start On Lap 2
-patch=1,EE,D058EEE4,extended,00000000
-
-[Start On Lap 2]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Lap 2
-// Start On Lap 2
 patch=1,EE,1058EEE4,extended,00000002
-
-[Start On Last Lap (10 Lap Race)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Last Lap (10 Lap Race)
-// Start On Last Lap (10 Lap Race)
-patch=1,EE,105A9D96,extended,0000000A
-
-[Start On Last Lap (10 Lap Race)]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Start On Last Lap (10 Lap Race)
-// Start On Last Lap (10 Lap Race)
-patch=1,EE,D058EEE4,extended,00000000
 
 [Start On Last Lap (10 Lap Race)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -234,7 +180,7 @@ description=Challenges Never Have Fail Stipulations
 // Challenges Never Have Fail Stipulations
 patch=1,EE,201E3630,extended,03E00008
 
-[Challenges Never Have Fail Stipulations]
+[Challenges Never Have Fail Stipulations (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Challenges Never Have Fail Stipulations
 // Challenges Never Have Fail Stipulations
@@ -875,3 +821,14 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Plate 104
 // Plate 104
 patch=1,EE,21FDAA68,extended,00010206
+
+[Cheats\Cars Take No Damage]
+patch=1,EE,201C9FA8,extended,03E00008
+patch=1,EE,201C9FAC,extended,00000000
+
+[Cheats\Challenges Never Have Fail Stipulations]
+patch=1,EE,201E3630,extended,03E00008
+patch=1,EE,201E3634,extended,00000000
+
+[Cheats\Max Available Skill Points]
+patch=1,EE,F0B1F99D,extended,B4153EDE

@@ -18,8 +18,12 @@ description=Unlock All Gallery
 // Unlock All Gallery
 patch=1,EE,4059ED28,extended,000C0002
 
-[Unlock All Gallery]
+[Unlock All Gallery (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Unlock All Gallery
 // Unlock All Gallery
+patch=1,EE,00001D4C,extended,00000001
+
+[Cheats\Unlock All Gallery]
+patch=1,EE,4059ED28,extended,000C0002
 patch=1,EE,00001D4C,extended,00000001

@@ -1,0 +1,4 @@
+gametitle=auto modellista [SLPM-65124] [5980E116]
+
+[Cheats\CPU Does Not Move Cars]
+patch=1,EE,202340D0,extended,03E00008

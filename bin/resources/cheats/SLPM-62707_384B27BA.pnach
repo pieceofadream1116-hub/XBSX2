@@ -1,0 +1,7 @@
+gametitle=オレたちゲーセン族 ラビオ レプス [SLPM-62707] [384B27BA]
+
+[Cheats\Infinite Lives P1]
+patch=1,EE,00F71679,extended,00000000
+
+[Cheats\Infinite Lives P2]
+patch=1,EE,00F71699,extended,00000000

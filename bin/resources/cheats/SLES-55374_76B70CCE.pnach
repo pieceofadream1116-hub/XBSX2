@@ -1,0 +1,4 @@
+gametitle=DreamWorks Madagascar 2 - Escape 2 Africa [SLES-55374] [76B70CCE]
+
+[Cheats\Max Coins]
+patch=1,EE,10ccf6ec,extended,00000512

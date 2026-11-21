@@ -60,97 +60,97 @@ description=Max Bouncer Points
 // Max Bouncer Points
 patch=1,EE,21D89FC0,extended,0001869F
 
-[Infinite Life]
+[Infinite Life (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life
 // Infinite Life
 patch=1,EE,21D89FF4,extended,0000012C
 
-[Max Life]
+[Max Life (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Life
 // Max Life
 patch=1,EE,21D89FFC,extended,0000012C
 
-[Infinite Defense]
+[Infinite Defense (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Defense
 // Infinite Defense
 patch=1,EE,21D8A000,extended,0000012C
 
-[Max Defense]
+[Max Defense (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,21D8A008,extended,0000012C
 
-[Max Power]
+[Max Power (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power
 // Max Power
 patch=1,EE,21D8A00C,extended,0000012C
 
-[Have All Extra Skills]
+[Have All Extra Skills (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Extra Skills
 // Have All Extra Skills
 patch=1,EE,21D8A010,extended,000000FF
 
-[Rank S]
+[Rank S (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank S
 // Rank S
 patch=1,EE,21D8A014,extended,00000007
 
-[Max Bouncer Points]
+[Max Bouncer Points (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Bouncer Points
 // Max Bouncer Points
 patch=1,EE,21D8A050,extended,0001869F
 
-[Infinite Life]
+[Infinite Life (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life
 // Infinite Life
 patch=1,EE,21D8A084,extended,0000012C
 
-[Max Life]
+[Max Life (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Life
 // Max Life
 patch=1,EE,21D8A08C,extended,0000012C
 
-[Infinite Defense]
+[Infinite Defense (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Defense
 // Infinite Defense
 patch=1,EE,21D8A090,extended,0000012C
 
-[Max Defense]
+[Max Defense (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Defense
 // Max Defense
 patch=1,EE,21D8A098,extended,0000012C
 
-[Max Power]
+[Max Power (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Power
 // Max Power
 patch=1,EE,21D8A09C,extended,0000012C
 
-[Have All Extra Skills]
+[Have All Extra Skills (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Have All Extra Skills
 // Have All Extra Skills
 patch=1,EE,21D8A0A0,extended,000000FF
 
-[Rank S]
+[Rank S (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Rank S
 // Rank S
 patch=1,EE,21D8A0A4,extended,00000007
 
-[Max Bouncer Points]
+[Max Bouncer Points (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Bouncer Points
 // Max Bouncer Points
@@ -293,3 +293,18 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Leann
 // Leann
 patch=1,EE,01D8A1AE,extended,00000007
+
+[Cheats\Sion Barzahd Infinite & Max HP]
+patch=1,EE,21D89F98,extended,000012C
+patch=1,EE,21D89FA0,extended,000012C
+
+[Cheats\Infinite BP]
+patch=1,EE,103C88F0,extended,0000FFFF
+patch=1,EE,103C88F8,extended,0000FFFF
+
+[Cheats\Infinite Bouncer Points]
+patch=1,EE,203C88F8,extended,0001869F
+
+[Cheats\Unlock All Characters]
+patch=1,EE,103C9BE8,extended,0000FFFF
+patch=1,EE,10380420,extended,0000FFFF

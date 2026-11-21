@@ -18,25 +18,25 @@ description=Infinite Life (Hold {L1}+{SELECT} To Die)
 // Infinite Life (Hold {L1}+{SELECT} To Die)
 patch=1,EE,2024ADA0,extended,AE23032C
 
-[Infinite Life (Hold {L1}+{SELECT} To Die)]
+[Infinite Life (Hold {L1}+{SELECT} To Die) (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life (Hold {L1}+{SELECT} To Die)
 // Infinite Life (Hold {L1}+{SELECT} To Die)
 patch=1,EE,D051D442,extended,0010FBFE
 
-[Infinite Life (Hold {L1}+{SELECT} To Die)]
+[Infinite Life (Hold {L1}+{SELECT} To Die) (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life (Hold {L1}+{SELECT} To Die)
 // Infinite Life (Hold {L1}+{SELECT} To Die)
 patch=1,EE,2024AD90,extended,24032710
 
-[Infinite Life (Hold {L1}+{SELECT} To Die)]
+[Infinite Life (Hold {L1}+{SELECT} To Die) (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life (Hold {L1}+{SELECT} To Die)
 // Infinite Life (Hold {L1}+{SELECT} To Die)
 patch=1,EE,D051D442,extended,0000FBFE
 
-[Infinite Life (Hold {L1}+{SELECT} To Die)]
+[Infinite Life (Hold {L1}+{SELECT} To Die) (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Life (Hold {L1}+{SELECT} To Die)
 // Infinite Life (Hold {L1}+{SELECT} To Die)
@@ -54,7 +54,7 @@ description=Infinite Slash
 // Infinite Slash
 patch=1,EE,2024ADB8,extended,24032710
 
-[Infinite Slash]
+[Infinite Slash (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Slash
 // Infinite Slash
@@ -72,19 +72,19 @@ description=Idiot AI
 // Idiot AI
 patch=1,EE,202597D0,extended,03E00008
 
-[Idiot AI]
+[Idiot AI (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
 patch=1,EE,202597D4,extended,00000000
 
-[Idiot AI]
+[Idiot AI (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
 patch=1,EE,20259860,extended,03E00008
 
-[Idiot AI]
+[Idiot AI (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Idiot AI
 // Idiot AI
@@ -138,7 +138,7 @@ description=Stage 1-B
 // Stage 1-B
 patch=1,EE,D0832288,extended,00200100
 
-[Stage 1-B]
+[Stage 1-B (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 1-B
 // Stage 1-B
@@ -150,7 +150,7 @@ description=Stage 2-A
 // Stage 2-A
 patch=1,EE,D0832288,extended,00200200
 
-[Stage 2-A]
+[Stage 2-A (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 2-A
 // Stage 2-A
@@ -162,7 +162,7 @@ description=Stage 2-B
 // Stage 2-B
 patch=1,EE,D0832288,extended,00200300
 
-[Stage 2-B]
+[Stage 2-B (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 2-B
 // Stage 2-B
@@ -174,7 +174,7 @@ description=Stage 3-A
 // Stage 3-A
 patch=1,EE,D0832288,extended,00200400
 
-[Stage 3-A]
+[Stage 3-A (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 3-A
 // Stage 3-A
@@ -186,7 +186,7 @@ description=Stage 3-B
 // Stage 3-B
 patch=1,EE,D0832288,extended,00200500
 
-[Stage 3-B]
+[Stage 3-B (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 3-B
 // Stage 3-B
@@ -198,7 +198,7 @@ description=Stage 4-A
 // Stage 4-A
 patch=1,EE,D0832288,extended,00200600
 
-[Stage 4-A]
+[Stage 4-A (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 4-A
 // Stage 4-A
@@ -210,7 +210,7 @@ description=Stage 4-B
 // Stage 4-B
 patch=1,EE,D0832288,extended,00200700
 
-[Stage 4-B]
+[Stage 4-B (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 4-B
 // Stage 4-B
@@ -222,7 +222,7 @@ description=Stage 5-A
 // Stage 5-A
 patch=1,EE,D0832288,extended,00200800
 
-[Stage 5-A]
+[Stage 5-A (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 5-A
 // Stage 5-A
@@ -234,7 +234,7 @@ description=Stage 5-B
 // Stage 5-B
 patch=1,EE,D0832288,extended,00200900
 
-[Stage 5-B]
+[Stage 5-B (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 5-B
 // Stage 5-B
@@ -246,7 +246,7 @@ description=Stage 6-A
 // Stage 6-A
 patch=1,EE,D0832288,extended,00200A00
 
-[Stage 6-A]
+[Stage 6-A (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 6-A
 // Stage 6-A
@@ -258,7 +258,7 @@ description=Stage 6-B
 // Stage 6-B
 patch=1,EE,D0832288,extended,00200B00
 
-[Stage 6-B]
+[Stage 6-B (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 6-B
 // Stage 6-B
@@ -270,7 +270,7 @@ description=Stage 7-A
 // Stage 7-A
 patch=1,EE,D0832288,extended,00200C00
 
-[Stage 7-A]
+[Stage 7-A (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 7-A
 // Stage 7-A
@@ -282,7 +282,7 @@ description=Stage 7-B
 // Stage 7-B
 patch=1,EE,D0832288,extended,00200D00
 
-[Stage 7-B]
+[Stage 7-B (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 7-B
 // Stage 7-B
@@ -294,7 +294,7 @@ description=Stage 8-A
 // Stage 8-A
 patch=1,EE,D0832288,extended,00200E00
 
-[Stage 8-A]
+[Stage 8-A (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 8-A
 // Stage 8-A
@@ -306,7 +306,7 @@ description=Stage 8-B
 // Stage 8-B
 patch=1,EE,D0832288,extended,00200F00
 
-[Stage 8-B]
+[Stage 8-B (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 8-B
 // Stage 8-B
@@ -636,91 +636,91 @@ description=Stage 1-A
 // Stage 1-A
 patch=1,EE,20832328,extended,000F423F
 
-[Stage 1-B]
+[Stage 1-B (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 1-B
 // Stage 1-B
 patch=1,EE,20832334,extended,000F423F
 
-[Stage 2-A]
+[Stage 2-A (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 2-A
 // Stage 2-A
 patch=1,EE,20832340,extended,000F423F
 
-[Stage 2-B]
+[Stage 2-B (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 2-B
 // Stage 2-B
 patch=1,EE,2083234C,extended,000F423F
 
-[Stage 3-A]
+[Stage 3-A (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 3-A
 // Stage 3-A
 patch=1,EE,20832358,extended,000F423F
 
-[Stage 3-B]
+[Stage 3-B (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 3-B
 // Stage 3-B
 patch=1,EE,20832364,extended,000F423F
 
-[Stage 4-A]
+[Stage 4-A (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 4-A
 // Stage 4-A
 patch=1,EE,20832370,extended,000F423F
 
-[Stage 4-B]
+[Stage 4-B (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 4-B
 // Stage 4-B
 patch=1,EE,2083237C,extended,000F423F
 
-[Stage 5-A]
+[Stage 5-A (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 5-A
 // Stage 5-A
 patch=1,EE,20832388,extended,000F423F
 
-[Stage 5-B]
+[Stage 5-B (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 5-B
 // Stage 5-B
 patch=1,EE,20832394,extended,000F423F
 
-[Stage 6-A]
+[Stage 6-A (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 6-A
 // Stage 6-A
 patch=1,EE,208323A0,extended,000F423F
 
-[Stage 6-B]
+[Stage 6-B (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 6-B
 // Stage 6-B
 patch=1,EE,208323AC,extended,000F423F
 
-[Stage 7-A]
+[Stage 7-A (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 7-A
 // Stage 7-A
 patch=1,EE,208323B8,extended,000F423F
 
-[Stage 7-B]
+[Stage 7-B (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 7-B
 // Stage 7-B
 patch=1,EE,208323C4,extended,000F423F
 
-[Stage 8-A]
+[Stage 8-A (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 8-A
 // Stage 8-A
 patch=1,EE,208323D0,extended,000F423F
 
-[Stage 8-B]
+[Stage 8-B (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 8-B
 // Stage 8-B
@@ -732,212 +732,291 @@ description=Stage Ex
 // Stage Ex
 patch=1,EE,208323F4,extended,000F423F
 
-[Stage 1-A]
+[Stage 1-A (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 1-A
 // Stage 1-A
 patch=1,EE,20832320,extended,00000000
 
-[Stage 1-A]
+[Stage 1-A (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 1-A
 // Stage 1-A
 patch=1,EE,10832324,extended,00000000
 
-[Stage 1-B]
+[Stage 1-B (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 1-B
 // Stage 1-B
 patch=1,EE,2083232C,extended,00000000
 
-[Stage 1-B]
+[Stage 1-B (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 1-B
 // Stage 1-B
 patch=1,EE,10832330,extended,00000000
 
-[Stage 2-A]
+[Stage 2-A (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 2-A
 // Stage 2-A
 patch=1,EE,20832338,extended,00000000
 
-[Stage 2-A]
+[Stage 2-A (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 2-A
 // Stage 2-A
 patch=1,EE,1083233C,extended,00000000
 
-[Stage 2-B]
+[Stage 2-B (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 2-B
 // Stage 2-B
 patch=1,EE,20832344,extended,00000000
 
-[Stage 2-B]
+[Stage 2-B (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 2-B
 // Stage 2-B
 patch=1,EE,10832348,extended,00000000
 
-[Stage 3-A]
+[Stage 3-A (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 3-A
 // Stage 3-A
 patch=1,EE,20832350,extended,00000000
 
-[Stage 3-A]
+[Stage 3-A (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 3-A
 // Stage 3-A
 patch=1,EE,10832354,extended,00000000
 
-[Stage 3-B]
+[Stage 3-B (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 3-B
 // Stage 3-B
 patch=1,EE,2083235C,extended,00000000
 
-[Stage 3-B]
+[Stage 3-B (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 3-B
 // Stage 3-B
 patch=1,EE,10832360,extended,00000000
 
-[Stage 4-A]
+[Stage 4-A (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 4-A
 // Stage 4-A
 patch=1,EE,20832368,extended,00000000
 
-[Stage 4-A]
+[Stage 4-A (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 4-A
 // Stage 4-A
 patch=1,EE,1083236C,extended,00000000
 
-[Stage 4-B]
+[Stage 4-B (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 4-B
 // Stage 4-B
 patch=1,EE,20832374,extended,00000000
 
-[Stage 4-B]
+[Stage 4-B (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 4-B
 // Stage 4-B
 patch=1,EE,10832378,extended,00000000
 
-[Stage 5-A]
+[Stage 5-A (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 5-A
 // Stage 5-A
 patch=1,EE,20832380,extended,00000000
 
-[Stage 5-A]
+[Stage 5-A (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 5-A
 // Stage 5-A
 patch=1,EE,10832384,extended,00000000
 
-[Stage 5-B]
+[Stage 5-B (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 5-B
 // Stage 5-B
 patch=1,EE,2083238C,extended,00000000
 
-[Stage 5-B]
+[Stage 5-B (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 5-B
 // Stage 5-B
 patch=1,EE,10832390,extended,00000000
 
-[Stage 6-A]
+[Stage 6-A (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 6-A
 // Stage 6-A
 patch=1,EE,20832398,extended,00000000
 
-[Stage 6-A]
+[Stage 6-A (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 6-A
 // Stage 6-A
 patch=1,EE,1083239C,extended,00000000
 
-[Stage 6-B]
+[Stage 6-B (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 6-B
 // Stage 6-B
 patch=1,EE,208323A4,extended,00000000
 
-[Stage 6-B]
+[Stage 6-B (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 6-B
 // Stage 6-B
 patch=1,EE,108323A8,extended,00000000
 
-[Stage 7-A]
+[Stage 7-A (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 7-A
 // Stage 7-A
 patch=1,EE,208323B0,extended,00000000
 
-[Stage 7-A]
+[Stage 7-A (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 7-A
 // Stage 7-A
 patch=1,EE,108323B4,extended,00000000
 
-[Stage 7-B]
+[Stage 7-B (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 7-B
 // Stage 7-B
 patch=1,EE,208323BC,extended,00000000
 
-[Stage 7-B]
+[Stage 7-B (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 7-B
 // Stage 7-B
 patch=1,EE,108323C0,extended,00000000
 
-[Stage 8-A]
+[Stage 8-A (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 8-A
 // Stage 8-A
 patch=1,EE,208323C8,extended,00000000
 
-[Stage 8-A]
+[Stage 8-A (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 8-A
 // Stage 8-A
 patch=1,EE,108323CC,extended,00000000
 
-[Stage 8-B]
+[Stage 8-B (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 8-B
 // Stage 8-B
 patch=1,EE,208323D4,extended,00000000
 
-[Stage 8-B]
+[Stage 8-B (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage 8-B
 // Stage 8-B
 patch=1,EE,108323D8,extended,00000000
 
-[Stage Ex]
+[Stage Ex (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage Ex
 // Stage Ex
 patch=1,EE,208323EC,extended,00000000
 
-[Stage Ex]
+[Stage Ex (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Stage Ex
 // Stage Ex
 patch=1,EE,108323F0,extended,00000000
 
-[Stage Ex]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Stage Ex
-// Stage Ex
-patch=1,EE,208323F4,extended,000F423F
+[Cheats\Infinite Life L1+Select To Die]
+patch=1,EE,2024ADA0,extended,AE23032C
+patch=1,EE,D051D442,extended,0010FBFE
+patch=1,EE,2024AD90,extended,24032710
+patch=1,EE,D051D442,extended,0000FBFE
+patch=1,EE,2024AD90,extended,8E23032C
+
+[Cheats\Infinite Slash]
+patch=1,EE,2024ADB8,extended,24032710
+patch=1,EE,2024ADC8,extended,AE230330
+
+[Cheats\Idiot AI]
+patch=1,EE,202597D0,extended,03E00008
+patch=1,EE,202597D4,extended,00000000
+patch=1,EE,20259860,extended,03E00008
+patch=1,EE,20259864,extended,00000000
+
+[Cheats\Start On Level Story Mode Stage 1-B]
+patch=1,EE,D0832288,extended,00200100
+patch=1,EE,00832289,extended,00000001
+
+[Cheats\Start On Level Story Mode Stage 2-A]
+patch=1,EE,D0832288,extended,00200200
+patch=1,EE,00832289,extended,00000002
+
+[Cheats\Start On Level Story Mode Stage 2-B]
+patch=1,EE,D0832288,extended,00200300
+patch=1,EE,00832289,extended,00000003
+
+[Cheats\Start On Level Story Mode Stage 3-A]
+patch=1,EE,D0832288,extended,00200400
+patch=1,EE,00832289,extended,00000004
+
+[Cheats\Start On Level Story Mode Stage 3-B]
+patch=1,EE,D0832288,extended,00200500
+patch=1,EE,00832289,extended,00000005
+
+[Cheats\Start On Level Story Mode Stage 4-A]
+patch=1,EE,D0832288,extended,00200600
+patch=1,EE,00832289,extended,00000006
+
+[Cheats\Start On Level Story Mode Stage 4-B]
+patch=1,EE,D0832288,extended,00200700
+patch=1,EE,00832289,extended,00000007
+
+[Cheats\Start On Level Story Mode Stage 5-A]
+patch=1,EE,D0832288,extended,00200800
+patch=1,EE,00832289,extended,00000008
+
+[Cheats\Start On Level Story Mode Stage 5-B]
+patch=1,EE,D0832288,extended,00200900
+patch=1,EE,00832289,extended,00000009
+
+[Cheats\Start On Level Story Mode Stage 6-A]
+patch=1,EE,D0832288,extended,00200A00
+patch=1,EE,00832289,extended,0000000A
+
+[Cheats\Start On Level Story Mode Stage 6-B]
+patch=1,EE,D0832288,extended,00200B00
+patch=1,EE,00832289,extended,0000000B
+
+[Cheats\Start On Level Story Mode Stage 7-A]
+patch=1,EE,D0832288,extended,00200C00
+patch=1,EE,00832289,extended,0000000C
+
+[Cheats\Start On Level Story Mode Stage 7-B]
+patch=1,EE,D0832288,extended,00200D00
+patch=1,EE,00832289,extended,0000000D
+
+[Cheats\Start On Level Story Mode Stage 8-A]
+patch=1,EE,D0832288,extended,00200E00
+patch=1,EE,00832289,extended,0000000E
+
+[Cheats\Start On Level Story Mode Stage 8-B]
+patch=1,EE,D0832288,extended,00200F00
+patch=1,EE,00832289,extended,0000000F
+
+[Cheats\Press L3 At Press Start Screen For Debug Menu This allows you to select any level in the game, as well as toggle debug info and unlock various options.]
+patch=1,EE,E0020400,extended,01BC93E4
+patch=1,EE,20238B1C,extended,24020001
+patch=1,EE,20238B88,extended,24020001
+patch=1,EE,E0020000,extended,01BC93E4
+patch=1,EE,20238B1C,extended,0000102D
+patch=1,EE,20238B88,extended,0000102D

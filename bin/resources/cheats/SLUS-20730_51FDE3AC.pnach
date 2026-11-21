@@ -12,13 +12,13 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,201A76AC,extended,3C013F80
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,201A76B4,extended,AC410004
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -30,7 +30,7 @@ description=Always 100 Badge Rating
 // Always 100 Badge Rating
 patch=1,EE,20188CE4,extended,3C013F80
 
-[Always 100 Badge Rating]
+[Always 100 Badge Rating (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always 100 Badge Rating
 // Always 100 Badge Rating
@@ -41,12 +41,6 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Always 200 Badge Rating
 // Always 200 Badge Rating
 patch=1,EE,20188CE4,extended,3C014000
-
-[Always 200 Badge Rating]
-author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
-description=Always 200 Badge Rating
-// Always 200 Badge Rating
-patch=1,EE,20188CEC,extended,AC61000C
 
 [Infinite Clips]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
@@ -66,7 +60,7 @@ description=Never Reload
 // Never Reload
 patch=1,EE,2029B434,extended,00000000
 
-[Never Reload]
+[Never Reload (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Never Reload
 // Never Reload
@@ -192,7 +186,7 @@ description=Need 1 Stash Found For All-USA
 // Need 1 Stash Found For All-USA
 patch=1,EE,D1E404C0,extended,00200018
 
-[Need 1 Stash Found For All-USA]
+[Need 1 Stash Found For All-USA (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Need 1 Stash Found For All-USA
 // Need 1 Stash Found For All-USA
@@ -210,7 +204,7 @@ description=Need 1 Stash Found For All-Hong Kong
 // Need 1 Stash Found For All-Hong Kong
 patch=1,EE,D1E404CC,extended,00200018
 
-[Need 1 Stash Found For All-Hong Kong]
+[Need 1 Stash Found For All-Hong Kong (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Need 1 Stash Found For All-Hong Kong
 // Need 1 Stash Found For All-Hong Kong
@@ -300,7 +294,7 @@ description=No Criminals killed
 // No Criminals killed
 patch=1,EE,11E40406,extended,00000000
 
-[Max Cash]
+[Max Cash (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Max Cash
 // Max Cash
@@ -767,3 +761,29 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=No Officer Rank-Badge Revoked
 // No Officer Rank-Badge Revoked
 patch=1,EE,11E404B8,extended,00000000
+
+[60 FPS]
+author=Gabominated
+description=Might need EE Overclock at 180%. Still missing a few speed fix.
+patch=1,EE,001076CC,word,2405F000
+patch=1,EE,00314AF8,word,24020078
+
+[Cheats\Infinite Health and Super Bust]
+patch=1,EE,201A76AC,extended,3C013F80
+patch=1,EE,201A76B4,extended,AC410004
+patch=1,EE,101A76BA,extended,00001000
+
+[Cheats\Infinite Ammo]
+patch=1,EE,2029B448,extended,24420000
+
+[Cheats\Always 200 Badge Rating]
+patch=1,EE,20188CE4,extended,3C014000
+patch=1,EE,20188CEC,extended,AC61000C
+
+[Cheats\Need 1 Stash Found For All USA]
+patch=1,EE,D1E404C0,extended,00200018
+patch=1,EE,01E404C0,extended,00000018
+
+[Cheats\Need 1 Stash Found For All Hong Kong]
+patch=1,EE,D1E404CC,extended,00200018
+patch=1,EE,01E404CC,extended,00000018

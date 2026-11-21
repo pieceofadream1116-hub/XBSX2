@@ -24,7 +24,7 @@ description=Infinite Time
 // Infinite Time
 patch=1,EE,202D2668,extended,0000003B
 
-[Infinite Time]
+[Infinite Time (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Time
 // Infinite Time
@@ -36,25 +36,25 @@ description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0220,extended,2401000A
 
-[Infinite Health]
+[Infinite Health (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0224,extended,AE010F3C
 
-[Infinite Health]
+[Infinite Health (3)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C0228,extended,03E00008
 
-[Infinite Health]
+[Infinite Health (4)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
 patch=1,EE,200C022C,extended,8E0400C8
 
-[Infinite Health]
+[Infinite Health (5)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Infinite Health
 // Infinite Health
@@ -378,31 +378,31 @@ description=Motorbike Mayhem
 // Motorbike Mayhem
 patch=1,EE,002DAF88,extended,00000001
 
-[Air Chase]
+[Air Chase (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Air Chase
 // Air Chase
 patch=1,EE,002DAF79,extended,00000007
 
-[Freeway Frenzy]
+[Freeway Frenzy (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Freeway Frenzy
 // Freeway Frenzy
 patch=1,EE,002DAF7D,extended,00000007
 
-[Ripcord Rescue]
+[Ripcord Rescue (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Ripcord Rescue
 // Ripcord Rescue
 patch=1,EE,002DAF81,extended,00000007
 
-[Wave Catcher]
+[Wave Catcher (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Wave Catcher
 // Wave Catcher
 patch=1,EE,002DAF85,extended,00000007
 
-[Motorbike Mayhem]
+[Motorbike Mayhem (2)]
 author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Motorbike Mayhem
 // Motorbike Mayhem
@@ -533,3 +533,14 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=Phoenix
 // Phoenix
 patch=1,EE,002EBE6B,extended,00000002
+
+[Cheats\Infinite Time]
+patch=1,EE,202D2668,extended,0000003B
+patch=1,EE,202D266C,extended,0000003B
+
+[Cheats\Infinite Health]
+patch=1,EE,200C0220,extended,2401000A
+patch=1,EE,200C0224,extended,AE010F3C
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,8E0400C8
+patch=1,EE,201B7F30,extended,0C030088

@@ -1,0 +1,8 @@
+gametitle=THE KING OF FIGHTERS 94 RE-BOUT [スペシャル限定版] [SLPS-25448] [E74F7C39]
+
+[Cheats\P1 Infinte HP]
+patch=1,EE,10557B50,extended,000000CF
+
+[Cheats\P1 Infinte Power]
+patch=1,EE,10557B48,extended,0000007F
+patch=1,EE,10557B80,extended,00000258
