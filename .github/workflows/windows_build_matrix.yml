@@ -112,3 +112,40 @@ jobs:
       artifactPrefixName: "XBSX2-windows-uwp-x64-avx2"
       configuration: Release AVX2
     secrets: inherit
+
+  # Frank's Xbox build: the install files on a fixed "latest" release, ready to download
+  publish_latest:
+    needs: build_uwp_avx2
+    name: "Publish latest Xbox build"
+    if: github.repository == 'pieceofadream1116-hub/XBSX2' && github.ref == 'refs/heads/master' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Download install files
+        uses: actions/download-artifact@v4
+        with:
+          pattern: XBSX2-windows-uwp-x64-avx2-*
+          path: artifact
+
+      - name: Pick the Xbox install files
+        run: |
+          mkdir -p dist
+          find artifact -path '*symbols*' -prune -o -type f \( -iname '*.msix' -o -iname '*.msixbundle' -o -iname '*.appx' -o -iname '*.appxbundle' -o -iname '*.cer' \) -print | while read -r f; do
+            case "$f" in
+              */Dependencies/*) case "$f" in */x64/*) cp "$f" dist/ ;; esac ;;
+              *) cp "$f" dist/ ;;
+            esac
+          done
+          ls -la dist
+          test -n "$(ls dist)"
+
+      - name: Replace the latest release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          notes="PS2 for Xbox (XBSX2), latest build of commit ${GITHUB_SHA::7}.
+          On the Xbox Device Portal, add the XBSX2 package, and add the Microsoft.VCLibs .appx file as its dependency."
+          gh release delete latest --repo "$GITHUB_REPOSITORY" --yes --cleanup-tag || true
+          gh release create latest dist/* --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
+            --title "PS2 (latest build)" --notes "$notes"
