@@ -621,6 +621,8 @@ void VMManager::LoadSettings()
 	std::unique_lock<std::mutex> lock = Host::GetSettingsLock();
 	SettingsInterface* si = Host::GetSettingsInterface();
 	LoadCoreSettings(*si);
+	if (Pad::MigrateOldTurbo(*si))
+		si->Save();
 	Pad::LoadConfig(*si);
 	Host::LoadSettings(*si, lock);
 	InputManager::ReloadSources(*si, lock);

@@ -71,4 +71,10 @@ namespace Pad
 	// Sets the state of the specified macro button.
 	void SetMacroButtonState(InputBindingKey& key, u32 pad, u32 index, bool state);
 	void UpdateMacroButtons();
+
+	/// Buttons that can have turbo (Settings key "Turbo<name>" in the pad's section).
+	inline constexpr const char* TURBO_BUTTON_NAMES[] = {"Cross", "Circle", "Square", "Triangle", "L1", "R1", "L2", "R2"};
+
+	/// Moves bindings from the first turbo version (macro slots) back onto the buttons. True if anything changed.
+	bool MigrateOldTurbo(SettingsInterface& si);
 }; // namespace Pad

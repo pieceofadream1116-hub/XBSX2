@@ -56,6 +56,20 @@ namespace Pad
 	static std::array<std::array<MacroButton, NUM_MACRO_BUTTONS_PER_CONTROLLER>, NUM_CONTROLLER_PORTS> s_macro_buttons;
 	static std::array<std::unique_ptr<PadBase>, NUM_CONTROLLER_PORTS> s_controllers;
 
+	/// Turbo, the same as the other Xbox apps: while a turbo button is held it is pressed for
+	/// 2 frames and let go for 2 frames, over and over. The button keeps its normal binding.
+	static constexpr u32 MAX_TURBO_BINDS = 64;
+	static constexpr u32 TURBO_FRAMES_ON = 2;
+	static constexpr u32 TURBO_FRAMES_OFF = 2;
+	struct TurboState
+	{
+		u64 mask = 0; ///< Bind indices with turbo on.
+		std::array<float, MAX_TURBO_BINDS> held = {}; ///< How hard each turbo button is held right now.
+	};
+	static std::array<TurboState, NUM_CONTROLLER_PORTS> s_turbo;
+	static u32 s_turbo_frame = 0;
+	static bool TurboPhaseOn() { return (s_turbo_frame % (TURBO_FRAMES_ON + TURBO_FRAMES_OFF)) < TURBO_FRAMES_ON; }
+
 	bool mtapPort0LastState;
 	bool mtapPort1LastState;
 } // namespace Pad
@@ -87,9 +101,40 @@ std::optional<u32> Pad::ControllerInfo::GetBindIndex(const std::string_view name
 	return std::nullopt;
 }
 
+bool Pad::MigrateOldTurbo(SettingsInterface& si)
+{
+	// The first turbo switches moved the button's binding onto a macro slot. Put it back on the
+	// button itself, and keep turbo on: the new turbo works on the button's own binding.
+	bool changed = false;
+	for (u32 port = 0; port < NUM_CONTROLLER_PORTS; port++)
+	{
+		const std::string section = GetConfigSection(port);
+		for (u32 i = 0; i < std::size(TURBO_BUTTON_NAMES) && i < NUM_MACRO_BUTTONS_PER_CONTROLLER; i++)
+		{
+			const char* name = TURBO_BUTTON_NAMES[i];
+			if (!si.GetBoolValue(section.c_str(), fmt::format("Turbo{}", name).c_str(), false))
+				continue;
+			const std::string binds_key = fmt::format("Macro{}Binds", i + 1);
+			if (si.GetStringValue(section.c_str(), binds_key.c_str()) != name)
+				continue;
+			const std::string macro_key = fmt::format("Macro{}", i + 1);
+			const std::string binding = si.GetStringValue(section.c_str(), macro_key.c_str());
+			if (!binding.empty() && si.GetStringValue(section.c_str(), name).empty())
+				si.SetStringValue(section.c_str(), name, binding.c_str());
+			si.DeleteValue(section.c_str(), macro_key.c_str());
+			si.DeleteValue(section.c_str(), binds_key.c_str());
+			si.DeleteValue(section.c_str(), fmt::format("Macro{}Frequency", i + 1).c_str());
+			si.DeleteValue(section.c_str(), fmt::format("Macro{}Toggle", i + 1).c_str());
+			changed = true;
+		}
+	}
+	return changed;
+}
+
 void Pad::LoadConfig(const SettingsInterface& si)
 {
 	s_macro_buttons = {};
+	s_turbo = {};
 
 	const bool mtapPort0Changed = EmuConfig.Pad.MultitapPort0_Enabled != Pad::mtapPort0LastState;
 	const bool mtapPort1Changed = EmuConfig.Pad.MultitapPort1_Enabled != Pad::mtapPort1LastState;
@@ -143,6 +188,15 @@ void Pad::LoadConfig(const SettingsInterface& si)
 		pad->SetAnalogInvertL((invert_l & 1) != 0, (invert_l & 2) != 0);
 		pad->SetAnalogInvertR((invert_r & 1) != 0, (invert_r & 2) != 0);
 		LoadMacroButtonConfig(si, i, ci, section);
+
+		for (const char* name : TURBO_BUTTON_NAMES)
+		{
+			if (!si.GetBoolValue(section.c_str(), fmt::format("Turbo{}", name).c_str(), false))
+				continue;
+			const std::optional<u32> bind = ci->GetBindIndex(name);
+			if (bind.has_value() && bind.value() < MAX_TURBO_BINDS)
+				s_turbo[i].mask |= (u64{1} << bind.value());
+		}
 	}
 
 	Pad::mtapPort0LastState = EmuConfig.Pad.MultitapPort0_Enabled;
@@ -572,6 +626,14 @@ void Pad::SetControllerState(u32 controller, u32 bind, float value)
 	if (controller >= NUM_CONTROLLER_PORTS)
 		return;
 
+	if (bind < MAX_TURBO_BINDS && (s_turbo[controller].mask & (u64{1} << bind)))
+	{
+		// Held turbo button: remember how hard it's held; UpdateMacroButtons() pulses it each frame.
+		s_turbo[controller].held[bind] = value;
+		s_controllers[controller]->Set(bind, (value > 0.0f && TurboPhaseOn()) ? value : 0.0f);
+		return;
+	}
+
 	s_controllers[controller]->Set(bind, value);
 }
 
@@ -762,6 +824,20 @@ void Pad::ApplyMacroButton(u32 controller, const Pad::MacroButton& mb)
 
 void Pad::UpdateMacroButtons()
 {
+	s_turbo_frame++;
+	const bool turbo_on = TurboPhaseOn();
+	for (u32 pad = 0; pad < Pad::NUM_CONTROLLER_PORTS; pad++)
+	{
+		TurboState& ts = s_turbo[pad];
+		if (ts.mask == 0 || !s_controllers[pad])
+			continue;
+		for (u32 bind = 0; bind < MAX_TURBO_BINDS; bind++)
+		{
+			if ((ts.mask & (u64{1} << bind)) && ts.held[bind] > 0.0f)
+				s_controllers[pad]->Set(bind, turbo_on ? ts.held[bind] : 0.0f);
+		}
+	}
+
 	for (u32 pad = 0; pad < Pad::NUM_CONTROLLER_PORTS; pad++)
 	{
 		for (u32 index = 0; index < NUM_MACRO_BUTTONS_PER_CONTROLLER; index++)

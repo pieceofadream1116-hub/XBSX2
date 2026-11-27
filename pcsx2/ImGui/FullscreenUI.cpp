@@ -2062,7 +2062,7 @@ void FullscreenUI::DrawPauseMenu(MainWindowType type)
 			ImVec2(10.0f, 10.0f), ImGuiWindowFlags_NoBackground))
 	{
 		static constexpr u32 submenu_item_count[] = {
-			11, // None
+			13, // None
 			4, // Exit
 			3, // Achievements
 		};
@@ -2157,6 +2157,17 @@ void FullscreenUI::DrawPauseMenu(MainWindowType type)
 					if (s_current_main_window == MainWindowType::Settings)
 					{
 						s_settings_page = SettingsPage::Cheats;
+						QueueResetFocus(FocusResetType::WindowChanged);
+					}
+				}
+
+				// Turbo switches for each button, the same as the other Xbox apps
+				if (ActiveButton(FSUI_ICONSTR(ICON_PF_EMPTY_KEYCAP, "Turbo"), false))
+				{
+					SwitchToSettings();
+					if (s_current_main_window == MainWindowType::Settings)
+					{
+						s_settings_page = SettingsPage::Controller;
 						QueueResetFocus(FocusResetType::WindowChanged);
 					}
 				}

@@ -5304,9 +5304,8 @@ void FullscreenUI::DrawControllerSettingsPage()
 			if (bi.name) [[likely]]
 				DrawInputBindingButton(bsi, bi.bind_type, section, bi.name, Host::TranslateToCString("Pad", bi.display_name), bi.icon_name, true);
 
-		// Turbo buttons: a simple on/off switch per button, built on top of the macro system.
-		// Turning turbo on moves the button's normal binding onto a macro slot that rapid-fires that button,
-		// so holding the button auto-fires instead of being held down. Turning it off puts the binding back.
+		// Turbo: an on/off switch per button, the same as the other Xbox apps. While a turbo button is
+		// held it presses and lets go by itself (2 frames on, 2 frames off). The button keeps its binding.
 		if (mtap_enabled[mtap_port])
 		{
 			MenuHeading(SmallString::from_format(
@@ -5317,12 +5316,8 @@ void FullscreenUI::DrawControllerSettingsPage()
 			MenuHeading(SmallString::from_format(fmt::runtime(FSUI_ICONSTR(ICON_PF_EMPTY_KEYCAP, "Controller Port {} Turbo")), mtap_port + 1));
 		}
 
-		static constexpr const char* turbo_buttons[] = {"Cross", "Circle", "Square", "Triangle", "L1", "R1", "L2", "R2"};
-		static constexpr s32 TURBO_FREQUENCY = 3; // toggle every 3 frames, about 10 presses a second
-
-		for (u32 turbo_index = 0; turbo_index < std::size(turbo_buttons) && turbo_index < Pad::NUM_MACRO_BUTTONS_PER_CONTROLLER; turbo_index++)
+		for (const char* button_name : Pad::TURBO_BUTTON_NAMES)
 		{
-			const char* button_name = turbo_buttons[turbo_index];
 			const InputBindingInfo* button_info = nullptr;
 			for (const InputBindingInfo& bi : ci->bindings)
 			{
@@ -5335,13 +5330,7 @@ void FullscreenUI::DrawControllerSettingsPage()
 			if (!button_info)
 				continue;
 
-			const u32 macro_num = turbo_index + 1;
 			const std::string turbo_key = fmt::format("Turbo{}", button_name);
-			const std::string macro_key = fmt::format("Macro{}", macro_num);
-			const std::string binds_key = fmt::format("Macro{}Binds", macro_num);
-			const std::string freq_key = fmt::format("Macro{}Frequency", macro_num);
-			const std::string toggle_key = fmt::format("Macro{}Toggle", macro_num);
-
 			bool turbo_on = bsi->GetBoolValue(section, turbo_key.c_str(), false);
 			const SmallString title = SmallString::from_format("{} Turbo {}##turbo_{}",
 				button_info->icon_name ? button_info->icon_name : ICON_FA_GAMEPAD,
@@ -5350,35 +5339,10 @@ void FullscreenUI::DrawControllerSettingsPage()
 			if (ToggleButton(title.c_str(), FSUI_CSTR("Hold the button to rapid fire."), &turbo_on))
 			{
 				if (turbo_on)
-				{
-					const std::string binding = bsi->GetStringValue(section, button_name);
-					if (binding.empty())
-					{
-						ShowToast(ICON_FA_TRIANGLE_EXCLAMATION, FSUI_STR("Bind this button first, then turn on turbo."));
-					}
-					else
-					{
-						bsi->SetStringValue(section, macro_key.c_str(), binding.c_str());
-						bsi->SetStringValue(section, binds_key.c_str(), button_name);
-						bsi->SetIntValue(section, freq_key.c_str(), TURBO_FREQUENCY);
-						bsi->DeleteValue(section, toggle_key.c_str());
-						bsi->DeleteValue(section, button_name);
-						bsi->SetBoolValue(section, turbo_key.c_str(), true);
-						SetSettingsChanged(bsi);
-					}
-				}
+					bsi->SetBoolValue(section, turbo_key.c_str(), true);
 				else
-				{
-					const std::string binding = bsi->GetStringValue(section, macro_key.c_str());
-					if (!binding.empty())
-						bsi->SetStringValue(section, button_name, binding.c_str());
-					bsi->DeleteValue(section, macro_key.c_str());
-					bsi->DeleteValue(section, binds_key.c_str());
-					bsi->DeleteValue(section, freq_key.c_str());
-					bsi->DeleteValue(section, toggle_key.c_str());
 					bsi->DeleteValue(section, turbo_key.c_str());
-					SetSettingsChanged(bsi);
-				}
+				SetSettingsChanged(bsi);
 			}
 		}
 
