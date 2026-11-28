@@ -68,6 +68,14 @@ namespace Pad
 	};
 	static std::array<TurboState, NUM_CONTROLLER_PORTS> s_turbo;
 	static u32 s_turbo_frame = 0;
+
+	/// Holding Select (View) for about a second switches turbo off and back on, without the menu
+	/// (a chest that needs a steady hold, then back to fighting). A quick tap is still a normal Select.
+	static constexpr u32 TURBO_TOGGLE_HOLD_FRAMES = 60;
+	static std::array<bool, NUM_CONTROLLER_PORTS> s_turbo_paused = {};
+	static std::array<bool, NUM_CONTROLLER_PORTS> s_select_down = {};
+	static std::array<u32, NUM_CONTROLLER_PORTS> s_select_frames = {};
+	static std::array<bool, NUM_CONTROLLER_PORTS> s_select_toggled = {}; ///< already switched during this hold
 	static bool TurboPhaseOn() { return (s_turbo_frame % (TURBO_FRAMES_ON + TURBO_FRAMES_OFF)) < TURBO_FRAMES_ON; }
 
 	bool mtapPort0LastState;
@@ -626,8 +634,26 @@ void Pad::SetControllerState(u32 controller, u32 bind, float value)
 	if (controller >= NUM_CONTROLLER_PORTS)
 		return;
 
+	if (bind == PadDualshock2::PAD_SELECT && s_controllers[controller] &&
+		s_controllers[controller]->GetType() == Pad::ControllerType::DualShock2)
+	{
+		s_select_down[controller] = (value > 0.0f);
+		if (!s_select_down[controller])
+		{
+			s_select_frames[controller] = 0;
+			s_select_toggled[controller] = false;
+		}
+	}
+
 	if (bind < MAX_TURBO_BINDS && (s_turbo[controller].mask & (u64{1} << bind)))
 	{
+		if (s_turbo_paused[controller])
+		{
+			// Turbo switched off with a long Select: the button works normally (held steady).
+			s_turbo[controller].held[bind] = value;
+			s_controllers[controller]->Set(bind, value);
+			return;
+		}
 		// Held turbo button: remember how hard it's held; UpdateMacroButtons() pulses it each frame.
 		s_turbo[controller].held[bind] = value;
 		s_controllers[controller]->Set(bind, (value > 0.0f && TurboPhaseOn()) ? value : 0.0f);
@@ -830,6 +856,24 @@ void Pad::UpdateMacroButtons()
 	{
 		TurboState& ts = s_turbo[pad];
 		if (ts.mask == 0 || !s_controllers[pad])
+			continue;
+
+		// Long Select: switch turbo off or back on.
+		if (s_select_down[pad] && !s_select_toggled[pad] && ++s_select_frames[pad] >= TURBO_TOGGLE_HOLD_FRAMES)
+		{
+			s_select_toggled[pad] = true;
+			s_turbo_paused[pad] = !s_turbo_paused[pad];
+			Host::AddIconOSDMessage(fmt::format("TurboToggle{}", pad), ICON_FA_GAMEPAD,
+				s_turbo_paused[pad] ? std::string("Turbo OFF (hold View again to turn it back on)") : std::string("Turbo ON"),
+				Host::OSD_INFO_DURATION);
+			// Held turbo buttons go steady (off) or back to pulsing (on) right away.
+			for (u32 bind = 0; bind < MAX_TURBO_BINDS; bind++)
+			{
+				if ((ts.mask & (u64{1} << bind)) && ts.held[bind] > 0.0f)
+					s_controllers[pad]->Set(bind, ts.held[bind]);
+			}
+		}
+		if (s_turbo_paused[pad])
 			continue;
 		for (u32 bind = 0; bind < MAX_TURBO_BINDS; bind++)
 		{
